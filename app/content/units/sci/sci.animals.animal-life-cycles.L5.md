@@ -1,7 +1,7 @@
 # Strange life cycles: seventeen years underground, one journey home, and a jellyfish that starts again
 `sci.animals.animal-life-cycles.L5`
 
-**Summary.** One kind of cicada lives underground for seventeen years, then sings for about four weeks. Why would any animal live like this? In this unit you will test whether it is safer to come out alone or in a crowd, and how weak a smell your nose can follow home.
+**Summary.** One kind of cicada lives underground for seventeen years, then sings for about four weeks. Why would any animal live like this? In this lesson you will test whether it is safer to come out alone or in a crowd, and how weak a smell your nose can follow home.
 
 **Intro.** *Think of a cicada, a mayfly, a hen, an elephant and yourself. Which one spends the biggest share of life as a youngster? Say what you think, and why.* Most people pick the elephant or the human, because our childhoods feel long. In the first activity, Life Bars, you draw each life as a bar and measure the answer. Then you meet three animals whose life cycles seem strange to us. For each one you ask the same question. What dangers and what food would make this way of living work?
 
@@ -196,7 +196,7 @@ We have been learning about animals whose lives are timed very differently from 
 - *what is life:* A life has no single correct shape. It can be seventeen years underground and one month in the air, or one long journey home, or a turning back to the start.
 - *what is this world:* A salmon builds her body in the sea and leaves it in a mountain forest. The sea, the river, the bear and the tree are joined by her one journey.
 
-Every animal in this unit begins as one cell. That one cell divides and becomes the many kinds of cell in a body: muscle, nerve and skin. All of them carry the same genes, so the one is still present in each of the many. In the immortal jellyfish, the many kinds of cell can go back towards one simple kind and begin again. And a brood of cicadas is millions of separate bodies who count the same years and come up as one crowd.
+Every animal in this lesson begins as one cell. That one cell divides and becomes the many kinds of cell in a body: muscle, nerve and skin. All of them carry the same genes, so the one is still present in each of the many. In the immortal jellyfish, the many kinds of cell can go back towards one simple kind and begin again. And a brood of cicadas is millions of separate bodies who count the same years and come up as one crowd.
 
 - **Zhuangzi, chapter 1 (paraphrased):** “朝菌不知晦朔，蟪蛄不知春秋。 / 此小年也。 / 楚之南有冥靈者，以五百歲爲春，五百歲爲秋。 / 上古有大椿者，以八千歲爲春，八千歲爲秋。” The morning mushroom knows nothing of evening and dawn. The summer cicada knows nothing of spring and autumn. (Zhuangzi chose the cicada as his example of a short life, because he saw only the summer adult. He could not see the years underground. The part of a life that we notice may be only its last small part.)
 - **Samuel Butler, Life and Habit (1878):** A hen is only an egg's way of making another egg. (Butler turned the usual view round. Seen from the nymph's side, the winged cicada is the nymphs' way of making more nymphs.)
@@ -768,13 +768,13 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 
 ## Spotted around us
 - Winged termites pouring out of the ground and gathering round street lights, on the evening after the first heavy rain.
-- An empty brown cicada skin gripping a tree trunk in summer, in the Western Ghats or in any city park with old trees.
+- An empty brown cicada skin gripping a tree trunk in summer, in any park with old trees.
 - Whole moong or cowpea with neat round holes, and small brown beetles walking in the jar.
-- River-run hilsa in the fish markets of Rajahmundry and Kolkata in the monsoon.
+- Big river fish in a fish market in the monsoon.
 - A cluster of tiny green or black aphids under the young leaves of a hibiscus, a rose or an avarakkai vine.
-- Jellyfish washed up on the beach at Chennai, Kovalam or Puri after rough weather. Look, and do not touch.
+- Jellyfish washed up on a beach after rough weather. Look, and do not touch.
 - Mayflies dancing in a swarm over a river or a tank on a warm evening, and lying on the water by morning.
-- Thousands of olive ridley turtles nesting on the same nights at Rushikulya in Odisha, usually in February or March.
+- Sea turtles nesting on a beach on the same nights, usually in February or March. Watch a video of this if you are far from the sea.
 
 ## Open questions
 - **Where in a cicada nymph's body is the count of years kept, and how does it reach exactly seventeen?** We know the nymphs count the trees' yearly cycles. Nobody has found the part of the body or the chemicals that store the count.
@@ -823,11 +823,18 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - [PhET Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection) · simulation: A free online model. Let rabbits breed with no wolves and watch the numbers multiply, then add wolves.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Look up hilsa, olive ridley turtles, the purple frog or Indian cicadas, with photographs and maps of where people have seen them.
 - [Central Marine Fisheries Research Institute](https://www.cmfri.org.in) · place · Kochi: The institute studies India's sea fish and has a museum of marine animals. Check the visiting hours before you go.
-- [Rushikulya turtle nesting beach]() · place · Ganjam district, Odisha: Olive ridley turtles nest here together in thousands, usually in February or March. Visit only with the forest department's guides, and keep to their rules.
+- Rushikulya turtle nesting beach · place · Ganjam district, Odisha: Olive ridley turtles nest here together in thousands, usually in February or March. Visit only with the forest department's guides, and keep to their rules.
 
 ## Things to buy
 - [A small bottle of vanilla essence or rose water](https://www.amazon.in/s?k=vanilla+essence) (material): The smell for the Home Stream Test. Any grocery shop sells both. White vinegar from the kitchen also works. Used in e2. 
 - [A hand lens that magnifies 5 to 10 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For finding and counting the tiny eggs of pulse beetles in the Dal Jar Watch. A phone camera held close and zoomed in also works. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Crowd Test: is it safer to come out alone or all together?, Life Bars: how much of a life is spent growing up?, Three Survival Curves: when in life do most animals die?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a4, a5, c1. Get it before The Crowd Test: is it safer to come out alone or all together?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Run It Backwards: a dough model of the immortal jellyfish, The Egg Budget: many small eggs or a few big ones?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2, a3. Get it before Run It Backwards: a dough model of the immortal jellyfish.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Fish Pass: get a hilsa past a barrage. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Fish Pass: get a hilsa past a barrage.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in The Home Stream Test: how weak a smell can your nose follow?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2. Get it before The Home Stream Test: how weak a smell can your nose follow?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Crowd Test: is it safer to come out alone or all together?, The Egg Budget: many small eggs or a few big ones?, The Dal Jar Watch: a whole life cycle inside one seed (if you find pulse beetles). Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a3, p1. Get it before The Crowd Test: is it safer to come out alone or all together?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Three Survival Curves: when in life do most animals die?. About ₹10 to ₹30. Draw squares on plain paper. Used in a4. Get it before Three Survival Curves: when in life do most animals die?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How long does a 17-year cicada live as a winged adult? → About four weeks.
@@ -845,10 +852,10 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - Core: a1, e1, g1, e2, a2, ws-core
 
 ## Sources
-- Founder's notebook item bio:277, 'Metamorphosis', which the curriculum maps to this subtopic. The Class 3 unit covers metamorphosis itself. This unit takes the idea of a body that rebuilds to its far end, a medusa turning back into a polyp.
+- Founder's notebook item bio:277, 'Metamorphosis', which the curriculum maps to this subtopic. The Class 3 unit covers metamorphosis itself. This lesson takes the idea of a body that rebuilds to its far end, a medusa turning back into a polyp.
 - Founder's notes in ideas/by_topic/evolution-the-tree-of-life.md: 'Faster life cycles, many offsprings' and 'Longer life cycles and fewer offspring', and the notes on cnidarians (corals, sea anemones, jellyfish). Used in the egg budget, the survival curves and the jellyfish cards.
 - The curriculum entry for sci.animals.animal-life-cycles.L5: 'Strange life cycles (cicadas, salmon, the immortal jellyfish); why so many young in some species.' All four parts are covered.
-- The Class 3 and Class 4 units on animal life cycles (sci.animals.animal-life-cycles.L3 and L4), which this unit builds on. Their experiments, stories and the 'about two survive' model are recalled and not repeated.
+- The Class 3 and Class 4 units on animal life cycles (sci.animals.animal-life-cycles.L3 and L4), which this lesson builds on. Their experiments, stories and the 'about two survive' model are recalled and not repeated.
 - PHILOSOPHY.md, for the Roots card. No Combined lesson exists for animal life cycles, so none was reused.
 - Karban, R., Black, C. A. and Weinbaum, S. A., 'How 17-year cicadas keep track of time', Ecology Letters 3, 2000 (peach trees made to flower twice in a year)
 - Karban, R., 'Increased reproductive success at high densities and predator satiation for periodical cicadas', Ecology 63, 1982

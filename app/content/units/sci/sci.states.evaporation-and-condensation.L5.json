@@ -3398,6 +3398,45 @@
     "a5"
    ],
    "plan": "Read it together after Zoom In on the Water Cycle. Then look out of the window and name the clouds you can see."
+  },
+  {
+   "id": "b-mm-ruler",
+   "item": "Plastic ruler, 30 centimetres, marked in millimetres",
+   "kind": "tool",
+   "why": "It measures how far the water level drops in the cup and the jar during the evaporation tests. About ₹20 to ₹60 at a stationery shop. Any school ruler with millimetre marks works.",
+   "url": "https://www.amazon.in/s?k=plastic+ruler+30+cm",
+   "used_in": [
+    "e1",
+    "e3"
+   ],
+   "plan": "Buy it before the Wide or Narrow test."
+  },
+  {
+   "id": "b-clothes-clips",
+   "item": "Clothes clips, a pack of 4",
+   "kind": "tool",
+   "why": "They hold the cloths on the hanger so they hang straight in the drying test. About ₹30 to ₹80 for a pack at a household or general store. Clothes pegs are the household alternative.",
+   "url": "https://www.amazon.in/s?k=clothes+clips",
+   "used_in": [
+    "e3",
+    "c2"
+   ],
+   "plan": "Buy them before the Tilting Hanger test."
+  },
+  {
+   "id": "b-print-evaporation",
+   "item": "Printed pages for the game cards, pot sheet and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The two games use 20 two-sided cards, four reason cards and a printed pot, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

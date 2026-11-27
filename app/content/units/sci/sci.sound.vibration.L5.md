@@ -1,9 +1,9 @@
 # Vibration: how strings, skins and air columns make sound
 `sci.sound.vibration.L5`
 
-**Summary.** Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this unit you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.
+**Summary.** Draw a card slowly along a comb and you hear separate ticks, but draw it fast and the ticks join into one steady note. Why? In this lesson you will count the pushes in each second with a comb, watch a slow string vibrate, and hear a spoon ring through a string.
 
-**Intro.** *Pluck a rubber band stretched over a steel tumbler. It hums, and it looks like a blur. Touch it with one finger, and the hum stops at once. What was the band doing while it hummed? And why did it keep doing it after your finger let go?* The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this unit you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.
+**Intro.** *Pluck a rubber band stretched over a steel tumbler. It hums, and it looks like a blur. Touch it with one finger, and the hum stops at once. What was the band doing while it hummed? And why did it keep doing it after your finger let go?* The band was vibrating. It was moving back and forth far too quickly for your eyes to follow. In this lesson you slow that movement down until you can watch it. You turn separate ticks into a note with a comb. You work out how many pushes reach your ear each second. You make grains jump on a skin that nothing touches. You hear a spoon ring like a temple bell through a piece of string. By the end you can say what vibrates in a veena, a mridangam, a bansuri and your own throat.
 
 ## Learning outcomes
 0. I can say what a vibration is, using the words rest position, amplitude and frequency.
@@ -123,7 +123,7 @@ Vibration is found far beyond music. The particles of every solid vibrate all th
   Against: After fifty years there is still no experiment that can test it. Many physicists say an idea that cannot be tested is not yet science.
 
 ## Roots
-In this unit you turned separate ticks into a note, and watched a slow string pass its rest position. Here we ask what a note really is, and who makes it.
+In this lesson you turned separate ticks into a note, and watched a slow string pass its rest position. Here we ask what a note really is, and who makes it.
 
 **Deep truth.** In the Comb Test, a slow stroke over 40 teeth gave 40 separate ticks. A quick stroke over the same teeth gave one steady note. Only the speed had changed. So a steady note is a row of separate pushes, arriving too quickly for the ear to hear apart.  
 *Habit it breaks:* We treat a tick and a note as two kinds of sound, one broken and one smooth. They are the same kind at different speeds. The pushes stay separate in the air. Above about 20 pushes a second, a human ear reports them as one note.  
@@ -136,7 +136,7 @@ In this unit you turned separate ticks into a note, and watched a slow string pa
 In the Comb Test, 40 separate ticks became one note. Looked at closely, the one note is still many pushes. So 'one' and 'many' can be two true descriptions of the same event. Which one you get depends on how fast the pushes come, and on who is listening. Many sages taught that the many different things in the world are really one thing, which we meet only a part at a time. The Comb Test does not prove that. It does show, with a comb and a card, how many can be heard as one.
 
 - **Zhuangzi, chapter 2, 'On Making Things Equal' (China, about 2,300 years ago):** “夫大塊噫氣，其名爲風。是唯无作，作則萬竅怒呺。 / 夫吹萬不同而使其自己也，咸其自取，怒者其誰邪？” A teacher describes the wind blowing through all the hollows of a forest. Each hollow gives its own sound: some roar, some whistle, some sigh. Then he asks who does the sounding. (This is an air column, described long ago. In the Palm Pipe, a long tube and a short tube gave different notes from the same slap. Each hollow gives the note that its own length sets. The book leaves its question open, and so do we.)
-- **Sharngadeva, Sangita Ratnakara, chapter 1 (India, 13th century):** This book on music speaks of two kinds of sound. The struck sound is made when things meet, and it is the sound of all music. The unstruck sound is said to be heard only in deep stillness. (Every sound in this unit is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it.)
+- **Sharngadeva, Sangita Ratnakara, chapter 1 (India, 13th century):** This book on music speaks of two kinds of sound. The struck sound is made when things meet, and it is the sound of all music. The unstruck sound is said to be heard only in deep stillness. (Every sound in this lesson is a struck sound. Something was plucked, hit, rubbed or blown, and then it vibrated. Science studies this kind. The unstruck sound is a teaching about the mind, and science does not measure it.)
 - **Aristotle, On the Soul, book 2, chapter 8 (Greece, about 2,350 years ago):** “Γίνεται δ’ ὁ κατ’ ἐνέργειαν ψόφος ἀεί τινος πρός τι καὶ ἔν τινι· πληγὴ γάρ ἐστιν ἡ ποιοῦσα. / ἕτερον γὰρ τὸ τύπτον καὶ τὸ τυπτόμενον / Ψοφητικὸν μὲν οὖν τὸ κινητικὸν ἑνὸς ἀέρος συνεχείᾳ μέχρις ἀκοῆς” A sound needs three things: something that strikes, something that is struck, and a medium between them and the ear. The air must be moved as one mass, all the way to the hearing. (This matches the chain you built in the Spoon on a String: a source, a medium and an ear. Aristotle did not know about particles, but he saw that the air must carry the movement.)
 - Science (settled): The particles of every solid vibrate all the time. This movement is what we measure as temperature. It never stops completely, even at the lowest temperature there can be.
 - Science (settled): Our best tested theory, quantum field theory, describes every particle as a ripple in a field that fills space.
@@ -669,12 +669,12 @@ Tresa was already working it out.
 
 ## Spotted around us
 - A temple bell after it is rung. Rest a fingertip on it, and you feel the buzz as the sound fades.
-- A mridangam player at a concert in Chennai, pressing a hand on the skin to stop a note short.
+- A mridangam player at a concert, pressing a hand on the skin to stop a note short.
 - Crickets at dusk. Each singer is a male, drawing one wing across a row of tiny teeth on the other.
 - The whine of a mosquito near your ear. It is the beat of her wings, several hundred times a second.
 - The side mirror of an auto-rickshaw while the engine idles. The picture in the mirror turns to a blur.
-- A kite string humming in the wind at Uttarayan in Gujarat, or at Pongal in Tamil Nadu.
-- The nadaswaram and the thavil at a wedding in Tamil Nadu: one is an air column, the other has two skins.
+- A kite string humming in the wind at Uttarayan or at Pongal.
+- The nadaswaram and the thavil at a wedding: one is an air column, the other has two skins.
 - Steel tumblers that rattle on the kitchen counter when the mixer-grinder runs.
 
 ## Open questions
@@ -728,6 +728,12 @@ Back and Forth, Again and Again (sci.sound.L5): Topic-level song
 ## Things to buy
 - [A packet of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the skin in the Dancing Light Spot. Any general store sells them. Used in p1. 
 - [Small craft mirrors, also sold as embroidery mirrors or shisha mirrors](https://www.amazon.in/s?k=embroidery+mirrors+small+round) (material): For the Dancing Light Spot. Craft and tailoring shops sell them. A mirror bindi or a mirror sequin from old clothes also works. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Thali and the Skin: how far can a sound shake a skin?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Thali and the Skin: how far can a sound shake a skin?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Comb Test: when do ticks become a note?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before The Comb Test: when do ticks become a note?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Thali and the Skin: how far can a sound shake a skin?, The Palm Pipe: play an air column with a slap, The Dancing Light Spot: a skin that shows your voice. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a3, p1. Get it before The Thali and the Skin: how far can a sound shake a skin?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Palm Pipe: play an air column with a slap, The Dancing Light Spot: a skin that shows your voice. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, p1. Get it before The Palm Pipe: play an air column with a slap.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Comb Test: when do ticks become a note?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before The Comb Test: when do ticks become a note?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a vibration? → A movement back and forth, again and again.

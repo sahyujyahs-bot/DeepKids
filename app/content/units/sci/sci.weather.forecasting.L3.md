@@ -1,9 +1,9 @@
 # Forecasting the weather: using today's sky to tell tomorrow's
 `sci.weather.forecasting.L3`
 
-**Summary.** Can today's sky tell you what tomorrow's weather will be? In this unit you will read the sky and make a forecast, keep score of your forecasts for a week against what really happens, and find out what a 60% chance of rain means.
+**Summary.** Can today's sky tell you what tomorrow's weather will be? In this lesson you will read the sky and make a forecast, keep score of your forecasts for a week against what really happens, and find out what a 60% chance of rain means.
 
-**Intro.** *Look out of the window now. Will it rain here in the next three hours? Say yes or no. Now say what you looked at to decide.* You have just made a weather forecast. A forecast is a guess about the weather to come, made from what you can see and measure now. Fishers, farmers and grandmothers have done this for thousands of years by reading the clouds and the wind. Today, weather offices do it with satellites and computers. In this unit you make a forecast every evening for a week, and check it the next day. You race your forecasts against the weather app, and against the simplest guess of all: 'tomorrow will be like today'. You also find out why some weather sayings work and others do not.
+**Intro.** *Look out of the window now. Will it rain here in the next three hours? Say yes or no. Now say what you looked at to decide.* You have just made a weather forecast. A forecast is a guess about the weather to come, made from what you can see and measure now. Fishers, farmers and grandmothers have done this for thousands of years by reading the clouds and the wind. Today, weather offices do it with satellites and computers. In this lesson you make a forecast every evening for a week, and check it the next day. You race your forecasts against the weather app, and against the simplest guess of all: 'tomorrow will be like today'. You also find out why some weather sayings work and others do not.
 
 ## Learning outcomes
 0. I can name signs that help forecast the weather: kinds of clouds, which way the wind blows, and how damp the air is.
@@ -489,7 +489,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - **your turn:** Now make your own plan for Sunday. Write Plan A for a dry day and Plan B for rain. On Sunday evening, write which plan you used and whether it worked.
 - **constraints:** The plan must still be fun if it rains.; It must not waste the trip if it stays dry.; Use the forecast, but remember it gives chances, not promises.
 - **general:** Go in the morning, when the chance of rain is lower, and come home by lunch.; Take an umbrella or a raincoat just in case.; Check the forecast again on Sunday morning, because a forecast for the next few hours is surer.
-- **creative:** Choose a park with a shelter, or a museum nearby, as a rain plan.; Make two lists of games: 'dry games' and 'rain games' for indoors.; Watch the sky in the morning for the signs from this unit, such as clouds growing tall.
+- **creative:** Choose a park with a shelter, or a museum nearby, as a rain plan.; Make two lists of games: 'dry games' and 'rain games' for indoors.; Watch the sky in the morning for the signs from this lesson, such as clouds growing tall.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together.  
   *Parent says:* The forecast says 40% chance of rain on Sunday afternoon. We want to go to the park. What should we plan?  
@@ -508,7 +508,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 ## Worksheets
 ### Sky Detective (core) (core, 16 questions)
 1. (match) Match each cloud to what it often tells you.  
-   **Answer:** Small puffy clouds that stay small → fine weather; A tall cloud with a flat, spreading top → a thunderstorm; A low grey sheet over the whole sky → steady rain; Thin high streaks that thicken day by day → rain in a day or two. *Why:* These are the four cloud signs in this unit. A strong answer also says that no cloud is a sure sign, only a likely one.
+   **Answer:** Small puffy clouds that stay small → fine weather; A tall cloud with a flat, spreading top → a thunderstorm; A low grey sheet over the whole sky → steady rain; Thin high streaks that thicken day by day → rain in a day or two. *Why:* These are the four cloud signs in this lesson. A strong answer also says that no cloud is a sure sign, only a likely one.
 2. (mcq) You want to know if it will rain tomorrow. What is the best thing to look at?  
    Options: What day of the week it is / The clouds, the wind and how damp the air feels / What colour your umbrella is / What you had for breakfast  
    **Answer:** The clouds, the wind and how damp the air feels. *Why:* Clouds, wind and damp air are signs of what is coming. What day of the week it is tells you nothing about the weather.
@@ -662,11 +662,11 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 - Helping hospitals get ready for heat waves.
 
 ## Spotted around us
-- The weather report after the news on television, with a map of India and cloud symbols.
+- The weather report after the news on television, with a map and cloud symbols.
 - The weather app on a parent's phone, showing the chance of rain hour by hour.
-- Fishing boats pulled high up on the beach in Chennai, Kochi or Puri when a storm warning is given.
-- A newspaper headline: 'Monsoon reaches Kerala'.
-- Tall storm clouds building over the city on an April or May afternoon in Bengaluru.
+- Fishing boats pulled high up on the beach when a storm warning is given.
+- A newspaper headline: 'Monsoon has arrived'.
+- Tall storm clouds building over the city on an April or May afternoon.
 - Lumpy salt in the kitchen dabba during the rainy months.
 - A school closed for a day because of a red warning for heavy rain.
 
@@ -720,6 +720,10 @@ Shade, Rain and Wind (sci.weather.L3): Topic-level song for Weather L3
 ## Things to buy
 - [The Cloud Book, by Tomie dePaola](https://www.amazon.in/s?k=The+Cloud+Book+Tomie+dePaola) (book): Optional. A short picture book about the main kinds of cloud, old stories about clouds, and weather sayings. Used in a1, g1, p1. 
 - [A small digital room thermometer with a humidity reading (thermo-hygrometer)](https://www.amazon.in/s?k=digital+thermometer+hygrometer) (tool): Optional. It shows humidity as a number, so you can see the bathroom air become damp in the salt test, and add humidity to your forecast table. Used in e2, e1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in Ground Wind and Cloud Wind: do they go the same way?. About ₹30 to ₹150. A phone compass app also works. Used in e3. Get it before Ground Wind and Cloud Wind: do they go the same way?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Ground Wind and Cloud Wind: do they go the same way?. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before Ground Wind and Cloud Wind: do they go the same way?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Six Out of Ten: what 'chance of rain' means. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Six Out of Ten: what 'chance of rain' means.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a weather forecast? → A careful guess about the weather to come, made from what the air is doing now.
@@ -741,7 +745,7 @@ Shade, Rain and Wind (sci.weather.L3): Topic-level song for Weather L3
 - ideas/by_topic/caring-for-the-environment.md: 'Keep a notebook of daily weather, then compare with professional forecasts' and 'observe how local forecasts match reality over weeks', the seed of the forecast contest (e1).
 - ideas/by_topic/changing-materials.md and gases-evaporation-condensation-solutions.md: 'match cloud shapes to weather outcomes', the seed of the Sky Signs game (g1).
 - ideas/by_topic/basic-needs.md: Varahamihira's Brihat Samhita and weather prediction from signs, behind the weather sayings thread.
-- Nearby unit sci.weather.weather.L3 (measuring weather: thermometers, rain gauges, wind vanes, weather diary) is built on, not repeated: this unit does not measure temperature or rain, and tells new stories (Franklin, Lorenz, Phailin).
+- Nearby unit sci.weather.weather.L3 (measuring weather: thermometers, rain gauges, wind vanes, weather diary) is built on, not repeated: this lesson does not measure temperature or rain, and tells new stories (Franklin, Lorenz, Phailin).
 - Franklin, letter to Jared Eliot, 13 February 1750, on the storm of 1743 moving against its wind; NOAA Atlantic Oceanographic and Meteorological Laboratory, '270th anniversary of the Eclipse hurricane'.
 - Lorenz, 'Deterministic nonperiodic flow', Journal of the Atmospheric Sciences, 1963; Lorenz, 'Predictability: does the flap of a butterfly's wings in Brazil set off a tornado in Texas?', talk to the American Association for the Advancement of Science, 1972.
 - Richardson, Weather Prediction by Numerical Process, Cambridge University Press, 1922.

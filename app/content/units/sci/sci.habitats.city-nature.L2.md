@@ -1,9 +1,9 @@
 # Nature in the city: the birds, trees and animals who share our streets
 `sci.habitats.city-nature.L2`
 
-**Summary.** On a quiet holiday morning you hear birds you never notice on a busy school day. In this unit you will test whether a soft voice can be heard over traffic noise, call across a noisy game, and watch from a window to see who shares your street.
+**Summary.** On a quiet holiday morning you hear birds you never notice on a busy school day. In this lesson you will test whether a soft voice can be heard over traffic noise, call across a noisy game, and watch from a window to see who shares your street.
 
-**Intro.** *On a quiet holiday morning, you may hear birds you never hear on a busy school day. Were the birds hiding on the busy days?* The birds were not hiding. The noise of buses, autos and horns covered their songs, so we did not hear them. A town or a city is a habitat, a place where living beings find what they need. Crows, pigeons, squirrels, street dogs, bees and trees all live in it with us. In this unit we meet them, and we test what noise does to a voice. Then we find out what many city birds do about the noise.
+**Intro.** *On a quiet holiday morning, you may hear birds you never hear on a busy school day. Were the birds hiding on the busy days?* The birds were not hiding. The noise of buses, autos and horns covered their songs, so we did not hear them. A town or a city is a habitat, a place where living beings find what they need. Crows, pigeons, squirrels, street dogs, bees and trees all live in it with us. In this lesson we meet them, and we test what noise does to a voice. Then we find out what many city birds do about the noise.
 
 ## Learning outcomes
 0. By the end I can say that a town or city is a habitat, and name birds, trees, insects and other animals who live in it with us.
@@ -471,11 +471,11 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - People who study city birds record their songs to find out how noise affects them, and where quieter zones would help.
 
 ## Spotted around us
-- Black kites circling high over Delhi, hundreds at a time, on hot afternoons.
-- Indian flying foxes hanging from big trees in many towns, such as in Kerala and Karnataka, in the daytime.
-- Rock bee hives hanging under the ledges of tall buildings and water tanks in Bengaluru and other cities.
-- Spotted deer and blackbuck in Guindy National Park, in the middle of Chennai.
-- Rose-ringed parakeets flying in noisy flocks over Kolkata and Mumbai in the evening.
+- Black kites circling high over the city, hundreds at a time, on hot afternoons.
+- Big bats called flying foxes hanging from big trees in the daytime.
+- Rock bee hives hanging under the ledges of tall buildings and water tanks.
+- Spotted deer and blackbuck in a park in the middle of a city.
+- Rose-ringed parakeets flying in noisy flocks over the city in the evening.
 
 ## Open questions
 - **Why exactly have house sparrows become fewer in many Indian cities?** Scientists think fewer nest holes and fewer insects for chicks matter a lot. But the reasons may differ from city to city, and nobody has the full answer yet.
@@ -485,7 +485,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 ## Questions to ask kids
 - Which bird did you hear first this morning? Was the road quiet or busy?
 - Which birds have you heard near our building? Which call do you like best?
-- Which animal on our road did you notice for the first time in this unit?
+- Which animal on our road did you notice for the first time in this lesson?
 - Who uses the tree outside our building at night?
 - If our road had no horns for one day, who do you think we would hear?
 
@@ -511,12 +511,13 @@ Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2
 ## Links
 - [Bird Count India](https://birdcount.in/) · interactive: For the parent: how families across India count birds, including the Great Backyard Bird Count each February.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant or an animal on your street and find out their name.
-- [Sanjay Gandhi National Park]() · place · Mumbai: A big forest inside the city, home to leopards, deer and many birds.
-- [Guindy National Park]() · place · Chennai: A small national park in the middle of the city, with blackbuck and spotted deer.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old, big trees in the city, with many birds and squirrels.
-- [Rabindra Sarobar]() · place · Kolkata: A lake with trees in the city, where many birds live and visit.
+- Sanjay Gandhi National Park · place · Mumbai: A big forest inside the city, home to leopards, deer and many birds.
+- Guindy National Park · place · Chennai: A small national park in the middle of the city, with blackbuck and spotted deer.
+- Lalbagh Botanical Garden · place · Bengaluru: Old, big trees in the city, with many birds and squirrels.
+- Rabindra Sarobar · place · Kolkata: A lake with trees in the city, where many birds live and visit.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a city a habitat? → Yes. Many beings, including people, live and find what they need there.
@@ -534,7 +535,7 @@ Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2
 ## Sources
 - ideas/by_topic/habitats-and-adaptation.md: the activities there are about oceans, weather and the monsoon, which fit other units. Nothing there on city nature.
 - The curriculum entry lists no board chapters for this subtopic. The founder's notebook item bio:206 was not found in the ideas files.
-- Ladder: sci.habitats.local-environments.L1 (homes under a stone, plants in cracks) and sci.habitats.habitats.L2 (the diya and stone test) come before. This unit moves from small homes to the whole street, and to how city animals change what they do. It leads to sci.habitats.city-nature.L4 (how cities change habitats, designing greener towns).
+- Ladder: sci.habitats.local-environments.L1 (homes under a stone, plants in cracks) and sci.habitats.habitats.L2 (the diya and stone test) come before. This lesson moves from small homes to the whole street, and to how city animals change what they do. It leads to sci.habitats.city-nature.L4 (how cities change habitats, designing greener towns).
 - Derryberry E. P. and others (2020). Singing in a silent spring: birds respond to a half-century soundscape reversion during the COVID-19 shutdown. Science. White-crowned sparrows in San Francisco sang more softly in the quiet, and their songs could be heard about twice as far.
 - Slabbekoorn H. and Peet M. (2003). Birds sing at a higher pitch in urban noise. Nature. Great tits in Leiden, the Netherlands.
 - Brumm H. (2004). The impact of environmental noise on song amplitude in a territorial bird. Journal of Animal Ecology. Nightingales in Berlin sang louder in noisier territories.

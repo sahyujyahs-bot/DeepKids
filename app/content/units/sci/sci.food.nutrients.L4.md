@@ -1,9 +1,9 @@
 # A burning groundnut and a food label: what the numbers say about your food
 `sci.food.nutrients.L4`
 
-**Summary.** A groundnut can burn, so how much heat does a food hold? In this unit you will burn nuts under a tumbler of water and measure the heat, read four food packets, see where the energy goes when rice is cooked, and guess a food from its label.
+**Summary.** A groundnut can burn, so how much heat does a food hold? In this lesson you will burn nuts under a tumbler of water and measure the heat, read four food packets, see where the energy goes when rice is cooked, and guess a food from its label.
 
-**Intro.** *A groundnut burns like a tiny candle, but a grain of rice does not. What does a groundnut have inside that a grain of rice has much less of?* The food on your plate is fuel for your body, the way wood is fuel for a stove. Scientists measure that fuel in kilocalories. In this unit you burn real foods under a tumbler of water and measure the heat they give out. You cook rice and weigh it before and after. Then you read the label on a packet, and find out what its numbers say and what they leave out.
+**Intro.** *A groundnut burns like a tiny candle, but a grain of rice does not. What does a groundnut have inside that a grain of rice has much less of?* The food on your plate is fuel for your body, the way wood is fuel for a stove. Scientists measure that fuel in kilocalories. In this lesson you burn real foods under a tumbler of water and measure the heat they give out. You cook rice and weigh it before and after. Then you read the label on a packet, and find out what its numbers say and what they leave out.
 
 ## Learning outcomes
 0. I can sort foods by their main job, which is giving energy, building the body or protecting it, and explain why one food can do more than one job.
@@ -148,7 +148,7 @@ Even sitting still, your body uses energy to keep your heart beating, your lungs
   Against: The author, Frances Moore Lappé, later wrote that this was stricter than needed. The body keeps a store of amino acids across the day, so a grain and a pulse eaten at different meals still work together.
 
 ## Roots
-In this unit you burn food under a tumbler of water, cook rice and read labels. This part asks what those tests show about food and about your own body.
+In this lesson you burn food under a tumbler of water, cook rice and read labels. This part asks what those tests show about food and about your own body.
 
 **Deep truth.** In the Burning Nuts experiment, the groundnut heats the water, yet it is called a body-building food. Your body can also burn protein for fuel and turn extra sugar into fat. So energy, building and protection are jobs that food does, not kinds of food. What the body does with each bite depends on what it needs at that moment.  
 *Habit it breaks:* We sort foods into energy-giving, body-building and protective, as if the job were printed on the food. But a hungry body burns its protein, and a well-fed body stores extra sugar as fat. The groups help us plan a meal, but they describe the usual job, not a fixed one.  
@@ -696,6 +696,11 @@ Sunlight on My Plate (sci.food.L4): Topic-level song for Food and nutrition L4
 - [A cooking or laboratory thermometer that reads up to 100 degrees](https://www.amazon.in/s?k=digital+cooking+thermometer) (tool): To measure the water in the Burning Nuts test. A glass chemist's or lab thermometer (about Rs 30 to 60 at a lab-supply or chemist shop) is the cheapest. A digital kitchen probe thermometer will also do. A fever thermometer will not. Used in e1. 
 - [A pocket scale that reads to 0.1 gram or finer](https://www.amazon.in/s?k=pocket+scale+0.01g) (tool): Optional. To weigh half-gram pieces of nut. A jeweller's scale costs a few hundred rupees. Without one, weigh 10 similar pieces on a kitchen scale and divide by 10, and the test is still fair. Used in e1. 
 - [A digital kitchen scale that reads to 1 gram](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): To weigh rice, servings and snack ingredients in three of the activities. Used in e2, a2, p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Label Detective: read four packets. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before Label Detective: read four packets.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Burning Nuts: how much heat does a food give?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before Burning Nuts: how much heat does a food give?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Date and Groundnut Balls: write your own food label. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Date and Groundnut Balls: write your own food label.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Burning Nuts: how much heat does a food give?, Rice Before and After: where does the energy go in the pot?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1, e2. Get it before Burning Nuts: how much heat does a food give?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many kilocalories does a gram of fat give? → About 9.

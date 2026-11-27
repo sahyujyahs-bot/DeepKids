@@ -1,9 +1,9 @@
 # Migration: the animals that travel across the world every year
 `sci.animal-behaviour.migration.L3`
 
-**Summary.** How do animals that travel far every year find their way? In this unit you will walk to a bowl and then try again from a new start, test how far a tailwind carries a paper butterfly, and sort animals into those that go and those that stay.
+**Summary.** How do animals that travel far every year find their way? In this lesson you will walk to a bowl and then try again from a new start, test how far a tailwind carries a paper butterfly, and sort animals into those that go and those that stay.
 
-**Intro.** *Each winter, a small grey bird called a curlew sandpiper lands on a mudflat at Kodiakkarai, at the tip of Tamil Nadu. She has flown there from the far north of Russia, more than 6,000 kilometres away. Some of these birds are only a few months old. They have never seen Kodiakkarai, and no grown-up bird showed them the way. So how did they know where to go?* Animals of every kind make long journeys each year: birds, whales, butterflies, dragonflies, turtles, fish, and people too. In this unit you will meet the record travellers, find out why they go, and test two ways of finding your way in your own home.
+**Intro.** *Each winter, a small grey bird called a curlew sandpiper lands on a mudflat at Kodiakkarai, at the tip of Tamil Nadu. She has flown there from the far north of Russia, more than 6,000 kilometres away. Some of these birds are only a few months old. They have never seen Kodiakkarai, and no grown-up bird showed them the way. So how did they know where to go?* Animals of every kind make long journeys each year: birds, whales, butterflies, dragonflies, turtles, fish, and people too. In this lesson you will meet the record travellers, find out why they go, and test two ways of finding your way in your own home.
 
 ## Learning outcomes
 0. I can say what migration is, and name birds, whales, butterflies and other animals, including people, that make long journeys every year.
@@ -405,7 +405,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 - **record:** The finished book, with a map, at least four pages, and one question nobody can answer yet.
 - **schedule:** day 1: Choose your traveller. Find where they breed and where they spend the rest of the year. Make the map page. (20 min); day 2: Write the journey: when they leave, what they eat, where they stop, and the dangers. (20 min); day 3: Write how scientists found out, and one thing nobody knows yet. Read your book to someone. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* Help your child choose one traveller from this unit (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Make a map page with the two homes and the route. Your child can draw it, or mark the homes on a printed map and stick that in.  
+  *Parent does:* Help your child choose one traveller from this lesson (Arctic tern, curlew sandpiper, demoiselle crane, humpback whale, monarch butterfly, globe skimmer dragonfly or olive ridley turtle). Make a map page with the two homes and the route. Your child can draw it, or mark the homes on a printed map and stick that in.  
   *Parent says:* Choose one traveller. Where is their summer home? Where do they go for the rest of the year? Let's mark both on a map.  
   *Child mode:* Choose your traveller. Find both homes on the map. Mark them and join them with a line.
 - **s2 (20 min)**  
@@ -640,10 +640,10 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 ## Spotted around us
 - Barn swallows sitting in rows on electric wires in South Indian towns in winter.
 - Grey wagtails bobbing their tails on wet rooftops and drains from about October to March.
-- Flamingos on the mudflats of Sewri in Mumbai, or at Pulicat Lake north of Chennai, in the cooler months.
-- Demoiselle cranes in their thousands at Khichan in Rajasthan, in winter.
-- Clouds of blue tiger and crow butterflies passing through the Western Ghats and the plains of South India before and after the monsoon.
-- Olive ridley turtles coming ashore in huge numbers at Rushikulya and Gahirmatha in Odisha.
+- Flamingos on the mudflats by the sea in the cooler months.
+- Thousands of cranes landing in a field in winter.
+- Clouds of butterflies passing by before and after the monsoon.
+- Sea turtles coming ashore in huge numbers to lay eggs, in a video or on a beach.
 - Dragonflies swarming over playgrounds and terraces at the end of the monsoon.
 
 ## Open questions
@@ -700,6 +700,13 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 ## Things to buy
 - [A cloth measuring tape (a tailor's tape)](https://www.amazon.in/s?k=cloth+measuring+tape) (tool): For measuring how far the paper butterfly lands. Many homes have one in the sewing box. A 30 cm ruler moved along the floor also works. Used in e2. 
 - [A bird book for India, such as 'The Book of Indian Birds' by Salim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): Helps your child name the birds at the window and see which ones are winter visitors. Used in a4. Keep it by the window during the Winter Visitors Watch, and use it for the migration book project.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wind at Your Back: how much further does a tailwind carry a paper butterfly?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Wind at Your Back: how much further does a tailwind carry a paper butterfly?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Winter Visitors Watch (from October to March). About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a4. Get it before Winter Visitors Watch (from October to March).
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Safe Crossing: help travelling crabs cross the road. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before A Safe Crossing: help travelling crabs cross the road.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in A Safe Crossing: help travelling crabs cross the road. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c2. Get it before A Safe Crossing: help travelling crabs cross the road.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Wind at Your Back: how much further does a tailwind carry a paper butterfly?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Wind at Your Back: how much further does a tailwind carry a paper butterfly?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in A Safe Crossing: help travelling crabs cross the road. About ₹100 to ₹200. A marble or a round torch cell works. Used in c2. Get it before A Safe Crossing: help travelling crabs cross the road.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is migration? → A long journey an animal makes at the same time every year, and back again.

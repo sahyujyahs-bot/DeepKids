@@ -1,9 +1,9 @@
 # Animal minds: how animals think, feel and remember
 `sci.animals.animal-minds.L3`
 
-**Summary.** Can a crow really solve the thirsty crow puzzle? In this unit you will test what raises the water best, try the Clever Hans test to see if you can read a face, and decide which animal stories are true and which are tall tales.
+**Summary.** Can a crow really solve the thirsty crow puzzle? In this lesson you will test what raises the water best, try the Clever Hans test to see if you can read a face, and decide which animal stories are true and which are tall tales.
 
-**Intro.** *You probably know the story of the thirsty crow, who drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this unit you will find out what else animals learn, remember and work out.
+**Intro.** *You probably know the story of the thirsty crow, who drops pebbles into a pot until the water rises. Do you think a real crow could do that? Or is it just a story?* In 2009, two scientists in England tested it. They gave rooks, a kind of crow, a tall tube of water. A worm floated on the water, too low for a beak to reach. Stones lay next to the tube. The rooks picked up stones and dropped them in, one by one. The water rose, and they ate the worm. They even chose the big stones first. So the story was right: a real bird can solve this problem. In this lesson you will find out what else animals learn, remember and work out.
 
 ## Learning outcomes
 0. I can give true examples of animals that play, learn and remember.
@@ -163,7 +163,7 @@ We have been learning that animals play, learn, remember and read faces. Now we 
 
 A crow, a dog and you look very different from outside. Inside, your thinking and theirs both run on neurons. Neurons pass signals using the same sodium and potassium atoms. Clever minds came about separately in crows, octopuses and apes, on branches of life that split long ago. So minds are not found only in humans. They are found in many kinds of animals, from crows and dogs to eight-armed octopuses.
 
-- **Bhagavad Gita 5.18:** “विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि। / शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।” The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (This unit found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye.)
+- **Bhagavad Gita 5.18:** “विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि। / शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।” The wise see with an equal eye a learned person, a cow, an elephant, a dog, and a person whom society looks down on. (This lesson found minds at work in elephants and dogs: elephants remember the calls of their friends, and dogs read our pointing fingers. The Gita says a wise person looks at all of them with the same eye.)
 - **Zhuangzi, chapter 17 (Autumn Floods), the fish of the Hao river:** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Zhuangzi and his friend Huizi stood on a bridge. Zhuangzi said, 'See how the fish swim about. That is their joy.' Huizi said, 'You are not a fish. How do you know what fish enjoy?' Zhuangzi said, 'You are not me. How do you know I don't know?' (Huizi could not see inside Zhuangzi's mind either, yet he argued with him as someone who thinks. We know every other mind, a friend's or a fish's, from what they do.)
 - **Isha Upanishad, verse 6:** “यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति / सर्वभूतेषु चात्मानं ततो न विजुगुप्सते” One who sees all beings in their own self, and their own self in all beings, does not hate anyone. (When we see that a crow learns and a dog feels, we start to see ourselves in them, and them in us.)
 - Science (settled): Many animals learn, remember, play and solve problems. This has been tested many times.
@@ -655,7 +655,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 15. (write) A cat comes running every time the fridge door opens. Their owner says the cat understands what a fridge is. Give a simpler explanation, and say how you could test it.  
    **Answer:** For example: the cat learned that the sound of the fridge door comes before food. To test it, open a cupboard that makes a similar sound, or open the fridge door very quietly, and see if the cat still comes.. *Why:* The simplest explanation that fits is often learning, as in Pavlov's dogs. A good test changes one thing at a time, such as the sound.
 ### Minds, Brains and Big Puzzles (challenge) (challenge, 15 questions)
-1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this unit, is that fair? Give two pieces of evidence.  
+1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this lesson, is that fair? Give two pieces of evidence.  
    **Answer:** Not fair. For example: Betty the crow bent a wire into a hook, crows remember a human face for years, and jays remember where they hid food. A crow's small brain is packed tightly with neurons.. *Why:* The saying comes from the idea that a small brain must be a simple one. A strong answer gives real tests from the unit, not just an opinion.
 2. (fill) Your brain has about 86 ____ neurons.  
    **Answer:** ['billion']. *Why:* About 86 billion. Suzana Herculano-Houzel and her team counted them by dissolving brains into a soup and counting the cell centres.
@@ -756,7 +756,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 - Monkeys at a temple who have learned to open bags and bottles.
 - A cow who walks home on her own at sunset, knowing the way.
 - A myna or parrot copying sounds from the house, like a pressure cooker whistle.
-- Elephants at a temple in Kerala or a forest camp in Karnataka who answer their mahout's call.
+- An elephant at a temple or a forest camp who answers her mahout's call.
 - Pigeons on a balcony who come back to the same ledge every day.
 
 ## Open questions
@@ -811,6 +811,12 @@ Every Creature Counts (sci.animals.L3):
 
 ## Things to buy
 - [Pipe cleaners (chenille stems)](https://www.amazon.in/s?k=pipe+cleaners+chenille+stems) (material): For bending hooks in the Hook It Like Betty challenge. Rolled kitchen foil works too. Used in c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hook It Like Betty. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before Hook It Like Betty.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Mirror, Mirror: who is that?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a6. Get it before Mirror, Mirror: who is that?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Puzzle Feeder. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Build a Puzzle Feeder.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Brain Line-up: is bigger cleverer?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a5. Get it before Brain Line-up: is bigger cleverer?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Thirsty Crow Test: what raises the water best?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Thirsty Crow Test: what raises the water best?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Changing what you do because of what happened before is called ____. → Learning.

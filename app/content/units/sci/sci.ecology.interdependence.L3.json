@@ -2503,6 +2503,67 @@
     "a1"
    ],
    "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (Adult (read short parts aloud))"
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Design a Seed That Hitches a Ride. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Design a Seed That Hitches a Ride."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Waiting or Dead? Wash the juice seeds, The Fruit Bowl Question: where would these seeds go?, Grow a Tomato Plant and Be Her Bee. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "a1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Waiting or Dead? Wash the juice seeds."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Juice Test: why don't seeds sprout inside a tomato?, Waiting or Dead? Wash the juice seeds. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Juice Test: why don't seeds sprout inside a tomato?."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in Cup and Card: move a small creature without harming them. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Cup and Card: move a small creature without harming them."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

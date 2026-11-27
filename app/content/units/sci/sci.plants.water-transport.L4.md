@@ -1,7 +1,7 @@
 # Wet but thirsty: how a root drinks, and why salty soil dries a plant
 `sci.plants.water-transport.L4`
 
-**Summary.** A seedling standing in a flooded field can droop like a plant in a desert, with water all around its roots. Why can it not drink? In this unit you will sprout moong seeds in different amounts of salt, see which pulls more water out of slices, and test which sprig loses most water.
+**Summary.** A seedling standing in a flooded field can droop like a plant in a desert, with water all around its roots. Why can it not drink? In this lesson you will sprout moong seeds in different amounts of salt, see which pulls more water out of slices, and test which sprig loses most water.
 
 **Intro.** *If you pour a glass of sea water on a potted plant, she droops within two days, though her soil is soaking wet. How can a plant die of thirst while she stands in water?* Try this at the table. Cut a cucumber into slices as thin as a coin. Lay ten slices on a plate and sprinkle a good pinch of salt over them. Come back in 20 minutes. There is a puddle on the plate, and the slices have gone floppy. The salt did not make that water. It came out of the cucumber. Whatever the salt does to a cucumber slice, it can also do to the roots of a plant.
 
@@ -33,12 +33,14 @@
 
 ## Explanations
 ### Water has a grip: some water is held tightly · *defined*
-**Definition:** Water is held by the things around it. Some water is held loosely and moves easily. Some is held tightly and is very hard to pull away. In this unit, a pull number says how tightly water is held. A bigger pull number means a tighter hold.
+**Definition:** Water is held by the things around it. Some water is held loosely and moves easily. Some is held tightly and is very hard to pull away. In this lesson, a pull number says how tightly water is held. A bigger pull number means a tighter hold.
 
 Plain water in a glass is held very loosely. Its pull number is 0. Water in the thin film around a grain of soil is held more tightly, because the grain attracts it. Water with salt or sugar dissolved in it is held more tightly too, because the dissolved bits attract water. Scientists call this idea water potential. They measure it in megapascals, written MPa, and put a minus sign in front. We leave the minus sign out, so a bigger number is a tighter grip. Here are some typical numbers. Wet soil is about 0.1. A leaf cell is about 1 to 1.5. Sea water is about 2.5. Water always moves from the place with the smaller pull number to the place with the bigger one. So 'wet' does not tell you if a root can drink. The grip does.
 - e.g. Plain tap water has a pull number of about 0, so it is easy to take.
 - e.g. Squeeze a handful of damp soil as hard as you can. It still holds water you cannot squeeze out. That water is held tightly.
 - e.g. Sea water is about 2.5, which is tighter than the 1 to 1.5 inside most leaf cells.
+- **Farmers:** Judge soil by feel: wet soil is good and dry soil is bad.
+- **Soil physicists:** Say soil that looks wet may hold its water so tightly that roots cannot get it. Clay holds on harder than sand, so a plant can wilt in damp clay.
 ### Osmosis: water crosses a thin skin toward the tighter grip · *defined*
 **Definition:** Osmosis is the movement of water through a thin skin, called a membrane, from the side where water is held more loosely to the side where it is held more tightly. The membrane lets water through but holds back many dissolved things.
 
@@ -46,6 +48,8 @@ Every plant cell has a membrane, and a stiff wall outside it. Inside the cell is
 - e.g. Salt on cucumber slices pulls water out of the slices, so a puddle forms and the slices go limp.
 - e.g. Stand a wilted coriander sprig in water. She takes water in through her cut end, her cells fill, and she goes firm again.
 - e.g. A dry moong seed swells in water because its cells hold water tightly and pull it in.
+- **Jean-Antoine Nollet and Henri Dutrochet:** In 1748 Nollet saw water pass through a pig's bladder skin. In 1826 Dutrochet named the process osmosis and tied it to plants.
+- **Jacobus van 't Hoff:** In 1887 showed that the push of osmosis follows the same rules as the pressure of a gas. He received the first Nobel Prize in Chemistry in 1901.
 ### How a root takes water in · *defined*
 **Definition:** A root takes in water through thousands of thin root hairs. Water flows in when the root's cells hold water more tightly than the soil does.
 
@@ -53,12 +57,17 @@ Behind the tip of each young root, single cells grow out into root hairs. They a
 - e.g. A moong sprout grown on a wet cloth shows a white fuzz of root hairs under a magnifying glass.
 - e.g. When a potted tulsi's soil dries out, her roots make their sap thicker. That is why a plant that has dried a little can still drink from soil that looked too dry.
 - e.g. Pulling a plant out of the ground leaves her root hairs behind in the soil. That is why a transplanted seedling needs shade and extra water for a few days.
+- **Stephen Hales:** In 1727 he measured the sap pressure from a cut vine and thought that roots push water upward.
+- **Henry Dixon and John Joly:** In 1894 they explained that water is pulled up from the leaves as it evaporates, in a chain held by sticking together. Today most scientists say the pull, not the push, does most of the work.
 ### Fungus helpers: reaching water a root cannot reach · *defined*
 **Definition:** Mycorrhiza is a partnership between a plant's roots and a fungus. The fungus grows threads, thinner than root hairs, out into the soil and brings back water and minerals. The plant gives the fungus sugar.
 
 About 8 or 9 in every 10 kinds of land plants have fungus partners. The fungal threads reach into tiny gaps that even a root hair cannot enter, and they spread far from the root. In return, the plant sends part of the sugar she makes down to the fungus. Water and minerals travel one way, and sugar travels the other. Scientists are still finding out how much water the fungus really brings in different soils.
 - e.g. Most trees in a forest share fungal threads under the soil.
 - e.g. Many crop plants, such as maize and finger millet, grow better with fungus partners in poor soil.
+- **Suzanne Simard and others:** Found that trees may share sugars and signals through fungal threads in a forest, like a network. They suggest it is cooperation.
+- **Toby Kiers and colleagues:** Showed in 2011 that plants give more sugar to fungi that give them more phosphorus, and fungi give more to the best-paying roots. They see a trade with rewards.
+- **Careful critics:** In 2023 a review argued that some claims about a wood wide web are not yet proved. The fungi's role is real, but how much it moves between trees is still being argued.
 ### The slope from soil to sky · *defined*
 **Definition:** Water in a plant moves along a slope of pull numbers. It starts in wet soil, where the number is small. It passes through the root, the stem and the leaf, and ends in the air outside, where the number is large.
 
@@ -66,6 +75,8 @@ Here are rounded example numbers. Wet soil is 0.1. A root cell is 0.5. The xylem
 - e.g. Washing dries faster on a dry, windy day because dry air pulls water out harder.
 - e.g. A plant loses much less water during a humid monsoon day than on a dry summer afternoon.
 - e.g. A tree 50 metres tall needs only about 0.5 of pull to lift water to the top, which is tiny next to dry air.
+- **Henry Dixon and John Joly (1894):** The pull of evaporation from the leaves lifts the water, because water molecules hold on to each other like a chain.
+- **Some later scientists:** Questioned whether a thin thread of water could be pulled so far without breaking. Experiments mostly support Dixon and Joly's view.
 ### Leaves let water out: transpiration · *defined*
 **Definition:** Transpiration is the loss of water vapour from a plant, mostly through the stomata, the tiny holes in a leaf. More than 95 of every 100 drops that enter the roots leave this way.
 
@@ -73,6 +84,8 @@ A leaf must open its stomata to let in carbon dioxide, the gas it needs to make 
 - e.g. A leaf in a closed bag soon has droplets on the inside of the bag.
 - e.g. A grown banyan tree can send hundreds of litres of water into the air on a hot day.
 - e.g. A field of rice needs about 2,500 litres of water for each kilogram of rice, and most of that water passes through the plants.
+- **Older view:** Transpiration is a waste of water.
+- **Plant biologists today:** It also cools the leaf, pulls water and minerals up from the roots, and carries the plant's water up on the slope.
 ### Guard cells: how the holes in a leaf open and shut · *defined*
 **Definition:** Each stoma has two guard cells beside it. When water flows into the guard cells, they swell and bend apart, and the hole opens. When water flows out, they straighten and the hole shuts.
 
@@ -80,6 +93,8 @@ In morning light, the guard cells pump potassium, a mineral, into themselves. Th
 - e.g. On a hot afternoon, a bean plant closes many of her stomata to save water.
 - e.g. In bright light and moist soil, the stomata of a leaf are mostly open.
 - e.g. When a cut leaf wilts quickly, its guard cells have lost water and the holes have closed.
+- **Plant-signal researchers:** Find that guard cells weigh light, carbon dioxide, water and a hormone from the roots, and then open or close. They call it plants sensing and deciding.
+- **Scientists who prefer 'automatic response':** Say it is a chemical chain in the cell that needs no choice. J. C. Bose, in the early 1900s, built instruments that showed plants responding, and the argument still goes on.
 ### Why salt makes plants thirsty · *defined*
 **Definition:** Salty soil water has a big pull number. If it is bigger than the pull number of the root's cells, a root cannot take water in, and water flows out of the root instead.
 
@@ -87,6 +102,8 @@ Sea water has about 35 grams of salt in every litre. Its pull number is about 2.
 - e.g. A pot plant given a spoon of fertiliser, instead of a pinch, droops the next day.
 - e.g. After a cyclone pushes sea water over a field, the paddy droops even when the field is wet.
 - e.g. A white crust on the soil of a dry field is salt left behind after water evaporated.
+- **Osmotic view:** Salty water has a tighter grip than the root cells, so it pulls water back out.
+- **Salt-stress researchers:** Say that, after hours or days, the salt itself also harms the plant, as it builds up in leaves. The water problem comes first and the poison comes later.
 ### Mangroves and other plants that can live with salt · *defined*
 **Definition:** A salt-tolerant plant has a way to hold water tighter than salty water does, and a way to deal with the salt. Mangroves do this in sea water. Each kind has its own method.
 
@@ -94,6 +111,8 @@ Mangroves live where rivers meet the sea, as in the Sundarbans and at Pichavaram
 - e.g. Avicennia leaves can have a white dusting of salt that tastes salty.
 - e.g. Pokkali rice in Kerala is grown in salty paddies and fish are farmed in the same fields after harvest.
 - e.g. A coconut palm grows on a beach where most other trees cannot.
+- **Grey mangrove (Avicennia):** Takes salt in and pushes it out through salt glands on its leaves, so salt crystals can be seen on them.
+- **Red mangrove (Rhizophora):** Keeps most of the salt out at the root, as a filter. Two kinds of mangrove, two answers to the same problem.
 ### A second set of tubes: sugar travels in the phloem · *defined*
 **Definition:** The xylem carries water up. The phloem is a second set of tubes that carries sugary sap from the leaves to every part of the plant that needs food. Phloem and xylem lie side by side in the stem.
 
@@ -101,6 +120,8 @@ In the 1670s, the Italian scientist Marcello Malpighi cut a ring of bark off a b
 - e.g. Neera from a cut coconut flower stalk is sweet because it is phloem sap.
 - e.g. A tree with a ring of bark cut right round the trunk slowly dies from the roots, because sugar cannot get down to them.
 - e.g. Sugarcane stores her sweet sap in her stem.
+- **Ernst Münch (1930):** Sugar made in the leaves is pushed along the phloem by pressure, like water in a pipe.
+- **Some researchers:** Think extra ways may help in very tall trees. The pressure flow idea is still the main one.
 
 ## Mostly agreed
 - Water moves through a plant cell's skin toward the side where water is held more tightly. This is called osmosis. *How we know:* Scientists in the 1800s sealed sugar solutions in membrane bags and watched water flow in. Wilhelm Pfeffer measured the pressure in 1877. Under a microscope, plant cells shrink in strong salt water and swell in plain water.
@@ -661,11 +682,11 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 
 ## Spotted around us
 - The puddle at the bottom of a jar of mango or lime achaar, which has come out of the fruit.
-- Fish spread out on mats to dry in the sun on a Kerala or Goan beach, covered with salt.
+- Fish spread out on mats to dry in the sun on a beach, covered with salt.
 - Brinjal or bitter gourd slices left in salt and giving out dark water before cooking.
 - A white crust on the soil of a dry field or at the foot of a damp wall.
 - Coriander at the market that has gone limp, and the same coriander standing firm in a bucket of water.
-- Mangrove trees standing on arched roots in muddy water along a coast or river mouth, at Pichavaram in Tamil Nadu, the Sundarbans in West Bengal, or the Mumbai creeks.
+- Mangrove trees standing on arched roots in muddy water along a coast or river mouth.
 - Dew drops at the tips of leaves in the morning, which some plants push out from their leaf edges.
 - A coconut palm growing right at the water's edge on a beach.
 
@@ -724,6 +745,12 @@ Plants of India (sci.plants.L4): Topic-level song
 - [A set of measuring spoons](https://www.amazon.in/s?k=measuring+spoons+set) (tool): For the sprout test and the salted slices. Level quarter, half and full teaspoons make the salt amounts fair. Used in e1, a1, c1. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see root hairs on a sprout and salt crystals on paper. A cheap one is enough. Used in e1, a2. 
 - [A pack of small clear plastic bags](https://www.amazon.in/s?k=zip+lock+bags+small) (material): To cover the leaves in the fan, still air or bag test. A bread bag from the kitchen also works. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Salt and the Sprouts: how salty is too salty for a seed?, Fan, Still Air or Bag: which sprig loses the most water?, The String Staircase: draw the slope that pulls water to the sky. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3. Get it before Salt and the Sprouts: how salty is too salty for a seed?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Rescue the Salty Pot: bring back soil that sea water has spoilt. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Rescue the Salty Pot: bring back soil that sea water has spoilt.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Rescue the Salty Pot: bring back soil that sea water has spoilt. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Rescue the Salty Pot: bring back soil that sea water has spoilt.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Salt and the Sprouts: how salty is too salty for a seed?, Rescue the Salty Pot: bring back soil that sea water has spoilt. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, c1. Get it before Salt and the Sprouts: how salty is too salty for a seed?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Fan, Still Air or Bag: which sprig loses the most water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Fan, Still Air or Bag: which sprig loses the most water?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a bigger pull number mean? → Water is held more tightly there.
@@ -743,9 +770,9 @@ Plants of India (sci.plants.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/plants.md and water.md: nothing on this subtopic was found. The unit's stance that plants sense, remember and decide shaped the way roots, guard cells and sap are described, and it is stated as a plain finding with the other view given after it.
-- The Class 3 unit on how water travels through a plant (sci.plants.water-transport.L3), which this unit builds on. This unit does not repeat its coloured-water, leafy-or-bare and sweating-branch tests, its story, or its history of Hales, Strasburger, Dixon and Joly.
-- The Class 4 units on cells (sci.what-is-life.cells.L4) and floating and sinking (sci.states.floating-and-sinking.L4), which use potato strips and raisins in salt water. This unit moves the same idea to roots, seeds and leaves, and uses cucumber, moong and mint instead.
-- DeepKids Combined Class 3 Plants (sci-C3-plants.json): the idea of root hairs and of water leaving through the leaves, which this unit takes further.
+- The Class 3 unit on how water travels through a plant (sci.plants.water-transport.L3), which this lesson builds on. This lesson does not repeat its coloured-water, leafy-or-bare and sweating-branch tests, its story, or its history of Hales, Strasburger, Dixon and Joly.
+- The Class 4 units on cells (sci.what-is-life.cells.L4) and floating and sinking (sci.states.floating-and-sinking.L4), which use potato strips and raisins in salt water. This lesson moves the same idea to roots, seeds and leaves, and uses cucumber, moong and mint instead.
+- DeepKids Combined Class 3 Plants (sci-C3-plants.json): the idea of root hairs and of water leaving through the leaves, which this lesson takes further.
 - Dixon, H. H. and Joly, J., On the ascent of sap, Philosophical Transactions of the Royal Society B, 1895 (the cohesion-tension idea, presented in 1894)
 - Scholander, P. F., Hammel, H. T., Bradstreet, E. D. and Hemmingsen, E. A., Sap pressure in vascular plants, Science, 1965 (the pressure chamber)
 - Scholander, P. F. and others, Salt balance in mangroves, Plant Physiology, 1962 (xylem sap of mangroves is nearly fresh)

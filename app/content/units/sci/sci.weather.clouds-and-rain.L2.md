@@ -1,9 +1,9 @@
 # Clouds and rain: how tiny drops in a cloud become rain
 `sci.weather.clouds-and-rain.L2`
 
-**Summary.** A cloud is made of tiny drops, so why do they float and not fall? In this unit you will watch mist in a torch beam, spray a steel plate to see how many sprays it takes before a drop runs down, and draw white and grey clouds.
+**Summary.** A cloud is made of tiny drops, so why do they float and not fall? In this lesson you will watch mist in a torch beam, spray a steel plate to see how many sprays it takes before a drop runs down, and draw white and grey clouds.
 
-**Intro.** *Spray one puff of mist from a spray bottle into the air, in a beam of torchlight. Then let one drop of water fall from a spoon. Which one reaches the floor first?* The drop from the spoon falls straight down in a blink. The tiny drops of the mist sparkle in the light and drift slowly, and some seem to hang in the air. A cloud is made of drops even smaller than these. So how does a cloud ever make rain? In this unit you test it yourself, with a spray bottle and a steel plate.
+**Intro.** *Spray one puff of mist from a spray bottle into the air, in a beam of torchlight. Then let one drop of water fall from a spoon. Which one reaches the floor first?* The drop from the spoon falls straight down in a blink. The tiny drops of the mist sparkle in the light and drift slowly, and some seem to hang in the air. A cloud is made of drops even smaller than these. So how does a cloud ever make rain? In this lesson you test it yourself, with a spray bottle and a steel plate.
 
 ## Learning outcomes
 0. By the end I can say that a cloud is made of millions of tiny drops of water floating in the air.
@@ -30,6 +30,8 @@ From far away, a cloud looks soft and solid, like cotton. Up close, it is wet mi
 - e.g. Walking through a cloud on a hill road feels like cool, wet mist.
 - e.g. Tiny drops collect on your hair and clothes inside a cloud.
 - e.g. The mist from a spray bottle is a little like a cloud, but its drops are bigger.
+- **Luke Howard:** In 1802 this English pharmacist gave clouds the names we still use, such as cumulus and cirrus, based on their shapes.
+- **Varahamihira:** The Indian scholar of the 500s CE wrote in his Brihat Samhita about cloud kinds and signs of coming rain, from long watching of the sky. He studied the clouds to predict the monsoon.
 ### Tiny drops float, big drops fall · *defined*
 **Definition:** Every drop falls, but a tiny drop falls very slowly. The air pushes against it as it falls, and for a tiny drop that push matters a lot.
 
@@ -37,6 +39,8 @@ In the torch beam, the drop from the spoon fell in a blink. The tiny drops of mi
 - e.g. The drop from the spoon fell straight to the floor.
 - e.g. The mist drifted slowly in the torch beam.
 - e.g. Dust floats in a sunbeam for the same reason: each speck is tiny and light.
+- **George Stokes:** In 1851 he worked out that a very small drop falls at a very slow speed in air, so slow that a gentle breeze can hold it.
+- **Meteorologists:** Say that rising air in a cloud carries the drops up and keeps them aloft. They grow till they are too heavy for the updraft and then fall as rain.
 ### Rain falls when tiny drops join · *defined*
 **Definition:** Inside a cloud, tiny drops bump into each other and join. When a drop has grown big and heavy enough, it falls as rain.
 
@@ -44,6 +48,8 @@ In the Spray Plate experiment, the first sprays left tiny drops on the steel pla
 - e.g. On the plate, many tiny drops joined into one drop that ran down.
 - e.g. On a window in the rain, a big drop races down and swallows the small drops in its way.
 - e.g. Tall monsoon clouds have ice at the top, even on a hot day.
+- **Warm-rain view:** In warm clouds, tiny drops bump into bigger ones and join until they are heavy enough to fall.
+- **Ice-crystal view (Bergeron, 1930s):** In cold clouds, ice crystals grow at the cost of water drops until they fall and melt as rain. Both ways happen, in different clouds.
 ### Where a cloud's water comes from · *defined*
 **Definition:** The Sun warms water in seas, rivers, ponds and wet things, and the water evaporates into the air as invisible water vapour. High in the sky the air is cold, and the vapour condenses into tiny drops. That is a cloud.
 
@@ -51,6 +57,8 @@ Water is always evaporating, from the Bay of Bengal, from the Kaveri, from a pud
 - e.g. Wet clothes dry because their water evaporates into the air.
 - e.g. Monsoon winds carry damp air from the sea over Kerala and the Western Ghats.
 - e.g. Rain that falls in Chennai may have evaporated from the Bay of Bengal a few days before.
+- **Vedic stories:** Say the god Indra struck the demon Vritra, and set the waters free.
+- **Science:** Says the Sun's heat lifts water from seas, rivers and plants into the air, and clouds make it fall again as rain.
 ### Why rain clouds look grey · *defined*
 **Definition:** A thin cloud lets plenty of sunlight through, so it looks white. A very thick cloud stops most of the light before it reaches the bottom, so its underside looks grey or nearly black.
 
@@ -58,6 +66,8 @@ All clouds are made of the same clear water drops. A thick cloud has many more d
 - e.g. Thin white clouds on a sunny morning rarely rain.
 - e.g. Before a monsoon storm, the sky turns dark grey.
 - e.g. The top of a tall storm cloud, lit by the Sun, can look bright white while its bottom is dark.
+- **Physicists:** Explain that a thick cloud lets little sunlight pass through, so the base looks dark.
+- **Satellite observers:** See the same rain cloud from above and it is brilliant white, as the top is lit by the Sun. Grey is how a cloud looks from underneath.
 
 ## Mostly agreed
 - Clouds are made of tiny drops of liquid water, or tiny bits of ice, floating in the air. *How we know:* People in planes and on mountains have caught cloud drops and looked at them under a microscope. Walking through a cloud on a hill leaves tiny drops on your hair.
@@ -512,11 +522,11 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
 - Farmers plan when to sow their seeds by the arrival of the monsoon rains.
 
 ## Spotted around us
-- Clouds sitting on the hills of the Western Ghats during the monsoon, in places like Munnar and Mahabaleshwar.
-- Mawsynram and Sohra (Cherrapunji) in Meghalaya, two of the rainiest places on Earth. Meghalaya means 'the home of the clouds'.
+- Clouds sitting on the hills during the monsoon.
+- A very rainy hill town, in the news or on a map. Some of the rainiest places on Earth are hill towns where the clouds pile up.
 - Big drops racing down the windows of a bus or an auto in the rain, swallowing smaller drops on the way.
-- Dark grey clouds over the Marina beach in Chennai in November, before a northeast monsoon storm.
-- Fog on a winter morning in Delhi or Kolkata. Fog is a cloud that sits on the ground.
+- Dark grey clouds over the sea in November, before a northeast monsoon storm.
+- Fog on a winter morning. Fog is a cloud that sits on the ground.
 
 ## Open questions
 - **Why do the tiny drops in some warm clouds join so quickly into rain?** Scientists can see that it happens faster than simple bumping would explain. Swirling air inside clouds probably helps, but nobody knows exactly how much.
@@ -551,10 +561,15 @@ Tiny Drops Join (sci.weather.L2): Topic-level song for Weather and climate L2
 ## Links
 - [India Meteorological Department](https://mausam.imd.gov.in/) · interactive: For the parent: India's weather service, with satellite pictures of clouds over India and rain warnings for your city.
 - [NASA: What are clouds?](https://www.nasa.gov/earth/what-are-clouds-grades-5-8) · interactive: For the parent: a clear page from NASA on how clouds form and what they are made of.
-- [Tamil Nadu Science and Technology Centre]() · place · Chennai: A science centre with a planetarium and hands-on exhibits for children.
+- Tamil Nadu Science and Technology Centre · place · Chennai: A science centre with a planetarium and hands-on exhibits for children.
 
 ## Things to buy
 - [A small plastic spray bottle that makes a fine mist]() (tool): Used for the spray plate test, the torch beam and the rain shelter challenge. Many homes already have one for ironing clothes or for plants. Used in e1, a1, c1. Buy before the first session, if you have none. A toothbrush flicked with your thumb also works for the spray plate test.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Spray Plate: how many sprays until a drop runs down?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Spray Plate: how many sprays until a drop runs down?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Window Race: watch big drops swallow small ones. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before The Window Race: watch big drops swallow small ones.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Rain Shelter for a Paper Doll. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Rain Shelter for a Paper Doll.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in A Rain Shelter for a Paper Doll. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before A Rain Shelter for a Paper Doll.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a cloud made of? → Millions of tiny drops of water, or tiny bits of ice.
@@ -571,7 +586,7 @@ Tiny Drops Join (sci.weather.L2): Topic-level song for Weather and climate L2
 
 ## Sources
 - ideas/by_topic/changing-materials.md, 'Clouds & Precipitation': the floating cloud dance ending in raindrop leaps (used in the Float, Join, Fall game), the drip-drip relay idea of drops joining (used in the spray plate test and the card game), cloud-spotting and recording rain (used in the white-or-grey activity and the four-week sky book).
-- The Class 1 weather unit says clouds are tiny drops. This unit leads on from it to how those drops become rain. The cloud in a jar, the cold tumbler and the kettle monsoon are left to the Class 3 water cycle unit.
+- The Class 1 weather unit says clouds are tiny drops. This lesson leads on from it to how those drops become rain. The cloud in a jar, the cold tumbler and the kettle monsoon are left to the Class 3 water cycle unit.
 - Cloud droplets are typically about 10 to 20 micrometres across and raindrops about 1 to 2 millimetres, so one raindrop holds about as much water as a million cloud droplets (standard cloud physics, for example R. R. Rogers and M. K. Yau, A Short Course in Cloud Physics).
 - A 20 micrometre droplet falls about 1 centimetre per second in still air; a 2 millimetre raindrop falls about 6 to 7 metres per second.
 - Raindrop shape: small drops are nearly round, larger drops flatten at the base (high-speed photography studies, for example H. R. Pruppacher and K. V. Beard, 1970).

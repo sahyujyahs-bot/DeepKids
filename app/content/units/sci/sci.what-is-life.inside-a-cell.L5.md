@@ -1,7 +1,7 @@
 # Inside a cell: why your cells need a transport system and a bacterium does not
 `sci.what-is-life.inside-a-cell.L5`
 
-**Summary.** Your cells need a transport system inside them, but a tiny bacterium does not. Why? In this unit you will time how far colour drifts into a potato over 1, 4 and 16 hours, walk a coin to see wandering against walking straight, and send proteins to the right place in a cell.
+**Summary.** Your cells need a transport system inside them, but a tiny bacterium does not. Why? In this lesson you will time how far colour drifts into a potato over 1, 4 and 16 hours, walk a coin to see wandering against walking straight, and send proteins to the right place in a cell.
 
 **Intro.** *A bacterium is alive. She eats, grows and makes copies of herself. Yet she has no nucleus, no Golgi body, no lysosomes and no tracks. Your cells have all of them. So what are these parts for, if a living cell can do without them? Say what you think, and why.* Here is one clue. A bacterium is about 2 micrometres long. A micrometre is one thousandth of a millimetre. A cell from your skin is about 20 micrometres wide, so she is ten times as wide as the bacterium. In the Potato Colour Test you will find out what that extra size does to a cell. You will measure how far colour drifts in 1 hour, 4 hours and 16 hours. The answer explains why your cells have tracks and motors, and it is a clue to the other parts too.
 
@@ -152,7 +152,7 @@ We have learned how a large cell ships, recycles and holds her shape, and how a 
 
 A bacterium and one of your cells share one ancestor and the same chemistry: DNA, ribosomes, a membrane and ATP. From that one beginning, life found different ways to live at different sizes. Then two different kinds of cell met, and one came to live inside the other. Every animal, plant and fungus has grown from that joining. So the many kinds of life are one family, and some of its branches have joined again.
 
-- **Zhuangzi, chapter 17, 'Autumn Floods' (paraphrased):** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Seen from the Way, nothing is noble and nothing is lowly. Seen from each thing, each one calls itself noble and the others lowly. (We call our own cells advanced and bacteria simple. The science in this unit shows two designs, each fitted to a size. The ranking comes from us.)
+- **Zhuangzi, chapter 17, 'Autumn Floods' (paraphrased):** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Seen from the Way, nothing is noble and nothing is lowly. Seen from each thing, each one calls itself noble and the others lowly. (We call our own cells advanced and bacteria simple. The science in this lesson shows two designs, each fitted to a size. The ranking comes from us.)
 - **Tattvartha Sutra 5.21, a Jain text by Umasvati (paraphrased):** “परस्परोपग्रहो जीवानाम्” Living beings exist by helping one another. (A mitochondrion gives the cell ATP. The cell gives her food, shelter and most of her proteins. Neither can now live without the other.)
 - Science (settled): Mitochondria and chloroplasts descend from free-living bacteria that came to live inside larger cells.
 - Science (settled): The time needed to drift a distance grows with the square of the distance. This limits how large a cell can be without a transport system.
@@ -581,7 +581,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 14. (write) Laboratory amoebas came to need bacteria that had infected them. What does this show about mitochondria, and what not?  
    **Answer:** It shows that a guest living inside a cell can become a needed partner over many generations. So the first step towards a mitochondrion is possible. It does not show that mitochondria began this way two billion years ago. That evidence comes from their DNA and ribosomes.. *Why:* A strong answer separates 'this can happen' from 'this is what happened'. An experiment today can show only the first.
 15. (match) Match each thing you saw to its explanation.  
-   **Answer:** Boiled potato does not fizz → heat changed the shape of an enzyme; Colour goes only twice as deep in four times the time → drifting molecules wander forward and back; A wet pencil passes through a soap film → a liquid sheet closes round a gap; A whole newspaper fits in a tumbler → folding fits a large area into a small space; One bean stands for a bacterium and a mitochondrion → the two are the same size. *Why:* Each result in this unit has a reason at the level of molecules. A strong answer could explain any pair in a full sentence.
+   **Answer:** Boiled potato does not fizz → heat changed the shape of an enzyme; Colour goes only twice as deep in four times the time → drifting molecules wander forward and back; A wet pencil passes through a soap film → a liquid sheet closes round a gap; A whole newspaper fits in a tumbler → folding fits a large area into a small space; One bean stands for a bacterium and a mitochondrion → the two are the same size. *Why:* Each result in this lesson has a reason at the level of molecules. A strong answer could explain any pair in a full sentence.
 
 ## Videos
 - **Kinesin protein walking on microtubule** (em2134x, 1 min) id `y-uuk4Pr2i8`: To see a model of a motor protein stepping along a microtubule with a vesicle on its back. It is a computer animation built from real measurements, not a film of a real cell. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it.
@@ -634,11 +634,11 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 ## Spotted around us
 - A vessel of idli batter rising overnight. Bacteria and yeast work in it side by side: cells without a nucleus and cells with one.
 - Milk set into curd by morning. A spoon of bacteria has become billions, because one of these bacteria can copy herself in about an hour.
-- The pink and white nithyakalyani flowers by a roadside in Chennai or Kochi, the plant that gave a medicine which stops microtubules.
+- The pink and white nithyakalyani flowers by a roadside, the plant that gave a medicine which stops microtubules.
 - The swellings on the roots of a groundnut plant pulled from a field. Bacteria live inside the plant's cells there.
 - A frog who looks darker on dark mud than on a pale stone. Her skin cells have moved their grains of pigment along microtubules.
 - Hair on the floor of a barber's shop and the nail clippings at home. Both are keratin, the rope protein of the cytoskeleton.
-- The corals of Lakshadweep and the Gulf of Mannar. Tiny algae live inside the coral animal's cells and share the food they make from sunlight.
+- Corals in an aquarium or a video. Tiny algae live inside the coral animal's cells and share the food they make from sunlight.
 - Your mouth watering at the smell of lemon rice. Gland cells are letting out vesicles of saliva proteins.
 
 ## Open questions
@@ -687,11 +687,19 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - [The Nobel Prize in Physiology or Medicine 2013](https://www.nobelprize.org/prizes/medicine/2013/summary/) · interactive: For the parent: a plain account of how vesicles find the right membrane and join it.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with a biotechnology gallery. Look for models of cells and DNA.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about the human body and life.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with galleries on biology and the human body.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with galleries on biology and the human body.
 
 ## Things to buy
 - [A small bottle of liquid food colour, red, blue or green](https://www.amazon.in/s?k=liquid+food+colour) (material): The Potato Colour Test needs a strong colour. Grocery shops and bakery supply shops sell small bottles. Blue fountain-pen ink or the juice of a grated beetroot can be used in its place. Used in e1. 
 - [Hydrogen peroxide solution, 3 percent, 100 millilitres](https://www.amazon.in/s?k=hydrogen+peroxide+solution+3%25) (material): The Fizzing Potato test needs it, and nothing at home can stand in for it. Chemists sell small brown bottles cheaply. If the bottle says 6 percent or '20 volumes', a grown-up mixes it with the same amount of water first. Buy a fresh bottle, because an old one slowly turns to water. Used in e2. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1. Get it before The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Fold It In: how does so much membrane fit in a cell?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Fold It In: how does so much membrane fit in a cell?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?, The Fizzing Potato: what do potato cells do to hydrogen peroxide?, The Coin Walk: wander or walk straight?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a3, p1. Get it before The Potato Colour Test: how deep does colour drift in 1 hour, 4 hours and 16 hours?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in A Film That Mends: how a vesicle can join a membrane without a leak. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a2. Get it before A Film That Mends: how a vesicle can join a membrane without a leak.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in The Thread Line: carry a parcel along a level track. About ₹20 to ₹60. Used in c1. Get it before The Thread Line: carry a parcel along a level track.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Thread Line: carry a parcel along a level track. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Thread Line: carry a parcel along a level track.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Coin Walk: wander or walk straight?, A Cell on a Plate at True Scale, with a bacterium beside her. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, p1. Get it before The Coin Walk: wander or walk straight?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - By drifting, twice as far takes how many times as long? → About four times as long.
@@ -712,7 +720,7 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - Founder's notebook items bio:74 to bio:79 (organelles and structures: nucleus, mitochondria, chloroplasts; ER and Golgi apparatus; lysosomes and peroxisomes; cytoskeleton; cell membranes): each named part has an explanation here, and peroxisomes have their own experiment.
 - Founder's notes in ideas/by_topic/how-life-began.md, plants.md and microorganisms.md on the first eukaryotes and on cells taking in other cells: used for the explanation of endosymbiosis and the debate about the host cell. The founder's note has the host and the guest the other way round, so the accepted order is used here.
 - Founder's SCI Cards in ideas/scientists.json for Lynn Margulis and Yellapragada SubbaRow: used for the evidence card on mitochondria and the credit for ATP.
-- The Level 4 unit sci.what-is-life.inside-a-cell.L4, which this unit builds on without repeating its experiments, story or deep truth.
+- The Level 4 unit sci.what-is-life.inside-a-cell.L4, which this lesson builds on without repeating its experiments, story or deep truth.
 - Einstein, A., on the movement of small particles suspended in liquids, Annalen der Physik 17, 1905. Perrin, J., Brownian movement and molecular reality, 1909
 - Jamieson, J. D. and Palade, G. E., Intracellular transport of secretory proteins in the pancreatic exocrine cell, Journal of Cell Biology 34, 1967
 - Dalton, A. J. and Felix, M. D., Cytologic and cytochemical characteristics of the Golgi substance of epithelial cells of the epididymis, American Journal of Anatomy 94, 1954

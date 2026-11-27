@@ -591,6 +591,10 @@ Long Shadow, Short Shadow (sci.day-night-seasons.L2): One song for the idea of d
 
 ## Things to buy
 - [Moonbear's Shadow by Frank Asch](https://www.amazon.in/s?k=Moonbears+Shadow) (book): A bear tries to get rid of his shadow and finds that it changes with the time of day. It is funny and goes well with the lesson on shadows and the Sun. Used in a1. Read it together after the shadow-watching activity.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sun on a Stick: show the path from sunrise to sunset. About ₹10 to ₹30. Any school ruler is fine. Used in a5. Get it before The Sun on a Stick: show the path from sunrise to sunset.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Floor Clock: make a sun patch tell the time. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before The Floor Clock: make a sun patch tell the time.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Sun on a Stick: show the path from sunrise to sunset, Shade for a Toy, All Day Long. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a5, c1. Get it before The Sun on a Stick: show the path from sunrise to sunset.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does the Sun rise? → In the east.

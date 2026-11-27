@@ -1,9 +1,9 @@
 # Crystals: how salt and sugar grow their own flat faces
 `sci.states.crystals.L3`
 
-**Summary.** Dry some salt water and tiny cubes of salt appear, though nobody cut them. How? In this unit you will dry salt water fast on a plate and slowly in a glass, compare the shapes of salt, sugar and phitkari, and crack a crystal.
+**Summary.** Dry some salt water and tiny cubes of salt appear, though nobody cut them. How? In this lesson you will dry salt water fast on a plate and slowly in a glass, compare the shapes of salt, sugar and phitkari, and crack a crystal.
 
-**Intro.** *Look at a grain of kal uppu, the big crystal salt used in many South Indian kitchens. Its sides are flat and smooth, like a tiny window. Nobody in the salt pan cut or polished it. So where did those flat sides come from?* Salt from the sea is dried in the sun at salt pans, like the ones at Thoothukudi in Tamil Nadu. The salt grains grow there by themselves. In this unit you grow salt crystals at home, fast on a plate and slowly in a glass. You look at them closely, crack one open, and compare salt with sugar and phitkari. By the end you will know what gives a crystal its flat faces, and what makes one crystal big and another tiny.
+**Intro.** *Look at a grain of kal uppu, the big crystal salt used in many South Indian kitchens. Its sides are flat and smooth, like a tiny window. Nobody in the salt pan cut or polished it. So where did those flat sides come from?* Salt from the sea is dried in the sun at salt pans, like the ones at Thoothukudi in Tamil Nadu. The salt grains grow there by themselves. In this lesson you grow salt crystals at home, fast on a plate and slowly in a glass. You look at them closely, crack one open, and compare salt with sugar and phitkari. By the end you will know what gives a crystal its flat faces, and what makes one crystal big and another tiny.
 
 ## Learning outcomes
 0. I can say what a crystal is: a solid whose particles join in the same pattern again and again, which gives it flat faces and corners.
@@ -31,12 +31,16 @@ Particles are far too small to see. In a salt crystal, the particles sit in stra
 - e.g. A grain of table salt is one small crystal, or a few stuck together.
 - e.g. Kalkandu is one big sugar crystal, or a few joined together.
 - e.g. Snowflakes are ice crystals. Their six arms come from the six-sided pattern that water particles make when they freeze.
+- **Many chemists before 1982:** A crystal always has a pattern that repeats exactly in every direction.
+- **Dan Shechtman (1982):** Found a metal with a pattern that never exactly repeats, called a quasicrystal. Many scientists doubted him, but he was proved right and won the Nobel Prize in 2011.
 ### Why a crystal has flat faces · *defined*
 **Definition:** A crystal has flat faces because new particles join it in rows that follow the same pattern. A row that is complete is flat, like a finished row of bricks in a wall.
 
 Think of laying bricks. If every brick goes into the pattern, the wall has a flat side, even though nobody smoothed it. A crystal is the same, with particles instead of bricks. In the Crack a Crystal activity, you press a kal uppu crystal until it cracks. The pieces also have flat sides and square corners. That is because the crystal breaks most easily between its rows of particles, so even the broken sides follow the pattern.
 - e.g. Crack a lump of rock salt (sendha namak) and the pieces have flat sides that meet in square corners.
 - e.g. A diamond cutter finds the directions in which a diamond splits most easily, and uses them.
+- **Rene Just Hauy:** In 1784 he broke a crystal and saw that the pieces had the same shape, so he guessed that crystals are stacks of tiny identical blocks.
+- **Max von Laue:** In 1912 he sent X-rays through a crystal and saw a pattern of spots. It proved that the atoms sit in regular rows. Hauy's blocks were a good guess.
 ### Each substance grows its own shape · *defined*
 **Definition:** The particles of each substance join in their own pattern, so each substance grows its own crystal shape.
 
@@ -44,6 +48,8 @@ Salt particles join in a square pattern, so salt grows as cubes. Phitkari partic
 - e.g. Salt from the sea, salt from a mine and salt from your glass all make cubes.
 - e.g. Kalkandu from a shop and sugar grains from the dabba have the same slanted faces.
 - e.g. Phitkari grown in your glass has triangle faces, like the phitkari crystals in a museum.
+- **Hauy and early mineralogists:** Described each mineral by its crystal shape, such as salt as cubes, and used it to name them.
+- **Modern crystallographers:** Find that one substance can have more than one shape. Carbon makes soft graphite and hard diamond, and the same chemical can form different crystals in different conditions.
 ### Slow growth makes bigger crystals · *defined*
 **Definition:** When a solution dries or cools slowly, a few crystals start and keep growing, so they become big. When it dries or cools fast, very many crystals start at once, so each stays tiny.
 
@@ -51,16 +57,22 @@ In the Fast Plate or Slow Glass experiment, the water on the plate was thin and 
 - e.g. At the salt pans, slow drying grows bigger grains than fast drying.
 - e.g. Kalkandu makers leave their syrup still for days, so the crystals grow big. Stirring and fast cooling give fine sugar instead.
 - e.g. The biggest crystals ever found, in the Cave of the Crystals in Mexico, grew in warm water that changed very slowly for hundreds of thousands of years.
+- **Naica cave scientists:** In a cave in Mexico, crystals of gypsum grew as long as trees, up to 11 metres, over hundreds of thousands of years in warm water. Time makes size.
+- **Indian sweet makers:** Make mishri, rock sugar, by letting sugar syrup cool slowly on strings so that big crystals form. Faster cooling gives fine powder.
 ### Not every solid is a crystal · *defined*
 **Definition:** In some solids, the particles are jumbled, with no repeating pattern. These solids are not crystals, and they have no flat faces of their own.
 
 Glass is made from sand, and sand is mostly bits of quartz crystal. But glass is made by melting the sand and cooling it fast, so its particles freeze in a jumble. A boiled sweet is the same: it is sugar, cooled so fast from a hot syrup that the particles had no time to join in a pattern. So the same sugar can be a crystal, like kalkandu, or not a crystal, like a clear boiled sweet.
 - e.g. A glass bangle is not a crystal. When it breaks, the broken edges are curved, not flat.
 - e.g. A clear boiled sweet is sugar that is not a crystal. Kalkandu is sugar that is a crystal.
+- **Classical view:** Until the 1980s a solid was thought to be either a crystal with a repeating pattern or a jumble with no pattern.
+- **Dan Shechtman:** In 1982 he found a metal with a pattern that is ordered but never repeats. Many experts, including Linus Pauling, doubted it. He won the Nobel Prize in 2011.
 ### How the very first tiny crystal starts · *idea*
 Before a crystal can grow, a few particles must come together and stay together. Scientists call this start 'nucleation'. They know it happens more easily on a scratch, a speck of dust or a thread. That is why salt crystals often start at the edge of the water, and why kalkandu grows on a thread. But exactly how the first few particles find each other and stay together is still being studied. Some scientists think the particles first gather in a loose cloud, and only later line up into a pattern.
 - e.g. A rough thread grows more crystals than a smooth glass wall.
 - e.g. A seed crystal skips this step, because the pattern is already there for new particles to join.
+- **Classical theory:** A crystal starts when enough particles meet by chance and settle in a pattern, and it grows from there.
+- **Newer research:** Finds that particles often first make a dense, jumbled blob, and then arrange into a crystal. Scientists are still working out which happens when.
 
 ## Mostly agreed
 - A crystal is a solid whose particles are arranged in a pattern that repeats. *How we know:* Since 1912, scientists have shone X-rays through crystals. The X-rays bounce off the rows of particles and make neat patterns of spots, which show how the particles are arranged.
@@ -476,7 +488,7 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
    Options: The undissolved salt would stay on the dish and look like crystals that grew / The undissolved salt is a different kind of salt / The tumbler would be too heavy  
    **Answer:** The undissolved salt would stay on the dish and look like crystals that grew. *Why:* Salt that never dissolved is not crystals that grew from the water. Pouring off only the clear salt water means every crystal you see grew as the water dried.
 6. (match) Match each word to what it means.  
-   **Answer:** Crystal → a solid with particles in a repeating pattern; Face → a flat side of a crystal; Evaporate → a liquid going into the air as a gas; Seed crystal → a small crystal that more particles join. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about crystals.
+   **Answer:** Crystal → a solid with particles in a repeating pattern; Face → a flat side of a crystal; Evaporate → a liquid going into the air as a gas; Seed crystal → a small crystal that more particles join. *Why:* Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about crystals.
 7. (sort) Sort these solids. Crystal, or not a crystal?  
    **Answer:** kalkandu → Crystal; a glass window → Not a crystal; phitkari → Crystal; a clear boiled sweet → Not a crystal; an ice cube → Crystal; a rubber band → Not a crystal. *Why:* Crystals have their particles in a repeating pattern. Glass, boiled sweets and rubber have their particles jumbled.
 8. (write) Why does a salt crystal have flat sides, even though nobody cut it?  
@@ -615,8 +627,8 @@ On the bus, he unwrapped them and held one up to the window. The light came thro
 
 ## Spotted around us
 - Kal uppu, the big crystal salt kept in a jar in many South Indian kitchens.
-- Kalkandu at a temple, given as prasadam, or in kalkandu bath, a sweet from Karnataka.
-- The white salt heaps at the salt pans near Thoothukudi, or along the Odisha and Gujarat coasts, seen from the road.
+- Kalkandu, rock sugar, given at a temple as prasadam.
+- White salt heaps at salt pans along a coast, seen from the road.
 - A jar of honey that has gone grainy in a cold month.
 - The feathery frost inside a freezer.
 - Phitkari at a barber's shop, or in a pooja shop.
@@ -667,6 +679,9 @@ Still There (sci.states.L3):
 - [Phitkari (alum), a small lump or powder](https://www.amazon.in/s?k=phitkari+alum) (material): For growing phitkari crystals overnight. Sold cheaply at grocery shops, pooja shops and chemists. A 100 gram packet is plenty. Not to be eaten. Used in e2. 
 - [A hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the faces of small crystals. A phone camera zoomed in works too, so you can skip this. Used in e1, a1, a3, a4. 
 - [Kalkandu (rock sugar), also called mishri](https://www.amazon.in/s?k=kalkandu) (material): A big sugar crystal to compare with your grown crystals. Any kirana shop sells it. You can skip it. Used in e2, a4, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Fast Plate or Slow Glass: which grows bigger salt crystals?, Pack the Coins: why a pattern makes straight edges, Grow the Biggest Salt Crystal. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, c1. Get it before Fast Plate or Slow Glass: which grows bigger salt crystals?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Grow the Biggest Salt Crystal. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c1. Get it before Grow the Biggest Salt Crystal.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a crystal? → A solid whose particles are joined in a pattern that repeats.

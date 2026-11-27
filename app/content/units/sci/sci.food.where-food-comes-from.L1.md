@@ -1,9 +1,9 @@
 # Where food comes from: food from plants and food from animals
 `sci.food.where-food-comes-from.L1`
 
-**Summary.** A mango tree never eats, yet it grows big and makes mangoes. How? In this unit you will sort your lunch into food from plants and food from animals, and turn thin sugar water thick to see how bees make honey from nectar.
+**Summary.** A mango tree never eats, yet it grows big and makes mangoes. How? In this lesson you will sort your lunch into food from plants and food from animals, and turn thin sugar water thick to see how bees make honey from nectar.
 
-**Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this unit you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.
+**Intro.** *Hold a spoon of honey and tip it slowly. The honey creeps off the spoon. Now tip a spoon of water. The water runs off at once. Bees make honey from a thin, watery juice inside flowers. How do they make it so thick?* Every food we eat comes from somewhere. Most of it comes from plants or from animals. In this lesson you sort your lunch into food from plants and food from animals. You find out that plants make their own food, and animals must eat. Then you test what happens to thin sugar water under a fan. Bees make honey in a similar way.
 
 ## Learning outcomes
 0. By the end I can sort foods into food from plants and food from animals, and give two examples of each.
@@ -467,10 +467,10 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 - Honey keeps for a very long time without spoiling, because it has so little water in it.
 
 ## Spotted around us
-- A huge rock bee comb hanging under a ledge or a water tank on a tall building, in Bengaluru, Hyderabad or Chennai. Watch from far away and never disturb it.
+- A huge rock bee comb hanging under a ledge or a water tank on a tall building. Watch from far away and never disturb it.
 - A milk booth or a milk van in the early morning, bringing milk from the dairy.
-- Green rice fields from a train window, in Thanjavur, Kerala, Bengal or Assam.
-- A fish market in Kochi or Kolkata, with fish just brought in from the sea or the river.
+- Green rice fields from a train window.
+- A fish market, with fish just brought in from the sea or the river.
 - A bee visiting a flower on a balcony pot, like tulsi, a hibiscus or a marigold.
 
 ## Open questions
@@ -507,10 +507,11 @@ From the Flower and the Field (sci.food.L1): Topic-level song for Food and nutri
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a bee on a flower near your home and find out which kind of bee she is.
-- [Central Bee Research and Training Institute]() · place · Pune: A government institute that studies bees and trains beekeepers. Ask before you visit.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Many flowering trees, where you can watch bees visiting flowers from a safe distance.
+- Central Bee Research and Training Institute · place · Pune: A government institute that studies bees and trains beekeepers. Ask before you visit.
+- Lalbagh Botanical Garden · place · Bengaluru: Many flowering trees, where you can watch bees visiting flowers from a safe distance.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name two foods that come from plants. → Any two, such as rice and bananas.

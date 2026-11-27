@@ -1,9 +1,9 @@
 # Endemic species and extinction: why rare living beings need protected places
 `sci.ecology.biodiversity.L5`
 
-**Summary.** All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this unit you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.
+**Summary.** All the wild lions of Asia live in and around one forest in Gujarat. What if that place is harmed? In this lesson you will cut a paper forest in half, flip coins to see how a small group can die out, and choose places to protect.
 
-**Intro.** *All the wild lions of Asia live in and around one forest, the Gir forest in Gujarat. In 2020 there were 674 of them. Is 674 lions in one forest a safe number? What could go wrong?* A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this unit you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.
+**Intro.** *All the wild lions of Asia live in and around one forest, the Gir forest in Gujarat. In 2020 there were 674 of them. Is 674 lions in one forest a safe number? What could go wrong?* A crow lives in almost every town in India. If the crows of one town died, there would still be crows everywhere else. A lion-tailed macaque lives only in the rainforests of the Western Ghats. If those forests go, there is no other place with lion-tailed macaques. In this lesson you test what happens to rare species when a forest shrinks. You test whether a small group can die out by bad luck alone. Then you meet the people who have protected forests, from a village in Rajasthan in 1730 to women in Assam today.
 
 ## Learning outcomes
 0. By the end I can say what an endemic species is, and name endemic species of India and where they live.
@@ -831,9 +831,9 @@ Rudi listened until it stopped.
 
 ## Spotted around us
 - A house crow and a jungle crow on the same wall. Look for the grey neck of the house crow.
-- A sacred grove, a kavu in Kerala or a small patch of old trees by a temple, with a different kind of forest inside.
+- A sacred grove or a small patch of old trees by a temple, with a different kind of forest inside.
 - A signboard at a forest gate that says National Park, Wildlife Sanctuary or Tiger Reserve.
-- A road sign that warns of animals crossing, on a highway through a forest, for example near Bandipur or Mudumalai.
+- A road sign that warns of animals crossing, on a highway through a forest.
 - A city park or a school garden. Count how many kinds of trees, birds and insects live there compared with a big forest.
 - A zoo or a nature centre label that gives the Red List step of an animal.
 - A market stall that sells many local kinds of rice, millet or banana, each with its own name.
@@ -883,13 +883,16 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [iNaturalist](https://www.inaturalist.org) · interactive: For the parent: photograph a plant or animal near you and find out who she is. Useful for Ten Minutes at the Window.
 - [The IUCN Red List](https://www.iucnredlist.org) · interactive: For the parent: look up the Red List step of any species, with her range and the threats she faces. Useful for A Rescue Plan.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: pages on Indian species, with maps of where each one has been seen.
-- [Eravikulam National Park]() · place · Near Munnar, Kerala: High grassy hills where Nilgiri tahr can be seen. A real sky island of the Western Ghats.
-- [Silent Valley National Park]() · place · Near Mannarkkad, Palakkad district, Kerala: A rainforest that was saved from a dam. It shelters many lion-tailed macaques.
-- [Gir National Park]() · place · Sasan Gir, Junagadh district, Gujarat: The only place in the world where wild Asiatic lions live.
+- Eravikulam National Park · place · Near Munnar, Kerala: High grassy hills where Nilgiri tahr can be seen. A real sky island of the Western Ghats.
+- Silent Valley National Park · place · Near Mannarkkad, Palakkad district, Kerala: A rainforest that was saved from a dam. It shelters many lion-tailed macaques.
+- Gir National Park · place · Sasan Gir, Junagadh district, Gujarat: The only place in the world where wild Asiatic lions live.
 
 ## Things to buy
 - [A school atlas of India](https://www.amazon.in/s?k=school+atlas+india) (book): For Only Here and A Rescue Plan: it helps to find the Western Ghats, the islands and the hills of the northeast. A printed outline map also works. Used in a3, p1. Keep it beside the unit for the map activities.
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the Cold Hilltop and A Way Through. A squared maths notebook also works. Used in a4, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bread Forest: is one big patch the same as sixteen small ones?, Only Here: where in India do some species live?, The Cold Hilltop: what happens to a mountain species when the air warms?. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a3, a4, c1. Get it before The Bread Forest: is one big patch the same as sixteen small ones?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Shrinking Forest Test: how many kinds are left when a forest is cut to half?, Same Count, Different Forest: why counting kinds is not enough. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a2. Get it before The Shrinking Forest Test: how many kinds are left when a forest is cut to half?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does 'endemic' mean? → Found naturally in only one place.
@@ -908,7 +911,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 ## Sources
 - Notebook items bio:200 (conservation biology, biodiversity, climate change impact) and bio:261 (conservation biology: endangered species, habitat loss, restoration), from the curriculum entry
 - NCERT Class 5 Chapter 6 'Some Unique Places' and NIOS Open Basic Education Environmental Studies Level B Lesson 7 'Life of Plants and Animals', for coverage only
-- The sibling Level 5 unit on food webs, so that this unit does not repeat its experiments, story or deep truth
+- The sibling Level 5 unit on food webs, so that this lesson does not repeat its experiments, story or deep truth
 - Myers, The Environmentalist 1988, 'Threatened biotas: hotspots in tropical forests', and Myers and others, Nature 2000, 'Biodiversity hotspots for conservation priorities'
 - Lovejoy and others, 1986, on the Biological Dynamics of Forest Fragments Project near Manaus, and Ferraz and others, PNAS 2003, 'Rates of species loss from Amazonian forest fragments'
 - Laurance and others, Biological Conservation 2011, 'The fate of Amazonian forest fragments: A 32-year investigation'

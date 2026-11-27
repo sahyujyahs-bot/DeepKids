@@ -1,9 +1,9 @@
 # How animals learn: getting used to things, linking things, and teaching
 `sci.animal-behaviour.animal-learning.L4`
 
-**Summary.** A sparrow runs from a new scarecrow on Monday and sits on its head by Friday. Has she become careless, or has she learned? In this unit you will run the Spoon Test on two volunteers, play a bee game about which flower pays, and see how meerkats teach.
+**Summary.** A sparrow runs from a new scarecrow on Monday and sits on its head by Friday. Has she become careless, or has she learned? In this lesson you will run the Spoon Test on two volunteers, play a bee game about which flower pays, and see how meerkats teach.
 
-**Intro.** *Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?* The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this unit you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould, one giant cell that senses with chemical signals instead of nerve cells.
+**Intro.** *Stop and listen for ten seconds. Is a fan whirring, a fridge humming or a clock ticking? Ten minutes ago, you were not hearing it. Where did the sound go?* The sound never stopped. Your mind learned that it does not matter, and left it out. Scientists call this habituation, and it is the simplest kind of learning. In this lesson you test it on volunteers with a spoon and a plate. Then you look at how other living things learn: bees, meerkats and songbirds, a sea slug with only 20,000 nerve cells, and a slime mould, one giant cell that senses with chemical signals instead of nerve cells.
 
 ## Learning outcomes
 0. I can say what learning is, and tell it apart from instinct, growing up and tiredness.
@@ -671,6 +671,7 @@ Learning Is a Path That Gets Stronger (sci.animal-behaviour.L4): Topic-level son
 - [A sports stopwatch or kitchen timer that shows seconds](https://www.amazon.in/s?k=sports+stopwatch) (tool): For the Spoon Test, Crammed or Spread Out, the Meerkat Lesson and The Appointment. A phone clock also works. Used in e1, e2, a2, p1. 
 - [A pack of blank index cards](https://www.amazon.in/s?k=blank+index+cards) (material): For the word slips in Crammed or Spread Out. Cut-up paper works as well. Used in e2. 
 - [Alex and Me by Irene Pepperberg](https://www.amazon.in/s?k=alex+and+me+irene+pepperberg) (book): For the parent: the true story of a scientist and an African grey parrot who learned names, colours and shapes. Used in a3. Read a chapter aloud on the day of the One Time Is Enough survey, and talk about how much an animal can learn.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does learning mean for a living being? → A lasting change in what she does, caused by experience.
@@ -690,8 +691,8 @@ Learning Is a Path That Gets Stronger (sci.animal-behaviour.L4): Topic-level son
 ## Sources
 - Founder's notes for this topic, Thinking and memory: the section 'Thought Predates Neurons' (a bacterium moving towards food, ions flowing, patterns of use becoming memory, and neurons as faster tunnels for the same process), used for the 'learning without a brain' explanation and the roots.
 - Combined lessons sci-C3-thinking-and-memory and sci-C5-thinking-and-memory: the subconcepts on spaced practice, practice strengthening connections, and thinking without a brain, used as the base for the spaced-practice experiment and the explanations on connections.
-- Notebook items bio:99 to bio:103 (habituation, learning and cognition, classical conditioning, operant conditioning, observational learning). Pavlov and Thorndike are taught in the Class 3 animal minds unit, and this unit goes deeper into habituation, sensitisation, association, spaced practice and teaching.
-- Class 3 unit on animal learning: checked so that this unit does not repeat its Useless Step Test, Pass It On, Chaser or the tap-on-the-plate story. Other nearby units checked: animals around us (ant trails), animal societies (ants), cells (slime mould habituation, Dussutour), consciousness (attention).
+- Notebook items bio:99 to bio:103 (habituation, learning and cognition, classical conditioning, operant conditioning, observational learning). Pavlov and Thorndike are taught in the Class 3 animal minds unit, and this lesson goes deeper into habituation, sensitisation, association, spaced practice and teaching.
+- Class 3 unit on animal learning: checked so that this lesson does not repeat its Useless Step Test, Pass It On, Chaser or the tap-on-the-plate story. Other nearby units checked: animals around us (ant trails), animal societies (ants), cells (slime mould habituation, Dussutour), consciousness (attention).
 - Thompson and Spencer (1966), Habituation: a model phenomenon for the study of neuronal substrates of behavior, Psychological Review 73 (the signs that separate habituation from fatigue)
 - Castellucci, Pinsker, Kupfermann and Kandel (1970), Neuronal mechanisms of habituation and dishabituation of the gill-withdrawal reflex in Aplysia, Science 167
 - Carew, Pinsker and Kandel (1972), Long-term habituation of a defensive withdrawal reflex in Aplysia, Science 175 (spaced training lasts longer)

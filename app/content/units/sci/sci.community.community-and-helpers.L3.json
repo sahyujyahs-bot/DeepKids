@@ -2508,7 +2508,44 @@
    "why": "A large old post office building in George Town. Visit on a working day to see how the counters work."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-postcard",
+   "item": "Postcard or stamped envelope",
+   "kind": "material",
+   "why": "The child posts a letter to a relative in another town and counts the days and the people who carry it. About ₹5 to ₹15 for a postcard at a post office, plus the postage. A plain envelope with a stamp from the post office does the same job.",
+   "url": "",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy it on the day you post the card."
+  },
+  {
+   "id": "b-chart-community",
+   "item": "Chart paper, one large sheet",
+   "kind": "material",
+   "why": "The public services map is drawn on it so the whole neighbourhood fits on one page. About ₹10 to ₹25 a sheet at a stationery shop. Two sheets of old newspaper taped together work too.",
+   "url": "https://www.amazon.in/s?k=chart+paper",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Buy it before you draw the Public Services Map."
+  },
+  {
+   "id": "b-print-community",
+   "item": "Printed pages for the problem cards, score sheet and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The card game uses 16 printed problem cards with the helper on the back, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the card game."
+  }
+ ],
  "warmup": [
   {
    "q": "What number do you call in India for police, fire or an ambulance?",

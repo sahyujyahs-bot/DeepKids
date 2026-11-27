@@ -1,9 +1,9 @@
 # Floating and sinking: why a heavy rolling pin floats and a light coin sinks
 `sci.states.floating-and-sinking.L2`
 
-**Summary.** A heavy wooden rolling pin floats, but a light coin sinks. What decides it? In this unit you will line up kitchen things by how heavy they feel, guess first, then test them in a bucket of water, and push things down to feel the water push back.
+**Summary.** A heavy wooden rolling pin floats, but a light coin sinks. What decides it? In this lesson you will line up kitchen things by how heavy they feel, guess first, then test them in a bucket of water, and push things down to feel the water push back.
 
-**Intro.** *Hold a wooden rolling pin in one hand and a one-rupee coin in the other. Which one is heavier? Now guess: which one will sink in a bucket of water?* Most people guess that the heavy rolling pin will sink and the light coin will float. You are going to drop them in and see. Then you will test many more things from the kitchen. If weight does not decide what sinks, what does? This unit answers that question, and your own test will show you.
+**Intro.** *Hold a wooden rolling pin in one hand and a one-rupee coin in the other. Which one is heavier? Now guess: which one will sink in a bucket of water?* Most people guess that the heavy rolling pin will sink and the light coin will float. You are going to drop them in and see. Then you will test many more things from the kitchen. If weight does not decide what sinks, what does? This lesson answers that question, and your own test will show you.
 
 ## Learning outcomes
 0. By the end I can say what float and sink mean, and test a thing to find out which it does.
@@ -30,6 +30,8 @@ In the bucket test, you pushed each thing under with a finger, then let go. The 
 - e.g. A lemon bobs back up when you let go, so it floats.
 - e.g. A steel spoon stays at the bottom, so it sinks.
 - e.g. An ice cube floats, but most of it stays under the water.
+- **Aristotle:** Taught that the shape of a thing decides if it floats, and that a thin flat piece floats because it cannot cut through water.
+- **Galileo:** In 1612 he argued against this, and showed that what matters is how heavy a thing is for its size, not its shape. His view agreed with Archimedes.
 ### Weight alone does not decide · *defined*
 **Definition:** A heavy thing can float, and a light thing can sink. How heavy a thing feels in your hand does not tell you if it will float.
 
@@ -37,6 +39,8 @@ In your hand, the wooden rolling pin felt much heavier than the coin. Many child
 - e.g. A wooden rolling pin is heavy and floats.
 - e.g. A one-rupee coin is light and sinks.
 - e.g. A whole coconut is heavy and floats.
+- **Everyday view:** Heavy things sink and light things float. It is what our hands tell us.
+- **Archimedes:** Showed that what matters is how heavy a thing is compared with the water it pushes aside. A huge ship floats and a small pebble sinks.
 ### What it is made of decides · *defined*
 **Definition:** For a solid lump of one material, what the material is decides if it floats. A big piece and a small piece of the same material do the same thing.
 
@@ -44,6 +48,8 @@ The whole potato sank, and so did a piece as small as your fingernail. The big r
 - e.g. A whole potato and a tiny piece of potato both sink.
 - e.g. A big rolling pin and a small matchstick, both wood, both float.
 - e.g. A steel spoon and a steel key both sink.
+- **Aristotle:** Said the shape of a thing decides if it floats, so a flat piece of iron floats and a ball does not.
+- **Archimedes and Galileo (1612):** Said it depends on what the thing weighs compared with the water it pushes aside. Galileo defended this against scholars who followed Aristotle.
 ### Water pushes up: upthrust · *defined*
 **Definition:** Water pushes up on anything put into it. This push is called upthrust.
 
@@ -51,6 +57,8 @@ When you pushed the ball down, you felt the water push back. When you let go, th
 - e.g. A ball pushed under water jumps back up when you let go.
 - e.g. You can feel the water push up on a lemon when you press it down.
 - e.g. A coin gets a tiny push up, but not enough, so it sinks.
+- **Archimedes:** In the 200s BCE he stated that the upward push equals the weight of the water pushed aside.
+- **Simon Stevin and Blaise Pascal:** In the 1500s and 1600s showed that pressure in water grows with depth. The bottom of an object is pushed up harder than the top is pushed down, and the difference is the upthrust.
 ### Air inside helps things float · *defined*
 **Definition:** Air is very light. A thing with lots of air inside weighs less than a solid thing of the same size, so it is more likely to float.
 
@@ -58,6 +66,8 @@ An orange peel is full of tiny pockets of air. With its peel on, the whole orang
 - e.g. A whole orange floats, and a peeled orange usually sinks.
 - e.g. An apple floats because of the air spaces inside it.
 - e.g. Thermocol is mostly air, and it floats high.
+- **River people of Punjab and Sindh:** Cross rivers on the mashak, a sealed animal skin filled with air, and make rafts of them. The air in the skin carries the load.
+- **Fish biologists:** Find that many fish have a swim bladder, a bag of gas. By adding or removing gas, a fish can float or sink without effort.
 ### Another way to stay on top: the skin of water · *defined*
 **Definition:** The top of water holds together like a very thin, stretchy skin. Very small, light things can rest on this skin without floating in the usual way.
 
@@ -65,6 +75,8 @@ A steel pin laid very gently on still water can rest on top. Push it under, and 
 - e.g. A steel pin laid gently on still water can rest on top.
 - e.g. Pond skaters, insects that walk on ponds, stand on the skin of the water.
 - e.g. Pushed under, the pin sinks.
+- **Physicists:** Explain that water molecules pull on each other, so the surface acts like a stretched skin. It is called surface tension.
+- **Water strider researchers:** Found in 2003 that the insect's long legs are covered in tiny hairs that trap air and dent the surface, so the insect does not break through. It walks on water by using its legs as small oars.
 
 ## Mostly agreed
 - A thing floats or sinks depending on what it is made of, and on any air inside it, not on how heavy or how big it is. *How we know:* In the bucket test, the heavy rolling pin floated, the light coin sank, and a tiny piece of potato sank like the whole potato.
@@ -390,7 +402,7 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
 ## Worksheets
 ### Float or Sink? (core) (core, 12 questions)
 1. (match) Draw a line from each word to what it means.  
-   **Answer:** Float → stays at the top, and comes back up when pushed under; Sink → goes to the bottom and stays there; Prediction → a guess with a reason, made before a test; Upthrust → the push of water upwards. *Why:* These are the main words in this unit. A floater comes back up, a sinker stays down, and we guess before we test.
+   **Answer:** Float → stays at the top, and comes back up when pushed under; Sink → goes to the bottom and stays there; Prediction → a guess with a reason, made before a test; Upthrust → the push of water upwards. *Why:* These are the main words in this lesson. A floater comes back up, a sinker stays down, and we guess before we test.
 2. (mcq) In the bucket test, which one floated?  
    Options: The one-rupee coin / The wooden rolling pin / The steel spoon  
    **Answer:** The wooden rolling pin. *Why:* The rolling pin floated, though it was the heaviest. Picking the coin may mean thinking light things always float.
@@ -490,11 +502,11 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
 - Many cooks check an egg by putting it in water. A fresh egg sinks. A very old egg may float, because air has got inside.
 
 ## Spotted around us
-- Round coracles, made of woven bamboo, carrying people on the Kaveri river at Hogenakkal, on the border of Tamil Nadu and Karnataka.
-- Kettuvallam houseboats, made of wood, floating on the backwaters of Alappuzha in Kerala.
-- Phumdis, floating islands of plants, soil and roots, on Loktak Lake in Manipur. Keibul Lamjao, a national park on the lake, floats on them, and the rare sangai deer live there.
-- Clay Ganesha and Durga idols sinking in water after festivals in Mumbai and Kolkata. Clay is heavier than the water that would fill the same space.
-- Fishing nets on a beach in Puri, Odisha, with a row of floats along the top edge.
+- Round boats made of woven bamboo, carrying people across a river.
+- Houseboats made of wood, floating on the backwaters.
+- Floating islands of plants, soil and roots on a lake, in a picture or a video.
+- Clay Ganesha and Durga idols sinking in water after festivals. Clay is heavier than the water that would fill the same space.
+- Fishing nets on a beach, with a row of floats along the top edge.
 - Husks floating to the top when someone washes rice or dal in a steel vessel.
 
 ## Open questions
@@ -530,9 +542,14 @@ Same Water, New Shape (sci.states.L2): Topic-level song for Solids, liquids, gas
 ## Links
 - [PhET Density simulation](https://phet.colorado.edu/en/simulations/density) · simulation: A free online simulation for the parent to explore with the child. Drop blocks of different materials into water and see which float.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
-- [Hogenakkal, on the Kaveri river]() · place · Dharmapuri district, Tamil Nadu: Families can ride in round bamboo coracles and see how they float.
+- Hogenakkal, on the Kaveri river · place · Dharmapuri district, Tamil Nadu: Families can ride in round bamboo coracles and see how they float.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in What Floats in the Rice Water?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before What Floats in the Rice Water?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Rescue the Coin: make a sinker float. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before Rescue the Coin: make a sinker float.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in What Floats in the Rice Water?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before What Floats in the Rice Water?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Bucket Test: guess, then find out what floats. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Bucket Test: guess, then find out what floats.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one thing that floats. → A lemon, a rolling pin, a coconut, an ice cube, a leaf.

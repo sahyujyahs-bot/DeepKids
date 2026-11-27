@@ -687,6 +687,10 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 ## Things to buy
 - [Aluminium kitchen foil, a small roll](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): Most city homes already have a roll for wrapping rotis. If not, it is sold at every grocery shop. Thin household foil works best, because it is easy to fold. Used in e1, a4. 
 - [Iggy Peck, Architect by Andrea Beaty](https://www.amazon.in/s?k=Iggy+Peck+Architect) (book): A boy who builds towers from anything he finds, and a class who build a bridge from whatever they have. It shows the child that building starts with an idea. Used in a1. Read it together before the building project.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Foil Boat: build it, test it, make it better, The Paste Test: which kitchen paste joins paper best?, The Phone Stand from One Card. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, c1. Get it before The Foil Boat: build it, test it, make it better.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Water Bowl for Birds on the Balcony. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A Water Bowl for Birds on the Balcony.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Take Apart a Pen, Keep the Ants Out of the Sugar. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a2, c2. Get it before Take Apart a Pen.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a purpose? → The job a thing is made to do.

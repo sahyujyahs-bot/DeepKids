@@ -1,9 +1,9 @@
 # Our basic needs: why we need air, water, food, clothes and a home every day
 `sci.basic-needs.basic-needs.L3`
 
-**Summary.** Your hand looks dry, but is it giving out water? In this unit you will test a dry hand to find out, sort things into needs and wants, hold your breath to feel why air matters, and see whether a ring of water can keep ants off sugar.
+**Summary.** Your hand looks dry, but is it giving out water? In this lesson you will test a dry hand to find out, sort things into needs and wants, hold your breath to feel why air matters, and see whether a ring of water can keep ants off sugar.
 
-**Intro.** *Sit down and take a normal breath. Now hold it and count slowly. Stop as soon as you want to. Soon your body makes you breathe again. You can save a snack for later. Why can't you save up a breath?* Your body uses air every few seconds, water every few hours and food a few times a day. In this unit you find out why. You test whether your dry hand is giving out water. You find out whether a ring of water can keep hungry ants away from sugar. You sort needs from wants, and argue about the hard ones. And you learn the simple ways families in India keep air, water, food, clothes and homes clean and safe.
+**Intro.** *Sit down and take a normal breath. Now hold it and count slowly. Stop as soon as you want to. Soon your body makes you breathe again. You can save a snack for later. Why can't you save up a breath?* Your body uses air every few seconds, water every few hours and food a few times a day. In this lesson you find out why. You test whether your dry hand is giving out water. You find out whether a ring of water can keep hungry ants away from sugar. You sort needs from wants, and argue about the hard ones. And you learn the simple ways families in India keep air, water, food, clothes and homes clean and safe.
 
 ## Learning outcomes
 0. I can name the five basic needs, and say which three we cannot live without at all, and why.
@@ -136,7 +136,7 @@ We have found out what our bodies keep needing, and how families take care of th
 
 Air goes in and out of you about 20 times a minute. Water leaves your skin, your breath and your body all day, and comes back in drinks and food. The same air and water pass through plants, ants, crows and people in turn. A tulsi plant gives out water from her leaves, and a crow drinks from a bowl. Needing air and water means that the world's air and water keep flowing into us and out again.
 
-- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” Bhrigu asks his father Varuna what the source of life is. Varuna tells him to look deeply. Bhrigu first finds that food is the answer: beings are born from food, live by food and return to food. (Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this unit teaches. The Upanishad then keeps going deeper, to breath, mind and joy.)
+- **Taittiriya Upanishad 3.2 (Bhrigu Valli):** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” Bhrigu asks his father Varuna what the source of life is. Varuna tells him to look deeply. Bhrigu first finds that food is the answer: beings are born from food, live by food and return to food. (Your body is built from food and water and keeps giving them back. Bhrigu's first answer matches what this lesson teaches. The Upanishad then keeps going deeper, to breath, mind and joy.)
 - **Heraclitus, a Greek thinker, as quoted by Plato in Cratylus 402a:** “δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης.” You cannot step into the same river twice, because new water is always flowing in. (Your body is like the river. It looks the same each day, but water keeps flowing out of your skin and breath and new water flows in.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper and you can see the cloud in it, because without the rain from the cloud no tree could grow to make the paper. (Look deeply at a tumbler of water and you can see the clouds, the rain and the people and plants it passed through. The water that misted your bag in the Hidden Water Test may become part of a cloud one day.)
 - Science (settled): In a grown-up, roughly a tenth of the water in the body is lost and replaced every day.
@@ -705,6 +705,10 @@ Five Things I Need Each Day (sci.basic-needs.L3): Topic-level song for Our basic
 - [Regional Science Centre, Chennai (Tamil Nadu Science and Technology Centre)](https://www.tnstc.gov.in) · place · Chennai: A science museum to visit, with hands-on galleries.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Water Ring: can a moat keep ants off the sugar?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e2. Get it before The Water Ring: can a moat keep ants off the sugar?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Our Home Care Week: one need each day. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Our Home Care Week: one need each day.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Breeze Path: does air need a way in and a way out?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a4. Get it before The Breeze Path: does air need a way in and a way out?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five basic needs. → Air, water, food, clothes and a home.

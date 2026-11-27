@@ -2338,7 +2338,55 @@
    "why": "A large science museum with hands-on galleries, including engines and metals."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-ice-cream-sticks-melt",
+   "item": "Wooden ice-cream sticks, about 5",
+   "kind": "material",
+   "why": "They are the handles for the ice lollies in the lolly project. About ₹20 to ₹50 for a pack of about 50 sticks at a kirana shop or online. Steel teaspoons are the household alternative.",
+   "url": "https://www.amazon.in/s?k=wooden+ice+cream+sticks",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy them before you start the ice lolly project."
+  },
+  {
+   "id": "b-butter-paper",
+   "item": "Butter paper or baking paper, one sheet",
+   "kind": "material",
+   "why": "The melted chocolate is poured onto it so the shapes can be lifted off once they set. About ₹30 to ₹80 for a roll at a kitchen or stationery shop. Foil or a clean plastic sheet can be used instead.",
+   "url": "https://www.amazon.in/s?k=butter+paper+baking",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Buy it before the Chocolate Shapes challenge."
+  },
+  {
+   "id": "b-chart-melt",
+   "item": "Chart paper, one big sheet",
+   "kind": "material",
+   "why": "The four-column board for the sorting game is drawn on it, so the whole table is visible at once. About ₹10 to ₹25 a sheet at a stationery shop. Two sheets of old newspaper taped together also work.",
+   "url": "https://www.amazon.in/s?k=chart+paper",
+   "used_in": [
+    "g2"
+   ],
+   "plan": "Buy it before you play Room, Hand, Flame or Furnace."
+  },
+  {
+   "id": "b-print-melt",
+   "item": "Printed pages for the change cards, solid cards and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The two games use 16 printed change cards and 16 printed solid cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print these before the first game."
+  }
+ ],
  "warmup": [
   {
    "q": "What is it called when a solid turns into a liquid?",

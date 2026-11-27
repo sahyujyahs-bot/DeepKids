@@ -1,9 +1,9 @@
 # Where sounds come from, and what makes them loud or soft
 `sci.sound.sources-of-sound.L1`
 
-**Summary.** Does a still thing make any sound? In this unit you will listen for one quiet minute, shake different shakers to find which is loudest, play a game guessing what made a sound with your eyes closed, and make music with your own body.
+**Summary.** Does a still thing make any sound? In this lesson you will listen for one quiet minute, shake different shakers to find which is loudest, play a game guessing what made a sound with your eyes closed, and make music with your own body.
 
-**Intro.** *Close your eyes. Sit very still and listen for one whole minute. How many sounds can you hear? What is making each one?* Even a quiet room is full of sounds: the fan, a bird outside, a scooter in the street, your own breathing. Every one of those sounds is made by something that is moving. In this unit you hunt for the things that make sounds. You also find out what makes a sound loud, and what makes it soft.
+**Intro.** *Close your eyes. Sit very still and listen for one whole minute. How many sounds can you hear? What is making each one?* Even a quiet room is full of sounds: the fan, a bird outside, a scooter in the street, your own breathing. Every one of those sounds is made by something that is moving. In this lesson you hunt for the things that make sounds. You also find out what makes a sound loud, and what makes it soft.
 
 ## Learning outcomes
 0. By the end I can say what a sound source is: the thing that makes a sound.
@@ -510,10 +510,10 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 - Scientists put microphones in the sea to listen to fish, whales and dolphins, and to learn how they are living.
 
 ## Spotted around us
-- At Thrissur Pooram in Kerala, long rows of drummers play the chenda together, and the sound fills the town.
-- During Durga Puja in Kolkata, drummers play the dhak, a big drum hung from the shoulder.
-- In summer, the koel calls 'koo-ooo' loudly from trees in cities across India. The loud caller is the male, a black bird with red eyes.
-- At Bohag Bihu in Assam, people play the dhol and blow the pepa, a pipe made from a buffalo horn.
+- At a temple festival, long rows of drummers play the chenda together, and the sound fills the town.
+- During Durga Puja, drummers play the dhak, a big drum hung from the shoulder.
+- In summer, the koel calls 'koo-ooo' loudly from trees in the city. The loud caller is the male, a black bird with red eyes.
+- At Bohag Bihu, people play the dhol and blow the pepa, a pipe made from a buffalo horn.
 - In many homes, a bell rings in the morning puja, and a pressure cooker whistles while lunch is cooking.
 
 ## Open questions
@@ -551,11 +551,15 @@ Who Made That Sound? (sci.sound.L1):
 ## Links
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/) · interactive: Free music experiments that work in a phone browser. Try 'Rhythm' to play loud drum patterns, and 'Voice Spinner' to play with your own voice.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: Free picture books in many Indian languages to read aloud. Search for books about sounds, music, rain and animals.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries for children.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with hands-on exhibits and a planetarium.
-- [Science City]() · place · Kolkata: A large science centre with hands-on exhibits for children.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries for children.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with hands-on exhibits and a planetarium.
+- Science City · place · Kolkata: A large science centre with hands-on exhibits for children.
 
 ## Things to buy
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in The Shaker Test: which shaker is loudest?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e1. Get it before The Shaker Test: which shaker is loudest?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Shaker Test: which shaker is loudest?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before The Shaker Test: which shaker is loudest?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Shaker Test: which shaker is loudest?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Shaker Test: which shaker is loudest?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call the thing that makes a sound? → A sound source.
@@ -571,8 +575,8 @@ Who Made That Sound? (sci.sound.L1):
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/sound.md, 'Sources of sound': the sound scavenger hunt (five natural and five made sources) became the Sound Scavenger Hunt. Guessing hidden sounds and matching sounds to sources became Sound Detective. Body percussion and call-and-response rhythm became My Body Band. The journal of sounds became the sound map and the sound diary in the story. The founder's vibration experiments (rubber-band guitar, rice on a drum, straw reeds) belong to the Level 3 unit, so this unit does not repeat them.
-- Curriculum entry sci.sound.sources-of-sound.L1 (Where do sounds come from? Loud and soft sounds around us), Cambridge Stage 1 unit 6.1. The Level 3 unit sci.sound.sources-of-sound.L3 teaches vibration, sound waves and the medium, with the ruler, foil-ball and atta-drum experiments, the coin line, Katy Payne and the elephants, and the tree-in-the-forest puzzle. This unit only prepares for those: it says sound comes from something moving, and names 'vibrate' as a word for Class 3.
+- ideas/by_topic/sound.md, 'Sources of sound': the sound scavenger hunt (five natural and five made sources) became the Sound Scavenger Hunt. Guessing hidden sounds and matching sounds to sources became Sound Detective. Body percussion and call-and-response rhythm became My Body Band. The journal of sounds became the sound map and the sound diary in the story. The founder's vibration experiments (rubber-band guitar, rice on a drum, straw reeds) belong to the Level 3 unit, so this lesson does not repeat them.
+- Curriculum entry sci.sound.sources-of-sound.L1 (Where do sounds come from? Loud and soft sounds around us), Cambridge Stage 1 unit 6.1. The Level 3 unit sci.sound.sources-of-sound.L3 teaches vibration, sound waves and the medium, with the ruler, foil-ball and atta-drum experiments, the coin line, Katy Payne and the elephants, and the tree-in-the-forest puzzle. This lesson only prepares for those: it says sound comes from something moving, and names 'vibrate' as a word for Class 3.
 - Marie Poland Fish (1900 to 1989) catalogued sounds of fish and other marine animals for the US Office of Naval Research from the 1940s, at the Narragansett Marine Laboratory, University of Rhode Island. Fish, M. P. and Mowbray, W. H., Sounds of Western North Atlantic Fishes (Johns Hopkins Press, 1970).
 - Croakers and drums (family Sciaenidae) make sound with sonic muscles that vibrate the swim bladder.
 - Snapping shrimp: the snap makes a cavitation bubble whose collapse makes the sound. Versluis, Schmitz, von der Heydt and Lohse, 'How snapping shrimp snap: through cavitating bubbles', Science 289 (2000).

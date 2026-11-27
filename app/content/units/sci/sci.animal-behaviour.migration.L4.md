@@ -1,7 +1,7 @@
 # Migration: how a body is built for a journey across the world
 `sci.animal-behaviour.migration.L4`
 
-**Summary.** Why do some birds fly across the world every year? In this unit you will sort eight birds by when they are in India, spin a globe to time a summer day in the far north, and see what happens when one wetland on the way is drained.
+**Summary.** Why do some birds fly across the world every year? In this lesson you will sort eight birds by when they are in India, spin a globe to time a summer day in the far north, and see what happens when one wetland on the way is drained.
 
 **Intro.** *In winter, ducks, waders and swallows appear on our lakes, canals and wires. In summer, they are gone. Where were they, and what did they do to get here?* Many of the birds you see in India from October to March spent the summer thousands of kilometres away, in Siberia, Mongolia or the Himalaya. A small bird cannot carry a bag of food with her. So how does her body get enough energy for a trip that long?
 
@@ -119,7 +119,7 @@ Migrants face two kinds of trouble. One is a lost stopover. Scientists estimate 
   Against: Most studies of light tags find little harm, and tracking has found the stopovers that now get protection. Scientists keep tags very light and stop using any tag that harms the birds.
 
 ## Roots
-This unit followed a migrating bird from the long days of the Arctic to the fat in her body and the wetlands on her way. Now we ask what that journey tells us about a bird and the places she depends on.
+This lesson followed a migrating bird from the long days of the Arctic to the fat in her body and the wetlands on her way. Now we ask what that journey tells us about a bird and the places she depends on.
 
 **Deep truth.** The long days of an Arctic summer grow a flood of insects, worms and shellfish. A bird eats them and stores the energy as fat. Weeks later she burns that fat over another country. So a bird carries the energy of one place's sunlight to another place, and her body links the two.  
 *Habit it breaks:* We say a place's wildlife is what lives inside its borders, and that a bird belongs to one country. A migrant's fuel is collected in one place and spent in another, so her body belongs to several places at once.  
@@ -553,7 +553,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
    **Answer:** The mudflat is a refuelling stop where they build fat for the next stage. *Why:* Gaining weight in two weeks shows they are feeding well and storing fat. That is what a refuelling stop is for.
 
 ## Videos
-- **Top Gun Geese! | Extreme Animals | BBC Studios** (BBC Studios, 3 min) id `yd_w3biT3TU`: To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this unit. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
+- **Top Gun Geese! | Extreme Animals | BBC Studios** (BBC Studios, 3 min) id `yd_w3biT3TU`: To see the geese cross the highest mountains in the world in thin air, and to compare it with the roller coaster flight in this lesson. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **A tagged bar-tailed godwit set a world record by flying 13,560 km nonstop from Alaska to Tasmania.** (Bird Migration Map, 2 min) id `YBuBA1RDPtk`: To see the tracked route of a godwit that flies for days without landing, drawn on a map. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **Falcon Capital of the World: Nagaland's Amur Falcon | THT Films** (The Habitats Trust, 6 min) id `WqJa3sVSyYM`: To see the falcons roosting by their thousands at the Doyang reservoir, and how the villagers now protect them. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
@@ -603,11 +603,11 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design.
 
 ## Spotted around us
-- Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March in much of India.
+- Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March.
 - Gulls on the coast or a harbour in winter. Many are winter visitors that leave in spring.
-- V-shaped lines of cranes or geese at dusk, in north India and Gujarat in winter.
+- V-shaped lines of cranes or geese flying at dusk in winter.
 - Small waders such as common sandpipers bobbing along the edge of a pond, a canal or a paddy field in winter.
-- Flamingos in shallow water along the coast, for example near Mumbai, Chennai or Pulicat, in winter.
+- Flamingos in shallow water along the coast in winter.
 - An empty wire where the swallows sat in winter. In April, notice that they have gone.
 
 ## Open questions
@@ -667,6 +667,11 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 - [A pack of dice](https://www.amazon.in/s?k=dice+set+for+kids) (material): For the Stepping-Stone Flyway and Eat or Fly. Most homes have one from a board game. Used in e2, g2. 
 - [A field guide to the birds of the Indian subcontinent](https://www.amazon.in/s?k=birds+of+the+indian+subcontinent+field+guide) (book): To check whether a bird is a resident, a winter visitor or a passage migrant, and to name birds that you see. Used in a1. Look up one bird from the sorting activity, and one bird you see this week.
 - [A simple pair of binoculars for children](https://www.amazon.in/s?k=kids+binoculars) (tool): To watch waders and ducks at a lake without disturbing them. Used in p1. Use them on a trip to a lake in winter.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Read a Tracker's Graph: the stairs of a long journey, Save the Stopover: a plan that works for the birds and the village. About ₹10 to ₹30. Any school ruler is fine. Used in a2, c1. Get it before Read a Tracker's Graph: the stairs of a long journey.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Midnight Sun Spin: how long is a summer day in the far north?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Midnight Sun Spin: how long is a summer day in the far north?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?, The Mudflat Buffet: why waders have different bills. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, p1. Get it before The Stepping-Stone Flyway: what happens to a flock when one wetland is drained?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Read a Tracker's Graph: the stairs of a long journey. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Read a Tracker's Graph: the stairs of a long journey.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does migration mean? → A regular journey that an animal makes each year, going out and coming back.
@@ -686,7 +691,7 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 ## Sources
 - Combined lesson sci-C4-the-world-of-birds: the migration and navigation subconcept, and the open question about what Amur falcons eat over the Arabian Sea (used for the story setting)
 - The notebook items bio:126 (Migration and navigation), bio:127 (Seasonal migrations: birds, fish, insects) and bio:128 (Orientation and navigation)
-- The Class 3 unit on migration, which this unit builds on: why animals leave, record travellers and finding the way (not repeated here)
+- The Class 3 unit on migration, which this lesson builds on: why animals leave, record travellers and finding the way (not repeated here)
 - Founder's seasons and day-length ideas from the day-night-seasons notes, used for the midnight-sun model
 - Piersma and Gill (1998), Guts don't fly: small digestive organs in obese Bar-tailed Godwits, The Auk
 - Gill and others (2005), Crossing the ultimate ecological barrier: evidence for an 11,000 km non-stop flight by Bar-tailed Godwits, The Condor; and Gill and others (2009), Extreme endurance flights by landbirds crossing the Pacific Ocean, Proceedings of the Royal Society B

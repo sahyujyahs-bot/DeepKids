@@ -3050,6 +3050,58 @@
     "a2"
    ],
    "plan": "After Open or Closed?, look up one of your closed-loop machines in the book and find its sensor in the drawing."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Stick Test: which stick is easiest to balance, and what does balancing need?, Pour to the Line: eyes open, eyes shut, finger in, The Bowl That Refills Itself: a three-day water loop. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "p1",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Stick Test: which stick is easiest to balance, and what does balancing need?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in Open or Closed? A loop hunt round the home. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Open or Closed? A loop hunt round the home."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Bowl That Refills Itself: a three-day water loop. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Bowl That Refills Itself: a three-day water loop."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

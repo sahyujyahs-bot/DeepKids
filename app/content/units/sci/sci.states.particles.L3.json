@@ -2592,6 +2592,55 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-kitchen-scale",
+   "item": "Digital kitchen scale, reads to 1 gram",
+   "kind": "tool",
+   "why": "It weighs the sugar in the hanger test and the dry-sugar challenge. About ₹250 to ₹600 for a digital kitchen scale at an electronics or kitchen shop. The hanger balance still works without one, so this is optional.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Buy it only if you want to weigh the sugar, before the Hanger Balance test."
+  },
+  {
+   "id": "b-magnifier-sugar",
+   "item": "Magnifying glass, about 75 millimetres wide",
+   "kind": "tool",
+   "why": "It lets the children look closely at grains of sugar, salt and kalkandu. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+children",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Buy it before the Zoom In on a Grain activity."
+  },
+  {
+   "id": "b-dice",
+   "item": "Dice, two",
+   "kind": "game",
+   "why": "The Dissolve Race board game is played by rolling dice. About ₹20 to ₹40 for a pair at a stationery or toy shop. A dice app on a phone works too.",
+   "url": "https://www.amazon.in/s?k=dice",
+   "used_in": [
+    "g2"
+   ],
+   "plan": "Buy them before you play the Dissolve Race game."
+  },
+  {
+   "id": "b-print-particles",
+   "item": "Printed pages for the game cards, mat, key cards and worksheets, about 15 pages",
+   "kind": "material",
+   "why": "The two games use 16 printed cards, four key cards and a 25-circle mat, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

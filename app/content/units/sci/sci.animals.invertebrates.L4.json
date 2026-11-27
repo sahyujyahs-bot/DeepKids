@@ -3310,6 +3310,82 @@
    "used_in": [
     "a5"
    ]
+  },
+  {
+   "id": "b-a-thermometer--for-water-or-",
+   "item": "A thermometer (for water or room, 0 to 110 °C)",
+   "kind": "tool",
+   "why": "Used in Drop and Stir: why do crabs move water over their gills?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests.",
+   "url": "https://www.amazon.in/s?k=lab+thermometer+110+c",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Drop and Stir: why do crabs move water over their gills?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Colour Cubes: how far does colour creep into jelly?, Ring or Core: how much of a body is near the edge?, Pipes or a Wet Sponge: two kinds of blood. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "a5",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Colour Cubes: how far does colour creep into jelly?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Pipes or a Wet Sponge: two kinds of blood, Air Tubes in a Roll: a model of an insect's breathing. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Pipes or a Wet Sponge: two kinds of blood."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Air Tubes in a Roll: a model of an insect's breathing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Air Tubes in a Roll: a model of an insect's breathing."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Dry Finger: carrying a bubble of air under water, Air Tubes in a Roll: a model of an insect's breathing. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Dry Finger: carrying a bubble of air under water."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

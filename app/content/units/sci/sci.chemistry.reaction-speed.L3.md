@@ -1,9 +1,9 @@
 # Fast and slow changes: why some happen in a second and some take years
 `sci.chemistry.reaction-speed.L3`
 
-**Summary.** A sparkler burns in seconds, but an iron gate takes years to rust. What makes some changes fast and others slow? In this unit you will put everyday changes in order from fastest to slowest, make foam with a potato, and test which eggshell fizzes faster in vinegar.
+**Summary.** A sparkler burns in seconds, but an iron gate takes years to rust. What makes some changes fast and others slow? In this lesson you will put everyday changes in order from fastest to slowest, make foam with a potato, and test which eggshell fizzes faster in vinegar.
 
-**Intro.** *A bottle of hydrogen peroxide can sit on a shelf for months and hardly change. Drop in a little raw potato, and it starts to foam within seconds. The potato is still there at the end. So what did the potato do?* Every day you see changes that make new substances. A matchstick flares in one second. A dosa browns in two minutes. A banana goes spotty in a few days. A balcony grill rusts over many months. In this unit you time these changes, and find out what makes one fast and another slow. Then you test a helper hidden inside a potato.
+**Intro.** *A bottle of hydrogen peroxide can sit on a shelf for months and hardly change. Drop in a little raw potato, and it starts to foam within seconds. The potato is still there at the end. So what did the potato do?* Every day you see changes that make new substances. A matchstick flares in one second. A dosa browns in two minutes. A banana goes spotty in a few days. A balcony grill rusts over many months. In this lesson you time these changes, and find out what makes one fast and another slow. Then you test a helper hidden inside a potato.
 
 ## Learning outcomes
 0. I can explain that a chemical reaction makes new substances, and give examples of fast and slow reactions at home.
@@ -336,7 +336,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Parent does:* Ask what makes a change fast or slow. Do not give the answer.  
   *Parent says:* One change took seconds. One took months. What do you think makes a change fast or slow?  
   *Child mode:* Think about it, then tell your grown-up your idea.
-  - Note: Don't answer yet. Write down your child's ideas. The experiments in this unit test them.
+  - Note: Don't answer yet. Write down your child's ideas. The experiments in this lesson test them.
 ### a2 · The Change Ribbon: from fastest to slowest (20 min)
 - **record:** Stick the ribbon on the wall, or take a photo of it.
 - **s1 (4 min)**  
@@ -690,6 +690,15 @@ Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3
 ## Things to buy
 - [Hydrogen peroxide solution, 3%, from a chemist's shop](https://www.amazon.in/s?k=hydrogen+peroxide+solution+3%25) (material): Weak hydrogen peroxide for the foam experiments. Many chemists sell a 6% kind, sometimes labelled '20 volume'. Mix it half and half with water to make about 3%. Used in e1, e3, a3, c1. 
 - [A small packet of dry yeast](https://www.amazon.in/s?k=dry+yeast) (material): For the yeast foam activity. Sold in grocery and baking shops. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Potato and the Peroxide: what makes the foam?, The Helper Hunt: which vegetables carry catalase?, The Foam Tower: make the most foam in one minute. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, c1. Get it before The Potato and the Peroxide: what makes the foam?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Small Elephant Toothpaste: yeast as a helper. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in a3. Get it before Small Elephant Toothpaste: yeast as a helper.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Small Elephant Toothpaste: yeast as a helper. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a3. Get it before Small Elephant Toothpaste: yeast as a helper.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Sun or Shade: a 3-day turmeric watch, Keep It Bright: protect turmeric yellow from the sun. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c2. Get it before Sun or Shade: a 3-day turmeric watch.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Keep It Bright: protect turmeric yellow from the sun. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in c2. Get it before Keep It Bright: protect turmeric yellow from the sun.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in A Few Seconds or a Season? Two changes side by side. About ₹20 to ₹40. Check the kitchen first. Used in a1. Get it before A Few Seconds or a Season? Two changes side by side.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Piece or Powder: which eggshell fizzes faster in vinegar?, A Few Seconds or a Season? Two changes side by side. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2, a1. Get it before Piece or Powder: which eggshell fizzes faster in vinegar?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in A Few Seconds or a Season? Two changes side by side. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a1. Get it before A Few Seconds or a Season? Two changes side by side.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one fast reaction. → A sparkler, a match flaring, or a cracker.

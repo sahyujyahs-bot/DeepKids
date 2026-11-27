@@ -2689,6 +2689,45 @@
     "c1"
    ],
    "plan": "Use the rest of the cabbage in a poriyal or salad, with a squeeze of lemon to keep it purple."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in The Cabbage Colour Line: where does each kitchen liquid sit?, The Fizz Test: lemon on cooking soda, A Rainbow in Six Glasses. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Cabbage Colour Line: where does each kitchen liquid sit?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Make Your Own Cabbage Test Strips. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Make Your Own Cabbage Test Strips."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

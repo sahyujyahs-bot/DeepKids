@@ -1,9 +1,9 @@
 # Steering through air: drag, balance and control in flight
 `sci.forces.flight.L4`
 
-**Summary.** Why does a parachute slow a fall, and why does a shuttlecock always fly tip-first? In this unit you will feel how hard moving air pushes on a card, race parachutes in a fair test, watch air swirl behind a card in smoke, and fix flyers that go wrong.
+**Summary.** Why does a parachute slow a fall, and why does a shuttlecock always fly tip-first? In this lesson you will feel how hard moving air pushes on a card, race parachutes in a fair test, watch air swirl behind a card in smoke, and fix flyers that go wrong.
 
-**Intro.** *Hold a flat card in front of your chest and walk fast across the room. Feel the card push back. Now turn the card edge-on and walk again. The card is the same, and you walk at the same speed. What changed?* Nothing changed except how much of the card faces the air. Air is a real material, and a moving thing has to push it out of the way. The air pushes back. That push is called drag, and flyers spend most of their effort fighting it, using it and steering with it. In this unit you race parachutes, bend paper wings to steer, and watch what a moving card leaves behind in the air.
+**Intro.** *Hold a flat card in front of your chest and walk fast across the room. Feel the card push back. Now turn the card edge-on and walk again. The card is the same, and you walk at the same speed. What changed?* Nothing changed except how much of the card faces the air. Air is a real material, and a moving thing has to push it out of the way. The air pushes back. That push is called drag, and flyers spend most of their effort fighting it, using it and steering with it. In this lesson you race parachutes, bend paper wings to steer, and watch what a moving card leaves behind in the air.
 
 ## Learning outcomes
 0. I can explain drag as the push of air against a moving thing, and say what makes it bigger: speed, size facing the air, and shape.
@@ -850,6 +850,15 @@ Grip and Glide (sci.forces.L4): Topic-level song
 - [Badminton shuttlecocks, a tube](https://www.amazon.in/s?k=badminton+shuttlecock+tube) (material): For the shuttlecock activity. Most homes with a badminton racket already have one. Used in a5. 
 - [Measuring tape, 5 metres (or a tailor's tape)](https://www.amazon.in/s?k=measuring+tape+5+metre) (tool): Helps mark the 2 metre drop height for Parachute Races. A tailor's tape from a stationery shop is cheaper. The top of a room door is about 2 metres if you do not want to buy one. Used in e1. 
 - [Beginner binoculars for children](https://www.amazon.in/s?k=binoculars+for+kids+bird+watching) (tool): Optional, not needed: for watching birds from a window, a terrace or a sanctuary. Your eyes are enough for Flock Watch. Used in a7. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Parachute Races: what slows a fall?, A Cup Wind Meter: spin it and count, Soft Landing: the slowest parachute. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, p2, c1. Get it before Parachute Races: what slows a fall?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Parachute Races: what slows a fall?, Steer a Paper Plane: which flap turns it which way?, The Card in the Fan: how hard does the wind push?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a4, a6, p1, c1. Get it before Parachute Races: what slows a fall?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Hide in the Wind's Shadow. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a6. Get it before Hide in the Wind's Shadow.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Parachute Races: what slows a fall?, Steer a Paper Plane: which flap turns it which way?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, e2. Get it before Parachute Races: what slows a fall?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Parachute Races: what slows a fall?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e1. Get it before Parachute Races: what slows a fall?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Swish in the Smoke: what a card leaves in the air, Find the Balance Point: hang it and mark it, Hide in the Wind's Shadow. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, a4, a6. Get it before Swish in the Smoke: what a card leaves in the air.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Hide in the Wind's Shadow. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a6. Get it before Hide in the Wind's Shadow.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Swish in the Smoke: what a card leaves in the air. About ₹5 to ₹20. Cut card from a cereal box. Used in a3. Get it before Swish in the Smoke: what a card leaves in the air.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is drag? → The push of air against anything moving through it.
@@ -868,7 +877,7 @@ Grip and Glide (sci.forces.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/forces-and-movement.md, 'Drag and Lift' and 'Everyday forces': drop coffee filters to see drag, make a parachute from a plastic bag, run with an umbrella to feel drag, fly kites, watch birds glide, and build a small wind tunnel. Used in the parachute races, the card in the fan, and the bird watch
-- The Class 3 unit on how things fly, which this unit builds on. Class 4 goes further into drag, balance and steering, and does not repeat its experiments or its story
+- The Class 3 unit on how things fly, which this lesson builds on. Class 4 goes further into drag, balance and steering, and does not repeat its experiments or its story
 - The Combined forces lessons for Classes 3 to 5, for their ideas on air resistance, parachutes and paper planes
 - d'Alembert, J. le R., Essai d'une nouvelle theorie de la resistance des fluides, 1752 (the paradox of no drag)
 - Prandtl, L., Uber Fluessigkeitsbewegung bei sehr kleiner Reibung, paper for the Third International Congress of Mathematicians, Heidelberg, 1904 (the boundary layer)

@@ -3454,6 +3454,114 @@
     "a1"
    ],
    "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult (read short parts aloud))"
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Cut It in Half, Again and Again, Write It Smaller. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "c2"
+   ],
+   "plan": "Get it before Cut It in Half, Again and Again."
+  },
+  {
+   "id": "b-aa-batteries-or-torch-cells-",
+   "item": "AA batteries or torch cells (a few)",
+   "kind": "material",
+   "why": "Used in The Hidden Centre: roll marbles like Rutherford. About ₹10 to ₹30 each. A used torch cell still works for many circuits.",
+   "url": "https://www.amazon.in/s?k=AA+battery+pack",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Hidden Centre: roll marbles like Rutherford."
+  },
+  {
+   "id": "b-balloons--a-packet",
+   "item": "Balloons (a packet)",
+   "kind": "material",
+   "why": "Used in Pushing Without Touching, Prove the Invisible. About ₹20 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+packet",
+   "used_in": [
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before Pushing Without Touching."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Colour Spreads by Itself, Make an Honest Carbon Atom. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e3",
+    "p1"
+   ],
+   "plan": "Get it before Colour Spreads by Itself."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Hidden Centre: roll marbles like Rutherford. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Hidden Centre: roll marbles like Rutherford."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Make an Honest Carbon Atom. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Make an Honest Carbon Atom."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in A Mustard-Seed Atom: a park-sized model (optional, outdoors), Make an Honest Carbon Atom, Write It Smaller. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a2",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before A Mustard-Seed Atom: a park-sized model (optional, outdoors)."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Prove the Invisible. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Prove the Invisible."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

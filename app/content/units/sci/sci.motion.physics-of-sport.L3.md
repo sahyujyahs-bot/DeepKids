@@ -1,9 +1,9 @@
 # The physics of sport: how the ground, a throw and a kick change how things move
 `sci.motion.physics-of-sport.L3`
 
-**Summary.** A ball bounces back up from a stone floor but hardly moves on a pillow. Why? In this unit you will test one ball on different surfaces, jog on a hard floor and a soft mattress, and make a ball spin by pushing it to one side of the middle.
+**Summary.** A ball bounces back up from a stone floor but hardly moves on a pillow. Why? In this lesson you will test one ball on different surfaces, jog on a hard floor and a soft mattress, and make a ball spin by pushing it to one side of the middle.
 
-**Intro.** *Try this. Hold a ball at the height of your chin and let it fall onto the floor. Catch it. Now let it fall onto a pillow. It is the same ball, falling from the same height. Why does it bounce back up from the floor, but hardly at all from the pillow?* Every game you play is full of questions like this. Why is it so tiring to run on the beach? Why does a ball you throw fly in a curve, and not in a straight line? How do footballers make a ball bend in the air? In this unit you test bounces on different floors in your own home. You find out what the ground does to a ball, and to your feet. Then you look at throwing, kicking, jumping and catching.
+**Intro.** *Try this. Hold a ball at the height of your chin and let it fall onto the floor. Catch it. Now let it fall onto a pillow. It is the same ball, falling from the same height. Why does it bounce back up from the floor, but hardly at all from the pillow?* Every game you play is full of questions like this. Why is it so tiring to run on the beach? Why does a ball you throw fly in a curve, and not in a straight line? How do footballers make a ball bend in the air? In this lesson you test bounces on different floors in your own home. You find out what the ground does to a ball, and to your feet. Then you look at throwing, kicking, jumping and catching.
 
 ## Learning outcomes
 0. I can explain that a ball bounces because it squashes and springs back, and that a soft surface squashes instead and springs back too slowly to push the ball up.
@@ -673,7 +673,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - Wide tyres on sand buggies and tractors spread the weight so they sink less in soft ground.
 
 ## Spotted around us
-- Beach cricket on the hard, wet sand near the waves at Marina Beach in Chennai.
+- Beach cricket on the hard, wet sand near the waves.
 - Deep footprints in the dry sand and shallow ones on the wet sand of any beach.
 - A kabaddi raider pushing off the mat sideways to turn fast.
 - A fielder throwing the ball in a high curve from the boundary to the wicket keeper.
@@ -726,6 +726,15 @@ Keep On Going (sci.motion.L3):
 
 ## Things to buy
 - [A packet of rubber bands, about 200](https://www.amazon.in/s?k=rubber+bands+packet) (material): For building the rubber band ball. Any stationery shop sells them. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Bounce Test: which surface gives the highest bounce?, Galileo's Table: does a faster ball land further?, Arms or No Arms: does swinging your arms help you jump further?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, e2, e3. Get it before The Bounce Test: which surface gives the highest bounce?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bounce Test: which surface gives the highest bounce?, Galileo's Table: does a faster ball land further?, Build a Rubber Band Ball, and test it on every floor. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1, c1, c2. Get it before The Bounce Test: which surface gives the highest bounce?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Soft Hands: catch a water balloon, The Bounciest Floor: make a mini trampoline. About ₹20 to ₹60. Used in a4, c1. Get it before Soft Hands: catch a water balloon.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Bounce Test: which surface gives the highest bounce?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before The Bounce Test: which surface gives the highest bounce?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Feet for Sand: how not to sink. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Feet for Sand: how not to sink.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Feet for Sand: how not to sink. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c2. Get it before Feet for Sand: how not to sink.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Galileo's Table: does a faster ball land further?. About ₹10 to ₹40. Small round stones or dried chana. Used in e2. Get it before Galileo's Table: does a faster ball land further?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Watch the Curve: a toss and a water jet. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a2. Get it before Watch the Curve: a toss and a water jet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which gives a higher bounce, a stone floor or a pillow? → A stone floor.

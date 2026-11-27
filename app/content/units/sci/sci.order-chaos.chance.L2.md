@@ -545,6 +545,7 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 
 ## Things to buy
 - [Probably Pistachio by Stuart J. Murphy](https://www.amazon.in/s?k=Probably+Pistachio) (book): A boy guesses what will happen on a bad day and learns the words probably and probably not. It gives the child everyday words for chance. Used in a1. Read it together before the chance games.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Can anyone know how one coin toss will land? → No. Nobody can.

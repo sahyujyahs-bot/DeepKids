@@ -1,9 +1,9 @@
 # Digestion: the journey of food from mouth to stomach to intestines
 `sci.body.digestion.L4`
 
-**Summary.** Can you swallow food while standing on your head? Yes, because food does not fall down the tube, it is pushed. In this unit you will try a head-down swallow, test what makes a bite ready to swallow, and lay out your food tube in eight metres of wool.
+**Summary.** Can you swallow food while standing on your head? Yes, because food does not fall down the tube, it is pushed. In this lesson you will try a head-down swallow, test what makes a bite ready to swallow, and lay out your food tube in eight metres of wool.
 
-**Intro.** *An astronaut on the space station floats, and so does her dinner. Nothing falls there. So how does the food she swallows reach her stomach?* Many people say that food falls into the stomach. In space nothing falls, yet astronauts eat three meals a day. In this unit you test the idea on your own body. You swallow a bite of banana with your head lower than your stomach. You count your chews to find what makes a bite ready to swallow. You lay out a food tube of wool across the floor. You also shake oil with soap to see how your body deals with fat.
+**Intro.** *An astronaut on the space station floats, and so does her dinner. Nothing falls there. So how does the food she swallows reach her stomach?* Many people say that food falls into the stomach. In space nothing falls, yet astronauts eat three meals a day. In this lesson you test the idea on your own body. You swallow a bite of banana with your head lower than your stomach. You count your chews to find what makes a bite ready to swallow. You lay out a food tube of wool across the floor. You also shake oil with soap to see how your body deals with fat.
 
 ## Learning outcomes
 0. I can say what digestion is for: breaking food into pieces small enough to pass into the blood.
@@ -138,7 +138,7 @@ Tens of trillions of bacteria live in the large intestine. That is about as many
   Against: The gut is plainly an organ inside the belly. The body pours juices into it and controls what happens there. It is true that the tube is open to the outside at both ends. But saying the inside of the gut is outside the body can mislead.
 
 ## Roots
-In this unit you followed a bite of food along a tube about 8 metres long. Here we ask where the food stops being food and starts being you.
+In this lesson you followed a bite of food along a tube about 8 metres long. Here we ask where the food stops being food and starts being you.
 
 **Deep truth.** In the Sweetcorn Clock, the skins of the corn came out looking as they did when they went in. They travelled the whole food tube and never passed through its wall. The food tube is one long passage, open at the mouth and at the anus. So food you have swallowed is still outside your body until it crosses the gut wall.  
 *Habit it breaks:* We say food is 'inside us' as soon as we swallow it, because it is under the skin. The food tube is a passage through the body. Only what crosses its wall enters the blood and the cells.  
@@ -730,6 +730,9 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [Sweetcorn: one cob, or a small packet of frozen kernels](https://www.amazon.in/s?k=sweet+corn+kernels) (material): For the Sweetcorn Clock. Any vegetable shop sells it in season, and cooked beetroot works in its place. Used in p1. 
 - [Gut: The Inside Story of Our Body's Most Underrated Organ, a book by Giulia Enders (English edition 2015)](https://www.amazon.in/s?k=Gut+Giulia+Enders) (book): For the parent or an older child: a doctor's lively and careful account of the food tube and its bacteria. Used in a2. After the Food Tube on the Floor, a parent can read aloud from the chapter on the small intestine.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Food Tube on the Floor: lay out 8 metres of wool. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before The Food Tube on the Floor: lay out 8 metres of wool.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Oil and Soap Bottles: what does bile do to fat?, The Pleated Cloth Test: does a folded lining soak up more?, The Food Tube on the Floor: lay out 8 metres of wool. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a2, a3. Get it before The Oil and Soap Bottles: what does bile do to fat?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is digestion for? → Breaking food into pieces small enough to pass into the blood.

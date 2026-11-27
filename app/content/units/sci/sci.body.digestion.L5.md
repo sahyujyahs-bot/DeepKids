@@ -1,9 +1,9 @@
 # The digestive system: what teeth, enzymes and gut microbes each do to your food
 `sci.body.digestion.L5`
 
-**Summary.** A little saliva turns thick starch paste runny in ten minutes, but it does nothing to a thick gel of isabgol. Why? In this unit you will race four pastes down a tilted plate to find what stops saliva working, time how fast your mouth makes saliva, and test whether chewing helps.
+**Summary.** A little saliva turns thick starch paste runny in ten minutes, but it does nothing to a thick gel of isabgol. Why? In this lesson you will race four pastes down a tilted plate to find what stops saliva working, time how fast your mouth makes saliva, and test whether chewing helps.
 
-**Intro.** *A cow lives on grass. If you ate only grass, you would starve. You and the cow both have teeth, a stomach and intestines. So what does the cow have that you do not have?* Grass is mostly fibre, and no enzyme made by a cow or a human can cut fibre. An enzyme is a substance made by living cells that cuts one kind of food molecule. The cow keeps a huge store of microbes in her stomach, and the microbes cut the fibre. You keep microbes too, in your large intestine, but far fewer than she does. In this unit you find what each part of your digestive system does to food. You find out why a crushed lump dissolves faster than a whole one, and what that means for chewing. You test what stops the enzyme in your saliva. You find a food that your saliva cannot change at all.
+**Intro.** *A cow lives on grass. If you ate only grass, you would starve. You and the cow both have teeth, a stomach and intestines. So what does the cow have that you do not have?* Grass is mostly fibre, and no enzyme made by a cow or a human can cut fibre. An enzyme is a substance made by living cells that cuts one kind of food molecule. The cow keeps a huge store of microbes in her stomach, and the microbes cut the fibre. You keep microbes too, in your large intestine, but far fewer than she does. In this lesson you find what each part of your digestive system does to food. You find out why a crushed lump dissolves faster than a whole one, and what that means for chewing. You test what stops the enzyme in your saliva. You find a food that your saliva cannot change at all.
 
 ## Learning outcomes
 0. I can name the organs of the digestive system in order, and say the job of each.
@@ -169,7 +169,7 @@ The appendix is a thin tube, about as long as a finger, joined to the first part
   Against: People without an appendix live healthy lives. The job has not been shown clearly in people.
 
 ## Roots
-In this unit you found out that each enzyme cuts one kind of molecule, and that gut microbes cut the fibre that you cannot. Here we ask what this tells us about food and about the one who eats it.
+In this lesson you found out that each enzyme cuts one kind of molecule, and that gut microbes cut the fibre that you cannot. Here we ask what this tells us about food and about the one who eats it.
 
 **Deep truth.** In Starch or Fibre, saliva made the starch paste runny and left the fibre gel thick. Both are chains of sugar units, and an enzyme cuts only the joins it fits. We have no enzyme for the joins in fibre, but gut microbes have. So whether a plant counts as food depends on the enzymes the eater has or can borrow from microbes.  
 *Habit it breaks:* We talk about food as if being food were a property of the thing itself, like its colour. But grass is food for a cow and her microbes together, and it is not food for a person alone. Whether something is food depends on whether the eater has the right enzymes for it.  
@@ -484,7 +484,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   *Parent says:* Say what you thought would happen, what you saw, and why you think it happened. A swallowed lump of food is like the whole sugar lump.  
   *Child mode:* Say what you thought would happen. Say what you saw. Say why you think it happened.
   - Ask: What does chewing do for the enzymes in your mouth? (good: It gives them more of the food's outside to work on.; It breaks big lumps into small bits.; It is like crushing the sugar.)
-  - Note: Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the unit shows.
+  - Note: Water, like an enzyme, can only work on the outside of a piece. Cutting a piece into four, or into powder, makes much more outside. Chewing does the same to food. It does not make the food more nutritious. It makes digestion faster. One chewing rule does not suit every food, as the Fletcher card in the lesson shows.
   - Think: A cube of 2 centimetres is cut into eight cubes of 1 centimetre. Has the amount of food changed? Has the amount of outside changed?
 ### a3 · The Gut Ladder: string lengths for a cat, a person, a rabbit and a cow (20 min)
 - **record:** Fill in a table of four animals: what each one eats, its weight, and the length of your whole strip and of the large intestine part.
@@ -806,6 +806,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [Isabgol (psyllium husk), a small packet of about 100 grams](https://www.amazon.in/s?k=isabgol+husk) (material): For Starch or Fibre. Most chemist shops and grocers sell it. Slimy bhindi water works in its place. Used in e2. 
 - [Kalkandu (rock sugar), 100 grams](https://www.amazon.in/s?k=kalkandu+rock+sugar) (material): For Whole or Crushed. Grocers and sweet shops sell it. Big crystals of ordinary sugar work in its place. Used in a2. 
 - [I Contain Multitudes: The Microbes Within Us and a Grander View of Life, a book by Ed Yong (2016)](https://www.amazon.in/s?k=I+Contain+Multitudes+Ed+Yong) (book): For the parent or an older child: a clear and careful account of the microbes that live in and on animals. Used in p1. After the Milk Survey, a parent can read aloud from the chapters on microbes and the gut.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Run Test: what stops saliva from digesting starch?, Starch or Fibre: can saliva thin every thick food?, The Gut Ladder: string lengths for a cat, a person, a rabbit and a cow. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, a4, p1, c1. Get it before The Run Test: what stops saliva from digesting starch?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Listen to a Gut: is the food tube busier before lunch or after?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before Listen to a Gut: is the food tube busier before lunch or after?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Listen to a Gut: is the food tube busier before lunch or after?, Mouth Waters: how fast do your saliva glands wake up?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3, a1. Get it before Listen to a Gut: is the food tube busier before lunch or after?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an enzyme? → A substance made by living cells that speeds up one kind of chemical change, such as cutting one kind of food molecule.

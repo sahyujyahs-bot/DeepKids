@@ -1,9 +1,9 @@
 # Elements: things made of just one kind of atom
 `sci.chemistry.elements.L2`
 
-**Summary.** A black silver anklet can shine again without any rubbing. How? In this unit you will lay dark silver on foil in hot water with cooking soda and watch the shine come back, hunt at home for things made of just one element, and play a card sorting game.
+**Summary.** A black silver anklet can shine again without any rubbing. How? In this lesson you will lay dark silver on foil in hot water with cooking soda and watch the shine come back, hunt at home for things made of just one element, and play a card sorting game.
 
-**Intro.** *Find an old silver anklet, toe ring or coin that has gone dark. Next to it, put a gold earring that has been worn for years. Why did the silver go dark, but not the gold?* Gold, silver, iron and copper are metals that people have used for thousands of years. Each is an element, a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this unit you hunt for elements at home, make dark silver shine again, and find out why gold stays shiny.
+**Intro.** *Find an old silver anklet, toe ring or coin that has gone dark. Next to it, put a gold earring that has been worn for years. Why did the silver go dark, but not the gold?* Gold, silver, iron and copper are metals that people have used for thousands of years. Each is an element, a substance made of just one kind of atom. Atoms are the tiny pieces that everything is made of, far too small to see. In this lesson you hunt for elements at home, make dark silver shine again, and find out why gold stays shiny.
 
 ## Learning outcomes
 0. By the end I can say that everything is made of tiny atoms, far too small to see.
@@ -517,11 +517,11 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 - Many families clean silver anklets and puja items before a festival. The foil-and-soda method cleans them without rubbing the silver away.
 
 ## Spotted around us
-- Silver anklets, toe rings and Diwali coins that have gone grey or black in a drawer, in homes all over India.
-- Brass and copper lamps being cleaned with tamarind before a festival, like the nilavilakku lamps of Kerala before Onam.
-- Gold jewellery shops in Thrissur, Chennai and Kolkata, with gold that stays shiny in every window.
+- Silver anklets, toe rings and Diwali coins that have gone grey or black in a drawer.
+- Brass and copper lamps being cleaned with tamarind before a festival.
+- Gold jewellery in a shop window. The gold stays shiny.
 - Iron gates and grills on balconies, with orange rust where the paint has come off.
-- Copper water pots, called kudam in Tamil Nadu and tambya in Maharashtra, in many kitchens.
+- Copper water pots in many kitchens.
 
 ## Open questions
 - **Where did most of the gold on Earth come from?** In 2017, scientists saw two dead stars crash and make heavy atoms like gold. Some scientists think most gold was made this way. Others think these crashes are too rare, and other star explosions made some of it.
@@ -557,11 +557,14 @@ One Kind of Atom (sci.chemistry.L2): Topic-level song for Chemistry L2
 ## Links
 - [Royal Society of Chemistry: the periodic table](https://periodic-table.rsc.org/) · interactive: For the parent: a picture and a few plain facts for every element, to look up gold, silver or oxygen together.
 - [PhET: Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom) · simulation: For an older sibling or a curious parent: build atoms and see which element you have made.
-- [Government Museum, Egmore: the bronze gallery]() · place · Chennai: Famous Chola bronzes, made mainly of copper mixed with other metals, many hundreds of years old.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on galleries and live science shows.
+- Government Museum, Egmore: the bronze gallery · place · Chennai: Famous Chola bronzes, made mainly of copper mixed with other metals, many hundreds of years old.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries, good for a day of trying things out together.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on galleries and live science shows.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Pencil Mystery: is there lead in a pencil?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before The Pencil Mystery: is there lead in a pencil?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in The Foil Bowl: can dark silver shine again without rubbing?. About ₹20 to ₹40. Check the kitchen first. Used in e1. Get it before The Foil Bowl: can dark silver shine again without rubbing?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an element? → A substance made of just one kind of atom.
@@ -577,7 +580,7 @@ One Kind of Atom (sci.chemistry.L2): Topic-level song for Chemistry L2
 - Core: a1, e1, g1, ws-core
 
 ## Sources
-- Notebook item bio:33 (atoms, elements and compounds). The other notebook items for this subtopic (chem:4, chem:44, chem:115, chem:171, chem:172, chem:176 to chem:179: the periodic table, element blocks and group chemistry) are for sci.chemistry.elements.L4 and L5. At Class 2 this unit keeps to atoms, elements and elements joined together.
+- Notebook item bio:33 (atoms, elements and compounds). The other notebook items for this subtopic (chem:4, chem:44, chem:115, chem:171, chem:172, chem:176 to chem:179: the periodic table, element blocks and group chemistry) are for sci.chemistry.elements.L4 and L5. At Class 2 this lesson keeps to atoms, elements and elements joined together.
 - ideas/by_topic/matter-and-particles.md: the founder's idea to colour-code kitchen items by the elements they contain shaped the Element Hunt. The note on Kanada's paramanu shaped the Vaisheshika teaching in Roots.
 - This is the first elements level. It leads on from sci.materials.what-is-it-made-of.L1 (sorting materials such as metal and glass) to the idea that some metals are elements and some are mixes. It leads to sci.chemistry.elements.L4 (118 elements, elements in the body, metals and non-metals). Rusting nails (sci.evolution.story-of-life.L3), splitting water (sci.chemistry.bonds.L3) and cutting paper down to atoms (sci.the-very-small.atoms.L3) are not repeated here.
 - Silver tarnish is mainly silver sulfide, formed with hydrogen sulfide and other sulfur gases in air. In hot sodium bicarbonate solution, aluminium in contact with the silver reduces silver sulfide back to silver metal. Hydrogen sulfide is released, which causes the egg smell.

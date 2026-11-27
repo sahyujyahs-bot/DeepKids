@@ -1,9 +1,9 @@
 # Food safety: why food that looks and smells fine can still make you ill
 `sci.food.food-safety.L4`
 
-**Summary.** Food can look and smell fine and still make you ill. How? In this unit you will grow yeast in four places to see how temperature changes how fast microbes grow, find the cause of an outbreak from who ate what, and see what salt does to a cucumber slice.
+**Summary.** Food can look and smell fine and still make you ill. How? In this lesson you will grow yeast in four places to see how temperature changes how fast microbes grow, find the cause of an outbreak from who ate what, and see what salt does to a cucumber slice.
 
-**Intro.** *Stir a spoon of yeast into sugary water and share it between four glasses. Put one in the fridge, one on the counter and one in a bowl of warm water. Heat the fourth until it steams, let it cool, and put it on the counter too. Two hours later, the warm glass is foaming up to the brim, the counter glass has foamed a little, more slowly, and the other two have barely changed. All four had the same yeast, the same sugar and the same water. What made the difference?* Yeast is a microbe, a living being too small to see. The yeast in the warm water had the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this unit you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.
+**Intro.** *Stir a spoon of yeast into sugary water and share it between four glasses. Put one in the fridge, one on the counter and one in a bowl of warm water. Heat the fourth until it steams, let it cool, and put it on the counter too. Two hours later, the warm glass is foaming up to the brim, the counter glass has foamed a little, more slowly, and the other two have barely changed. All four had the same yeast, the same sugar and the same water. What made the difference?* Yeast is a microbe, a living being too small to see. The yeast in the warm water had the best conditions, so she multiplied fastest. The bacteria that make people ill behave in the same way. In this lesson you test how temperature changes how fast microbes grow. You find out why smell is not a safe test, why a healthy cook can still pass on an illness, and how a table of who ate what can point to the guilty food. You also learn why salt and sugar keep food safe and how soap lifts microbes off your skin.
 
 ## Learning outcomes
 0. I can name the three kinds of food hazard, which are microbes, chemicals and hard objects, and give an example of each from a kitchen.
@@ -158,7 +158,7 @@ Every packet in India shows a date. The dates are set by the maker, who tests ho
   Against: Most food poisoning gets better by itself in a day or two, and the most important treatment is to drink fluids such as ORS. Antibiotics may not help, can make some infections worse, and using them too often breeds bacteria that resist them. A doctor decides.
 
 ## Roots
-In this unit you grew yeast in four glasses, pressed fingers onto potato slices, and read how a table of who ate what led to a bowl of chutney. This part asks what microbes show us about what 'harmful' means, and about ourselves.
+In this lesson you grew yeast in four glasses, pressed fingers onto potato slices, and read how a table of who ate what led to a bowl of chutney. This part asks what microbes show us about what 'harmful' means, and about ourselves.
 
 **Deep truth.** The same kind of microbe can live quietly in your gut and make you ill in your food. Whether a microbe harms us depends on where she is, how many there are, and who meets her. So 'harmful' describes a meeting, not a kind of microbe.  
 *Habit it breaks:* We sort germs into good germs and bad germs, as if each microbe carried the label inside her. We also sort people into clean people and unclean people, though a healthy cook can carry typhoid.  
@@ -172,7 +172,7 @@ Your lunch is a meal for you and for a crowd of beings too small to see. In your
 
 - **Chandogya Upanishad 6.5:** “अन्नमशितं त्रेधा विधीयते / तस्य यः स्थविष्ठो धातुस्तत्पुरीषं भवति / यो मध्यमस्तन्मांसम् / योऽणिष्ठस्तन्मनः” When food is eaten, it divides into three parts. The coarsest part leaves the body, the middle part builds the body, and the finest part builds the mind. Mind is made of food. (Food builds your body when you eat it. The same food builds a million microbes if they reach it first and it is kept warm.)
 - **Quran 2:168:** “يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا” Eat of what the earth gives that is lawful and good. (The word translated as good means wholesome and pure. Food that is good is not only tasty, but safe to eat.)
-- **Tirukkural 942:** “மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது / அற்றது போற்றி உணின்.” A person needs no medicine if they eat only after the last meal has been digested. (Timing is part of health. In this unit we learned that timing matters for food too, since cooked food that waits many hours in the warmth becomes a home for microbes.)
+- **Tirukkural 942:** “மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது / அற்றது போற்றி உணின்.” A person needs no medicine if they eat only after the last meal has been digested. (Timing is part of health. In this lesson we learned that timing matters for food too, since cooked food that waits many hours in the warmth becomes a home for microbes.)
 - Science (settled): Most of the bacteria in the human gut are harmless or helpful, and the body holds roughly as many bacterial cells as human cells.
 - Science (open): How much the mix of gut microbes affects mood, weight and long-term illness is being studied, and many claims are not yet proven.
 - Other view, Many public health experts: However we think about microbes, the kitchen rules stay simple and strict. Keep microbes out of food that will not be cooked. Keep food out of the danger zone. Wash hands. Thinking that microbes are only doing what living beings do must never make us careless, since people have died of food poisoning.
@@ -825,6 +825,10 @@ Sunlight on My Plate (sci.food.L4): Topic-level song for Food and nutrition L4
 - [A small bottle of tincture of iodine](https://www.amazon.in/s?k=tincture+iodine) (material): For the Starch Detective activity. A grown-up uses it. Chemist shops sell small bottles for a few rupees. Betadine solution diluted with water is a substitute. Used in a2. 
 - [A fridge or kitchen thermometer](https://www.amazon.in/s?k=fridge+thermometer) (tool): To measure the fridge and a cup of hot or cold water for the Temperature Strip. A cheap alcohol or digital kitchen thermometer works. A fever thermometer does not, because it only reads 35 to 42 degrees. Used in a4. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To read small print on labels and to look at spots on the potato bags. A cheap one from a stationery shop is enough. Used in a1, e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Yeast in Four Places: how does temperature change how fast microbes grow?, Salt Pulls Water Out: what a pickle does to a cucumber slice, The Temperature Strip: where does each kitchen thing sit?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a4. Get it before Yeast in Four Places: how does temperature change how fast microbes grow?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Temperature Strip: where does each kitchen thing sit?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a4. Get it before The Temperature Strip: where does each kitchen thing sit?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Keep the Ice: a lunch box that keeps cold. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Keep the Ice: a lunch box that keeps cold.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three kinds of food hazard? → Biological, chemical and physical.
@@ -843,7 +847,7 @@ Sunlight on My Plate (sci.food.L4): Topic-level song for Food and nutrition L4
 - Core: e1, g1, e3, ws-core, a1
 
 ## Sources
-- The Class 3 unit on food safety, which this unit builds on: from washing, covering, cooking and the dal-water test to temperature, toxins, carriers and tracing an outbreak
+- The Class 3 unit on food safety, which this lesson builds on: from washing, covering, cooking and the dal-water test to temperature, toxins, carriers and tracing an outbreak
 - NIOS Level A Lesson 8 (Food) and Level B Lesson 12 (Food and Health), used to map the coverage of food safety and storage
 - Founder's notes in ideas/by_topic/health-hygiene-exercise-and-illness.md on hygiene, and in ideas/by_topic/food-and-a-balanced-diet.md on microbes and food
 - World Health Organization (2006). Five Keys to Safer Food Manual

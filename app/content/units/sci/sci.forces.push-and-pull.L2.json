@@ -1994,7 +1994,45 @@
    "why": "A large science centre with hands-on exhibits about forces and motion."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in Who Is Pushing? A force hunt at home. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Who Is Pushing? A force hunt at home."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Push the Scale: how big is your push?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Push the Scale: how big is your push?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Is the wind's push on a kite a force?",

@@ -2818,6 +2818,57 @@
     "e1"
    ],
    "plan": "After the Hairy or Smooth test, read the pages on how a bee carries pollen."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Hairy or Smooth: which carrier takes pollen to more flowers?, From One Queen: draw the first year of an ant colony, Jumping Pollen: can pollen cross a gap without being touched?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before Hairy or Smooth: which carrier takes pollen to more flowers?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Clean-up Count: how fast do ants clear 20 crumbs?, The Kitchen Shelf Test: which foods needed an insect?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "a1"
+   ],
+   "plan": "Get it before The Clean-up Count: how fast do ants clear 20 crumbs?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Jumping Pollen: can pollen cross a gap without being touched?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Jumping Pollen: can pollen cross a gap without being touched?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

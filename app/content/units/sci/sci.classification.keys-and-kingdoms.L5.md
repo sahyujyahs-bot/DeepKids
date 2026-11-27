@@ -1,9 +1,9 @@
 # The big groups of life: animals, plants, fungi and microbes, and why scientists keep redrawing the tree of life
 `sci.classification.keys-and-kingdoms.L5`
 
-**Summary.** A mushroom stands still in the soil like a plant, yet it is a closer relative of you than of the grass beside it. How can that be? In this unit you will rebuild a hidden family tree by counting letters, and sort 24 living beings into groups.
+**Summary.** A mushroom stands still in the soil like a plant, yet it is a closer relative of you than of the grass beside it. How can that be? In this lesson you will rebuild a hidden family tree by counting letters, and sort 24 living beings into groups.
 
-**Intro.** *Think of a mushroom, a neem tree and yourself. Which two of the three are the closest relatives? Say what you think, and why.* Most people pick the mushroom and the neem tree. Both grow out of the ground, and neither walks about. Scientists thought the same for more than two hundred years, and put mushrooms among the plants. They were wrong. A mushroom cannot make food from sunlight. A mushroom digests food, as you do, and their genes are more like yours than like a neem tree's. In this unit you will find out how anyone can know this. You will also find out why the list of the big groups of life has been rewritten again and again, and why it is still not finished.
+**Intro.** *Think of a mushroom, a neem tree and yourself. Which two of the three are the closest relatives? Say what you think, and why.* Most people pick the mushroom and the neem tree. Both grow out of the ground, and neither walks about. Scientists thought the same for more than two hundred years, and put mushrooms among the plants. They were wrong. A mushroom cannot make food from sunlight. A mushroom digests food, as you do, and their genes are more like yours than like a neem tree's. In this lesson you will find out how anyone can know this. You will also find out why the list of the big groups of life has been rewritten again and again, and why it is still not finished.
 
 ## Learning outcomes
 0. By the end I can name the big groups of life and say one thing that marks each: bacteria, archaea, protists, fungi, plants and animals.
@@ -641,7 +641,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 6. (fill) A group made of one ancestor and all of their descendants is called a ____.  
    **Answer:** ['clade']. *Why:* A clade is one whole branch of the tree. Fungi are a clade. Protists are not, because the group leaves some descendants out.
 7. (match) Match each piece of evidence to what it shows.  
-   **Answer:** Mould grows well in the dark → fungi do not make food from light; Fungus walls are made of chitin → fungi are built unlike plants; Methane-makers' ribosome gene is unlike bacteria's → archaea are a separate group; Mitochondria have their own DNA → mitochondria were once free bacteria; Every cell uses the same DNA code → all life shares one ancestor. *Why:* Each conclusion in this unit rests on something that was measured or seen. A strong answer could say who would be surprised by each piece of evidence.
+   **Answer:** Mould grows well in the dark → fungi do not make food from light; Fungus walls are made of chitin → fungi are built unlike plants; Methane-makers' ribosome gene is unlike bacteria's → archaea are a separate group; Mitochondria have their own DNA → mitochondria were once free bacteria; Every cell uses the same DNA code → all life shares one ancestor. *Why:* Each conclusion in this lesson rests on something that was measured or seen. A strong answer could say who would be surprised by each piece of evidence.
 8. (order) P differs from Q in 2 letters, R in 6 and S in 10. Order P's relatives, closest first.  
    **Answer:** ['Q', 'R', 'S']. *Why:* Fewer differing letters mean a more recent shared ancestor. So Q is closest, then R, then S.
 9. (write) In Light or Dark, the mould grew with no light. Where did the mould's food come from?  
@@ -751,7 +751,7 @@ Devika looked at the curd. She looked at her sign. Curd did not grow white threa
 - Mushrooms coming up on a lawn, a log or a termite mound a few days after the first monsoon rain.
 - Idli batter that has risen overnight. Bacteria and yeasts in the batter made the gas.
 - A gobar gas dome beside a cowshed. Inside, archaea are turning dung into cooking gas.
-- Salt pans at Marakkanam in Tamil Nadu or at Ribandar in Goa, which sometimes turn pink before the salt is gathered.
+- Salt pans by the sea, which sometimes turn pink before the salt is gathered.
 - Bubbles rising from the mud of a flooded paddy field. Much of the gas is methane made by archaea.
 - Green slime on a wet bathroom wall or round a leaking tap. It is mostly algae and cyanobacteria.
 - Blue-green powder on an old lemon in the fruit basket. It is a mould, a fungus, and the powder is their spores.
@@ -803,13 +803,21 @@ One Tree, Many Branches (sci.classification.L5): Topic-level song
 - [Lifemap (CNRS, France)](https://lifemap.cnrs.fr/) · interactive: Another free zoomable map of the whole tree of life. It shows how much of the tree is bacteria and archaea.
 - [Understanding Evolution (University of California, Berkeley)](https://evolution.berkeley.edu/) · interactive: For the parent: clear pages on how to read a family tree and what a clade is.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: A free site where a grown-up can upload a photo of a lichen, a mushroom or an insect and get help naming them. Useful for A Census of Our Home.
-- [Regional Museum of Natural History]() · place · Mysuru: Galleries on the variety of life in southern India, from the Western Ghats to the sea.
-- [Government Museum, Egmore]() · place · Chennai: Its botany and zoology galleries show how museums sort and label living beings in groups inside groups.
-- [Indian Museum]() · place · Kolkata: One of the oldest museums in Asia, with large zoology and botany galleries arranged by group.
+- Regional Museum of Natural History · place · Mysuru: Galleries on the variety of life in southern India, from the Western Ghats to the sea.
+- Government Museum, Egmore · place · Chennai: Its botany and zoology galleries show how museums sort and label living beings in groups inside groups.
+- Indian Museum · place · Kolkata: One of the oldest museums in Asia, with large zoology and botany galleries arranged by group.
 
 ## Things to buy
 - [A hand lens that magnifies 5 to 10 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at lichens, moss and mould through the pouch in A Census of Our Home. It is useful but not needed. Stationery shops sell one for about Rs 50 to 150. Used in p1. 
 - [Tree of Life: The Incredible Biodiversity of Life on Earth, by Rochelle Strauss (a picture book)](https://www.amazon.in/s?k=Tree+of+Life+Rochelle+Strauss) (book): A picture book that shows all of life as one tree with its big groups. A library copy is as good as a bought one. Used in a2. Read it together after Four Maps of Life. Ask your child which of the four maps the book uses, and what they would redraw.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?, Light or Dark: does a mould need light the way a seedling does?, The Weight of Life: a paper strip for every big group. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, c2. Get it before The Hidden Tree Test: can counting letters rebuild a family tree that nobody shows you?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in A Census of Our Home: how many of the big groups of life live with us?, A Chart That Survives a New Discovery. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1, c1. Get it before A Census of Our Home: how many of the big groups of life live with us?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in A Chart That Survives a New Discovery. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in c1. Get it before A Chart That Survives a New Discovery.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Light or Dark: does a mould need light the way a seedling does?, A Census of Our Home: how many of the big groups of life live with us?, A Chart That Survives a New Discovery. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, p1, c1, c2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Light or Dark: does a mould need light the way a seedling does?. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Light or Dark: does a mould need light the way a seedling does?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Light or Dark: does a mould need light the way a seedling does?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Light or Dark: does a mould need light the way a seedling does?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three domains of life. → Bacteria, Archaea and Eukarya.
@@ -833,7 +841,7 @@ One Tree, Many Branches (sci.classification.L5): Topic-level song
 - The founder's note in the same file: 'Humans are somehow of a gross misconception that intelligence is unique to us'. Used in 'Every one of these beings senses and decides'.
 - Notebook items bio:171 to bio:174 (Diversity of Life, Prokaryotic kingdoms, Protists, Fungi), which this subtopic covers.
 - Combined lesson sci-C3-kinds-of-living-things-and-sorting-them: its experiment 'Mould or seed: who needs light?' is the starting point for Light or Dark, here made a fair test with a light set and a dark set. Its subconcepts on other ways of sorting (by number of senses), the three domains and the branches that joined are taken further here. Its story is not reused.
-- The Class 3 and Class 4 units sci.classification.sorting-living-things.L3 and L4, which this unit builds on. Their experiments, games and stories are not repeated, and the Carl Woese story told in the Class 3 unit is only summarised here.
+- The Class 3 and Class 4 units sci.classification.sorting-living-things.L3 and L4, which this lesson builds on. Their experiments, games and stories are not repeated, and the Carl Woese story told in the Class 3 unit is only summarised here.
 - knowledge/by_subtopic.json: Concepts of Biology and Biology 2e (OpenStax), 'Protists' and 'Biological Diversity', and Microbiology (OpenStax), 'A Systematic Approach', used for facts only.
 - Whittaker, R. H., 'New concepts of kingdoms of organisms', Science 163, 1969
 - Woese, C. R. and Fox, G. E., 'Phylogenetic structure of the prokaryotic domain: the primary kingdoms', Proceedings of the National Academy of Sciences 74, 1977

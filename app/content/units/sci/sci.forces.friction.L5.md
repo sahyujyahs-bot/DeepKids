@@ -1,9 +1,9 @@
 # Friction: which way it pushes, when we want it, and why it makes heat
 `sci.forces.friction.L5`
 
-**Summary.** A train engine as strong as four thousand horses can stand still on a wet hill with its wheels spinning. What moves a train forward? In this unit you will feel which way friction pushes, measure how far a marble rolls before it stops, and find what makes a rubbed coin warm.
+**Summary.** A train engine as strong as four thousand horses can stand still on a wet hill with its wheels spinning. What moves a train forward? In this lesson you will feel which way friction pushes, measure how far a marble rolls before it stops, and find what makes a rubbed coin warm.
 
-**Intro.** *Stand up and take one slow step forward. As you step, which way does your back foot push on the floor: forward or backward? Say what you think, and why.* It is hard to tell just by stepping. In the first activity, Finger Walk, you test it with two fingers and a loose sheet of paper. Many books say that friction is the force that slows things down. That is only half of what friction does. In this unit you find out which way friction pushes, and how to work it out for anything. You also find out where the movement goes when friction stops a rolling marble, and why brakes get hot.
+**Intro.** *Stand up and take one slow step forward. As you step, which way does your back foot push on the floor: forward or backward? Say what you think, and why.* It is hard to tell just by stepping. In the first activity, Finger Walk, you test it with two fingers and a loose sheet of paper. Many books say that friction is the force that slows things down. That is only half of what friction does. In this lesson you find out which way friction pushes, and how to work it out for anything. You also find out where the movement goes when friction stops a rolling marble, and why brakes get hot.
 
 ## Learning outcomes
 0. By the end I can say why friction is a contact force, and draw it as an arrow.
@@ -729,11 +729,11 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 - A wet grinder crushes soaked rice and urad dal for idli batter by friction between heavy stones. The batter comes out slightly warm.
 
 ## Spotted around us
-- Stone steps worn into a dip in the middle, at an old temple in Madurai or a ghat in Varanasi.
+- Stone steps worn into a dip in the middle, at an old temple or a river ghat.
 - A street knife sharpener's spinning stone, throwing sparks as friction heats tiny bits of steel.
 - A warm cycle rim, just after a long ride down a slope with the brakes on.
 - Fine white powder on a carrom board, put there so that the coins slide further.
-- The sign 'Use low gear' at the top of a ghat road in the Nilgiris or the Western Ghats.
+- The sign 'Use low gear' at the top of a steep hill road.
 - A bald auto tyre next to a new one with deep grooves, at a tyre shop.
 - A shiny steel pole in a city bus, polished by thousands of gripping hands.
 - Black tyre marks on a road where a vehicle braked hard, left by rubber that friction heated and rubbed off.
@@ -788,6 +788,11 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 ## Things to buy
 - [A bag of glass marbles](https://www.amazon.in/s?k=glass+marbles+for+kids) (material): One marble is needed for the Stopping Distance Test and the Escape Lane. Toy shops and stationery shops sell small bags. Used in e1, c1. 
 - [A tailor's measuring tape, 150 centimetres long](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): It measures the longer stopping distances in one go. A 30 centimetre ruler moved end to end also works. Used in e1, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Stopping Distance Test: how far does a marble roll before it stops?, The Warm Coin Test: what makes friction make more heat?, Friction Arrows: show the friction on five things. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a5. Get it before The Stopping Distance Test: how far does a marble roll before it stops?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Stopping Distance Test: how far does a marble roll before it stops?, The Warm Coin Test: what makes friction make more heat?, The Cool Coin: 80 strokes with the least heat. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e2, c2. Get it before The Stopping Distance Test: how far does a marble roll before it stops?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Stopping Distance Test: how far does a marble roll before it stops?. About ₹100 to ₹200. A marble or a round torch cell works. Used in e1. Get it before The Stopping Distance Test: how far does a marble roll before it stops?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Hand in the Bucket: water resistance and upthrust. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a4. Get it before Hand in the Bucket: water resistance and upthrust.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What kind of force is friction: contact or non-contact? → A contact force. The two surfaces must touch.
@@ -808,7 +813,7 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 - Founder's notes in ideas/by_topic/forces-and-movement.md, the Friction section: test sliding on different surfaces at home, rub to feel heat from friction, examine wear, 'build a simple brake system', 'mime of brakes slowing a bicycle', and the thought 'resistance gives us grip and control'. Used in the Stopping Distance Test, the Warm Coin Test, Green and Red, the Escape Lane and the roots.
 - Founder's notes, the 'Bumpy Ride' idea of a ramp with a smooth side and a rough side: the starting point for the Stopping Distance Test.
 - Cambridge Primary Science Learner's Book 5, Unit 5.3 'Friction, air resistance, water resistance and upthrust', for coverage only: friction as a force against sliding, the ramp test with repeats and a mean, force diagrams, useful and unwanted friction, drag and upthrust.
-- The Class 3 and Class 4 Friction units (sci.forces.friction.L3 and L4), which this unit builds on. Their experiments and stories are not repeated.
+- The Class 3 and Class 4 Friction units (sci.forces.friction.L3 and L4), which this lesson builds on. Their experiments and stories are not repeated.
 - Newton, I., Philosophiae Naturalis Principia Mathematica, 1687 (the third law of motion)
 - Joule, J. P., 'On the Mechanical Equivalent of Heat', Philosophical Transactions of the Royal Society 140, 1850
 - Science Museum Group, London: the locomotive Puffing Billy, built 1813 to 1814 at Wylam Colliery by William Hedley, Timothy Hackworth and Jonathan Forster

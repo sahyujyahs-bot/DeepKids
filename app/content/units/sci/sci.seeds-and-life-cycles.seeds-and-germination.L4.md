@@ -1,9 +1,9 @@
 # Waking seeds: why seeds from one packet do not wake together
 `sci.seeds-and-life-cycles.seeds-and-germination.L4`
 
-**Summary.** Thirty moong seeds lie on the same wet cloth in the same warm room, yet some sprout by morning and a few wait for days. Why do they not wake together? In this unit you will count the wake-ups and draw a curve, sow seeds at three depths, and grow seedlings in the dark.
+**Summary.** Thirty moong seeds lie on the same wet cloth in the same warm room, yet some sprout by morning and a few wait for days. Why do they not wake together? In this lesson you will count the wake-ups and draw a curve, sow seeds at three depths, and grow seedlings in the dark.
 
-**Intro.** *Put 30 moong seeds from one packet on a wet cloth. Leave them in a warm room. Look again after 12 hours. Some seeds already have a white root. Others have not moved at all. They had the same water, the same warmth and the same air. Why did they not wake together?* A packet of seeds looks like a crowd of identical things. But no two seeds are exactly alike, and every seed has their own way of waking. In this unit you count the wake-ups hour by hour. You also find out how deep a seed can be buried, why a seedling in the dark grows long and pale, and what a tamarind seed needs before water can get in. In the end you will see why a packet that wakes all at once might be a bad thing for the seeds.
+**Intro.** *Put 30 moong seeds from one packet on a wet cloth. Leave them in a warm room. Look again after 12 hours. Some seeds already have a white root. Others have not moved at all. They had the same water, the same warmth and the same air. Why did they not wake together?* A packet of seeds looks like a crowd of identical things. But no two seeds are exactly alike, and every seed has their own way of waking. In this lesson you count the wake-ups hour by hour. You also find out how deep a seed can be buried, why a seedling in the dark grows long and pale, and what a tamarind seed needs before water can get in. In the end you will see why a packet that wakes all at once might be a bad thing for the seeds.
 
 ## Learning outcomes
 0. I can count how many seeds in a test sprouted, turn the count into a percentage, and say why a test uses many seeds.
@@ -923,9 +923,9 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 - [Svalbard Global Seed Vault](https://www.seedvault.no) · interactive: For the parent and child: the world's biggest back-up store of crop seeds, deep inside a frozen mountain in Norway. See how seeds are packed and kept dry and cold.
 - [Royal Botanic Gardens, Kew: Millennium Seed Bank](https://www.kew.org) · interactive: Search the site for 'Millennium Seed Bank'. It stores seeds of wild plants from all over the world, and explains how seeds are tested and kept.
 - [Science Buddies](https://www.sciencebuddies.org) · interactive: Step-by-step ideas for seed experiments, including germination tests, for older children.
-- [National Gene Bank, ICAR-NBPGR]() · place · New Delhi: India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so ask before visiting, and look at its website for the story of how seeds are collected and stored.
-- [Auroville Botanical Gardens]() · place · Near Puducherry: A large garden with many kinds of plants, where you can find seeds, pods and seedlings in different stages.
-- [A plant nursery near you]() · place · Anywhere: Ask the gardeners how they treat hard seeds, which seeds are sown fresh, how deep they sow each kind, and what the germination percentage on their packets means.
+- National Gene Bank, ICAR-NBPGR · place · New Delhi: India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so ask before visiting, and look at its website for the story of how seeds are collected and stored.
+- Auroville Botanical Gardens · place · Near Puducherry: A large garden with many kinds of plants, where you can find seeds, pods and seedlings in different stages.
+- A plant nursery near you · place · Anywhere: Ask the gardeners how they treat hard seeds, which seeds are sown fresh, how deep they sow each kind, and what the germination percentage on their packets means.
 
 ## Things to buy
 - [Whole green moong, about 500 grams](https://www.amazon.in/s?k=whole+green+moong) (material): For the waking curve test and the pale search test. Buy it as fresh as you can, and keep a second, older packet for comparison. Used in e1, e3. 
@@ -933,6 +933,13 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 - [Povidone iodine antiseptic solution, a small bottle](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For the iodine starch test on seeds. Many homes already have one in a first-aid box. Keep it away from young children. Used in a1. 
 - [30 centimetre ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): For labels, measuring shoots and checking sowing depths. Used in p1, e2. 
 - [Seeds: Time Capsules of Life, by Rob Kesseler and Wolfgang Stuppy](https://www.amazon.in/s?k=Seeds+Time+Capsules+of+Life+Kesseler+Stuppy) (book): For the parent and older children: close-up photographs of many kinds of seed, with clear short text on how seeds are built and how they travel. Used in p1. Look at a few pages together before My Seed Library, then compare the photographs with the seeds you saved.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in How Deep? A tiny seed and a big seed at three depths. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e2. Get it before How Deep? A tiny seed and a big seed at three depths.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Pale Search: what happens to a seedling that never sees light?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before The Pale Search: what happens to a seedling that never sees light?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Rain Door: a seed that wakes only for a big rain. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c2. Get it before The Rain Door: a seed that wakes only for a big rain.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in The Dry Vault: keep seeds dry in a damp season. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in c1. Get it before The Dry Vault: keep seeds dry in a damp season.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Pale Search: what happens to a seedling that never sees light?, The Rain Door: a seed that wakes only for a big rain. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3, c2. Get it before The Pale Search: what happens to a seedling that never sees light?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Locked Seed: what does a tamarind seed need before water can get in?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e4. Get it before The Locked Seed: what does a tamarind seed need before water can get in?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a germination percentage? → How many seeds out of every hundred sprouted in a test.
@@ -952,7 +959,7 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md: the weekly journey 'Let grow and grow' (look after a seed, record how the seed grows, share seeds with friends), used in My Seed Library
-- The Class 3 unit on seeds and how they sprout, which this unit builds on: the five-cup test and what seeds need are taken to what makes seeds wake at different times, and why
+- The Class 3 unit on seeds and how they sprout, which this lesson builds on: the five-cup test and what seeds need are taken to what makes seeds wake at different times, and why
 - The founder's SCI card on Nikolai Vavilov, whose seed collecting was about keeping variety, used in the big question about who owns seeds
 - Cohen, D., Journal of Theoretical Biology, 1966: Optimizing reproduction in a randomly varying environment (seeds waking in part)
 - Gremer, J. R. and Venable, D. L., Ecology Letters, 2014: Bet hedging in desert winter annual plants

@@ -1,9 +1,9 @@
 # Transparent, translucent and opaque: why more layers let less light through
 `sci.light.transparent-opaque.L2`
 
-**Summary.** One sheet of paper over a drawing still shows it, but a pile hides it, and a torch still glows through the pile. In this unit you will sort things from home by how much light they let through, and count how many layers of polythene, tissue and paper hide a drawing.
+**Summary.** One sheet of paper over a drawing still shows it, but a pile hides it, and a torch still glows through the pile. In this lesson you will sort things from home by how much light they let through, and count how many layers of polythene, tissue and paper hide a drawing.
 
-**Intro.** *Hold one paper napkin up to a window, and light shines through it. Hold up a whole packet of napkins, and it looks dark. Where did the light go?* Some things let light through, and some things block it. But the same paper can do both. One sheet glows in the light. A thick pile looks dark. In this unit you find out which things let light through, and you count how many layers it takes to stop it.
+**Intro.** *Hold one paper napkin up to a window, and light shines through it. Hold up a whole packet of napkins, and it looks dark. Where did the light go?* Some things let light through, and some things block it. But the same paper can do both. One sheet glows in the light. A thick pile looks dark. In this lesson you find out which things let light through, and you count how many layers it takes to stop it.
 
 ## Learning outcomes
 0. By the end I can say what transparent, translucent and opaque mean, and give a home example of each.
@@ -29,6 +29,8 @@ In the Three Plates activity, you held things up to the window. Glass and clear 
 - e.g. A glass tumbler, a clear polythene bag and clean water are transparent.
 - e.g. A paper napkin, a dry onion skin and a thin cotton dupatta are translucent.
 - e.g. A steel plate, a wooden spoon and a brick wall are opaque.
+- **Everyday view:** A material is either clear, cloudy or solid-looking, and that is a fixed fact about it.
+- **Closer look:** It depends on the light and the eyes. Glass is transparent to visible light but opaque to much ultraviolet and infrared. Bees see ultraviolet, so some flowers look different to a bee than to us.
 ### Each layer stops some of the light · *defined*
 **Definition:** When light goes through a layer of a material, some of the light is stopped and the rest goes on. Each new layer stops some more. So many layers let through much less light than one.
 
@@ -36,6 +38,8 @@ In the Layer Test, you piled squares on a drawing. One square of paper let you s
 - e.g. In the Layer Test, the drawing got fainter with each paper square.
 - e.g. One napkin glows at a window, but a whole packet of napkins looks dark.
 - e.g. A thin cotton curtain lets light into a room. Two or three curtains, one behind the other, make the room much darker.
+- **Pierre Bouguer and Johann Lambert:** In the 1700s they found that each layer of the same thickness takes away the same share of the light. Many thin layers take away more and more.
+- **Physicists today:** Say a layer can also scatter light, sending it in all directions, and not just soak it up. Paper and frosted glass are translucent mostly because they scatter.
 ### Hidden is not the same as dark · *defined*
 **Definition:** A pile of translucent layers can hide a picture completely and still let light through.
 
@@ -43,6 +47,8 @@ In the Layer Test, a few paper squares hid your drawing. Then you shone a torch 
 - e.g. The paper pile that hid the drawing still glowed with the torch behind it.
 - e.g. A closed bathroom window of frosted glass lets in daylight, but you cannot see out.
 - e.g. Your eyelids let in a red glow when you face a bright window, but you see no picture.
+- **Physicists:** Explain that scattering mixes up the directions of the light, so it still arrives but the picture is lost. Light can pass and the image can vanish.
+- **Shadow-puppet makers of Andhra:** The artists of tholu bommalata cut and colour thin leather until it is translucent. Lamplight comes through as glowing colour, while the shape stays sharp.
 ### Thin enough, almost anything lets light through · *defined*
 **Definition:** A thin enough slice of almost any material lets some light through. A thick enough piece of any material stops nearly all light.
 
@@ -50,6 +56,8 @@ A whole cucumber is opaque. A paper-thin slice of the same cucumber glows at the
 - e.g. A thin cucumber slice glows. A thick piece looks dark.
 - e.g. Thin gold leaf lets green light through. A gold coin does not.
 - e.g. Rock ground thinner than paper lets light through, so scientists can study it under a microscope.
+- **Everyday view:** Some things are opaque, and light cannot get through.
+- **Closer look:** Gold leaf is thin enough to let green light through. Thick enough water or glass stops light, and X-rays pass through even our bodies. 'Opaque' means opaque to a kind of light, for a thickness.
 ### Why the deep sea is dark · *defined*
 **Definition:** Water is transparent, but each metre of water stops a little light. Below about 1,000 metres, no sunlight reaches at all.
 
@@ -57,6 +65,8 @@ A glass of water is clear. But sunlight going down into the sea passes through m
 - e.g. Water in a glass is clear.
 - e.g. In the Milk Cloud test, half a glass of cloudy water let the coin show, but a full glass hid it.
 - e.g. Deep-sea fish such as anglerfish carry their own glowing lights.
+- **A human diver:** Below about 1,000 metres the sea is black, because no sunlight gets there.
+- **Deep-sea animals:** Many make their own light, which is called bioluminescence, and their eyes are built to see it. For them the deep is full of flashes.
 
 ## Mostly agreed
 - Some materials are transparent, some are translucent and some are opaque. *How we know:* Anyone can hold glass, a napkin and a steel plate up to a window and see the difference.
@@ -483,11 +493,11 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - Seaweeds and corals that need sunlight live in the upper part of the sea, where enough light still reaches.
 
 ## Spotted around us
-- In Ahmedabad at Uttarayan, kites made of thin paper glow in the sunlight as they fly.
-- At a Kerala sadya, hold your banana leaf up to the sky before the food comes. The thin leaf glows green.
-- At night in Kolkata during Durga Puja, the cloth walls of a pandal glow from the lights inside.
-- At Kovalam beach, the water near your feet is clear, but far out the sea looks dark blue.
-- In a flat in Guwahati, a thin cotton curtain lets in soft light, but a thick bedsheet hung behind it makes the room dark for an afternoon nap.
+- At Uttarayan, kites made of thin paper glow in the sunlight as they fly.
+- At a sadya, hold your banana leaf up to the sky before the food comes. The thin leaf glows green.
+- At night during Durga Puja, the cloth walls of a pandal glow from the lights inside.
+- At a beach, the water near your feet is clear, but far out the sea looks dark blue.
+- In a flat, a thin cotton curtain lets in soft light, but a thick bedsheet hung behind it makes the room dark for an afternoon nap.
 
 ## Open questions
 - **How little light can deep-sea animals see?** Below about 1,000 metres, sunlight is too faint for most eyes. But some deep-sea fish have very sensitive eyes. Scientists are still finding out how faint a light they can sense.
@@ -525,11 +535,14 @@ Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: Free picture books in many Indian languages. Search for books about light, the sea and the night.
 - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/) · interactive: For the parent: photos and videos from deep-sea dives, where sunlight fades away.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Hands-on science galleries for families.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: Hands-on science galleries for families.
-- [Nehru Science Centre]() · place · Mumbai: Hands-on science exhibits, and a science park for children.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Hands-on science galleries for families.
+- Birla Industrial and Technological Museum · place · Kolkata: Hands-on science galleries for families.
+- Nehru Science Centre · place · Mumbai: Hands-on science exhibits, and a science park for children.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Nap Room: make a shoebox dark. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Nap Room: make a shoebox dark.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Layer Test: how many layers hide the drawing?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Layer Test: how many layers hide the drawing?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a material we can see clearly through? → Transparent.
@@ -546,7 +559,7 @@ Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2
 
 ## Sources
 - ideas/by_topic/light-seeing-and-shadows.md: the founder's idea of shining a torch through different plastics and layered transparent sheets grew into the Three Plates sort and the Layer Test. Her note on C.V. Raman and light passing through transparent materials is kept for the Level 3 light units, since the colour of the sea is already told at Level 1.
-- Curriculum entry sci.light.transparent-opaque.L2 (covers: which materials let light through), with Cambridge Primary Science Stage 2 Unit 5, where children count sheets of paper in front of a torch. This unit leads on from Light sources (Level 2) and leads to Transparent, translucent and opaque (Level 3), which explains scattering and the gap test.
+- Curriculum entry sci.light.transparent-opaque.L2 (covers: which materials let light through), with Cambridge Primary Science Stage 2 Unit 5, where children count sheets of paper in front of a torch. This lesson leads on from Light sources (Level 2) and leads to Transparent, translucent and opaque (Level 3), which explains scattering and the gap test.
 - Light is attenuated exponentially with thickness in an absorbing or scattering medium (the Beer-Lambert law for absorption). In clear ocean water, the sunlit zone reaches about 200 metres and essentially no sunlight remains below about 1,000 metres.
 - Thin sections for petrography are ground to about 0.03 mm. William Nicol made thin sections of fossil wood around 1830. Henry Clifton Sorby applied the method to rocks from about 1849 and published 'On the microscopical structure of crystals' in 1858.
 - Florence Bascom (1862 to 1945) earned a PhD at Johns Hopkins in 1893 on old volcanic rocks of South Mountain, Pennsylvania, studied in thin section, and became the first woman geologist hired by the US Geological Survey in 1896.

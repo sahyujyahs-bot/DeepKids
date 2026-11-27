@@ -1,9 +1,9 @@
 # What is light, and how fast does it travel?
 `sci.light.what-is-light.L3`
 
-**Summary.** The sunlight you see right now left the Sun about 8 minutes ago. How do we know light takes time to travel? In this unit you will test what you notice about light, work out how old some light is, and act out how Rømer found a late moon.
+**Summary.** The sunlight you see right now left the Sun about 8 minutes ago. How do we know light takes time to travel? In this lesson you will test what you notice about light, work out how old some light is, and act out how Rømer found a late moon.
 
-**Intro.** *Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?* It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this unit, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.
+**Intro.** *Go into a dark room with a torch. Switch it on. Did the light take any time to reach the far wall? Or was it there at once?* It looks instant. Click, and the wall is bright. For thousands of years, most people thought light needed no time at all to travel. Then, about 350 years ago, a young astronomer noticed that one of Jupiter's moons seemed to run late. When the Earth was far from Jupiter, the moon appeared minutes later than expected. The moon was not late at all. Its light had further to travel. In this lesson, you will find out how fast light really is, why the sunshine on your arm left the Sun about 8 minutes ago, and why blue light can make a glow-in-the-dark star glow when red light cannot.
 
 ## Learning outcomes
 0. I can say what light is: energy that travels in straight lines and needs no air to move through.
@@ -196,7 +196,7 @@ We have been learning what light is, how fast it travels and how it comes in pac
 
 Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. In 1865 Maxwell showed that light is a wave of electricity and magnetism. And every one of these waves comes in photons.
 
-- **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** “याज्ञवल्क्य किंज्योतिरयं पुरुष इति / आदित्यज्योतिः सम्राडिति होवाच / अस्तमित आदित्ये याज्ञवल्क्य किंज्योतिरेवायं पुरुष इति / चन्द्रमा एवास्य ज्योतिर्भवतीति / आत्मैवास्य ज्योतिर्भवतीति” King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light. (This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?)
+- **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** “याज्ञवल्क्य किंज्योतिरयं पुरुष इति / आदित्यज्योतिः सम्राडिति होवाच / अस्तमित आदित्ये याज्ञवल्क्य किंज्योतिरेवायं पुरुष इति / चन्द्रमा एवास्य ज्योतिर्भवतीति / आत्मैवास्य ज्योतिर्भवतीति” King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light. (This lesson follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?)
 - **Udana 6.4, the Buddha's story of the blind men and the elephant (also told in Jain teaching on anekantavada, many-sidedness):** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi thūṇo.” Some blind men each touch one part of an elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is partly right, and they quarrel. (Young's two slits showed light acting as a wave. Einstein's packets showed it acting as particles. Each experiment touched one side of light, and neither word describes all of it.)
 - Science (settled): Light's energy comes in packets called photons. The colour of the light sets how much energy each photon carries.
 - Science (debated): In quantum physics, light behaves like a wave and arrives as packets. What a photon is really like between leaving and arriving is still argued about. Quantum physics talks about an 'observer' of light. That means any measuring machine, not only a person. Quantum physics does not prove that a person watching makes the world real.
@@ -835,8 +835,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - Fireworks at Diwali: you see the burst before you hear the bang.
 - A rooftop solar panel turning sunlight into electricity.
 - A dish antenna on a building, catching signals sent at light-speed from a satellite.
-- A big cricket ground such as Eden Gardens in Kolkata. From the far stands, you see the bat hit the ball a moment before you hear the knock.
-- A lighthouse on the coast, like the one at Marina Beach in Chennai, flashing its own pattern at night.
+- A big cricket ground. From the far stands, you see the bat hit the ball a moment before you hear the knock.
+- A lighthouse on the coast, flashing its own pattern at night.
 - Sunbeams through a dusty window, showing light travels in straight lines.
 - The Moon at night. Its light is about 1 second old when it reaches you.
 
@@ -894,12 +894,17 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on light exhibits. Next door is the Nehru Planetarium in Worli.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries on light and physics. Kolkata also has the Birla Planetarium.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with hands-on exhibits about light and space.
-- [Hanle Dark Sky Reserve]() · place · Hanle, Ladakh: One of the darkest skies in India, near the Indian Astronomical Observatory. From here you can see the Milky Way and the Andromeda galaxy, light that is 25 lakh years old.
+- Hanle Dark Sky Reserve · place · Hanle, Ladakh: One of the darkest skies in India, near the Indian Astronomical Observatory. From here you can see the Milky Way and the Andromeda galaxy, light that is 25 lakh years old.
 
 ## Things to buy
 - [Glow-in-the-dark star stickers](https://www.amazon.in/s?k=glow+in+the+dark+stars) (material): For the Glow Star Test. Sold cheaply in toy and stationery shops. A glow-in-the-dark toy you already have works too. Used in e2. 
 - [Coloured cellophane sheets, red and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Only needed if your phone screen's red or blue does not work in the Glow Star Test. It also makes a red night torch for the Old Starlight Walk. Used in e2, a5. 
 - [Planisphere, a turning star map](https://www.amazon.in/s?k=planisphere+star+map) (tool): A turning star map. It helps you find stars on the Old Starlight Walk without a phone. Used in a5. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Light-Minute String. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before The Light-Minute String.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Galileo's Lantern Test. About ₹150 to ₹400. A phone stopwatch works well. Used in c1. Get it before Galileo's Lantern Test.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Chocolate in the Microwave: measure the speed of light, The 8-Minute Wait, The Light-Minute String. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a2, p1. Get it before Chocolate in the Microwave: measure the speed of light.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Ripples in an Uruli: what is a wave?. About ₹10 to ₹40. Small round stones or dried chana. Used in a3. Get it before Ripples in an Uruli: what is a wave?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how fast does light go? → About 3 lakh kilometres every second.

@@ -3260,6 +3260,96 @@
    "used_in": [
     "e3"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in A Lens Makes a Window Picture: where is the sharp place?, Near Point: how close can you focus?, How Big Does It Look? A ruler at arm's length. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3",
+    "a3",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before A Lens Makes a Window Picture: where is the sharp place?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Three Cards, Three Holes: can light go round a corner?, Near Pencil, Far Pencil: the finger jump and the depth test, A Lens Makes a Window Picture: where is the sharp place?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a3",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Three Cards, Three Holes: can light go round a corner?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in A Lens Makes a Window Picture: where is the sharp place?. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before A Lens Makes a Window Picture: where is the sharp place?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in A Bird in a Cage: pictures that join in your eye. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A Bird in a Cage: pictures that join in your eye."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Readable From the Far End: design the best sign. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Readable From the Far End: design the best sign."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in Three Cards, Three Holes: can light go round a corner?, A Lens Makes a Window Picture: where is the sharp place?. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "e1",
+    "e3"
+   ],
+   "plan": "Get it before Three Cards, Three Holes: can light go round a corner?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

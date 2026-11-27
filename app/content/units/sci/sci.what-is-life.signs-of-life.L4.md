@@ -1,9 +1,9 @@
 # What is life? Why every test for life has an exception
 `sci.what-is-life.signs-of-life.L4`
 
-**Summary.** A candle flame uses air, grows and spreads, yet it is not alive. A seed can wait for centuries doing nothing, yet it is alive. So what is life? In this unit you will write your own test for life and try to fool it, and heat beetroot to see colour leak out.
+**Summary.** A candle flame uses air, grows and spreads, yet it is not alive. A seed can wait for centuries doing nothing, yet it is alive. So what is life? In this lesson you will write your own test for life and try to fool it, and heat beetroot to see colour leak out.
 
-**Intro.** *A candle flame uses up wax. It needs air, because it goes out under a glass. It grows when you add a wick, and it spreads to a new wick. Is a flame alive? And what about a mule, who almost never has young, or a dry seed that does nothing at all?* Every simple test for life gets fooled by something. A flame passes many tests and is not alive. A seed fails many tests and is alive. Scientists know this, and they have tried for a hundred years to write a better test. In this unit you will write your own rule, break it, and mend it. You will also see what happens inside a living cell when it is heated, and why staying warm in a cool room is hard work.
+**Intro.** *A candle flame uses up wax. It needs air, because it goes out under a glass. It grows when you add a wick, and it spreads to a new wick. Is a flame alive? And what about a mule, who almost never has young, or a dry seed that does nothing at all?* Every simple test for life gets fooled by something. A flame passes many tests and is not alive. A seed fails many tests and is alive. Scientists know this, and they have tried for a hundred years to write a better test. In this lesson you will write your own rule, break it, and mend it. You will also see what happens inside a living cell when it is heated, and why staying warm in a cool room is hard work.
 
 ## Learning outcomes
 0. I can explain why one sign of life, such as growing or moving, cannot tell living things from non-living things, using fire and crystals as examples.
@@ -737,11 +737,18 @@ The Work of Staying Alive (sci.what-is-life.L4): Topic-level song
 - [NASA Astrobiology](https://astrobiology.nasa.gov/) · interactive: For the parent: how NASA scientists look for life on other worlds, and the working definition they use.
 - [Tardigrade (Wikipedia)](https://en.wikipedia.org/wiki/Tardigrade) · interactive: For the parent: how tardigrades dry up and wake again.
 - [Millennium Seed Bank Partnership (Wikipedia)](https://en.wikipedia.org/wiki/Millennium_Seed_Bank_Partnership) · interactive: For the parent: how seeds are stored dry and cold for many years, and why.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with displays about the human body and about energy and machines.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with displays about the human body and about energy and machines.
 
 ## Things to buy
 - [A digital thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): For the Staying Warm test, to measure warm water and your own temperature. Many homes already have one for fever. A new one costs about Rs 100 to 200 at a medical shop. Used in e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): For counting tiny sprouts and roots in the Waking Up test and the Cut It Up project. It is optional, and a small one costs about Rs 50 to 100 at a stationery shop. Used in e3, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Tests, Eight Cases: what scientists' definitions say. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Three Tests, Eight Cases: what scientists' definitions say.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Faker: design a non-living thing that fools the most tests. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Faker: design a non-living thing that fools the most tests.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Waking Up: do older seeds sprout less often?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3. Get it before Waking Up: do older seeds sprout less often?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Beetroot Bleed: what does heat do to the skin of a living cell?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before Beetroot Bleed: what does heat do to the skin of a living cell?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Staying Warm: who keeps their own temperature?, Waking Up: do older seeds sprout less often?, Cut It Up: which pieces start again?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, e3, p1. Get it before Staying Warm: who keeps their own temperature?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Staying Warm: who keeps their own temperature?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2. Get it before Staying Warm: who keeps their own temperature?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a flame alive just because it uses fuel and air? → No. A flame builds nothing and mends nothing.
@@ -760,7 +767,7 @@ The Work of Staying Alive (sci.what-is-life.L4): Topic-level song
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources
-- Founder's notes for this topic (living and non-living, signs of life): the question of where the line between living and non-living is drawn, from the J.C. Bose card, used as the starting question of this unit. The Class 3 unit on the seven signs of life, which this unit builds on and does not repeat.
+- Founder's notes for this topic (living and non-living, signs of life): the question of where the line between living and non-living is drawn, from the J.C. Bose card, used as the starting question of this lesson. The Class 3 unit on the seven signs of life, which this lesson builds on and does not repeat.
 - NCERT and Cambridge Stage 4 and 5 material on living and non-living things, for coverage only. Their text is not copied.
 - Koshland, D. E., 'The Seven Pillars of Life', Science 295, 2215-2216, 2002
 - Joyce, G. F., foreword to Deamer and Fleischaker (eds), Origins of Life: The Central Concepts, 1994 (the NASA working definition of life)

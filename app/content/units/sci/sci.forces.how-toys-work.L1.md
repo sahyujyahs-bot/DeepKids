@@ -1,9 +1,9 @@
 # How toys move: rolling, bouncing, spinning and winding up
 `sci.forces.how-toys-work.L1`
 
-**Summary.** A ball rolls down a slope, but a book stays put. Why? In this unit you will test what rolls and what slides, drop a ball from high and low to see how it bounces, and make a string that winds up and lets go.
+**Summary.** A ball rolls down a slope, but a book stays put. Why? In this lesson you will test what rolls and what slides, drop a ball from high and low to see how it bounces, and make a string that winds up and lets go.
 
-**Intro.** *Lean a tray on two books. Put a ball at the top and let go. Now put a book at the top and let go. What happens to each one?* The ball rolled down. The book stayed where it was. Nobody pushed either of them, and both were on the same slope. So why did only the ball move? In this unit you find out how toys move. Some roll, some bounce, some spin, and some wind up and go. You test each one with things from home.
+**Intro.** *Lean a tray on two books. Put a ball at the top and let go. Now put a book at the top and let go. What happens to each one?* The ball rolled down. The book stayed where it was. Nobody pushed either of them, and both were on the same slope. So why did only the ball move? In this lesson you find out how toys move. Some roll, some bounce, some spin, and some wind up and go. You test each one with things from home.
 
 ## Learning outcomes
 0. By the end I can sort things that roll from things that slide or stay still, and say that round things roll.
@@ -28,6 +28,8 @@ In the slope test, the ball, the bottle and the round pencil rolled. The book an
 - e.g. In the slope test, the ball and the bottle rolled, and the book stayed still.
 - e.g. Car and cycle wheels are round, so they roll along the road.
 - e.g. A lumpy potato rolls a little, stops on a flat bit, then rolls again.
+- **Early cart makers:** Little clay toy carts with wheels have been found at Harappan sites. The wheel was used in play and work.
+- **Physicists:** Say rolling takes much less effort than sliding, because the part touching the ground is momentarily still. Friction is far smaller for rolling.
 ### A rolling thing's shape steers it · *defined*
 **Definition:** A thing that is the same width all along, like a bottle, rolls straight. A thing that is wider at one end, like a cup, rolls round in a curve, towards its narrow end.
 
@@ -42,6 +44,8 @@ A rubber ball squashes for a moment when it hits the floor, too fast to see. The
 - e.g. In High Drop, Low Drop, the ball dropped from high up bounced higher than the ball dropped from low down.
 - e.g. In High Drop, Low Drop, the ball never came back up as high as the hand that dropped it.
 - e.g. A ball bounces well on hard tiles, and hardly at all on a soft pillow.
+- **Physicists:** Explain that a ball stores energy in its squashed shape and gives it back. Each bounce is lower because some energy turns to heat and sound.
+- **Flea researchers:** Find that a flea jumps by squashing a pad of springy protein called resilin and letting it go. Living bodies also bounce.
 ### A top stands up only while it spins · *defined*
 **Definition:** A top stands up on its point while it spins fast. It falls over when it slows down and stops.
 
@@ -49,6 +53,8 @@ Try to stand a top on its point without spinning it. It falls over at once. Spin
 - e.g. In Make a Colour Top, the top fell over when it was still, and stood up while it spun.
 - e.g. A pambaram, the string top of Tamil Nadu, stands up while it spins and falls when it stops.
 - e.g. A spinning coin stands on its edge, then wobbles and falls flat as it slows.
+- **Physicists:** Say a spinning top has angular momentum, which resists tipping. When it slows, the pull of gravity wins.
+- **Astronomers:** Show that the Earth is itself a spinning top. Its axis wobbles in a slow circle, once in about 26,000 years, like a top that is leaning. Indian children have long played with the spinning top, called bambaram or lattu.
 ### Winding stores your push · *defined*
 **Definition:** When you wind a toy or twist a string, you give it a push that it keeps in a twist or a spring. When you let go, the twist or spring undoes itself, and the toy moves.
 
@@ -56,6 +62,8 @@ In Twist and Let Go, you twisted the sock on its string ten times. When you let 
 - e.g. In Twist and Let Go, more twists made the sock spin for longer.
 - e.g. A pull-back car goes further when you pull it back further.
 - e.g. An old wall clock stops if nobody winds its key.
+- **Robert Hooke:** In 1660 he found that a spring pushes back in proportion to how far it is stretched. This is Hooke's law.
+- **Biologists:** Find that living beings store energy in springy parts too. In a human leg the Achilles tendon stretches like a spring and gives back energy on each step.
 
 ## Mostly agreed
 - Every toy starts moving with a push or a pull. *How we know:* A ball rolls when a hand or a slope starts it. A top spins when fingers or a string turn it. A wind-up toy moves when its spring, wound by your hand, pushes the wheels.
@@ -505,11 +513,11 @@ Ammamma clapped, and Tara wrote it in her science book.
 - In 2017, Manu Prakash's team at Stanford University made a paper spinner, like a button on a string. It spins blood to help test for malaria in places with no electricity.
 
 ## Spotted around us
-- Wooden tops and rolling toys for sale at a fair in Channapatna, Karnataka.
-- Children in Madurai playing with a string top, a pambaram, on a flat terrace.
+- Wooden tops and rolling toys for sale at a fair.
+- Children playing with a string top, a pambaram, on a flat terrace.
 - A potter in Khurja or Kumartuli spinning a wheel to shape a clay pot.
-- A child rolling an old cycle tyre along a lane with a stick in a Goa village.
-- The giant wheel at a Durga Puja mela in Kolkata, spinning round its middle.
+- A child rolling an old cycle tyre along a lane with a stick.
+- The giant wheel at a mela, spinning round its middle.
 
 ## Open questions
 - **Who made the very first spinning top?** Tops have been found in very old places in many parts of the world. Nobody knows who made the first one, or whether people in different places each made their own.
@@ -544,10 +552,12 @@ Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1
 
 ## Links
 - [Arvind Gupta Toys: toys from trash](https://www.arvindguptatoys.com/) · interactive: For the parent: hundreds of free films and books, many in Indian languages, on making simple toys that roll, spin and bounce from things at home.
-- [Channapatna, the toy town]() · place · Channapatna, between Bengaluru and Mysuru: A town famous for lacquered wooden toys and tops, turned on a lathe. You can watch toys being made.
-- [Etikoppaka toy village]() · place · Etikoppaka, near Visakhapatnam, Andhra Pradesh: A village known for wooden toys painted with plant colours, including tops and rolling toys.
+- Channapatna, the toy town · place · Channapatna, between Bengaluru and Mysuru: A town famous for lacquered wooden toys and tops, turned on a lathe. You can watch toys being made.
+- Etikoppaka toy village · place · Etikoppaka, near Visakhapatnam, Andhra Pradesh: A village known for wooden toys painted with plant colours, including tops and rolling toys.
 
 ## Things to buy
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Toy Hunt: how does each toy move?, Pull-Back Car: short pull, long pull. About ₹100 to ₹200. A marble or a round torch cell works. Used in a1, a4. Get it before Toy Hunt: how does each toy move?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which rolls down a slope: a ball or a book? → A ball. It is round.
@@ -563,7 +573,7 @@ Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1
 - Core: e1, g1, a1, e2, a2, ws-core
 
 ## Sources
-- ideas/by_topic/forces-and-movement.md: the notes on rotational motion (spinning tops, a paper pinwheel, spinning a coin, a relay passing a spinning top) and on stored energy (wind up a mechanical toy and let it unwind), and the note on bouncing balls. The coin top, spinning coin and rolling race belong to the Level 3 spinning unit, and the bounce-on-different-floors test to Level 3 sport, so this unit uses the slope sort, the curving cup, the drop heights, the twisted string, the colour top and the book on rollers.
+- ideas/by_topic/forces-and-movement.md: the notes on rotational motion (spinning tops, a paper pinwheel, spinning a coin, a relay passing a spinning top) and on stored energy (wind up a mechanical toy and let it unwind), and the note on bouncing balls. The coin top, spinning coin and rolling race belong to the Level 3 spinning unit, and the bounce-on-different-floors test to Level 3 sport, so this lesson uses the slope sort, the curving cup, the drop heights, the twisted string, the colour top and the book on rollers.
 - Cambridge Primary Science Stage 1, Unit 5.2 How toys work: toys that roll, bounce, spin and wind up, and what push or pull starts each one.
 - Rolling of a cone or truncated cone: the cup rolls about its apex because the radius, and so the distance travelled per turn, is larger at the wide end.
 - Coefficient of restitution: a dropped ball rebounds to less than its drop height, losing energy to sound, heat and vibration in each impact.

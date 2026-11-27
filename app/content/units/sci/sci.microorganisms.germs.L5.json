@@ -3329,7 +3329,73 @@
    "why": "For the parent: an overview of heart disease, stroke, diabetes, cancer and lung disease."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Two Maps Test: can a map show whether an illness is catching?, Incubation Detective: when did the germ get in?, The Clinic Register: which chart shows a catching illness?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a2",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before The Two Maps Test: can a map show whether an illness is catching?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Two Maps Test: can a map show whether an illness is catching?, Incubation Detective: when did the germ get in?, The Clinic Register: which chart shows a catching illness?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e1",
+    "a2",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before The Two Maps Test: can a map show whether an illness is catching?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Waiting Room: where should eight people sit?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Waiting Room: where should eight people sit?."
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in Our Emergency Card: who to call and what to say. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Our Emergency Card: who to call and what to say."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is the difference between an infectious and a non-infectious disease?",

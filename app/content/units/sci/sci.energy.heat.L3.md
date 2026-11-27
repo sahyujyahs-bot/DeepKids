@@ -1,9 +1,9 @@
 # Heat and temperature: how a thermometer works, and why hot things cool down
 `sci.energy.heat.L3`
 
-**Summary.** Can your hands tell exactly how hot something is? In this unit you will try your hands in bowls of water, measure five things at home with a thermometer, and watch where a hot tumbler and a cold tumbler both end up.
+**Summary.** Can your hands tell exactly how hot something is? In this lesson you will try your hands in bowls of water, measure five things at home with a thermometer, and watch where a hot tumbler and a cold tumbler both end up.
 
-**Intro.** *Put one hand in a bowl of warm water and the other in a bowl of ice water for one minute. Then put both hands into one bowl of tap water. One hand says the water is warm. The other hand says it is cold. Which hand is right?* Neither hand is right, because your skin compares the water with how warm it was a moment ago. To know how hot something really is, we need a thermometer. In this unit you learn to read one. You watch hot water and cold water change, minute by minute, and find out where they stop. You make a thermometer from a bottle and a straw. And you find out what really moves when a hot thing cools down.
+**Intro.** *Put one hand in a bowl of warm water and the other in a bowl of ice water for one minute. Then put both hands into one bowl of tap water. One hand says the water is warm. The other hand says it is cold. Which hand is right?* Neither hand is right, because your skin compares the water with how warm it was a moment ago. To know how hot something really is, we need a thermometer. In this lesson you learn to read one. You watch hot water and cold water change, minute by minute, and find out where they stop. You make a thermometer from a bottle and a straw. And you find out what really moves when a hot thing cools down.
 
 ## Learning outcomes
 0. I can read a thermometer in degrees Celsius, and I wait until the reading stops changing.
@@ -24,7 +24,7 @@
 - **Particles**: The tiny pieces that everything is made of, far too small to see. *e.g.* In hot water, the water particles jiggle faster than in cold water.
 - **Room temperature**: The temperature of the air in a room. Things left in a room for a long time end up at this temperature. *e.g.* A bottle of water left on the shelf overnight is at room temperature in the morning.
 - **Clinical thermometer**: A thermometer made for measuring body temperature. It reads only from about 32 to 42 degrees Celsius. *e.g.* When you have a fever, a grown-up puts a clinical thermometer under your arm.
-- **Laboratory thermometer**: A thermometer for measuring water, air and other things. It usually reads from about minus 10 to 110 degrees Celsius. *e.g.* We use a laboratory thermometer to measure the hot and cold tumblers in this unit.
+- **Laboratory thermometer**: A thermometer for measuring water, air and other things. It usually reads from about minus 10 to 110 degrees Celsius. *e.g.* We use a laboratory thermometer to measure the hot and cold tumblers in this lesson.
 
 ## Explanations
 ### Temperature, and the Celsius scale · *defined*
@@ -34,6 +34,8 @@ On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is t
 - e.g. A fridge is about 4 °C inside.
 - e.g. A healthy body is about 37 °C inside.
 - e.g. Hot tea or filter coffee is often about 60 to 65 °C.
+- **Anders Celsius (1742):** Set 0 and 100 between freezing and boiling water, at first the other way round.
+- **Fahrenheit and Kelvin:** Fahrenheit's scale is still used in some countries. The Kelvin scale starts at the lowest possible temperature, which scientists use.
 ### How a liquid thermometer works · *defined*
 **Definition:** A liquid thermometer has a bulb of liquid joined to a very narrow tube. When the liquid warms, it expands and climbs up the tube. When it cools, it shrinks and goes down.
 
@@ -41,6 +43,8 @@ The liquid expands only a tiny bit. But the tube is so narrow that this tiny bit
 - e.g. Dip the bulb in hot water and the red line climbs for about a minute, then stops.
 - e.g. A digital thermometer has a tiny metal part instead of liquid, and it shows a number on a screen.
 - e.g. If you read too early, the number is too low for hot water and too high for cold water.
+- **Galileo:** Made a thermoscope around 1600, a glass tube with air and water that rose and fell with warmth, but with no numbers.
+- **Anders Celsius:** In 1742 he made a scale from the freezing and boiling of water. His scale at first ran the other way, with 0 for boiling.
 ### Two kinds of thermometer · *defined*
 **Definition:** A clinical thermometer is made for bodies and reads only from about 32 to 42 °C. A laboratory thermometer reads a much wider range, usually from about minus 10 to 110 °C.
 
@@ -48,6 +52,8 @@ A body's temperature changes only a little, so a clinical thermometer has a shor
 - e.g. A fever thermometer put into fridge water shows 'Lo', because the water is colder than it can measure.
 - e.g. A laboratory thermometer put into the same water can measure it, and might show 8 °C.
 - e.g. A glass clinical thermometer has a small kink in its tube, so the line stays put after you take it out.
+- **Doctors and chemists:** Use liquid thermometers, each made for a range.
+- **Infrared thermometers:** Read a forehead or a pan by the infrared heat it gives off, with no touching. They measure radiation, not expansion.
 ### Heat moves from warmer to cooler · *defined*
 **Definition:** When two things at different temperatures touch, heat moves from the warmer one to the cooler one. It keeps moving until both are at the same temperature.
 
@@ -55,6 +61,8 @@ Hot water on a table gives heat to the air and the table, so it cools. Cold wate
 - e.g. Curd taken out of the fridge warms up on the table.
 - e.g. A hot idli steamer cools down after the stove is turned off.
 - e.g. Drops form on the outside of a tumbler of cold water, because the cold tumbler cools the damp air next to it.
+- **Rudolf Clausius:** In 1850 he stated that heat never moves by itself from a cooler to a warmer body. It is a basic law of nature.
+- **Ludwig Boltzmann:** Argued that it is an overwhelming chance, not a certainty. With countless particles, it is so unlikely that heat flows from cold to warm that it never happens in practice.
 ### Cold is less heat · *defined*
 **Definition:** Cold is not a separate thing that moves. A cold thing has less heat than a warm thing.
 
@@ -62,6 +70,8 @@ People say 'Shut the door, the cold is coming in.' What really happens is that h
 - e.g. Ice in your hand melts because your hand's heat goes into it.
 - e.g. A room gets cold on a winter night because its heat leaks out through windows and walls.
 - e.g. A steel tumbler of fridge water feels cold because heat is leaving your fingers.
+- **Aristotle:** Cold is a real quality, opposite to hot.
+- **Modern physics:** There is only more or less heat energy. Cold is just less of it.
 ### What heat really is: jiggling particles · *defined*
 **Definition:** Everything is made of tiny particles that are always jiggling. The hotter a thing is, the faster its particles jiggle. Temperature tells us how fast they jiggle, on average.
 
@@ -69,6 +79,8 @@ When hot water touches a cooler tumbler, the fast-jiggling water particles bump 
 - e.g. Sugar dissolves faster in hot water, because the fast water particles knock the sugar particles apart sooner.
 - e.g. Rubbing your palms makes their particles jiggle faster, so they get warm.
 - e.g. The smell of hot sambar spreads faster than the smell of cold curd.
+- **Caloric theory (Lavoisier):** Heat is a weightless fluid that flows from hot to cold things.
+- **Rumford, Joule and later physicists:** Rumford saw drilling cannons make endless heat, and Joule measured it. Heat is the motion of particles, and the fluid does not exist.
 ### Heat and temperature are not the same · *defined*
 **Definition:** Temperature is how hot a thing is. Heat is the energy it can give to something cooler. A big amount of warm water can hold more heat than a small cup of hotter water.
 
@@ -76,6 +88,8 @@ Fill a small katori with water at 70 °C, and a big bucket with water at 40 °C.
 - e.g. A drop of hot tea that splashes on your hand stings, but cools in a moment. A cupful would burn.
 - e.g. A big pot of sambar stays hot for much longer than a small bowl of it.
 - e.g. The sea at Chennai or Kochi warms up and cools down far more slowly than the sand. There is so much water that it takes a great deal of heat to change its temperature.
+- **Joseph Black:** In the 1760s he was the first to clearly separate the two ideas, and measured how much heat different substances hold.
+- **Count Rumford:** In 1798 he watched cannon barrels being drilled and saw that rubbing seemingly made endless heat. He argued that heat is a kind of motion, and not a fluid.
 ### Why your hand is not a thermometer · *defined*
 **Definition:** Your skin feels whether it is warming up or cooling down. So the same water can feel warm to one hand and cold to the other.
 
@@ -83,6 +97,8 @@ In the two-hands bowl test, one hand had been in warm water, so it was warm. In 
 - e.g. After a cold bath, ordinary tap water feels warm.
 - e.g. Coming out of an air-conditioned shop, the street feels even hotter than it is.
 - e.g. A parent's hand on a child's forehead can tell whether the child feels hot or not. It cannot tell the difference between 38.5 and 39.5 degrees.
+- **John Locke:** Described in 1690 a test of three bowls of water, hot, cold and warm. A hand from the hot bowl feels the warm bowl cold, while a hand from the cold bowl feels it hot.
+- **Sensory scientists:** Find that our skin has sensors that react to change in temperature, not temperature itself. A thermometer's number does not depend on a hand's past.
 
 ## Mostly agreed
 - Heat moves by itself from a warmer thing to a cooler thing, and never the other way. *How we know:* Every time anyone measures it, hot things in a room cool down and cold things warm up, until they reach the same temperature. Scientists call this the second law of thermodynamics.
@@ -538,7 +554,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
    **Answer:** A number still close to the hot water's, because the thermometer has not cooled yet. *Why:* A thermometer shows its own temperature. It takes about a minute to give up its heat to the cold water. Until then the reading is too high.
 ### Think Like Prévost (challenge) (challenge, 15 questions)
 1. (write) In 1790, a thermometer fell when a flask of snow stood in front of a mirror across the room. Why was it sensible to think the snow was sending out cold?  
-   **Answer:** The thermometer really did get colder when the snow was there, and it looked as if something travelled from the snow to the thermometer. Pierre Prévost showed that the same result fits another idea: the thermometer was sending out more heat than it got back.. *Why:* A strong answer says that one result can fit two ideas, and that Prévost's idea, that only heat moves, fits everything else in this unit.
+   **Answer:** The thermometer really did get colder when the snow was there, and it looked as if something travelled from the snow to the thermometer. Pierre Prévost showed that the same result fits another idea: the thermometer was sending out more heat than it got back.. *Why:* A strong answer says that one result can fit two ideas, and that Prévost's idea, that only heat moves, fits everything else in this lesson.
 2. (mcq) 1 katori of water at 60 °C is mixed with 2 katoris of water at 15 °C. About what will the mix read?  
    Options: About 37 °C, halfway / About 30 °C, nearer the cold / About 50 °C, nearer the hot  
    **Answer:** About 30 °C, nearer the cold. *Why:* Think of three katoris sharing heat. The total of the three starting numbers is 60 + 15 + 15 = 90, and 90 shared by 3 is 30. There is more cold water, so the mix is nearer the cold number.
@@ -623,7 +639,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - Drops of water forming on a steel tumbler of cold water or a cold bottle from the fridge.
 - The warm grille at the back of the fridge, where the heat from inside comes out.
 - Someone at home pouring coffee or tea between a tumbler and a davara to cool it.
-- The temperature shown on the TV weather report or a phone, for Chennai, Kochi, Guwahati or Ahmedabad.
+- The temperature shown on the TV weather report or a phone.
 - A thermometer in a clinic, a pharmacy or the school sick room.
 - Curd, butter or idli batter from the fridge going soft on the kitchen counter as it warms up.
 
@@ -670,7 +686,12 @@ Warm to Cool (sci.energy.L3): Topic-level song for Energy L3
 - [B. M. Birla Science Centre](https://www.birlasciencecentre.org/) · place · Hyderabad: A science centre and planetarium with hands-on science exhibits.
 
 ## Things to buy
-- [A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital kitchen probe thermometer.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every experiment in this unit needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break. Used in e1, e2, e3, a1, a2, a3, p1, c1, c2. 
+- [A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital kitchen probe thermometer.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every experiment in this lesson needs a thermometer that can read cold water, room air and hot water. A fever thermometer reads only from about 32 to 42 °C, so it will not work. Glass laboratory thermometers are cheap in stationery and science shops. A digital probe is harder to break. Used in e1, e2, e3, a1, a2, a3, p1, c1, c2. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Make a Straw Thermometer. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Make a Straw Thermometer.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Make a Straw Thermometer. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a3. Get it before Make a Straw Thermometer.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Cool the Hot Water Fast. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Cool the Hot Water Fast.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Half and Half: what do you get when you mix hot and cold?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Half and Half: what do you get when you mix hot and cold?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a thermometer measure? → Temperature: how hot or cold something is.

@@ -2230,6 +2230,31 @@
     "a1"
    ],
    "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult; read parts aloud)"
+  },
+  {
+   "id": "b-postcards-or-plain-cards",
+   "item": "Postcards or plain cards",
+   "kind": "material",
+   "why": "Used in The Dominant Eye Test: does everyone at home look with the same eye first?. About ₹5 to ₹20. Cut card from a cereal box.",
+   "url": "https://www.amazon.in/s?k=blank+postcards",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Dominant Eye Test: does everyone at home look with the same eye first?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # The immune system: how your body keeps germs out and fights them
 `sci.body.immune-system.L3`
 
-**Summary.** A cut turns red and warm, so is your body fighting something? In this unit you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.
+**Summary.** A cut turns red and warm, so is your body fighting something? In this lesson you will cry onion tears, test how an apple's skin keeps germs out, act as a white blood cell that eats germs, and take your temperature through the day.
 
-**Intro.** *Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?* Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this unit you will find out. You will meet the defenders that guard your body every second, even while you sleep.
+**Intro.** *Look at the skin on the back of your hand. Germs are landing on it right now, thousands of them. Most of them never get inside you. What is stopping them?* Think of the last time you scraped your knee. First it hurt. Then, a few hours later, the skin around the scrape went pink. It felt warm and a bit puffy. Maybe a little yellow goo came out. Was the scrape getting worse? Or was something inside you rushing to that spot, on purpose? In this lesson you will find out. You will meet the defenders that guard your body every second, even while you sleep.
 
 ## Learning outcomes
 0. I can say what the immune system is: everything the body does to keep germs out and to fight the germs that get in.
@@ -697,7 +697,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    Options: Her body has a fever after running / Body temperature changes a little through the day, and moving muscles make heat / The thermometer is broken  
    **Answer:** Body temperature changes a little through the day, and moving muscles make heat. *Why:* A small change of half a degree or so is normal. Moving muscles make heat, and the body is coolest early in the morning. 36.9 is not a fever, because a fever is 38 or more.
 6. (truefalse) White blood cells sometimes attack the body's own cells by mistake.  
-   **Answer:** True. *Why:* True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. You will learn more in Class 5.
+   **Answer:** True. *Why:* True. This is called an autoimmune illness. It shows how hard the job of telling 'me' from 'not me' is. There is much more to find out about this.
 7. (order) Put a fever in order, from start to finish.  
    **Answer:** order shown. *Why:* The signal comes first, then the new setting, then shivering to reach it. When the fight ends, the setting drops, and you sweat to cool down.
 8. (match) Match each living thing to how it defends itself.  
@@ -720,7 +720,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
    **Answer:** white blood cells eat germs → Scientists agree; a cold is caused by a virus → Scientists agree; skin keeps germs out unless it is broken → Scientists agree; why allergies have become more common → Scientists still argue; exactly how the body tells harmless microbes from harmful ones → Scientists still argue. *Why:* Some things have been tested again and again. Others are still open. A strong answer can say why an open question is hard: there are trillions of microbes, and each person's body is a little different.
 
 ## Videos
-- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this unit into antibodies, which come in Class 4 and 5. *Check:* It uses some battle pictures, which suit most children.
+- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: For the parent and older children: a beautiful animation of what happens when bacteria get in through a cut, from skin to white blood cells and inflammation. It goes beyond this lesson into antibodies, which come in Class 4 and 5. *Check:* It uses some battle pictures, which suit most children.
 - **Immune System, part 1: Crash Course Anatomy and Physiology #45** (CrashCourse, 9 min) id `GIJK3dwCWCw`: For the parent: a clear grown-up explanation of the first defences, inflammation, fever and the eating cells, so you can answer your child's questions. *Check:* Best watched by the parent first. It moves fast.
 - **A white blood cell chasing a bacterium (David Rogers' film, 1950s)** (Andres Trevino (an upload of David Rogers' film), 1 min) id `I_xh-bkiv_c`: A real microscope film from Vanderbilt University. A white blood cell crawls between red blood cells and chases a bacterium. Children love it, and it shows the kind of cell Metchnikoff found. *Check:* A very short clip, easy to watch twice.
 
@@ -775,7 +775,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - Onions being chopped in a kitchen, and the cook's eyes streaming.
 - A digital thermometer in a family's medicine box, next to a strip of plasters.
 - Dust collecting on a window grill on a busy road. Your nose catches some of that dust every day.
-- A scab on a footballer's knee after a muddy match in Shillong, or a cricketer's knee after a slide on the maidan in Kolkata.
+- A scab on a footballer's knee after a muddy match, or a cricketer's knee after a slide on the ground.
 - Sticky gum oozing from a cut in the bark of a neem or mango tree.
 - A garden lizard basking on a warm wall in the morning sun.
 - A pot of homemade curd: full of friendly microbes, not germs.
@@ -835,10 +835,21 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: A science centre with many hands-on galleries. Look for exhibits about the body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about living things and the body.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries for children. Ask about exhibits on health and the body.
-- [Your local health centre or a family doctor]() · place · Your nearest clinic: Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean.
+- Your local health centre or a family doctor · place · Your nearest clinic: Ask a nurse to show your child a thermometer, a blood test report or an immunisation card, and explain what the numbers mean.
 
 ## Things to buy
 - [Digital body thermometer](https://www.amazon.in/s?k=digital+thermometer) (tool): Easy to read and safe. Used to find your normal temperature, and whenever someone has a fever. Used in e2. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Sticky Nose Test, Look at Your Skin Wall. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e3, a2. Get it before The Sticky Nose Test.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Sneeze Stopper. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before The Sneeze Stopper.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sticky Nose Test. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before The Sticky Nose Test.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Onion Tears. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Onion Tears.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Sneeze Stopper. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in c1. Get it before The Sneeze Stopper.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build the Body Castle. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Build the Body Castle.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Draw the Hidden Fight, Build the Body Castle. About ₹20 to ₹50. Torn clean cloth works. Used in a6, p1. Get it before Draw the Hidden Fight.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Count Your Blinks. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a4. Get it before Count Your Blinks.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Be a Phagocyte. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Be a Phagocyte.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Sneeze Stopper. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before The Sneeze Stopper.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the body's biggest wall against germs. → Skin.
@@ -858,7 +869,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - Core: a1, e1, a2, a3, g1, ws-core, e2, a5
 
 ## Sources
-- DeepKids notebook (curriculum notebook items bio:26 Immune system, bio:240 to bio:246: innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This unit takes the innate part; the rest is left for L4 and L5.
+- DeepKids notebook (curriculum notebook items bio:26 Immune system, bio:240 to bio:246: innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This lesson takes the innate part; the rest is left for L4 and L5.
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Semmelweis ('invisible things can kill you'), Charaka and others.
 - Combined lesson sci-C4-health-hygiene-exercise-and-illness: the body-as-castle drawing, the germ tag game with skin wall, white blood cell and memory round (adapted here as g2 and p1), the 'self and not-self' idea and the Tu Youyou voice. Its story was not reused.
 - Combined lesson sci-C3-health-hygiene-exercise-and-illness: tears, nose hairs and mucus, skin flakes as dead cells, and the myths about earwax and colds.

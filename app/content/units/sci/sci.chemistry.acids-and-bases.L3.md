@@ -1,9 +1,9 @@
 # Acids and bases: how red cabbage water tells sour things from soapy things
 `sci.chemistry.acids-and-bases.L3`
 
-**Summary.** Lemon juice tastes sour and soap feels slippery. How can you tell which is which without tasting? In this unit you will make a colour-changing liquid from red cabbage, test kitchen liquids with it, and watch lemon juice fizz on cooking soda.
+**Summary.** Lemon juice tastes sour and soap feels slippery. How can you tell which is which without tasting? In this lesson you will make a colour-changing liquid from red cabbage, test kitchen liquids with it, and watch lemon juice fizz on cooking soda.
 
-**Intro.** *Blend two red cabbage leaves with water and strain it. The water is deep purple. Now squeeze in a few drops of lemon juice. It turns pink at once. Why does a sour lemon change the colour of cabbage water?* Red cabbage leaves hold a purple colour that changes when it meets something sour or something soapy. In this unit you make cabbage water and test liquids from your own kitchen. You line them up from pinkest to greenest. You find out what acids and bases are, which living beings make acids, and why strong acids and bases are never used in experiments.
+**Intro.** *Blend two red cabbage leaves with water and strain it. The water is deep purple. Now squeeze in a few drops of lemon juice. It turns pink at once. Why does a sour lemon change the colour of cabbage water?* Red cabbage leaves hold a purple colour that changes when it meets something sour or something soapy. In this lesson you make cabbage water and test liquids from your own kitchen. You line them up from pinkest to greenest. You find out what acids and bases are, which living beings make acids, and why strong acids and bases are never used in experiments.
 
 ## Learning outcomes
 0. I can say that sour foods like lemon, vinegar, tamarind and curd contain acids, and that soap, detergent and cooking soda are bases.
@@ -34,6 +34,8 @@ The word acid comes from the Latin word acidus, which means sour. Many foods we 
 - e.g. Raw mango and amla taste sour because they contain acids.
 - e.g. Toilet cleaners often contain a strong acid. They are kept high up, away from children.
 - e.g. Kokum, which is used in Konkan curries and sol kadhi, tastes sour too.
+- **Lavoisier (1770s):** Thought oxygen is what makes a substance an acid. Later this was shown wrong.
+- **Arrhenius (1884), Brønsted and Lowry (1923), and Lewis (1923):** Gave three growing meanings of acid: gives hydrogen ions in water; gives a hydrogen ion to something; takes a pair of electrons. Chemists use whichever fits the job.
 ### What a base is · *defined*
 **Definition:** A base is a substance that is the opposite of an acid. Bases turn red cabbage water blue, green or yellow. In water, bases feel slippery. A base that dissolves in water is called an alkali.
 
@@ -42,6 +44,8 @@ Soap, detergent powder and cooking soda are bases. Soapy water feels slippery be
 - e.g. Detergent powder in water feels slippery, because it is a base.
 - e.g. Chuna in a paan shop is a strong base. It can burn the mouth and eyes if it is used carelessly.
 - e.g. In Assam, khar is cooked with the ashy water from burnt banana peel, which is an alkali.
+- **Ayurveda and Sushruta:** Used kshara, an alkali made from the ash of plants, to treat wounds and growths.
+- **Modern chemistry:** A base takes a hydrogen ion from an acid, which is why the two cancel each other.
 ### How red cabbage water shows acids and bases · *defined*
 **Definition:** An indicator is a substance whose colour changes with how acidic or basic a liquid is. Red cabbage water is an indicator because of its purple pigment, anthocyanin.
 
@@ -49,6 +53,8 @@ Red cabbage leaves are full of a purple pigment called anthocyanin. When you ble
 - e.g. Lemon juice turns cabbage water pink.
 - e.g. Cooking soda water turns cabbage water blue or blue-green.
 - e.g. Detergent water turns cabbage water green.
+- **Robert Boyle:** In the 1600s he found that syrup of violets turned red with acid and green with base. This was an early indicator.
+- **Indian households:** Have long used turmeric, which turns red with soap or lime. The kumkum used in worship is made from turmeric and slaked lime, a chemical test used as a tradition.
 ### One line from sour to soapy: the pH scale · *defined*
 **Definition:** The pH scale is a line of numbers from 0 to 14. It says how acidic or basic a watery liquid is. 7 is neutral. The smaller the number, the stronger the acid. The bigger the number, the stronger the base.
 
@@ -56,12 +62,16 @@ People used to sort liquids into two boxes: acids and alkalis. But liquids are n
 - e.g. Rainwater is a little acidic, about 5 to 6, because it takes in carbon dioxide from the air.
 - e.g. Sea water is a little basic, about 8.
 - e.g. Your blood stays very close to 7.4, whatever you eat.
+- **Soren Sorensen:** A Danish chemist who invented the pH scale in 1909 at the Carlsberg brewery, to keep track of acids in beer making.
+- **Chemists after him:** Found that the scale has limits and other ways to say acid. Some definitions, like those of Arrhenius, Bronsted and Lowry, and Lewis, cover different cases.
 ### When an acid meets a base · *defined*
 **Definition:** When an acid and a base are mixed, they react and use each other up. This is called neutralising. The mixture moves towards neutral. Water is made, and so is a new substance called a salt.
 
 Drop lemon juice on cooking soda and it fizzes. The acid and the base react, and the bubbles are a gas called carbon dioxide. Now try it in cabbage water. Pink lemony cabbage water turns purple again when you add enough soda water. Add more soda water, and it goes on to blue and then green. So you can move a liquid along the colour line in both directions. The acid particles from the lemon join up with base particles from the soda and make water. Later units go further into this, with antacid tablets and the acid in our stomach.
 - e.g. Lemon juice dripped on cooking soda fizzes for a few seconds.
 - e.g. Dosa and idli batter sometimes get a pinch of cooking soda. It reacts with the sour batter and makes extra bubbles of gas, so the idlis come out light.
+- **Svante Arrhenius:** In the 1880s he explained neutralising as acid's hydrogen ions joining with base's hydroxide ions to make water.
+- **Johannes Bronsted and Thomas Lowry:** In 1923 each independently said an acid hands a hydrogen ion to a base. This also works in liquids that are not water.
 ### Living beings that make acids · *defined*
 **Definition:** Many living beings make acids in their bodies and use them to protect themselves, to keep their food, or to break food down.
 
@@ -69,12 +79,16 @@ The bacteria who turn milk into curd have a problem. Many other microbes want to
 - e.g. Curd set overnight in a warm kitchen is more sour than curd set for a few hours.
 - e.g. A weaver ant's bite stings because of the formic acid squirted into it.
 - e.g. Idli, dosa and white dhokla batter turn sour as the batter ferments, because the bacteria in the batter make acid.
+- **Ants and stinging nettles:** Make formic acid to hurt or warn off a predator. The word formic comes from formica, the Latin for ant.
+- **Curd-making microbes:** Bacteria that turn milk to curd make lactic acid. The sour acid keeps harmful microbes out, so the curd keeps.
 ### Why red cabbage is purple · *idea*
 **Definition:** Scientists think the purple anthocyanin pigments help protect a plant's leaves from strong sunlight and from cold. They are still studying exactly how.
 
 Green cabbage and red cabbage are the same kind of plant. Red cabbage makes a lot of anthocyanin. Many plants make more of these pigments when they are in bright sun or cold weather. The pigment sits near the surface of the leaf and seems to work like a light shade. It soaks up some of the strongest light before it reaches the parts of the leaf that make food. It may also help the leaf cope with cold. Anthocyanins also colour many fruits and flowers, such as jamun and black grapes. Those bright colours help call birds and insects. Scientists agree that anthocyanins do several jobs, and they still argue about which job matters most for each plant.
 - e.g. Young mango leaves are often reddish-brown before they turn green. Scientists think the red pigment shades the soft new leaf.
 - e.g. Jamun fruit stains your tongue purple with anthocyanin.
+- **Sun-protection idea:** The purple pigments (anthocyanins) shield the leaves from strong light and cold.
+- **Other ideas:** The colour may warn off insects, attract helpers, or act as antioxidant. Scientists have not settled which job matters most.
 
 ## Mostly agreed
 - Sour foods taste sour because they contain acids, such as citric acid in lemon and acetic acid in vinegar. *How we know:* Chemists have taken these acids out of the foods and studied them. Every one of these foods turns red cabbage water pink.
@@ -634,7 +648,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - Pickles stay good for months because their acid and salt stop many microbes from growing.
 
 ## Spotted around us
-- The lemon squeezed over poriyal, a plate of Mumbai bhel or a plate of biryani.
+- The lemon squeezed over poriyal, a plate of bhel or a plate of biryani.
 - Tamarind soaking in a small bowl, ready for rasam or sambar.
 - A bowl of curd set overnight, a little more sour each day it sits.
 - Weaver ants' leaf nests in a mango or neem tree. Do not touch: their bite stings with formic acid.
@@ -683,7 +697,10 @@ Pink, Purple, Green (sci.chemistry.L3): Topic-level song for Chemistry L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries, including science in everyday life.
 
 ## Things to buy
-- [One red cabbage](https://www.bigbasket.com/ps/?q=red%20cabbage) (material): Red cabbage water is the indicator for almost every test in this unit. It is sold in supermarkets, bigger vegetable shops and online grocery apps. One small cabbage is enough for the whole unit: keep it in the fridge and use two or three leaves each time. If you cannot find it, blue butterfly pea flowers, fresh or dried, also work. Used in a1, e1, e2, e3, p1, c1. Use the rest of the cabbage in a poriyal or salad, with a squeeze of lemon to keep it purple.
+- [One red cabbage](https://www.bigbasket.com/ps/?q=red%20cabbage) (material): Red cabbage water is the indicator for almost every test in this lesson. It is sold in supermarkets, bigger vegetable shops and online grocery apps. One small cabbage is enough for the whole unit: keep it in the fridge and use two or three leaves each time. If you cannot find it, blue butterfly pea flowers, fresh or dried, also work. Used in a1, e1, e2, e3, p1, c1. Use the rest of the cabbage in a poriyal or salad, with a squeeze of lemon to keep it purple.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in The Cabbage Colour Line: where does each kitchen liquid sit?, The Fizz Test: lemon on cooking soda, A Rainbow in Six Glasses. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1, a3, c1. Get it before The Cabbage Colour Line: where does each kitchen liquid sit?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Make Your Own Cabbage Test Strips. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before Make Your Own Cabbage Test Strips.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What colour does lemon juice turn red cabbage water? → Pink or red.

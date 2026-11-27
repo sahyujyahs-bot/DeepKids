@@ -1,9 +1,9 @@
 # Parasites: how lice, ticks, worms and mosquitoes live on other living beings
 `sci.microorganisms.parasites.L3`
 
-**Summary.** How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this unit you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.
+**Summary.** How does a tiny louse hold on to your hair, and how does a mosquito carry malaria? In this lesson you will test which comb catches a louse egg, act out the malaria journey, and sort living things into parasite or not.
 
-**Intro.** *Hold a khus khus seed on your fingertip. A head louse's egg is smaller than this seed, and is glued to one hair. Your comb at home has gaps much wider than that. So how can anyone comb the eggs out?* In this unit you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.
+**Intro.** *Hold a khus khus seed on your fingertip. A head louse's egg is smaller than this seed, and is glued to one hair. Your comb at home has gaps much wider than that. So how can anyone comb the eggs out?* In this lesson you meet the parasites that live on people: head lice, fleas, ticks and worms. You find out what problem each one has, and how their body solves it. You test which comb can catch something as small as a louse egg. You follow the malaria parasite from a person into a mosquito and back. And you learn the simple habits that keep every one of them off you.
 
 ## Learning outcomes
 0. I can say what a parasite and a host are, and give examples.
@@ -598,7 +598,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 
 ## Videos
 - **How Lice Turn Your Hair Into Their Jungle Gym | Deep Look** (Deep Look, 4 min) id `Yb26BBvAAWU`: Close-up film of real head lice holding hairs with their claws, and of eggs glued to hair. It shows what the Comb Test is about. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 46 seconds from the search page. Not watched from here: a parent should preview it, as the close-ups are large.
-- **How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look** (Deep Look, 3 min) id `rD8SmacBUcU`: Shows a female mosquito's proboscis going into skin, with the six needles inside. It matches the mosquito card in this unit. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 18 seconds. Not watched from here: a parent should preview it.
+- **How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look** (Deep Look, 3 min) id `rD8SmacBUcU`: Shows a female mosquito's proboscis going into skin, with the six needles inside. It matches the mosquito card in this lesson. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 3 minutes 18 seconds. Not watched from here: a parent should preview it.
 - **A Flea's Fantastic Jump Takes More Than Muscle | Deep Look** (Deep Look, 5 min) id `A5KvNcNz9aQ`: Slow-motion film of a flea's jump, and how a springy pad in their legs works like a catapult. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length about 4 minutes 36 seconds. Not watched from here: a parent should preview it.
 
 ## Quiz
@@ -707,6 +707,12 @@ Close the Path (sci.microorganisms.L3): Topic-level song for Microorganisms L3
 ## Things to buy
 - [A fine-tooth lice comb (eer kolli), plastic or steel](https://www.amazon.in/s?k=lice+comb+fine+tooth) (tool): The Comb Test and the weekly head check need one. Chemists and general stores sell them cheaply. Used in e1, a3. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps you see the gaps between comb teeth and the size of tiny seeds. A phone camera zoomed in works too. Used in e1, a1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Comb Test: which comb can catch a louse egg?, How Small? A parasite size line, Check the Mosquito Net. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a4. Get it before The Comb Test: which comb can catch a louse egg?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Pull Out a Pretend Tick. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a6. Get it before Pull Out a Pretend Tick.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Make a Nit Comb. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Make a Nit Comb.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Comb Test: which comb can catch a louse egg?, How Small? A parasite size line, Make a Nit Comb. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a1, c1. Get it before The Comb Test: which comb can catch a louse egg?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Fan Test: where does a fan stop mosquitoes?, Weekly Head Check with a Lice Comb. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, a3. Get it before The Fan Test: where does a fan stop mosquitoes?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A living being lives on another and feeds from them. What are they called? → A parasite.

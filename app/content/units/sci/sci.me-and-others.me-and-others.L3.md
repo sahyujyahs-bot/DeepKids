@@ -695,6 +695,8 @@ From Where You Stand (sci.me-and-others.L3): Topic-level song for Me and others 
 ## Things to buy
 - [Wonder by R. J. Palacio](https://www.amazon.in/s?k=Wonder) (book): A boy with a different face starts school. It suits a child who can read longer chapters and wants to talk about how others feel. Used in a1. Read a few chapters aloud over the lesson and talk about seeing from each person's side.
 - [Gifts of the Crow by John Marzluff and Tony Angell](https://www.amazon.in/s?k=Gifts+of+the+Crow+John+Marzluff+and+Tony+Angell) (book): The crow scientist from voice v4 tells what crows know, including how they remember faces. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult; read parts aloud)
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Dominant Eye Test: does everyone at home look with the same eye first?. About ₹5 to ₹20. Cut card from a cereal box. Used in e2. Get it before The Dominant Eye Test: does everyone at home look with the same eye first?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - You face someone. Your right hand is on which side for them? → Their left side.

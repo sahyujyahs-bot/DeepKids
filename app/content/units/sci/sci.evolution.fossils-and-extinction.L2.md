@@ -1,9 +1,9 @@
 # Fossils: how rocks keep traces of dinosaurs and other old life
 `sci.evolution.fossils-and-extinction.L2`
 
-**Summary.** How can a shell lie inside a rock on a hill far from the sea? In this unit you will press hard and soft things into dough to see which leave a clear print, dig down through a pile of old newspapers, and play a game of fossil clues.
+**Summary.** How can a shell lie inside a rock on a hill far from the sea? In this lesson you will press hard and soft things into dough to see which leave a clear print, dig down through a pile of old newspapers, and play a game of fossil clues.
 
-**Intro.** *Nobody has ever seen a living dinosaur with a big tail and teeth. So how do we know they were real?* We know from fossils. A fossil is a bone, a tooth, a shell, a footprint or a leaf print from long ago, kept in rock. Fossils are found in India too: dinosaur eggs in Gujarat, sea shells around Ariyalur in Tamil Nadu, and a stone tree trunk at Sattanur. In this unit you find out which things leave a fossil, and how we tell which fossils are older.
+**Intro.** *Nobody has ever seen a living dinosaur with a big tail and teeth. So how do we know they were real?* We know from fossils. A fossil is a bone, a tooth, a shell, a footprint or a leaf print from long ago, kept in rock. Fossils are found in India too: dinosaur eggs in Gujarat, sea shells around Ariyalur in Tamil Nadu, and a stone tree trunk at Sattanur. In this lesson you find out which things leave a fossil, and how we tell which fossils are older.
 
 ## Learning outcomes
 0. By the end I can say what a fossil is, and name four kinds: bones, teeth, shells and footprints.
@@ -442,7 +442,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - A crow or a pigeon at the window. Birds are the only dinosaurs alive today.
 - Some limestone steps and floors in old buildings and temples have tiny fossil shells in them. Look closely at the stone.
 - A conch shell or cowrie shells at home. A shell like this is the hard part that can become a fossil.
-- Dinosaur models and real fossils at a science museum, like the Government Museum in Chennai or the Indroda park in Gandhinagar.
+- Dinosaur models and real fossils at a science museum.
 
 ## Open questions
 - **What colours were most dinosaurs?** Colour is almost never kept in fossils. For a few small feathered dinosaurs, scientists have found tiny traces in the feathers that show some colours. For most dinosaurs, nobody knows.
@@ -477,12 +477,16 @@ What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution
 ## Links
 - [Natural History Museum, London: Dino Directory](https://www.nhm.ac.uk/discover/dino-directory.html) · interactive: For the parent and child: a picture guide to hundreds of dinosaurs, with where and when each one lived.
 - [Smithsonian: Fossils, Deep Time](https://naturalhistory.si.edu/exhibits/david-h-koch-hall-fossils-deep-time) · interactive: For the parent: clear pages and pictures on fossils and the long story of life.
-- [Indroda Dinosaur and Fossil Park]() · place · Gandhinagar: Life-size dinosaur models and fossils, including dinosaur eggs from Gujarat.
-- [Balasinor Dinosaur Fossil Park, Raiyoli]() · place · Raiyoli, near Balasinor, Gujarat: One of the places in India where many dinosaur eggs and bones have been found, with a small museum.
-- [National Fossil Wood Park, Sattanur]() · place · Sattanur, Perambalur district, Tamil Nadu: A huge tree trunk from long ago, turned to stone.
-- [Government Museum, Chennai]() · place · Chennai: A geology gallery with rocks and fossils, and a long zoology gallery.
+- Indroda Dinosaur and Fossil Park · place · Gandhinagar: Life-size dinosaur models and fossils, including dinosaur eggs from Gujarat.
+- Balasinor Dinosaur Fossil Park, Raiyoli · place · Raiyoli, near Balasinor, Gujarat: One of the places in India where many dinosaur eggs and bones have been found, with a small museum.
+- National Fossil Wood Park, Sattanur · place · Sattanur, Perambalur district, Tamil Nadu: A huge tree trunk from long ago, turned to stone.
+- Government Museum, Chennai · place · Chennai: A geology gallery with rocks and fossils, and a long zoology gallery.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Footprint Detective: what can footprints tell us?. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Footprint Detective: what can footprints tell us?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Print Test: which things leave a fossil print?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before The Print Test: which things leave a fossil print?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Print Test: which things leave a fossil print?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Print Test: which things leave a fossil print?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a fossil? → A trace of a living being from long ago, kept in rock.

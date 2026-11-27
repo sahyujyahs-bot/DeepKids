@@ -3434,6 +3434,82 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, The Balancing Stick: what does a steady system need?, Three Planets' Air: which planet is the odd one out?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "a2",
+    "a3"
+   ],
+   "plan": "Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in A World in a Jar: a sealed ecosystem for three weeks. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A World in a Jar: a sealed ecosystem for three weeks."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in A World in a Jar: a sealed ecosystem for three weeks. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before A World in a Jar: a sealed ecosystem for three weeks."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, When the Daisies Run Out of Room: how far can a system steady itself?, The Faster Sun: tune the Daisy Planet. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a4",
+    "c1"
+   ],
+   "plan": "Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, Three Planets' Air: which planet is the odd one out?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e1",
+    "a2"
+   ],
+   "plan": "Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

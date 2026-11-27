@@ -2677,6 +2677,47 @@
     "a1"
    ],
    "plan": "After Three Pairs of Sides, a parent can read aloud a few pages from the chapter on heads."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Four Tissues in Your Hand. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Four Tissues in Your Hand."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Lopsided Roller: do matching sides help a body go straight?, Tall Cone or Coil: which shell is easier to carry as it grows?, One Segment, Many Times: a paper chain animal. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Lopsided Roller: do matching sides help a body go straight?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

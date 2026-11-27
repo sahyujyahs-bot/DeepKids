@@ -1,9 +1,9 @@
 # India's national symbols: what they stand for, and how we count our tigers
 `sci.india.national-identity.L3`
 
-**Summary.** India counted its tigers by their footprints for about 30 years, and then found the count was wrong. Why? In this unit you will test whether one hand always leaves the same print, make an exact Tricolour with 24 spokes, and fact-check whether hockey is our official national game.
+**Summary.** India counted its tigers by their footprints for about 30 years, and then found the count was wrong. Why? In this lesson you will test whether one hand always leaves the same print, make an exact Tricolour with 24 spokes, and fact-check whether hockey is our official national game.
 
-**Intro.** *Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger walked there?* The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder. First you must know how many there are. In this unit you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.
+**Intro.** *Make a fist and press it gently into a plate of atta. Now smooth the atta and press again, harder. Are the two prints the same size? Forest staff once counted India's tigers by measuring prints like these. Could a print tell them which tiger walked there?* The tiger is India's national animal. A national animal is one that a country chooses to stand for all its people. Choosing a symbol is easy. Keeping a real tiger alive is harder. First you must know how many there are. In this lesson you meet India's national symbols and the people behind them. You also test footprints with your own hand, and find out why scientists now count tigers by their stripes.
 
 ## Learning outcomes
 0. I can describe India's flag exactly: saffron, white and green bands, a navy-blue Ashoka Chakra with 24 spokes, and a shape that is 3 parts long for every 2 parts high. I can say what each part stands for, and who first designed it.
@@ -572,9 +572,9 @@ Under the tigress's photo, Aunt Revathi wrote: 'Kaveri. Left side: fish hook and
 ## Spotted around us
 - The Lion Capital and Satyamev Jayate on every rupee note.
 - Flags on building terraces and autorickshaws on 15 August and 26 January.
-- Peacock patterns woven into Kanchipuram and Paithani silk saris and painted on temple walls.
+- Peacock patterns woven into silk saris and painted on temple walls.
 - Lotus carvings in temples, and the lotus held by Lakshmi in pictures.
-- Pugmarks in the mud at Bandipur or Nagarahole, on a forest safari in Karnataka.
+- Pugmarks in the mud on a forest path or a riverbank.
 - The ₹ symbol on a price board at the vegetable market.
 - Children standing for Jana Gana Mana at school assembly.
 
@@ -621,6 +621,11 @@ One Flag, Many Voices (sci.india.L3): A song about India's symbols and the peopl
 - [Archaeological Museum, Sarnath](https://asi.nic.in/museum-sarnath/) · place · Sarnath, near Varanasi, Uttar Pradesh: The real Lion Capital of Ashoka, carved about 2,250 years ago, is on show here.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Emblem Hunt: find the lions on our money. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before The Emblem Hunt: find the lions on our money.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Anthem Clock: does everyone sing Jana Gana Mana at the same speed?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before The Anthem Clock: does everyone sing Jana Gana Mana at the same speed?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paw Print Test: does one hand always leave the same print?, Make an Exact Tricolour, with a 24-Spoke Wheel, A Flag Anyone Can Remember. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, c1. Get it before The Paw Print Test: does one hand always leave the same print?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Make an Exact Tricolour, with a 24-Spoke Wheel. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1. Get it before Make an Exact Tricolour, with a 24-Spoke Wheel.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three colours of India's flag, from top to bottom? → Saffron, white and green.

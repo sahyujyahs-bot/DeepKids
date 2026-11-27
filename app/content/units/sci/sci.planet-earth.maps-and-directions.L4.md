@@ -1,9 +1,9 @@
 # Maps and directions: how to map a place you cannot see, and find where you are from three distances
 `sci.planet-earth.maps-and-directions.L4`
 
-**Summary.** How can you draw a map of hills you cannot see? In this unit you will push a thin stick through holes in a closed shoebox lid and map the hidden hills from your measurements. You will also find a hidden coin from three distances and play a harbour game with grid references.
+**Summary.** How can you draw a map of hills you cannot see? In this lesson you will push a thin stick through holes in a closed shoebox lid and map the hidden hills from your measurements. You will also find a hidden coin from three distances and play a harbour game with grid references.
 
-**Intro.** *Your phone shows a blue dot on a map, and the dot is almost exactly where you stand, even in the middle of a field with no signboards. Nobody has drawn a line on the ground to tell the phone. How does it know where you are?* A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this unit you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.
+**Intro.** *Your phone shows a blue dot on a map, and the dot is almost exactly where you stand, even in the middle of a field with no signboards. Nobody has drawn a line on the ground to tell the phone. How does it know where you are?* A phone finds your place by measuring distances. One distance is not enough, and two are not enough. In this lesson you find out how many distances you need, by hiding a coin and drawing circles. You map a landscape in a box that you cannot see, and learn why the holes you choose decide what the map can show. You use the scale bar on a map to work out how many steps a walk will take, find places with a grid, and learn how lines on a map show hills. You also map your own neighbourhood.
 
 ## Learning outcomes
 0. I can use a scale to turn a distance on a map into a real distance, and back again.
@@ -900,6 +900,14 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 - [A geometry box with a drawing compass](https://www.amazon.in/s?k=geometry+box+compass) (tool): To draw the circles in the Three Distances test. Most school bags already have one. A string and a pencil also work. Used in e2. 
 - [A pack of oil-based modelling clay (plasticine)](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Hidden Hills landscape and the clay hill that is sliced with water. A small pack from a stationery shop is enough. Do not use mud or earth clay for the water test, because it clouds the water. Used in e1, a3. 
 - [A whiteboard marker](https://www.amazon.in/s?k=whiteboard+marker) (material): To trace the water line on the clear lid in the Contour Hill test, because it wipes off plastic. It costs about Rs 30 at a stationery shop. A thin marker that you can wipe with a tissue also works. Used in a3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Scale Walk: does the scale bar tell the truth?, Zoom-Out Atlas: from your room to your city in five pages. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, p1. Get it before The Scale Walk: does the scale bar tell the truth?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Scale Walk: does the scale bar tell the truth?. About ₹150 to ₹400. A phone stopwatch works well. Used in e3. Get it before The Scale Walk: does the scale bar tell the truth?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hidden Hills: map a landscape in a box you cannot see into, Three Distances: how many tell you exactly where the coin is?, The Scale Walk: does the scale bar tell the truth?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a3, a5, p1, c1, c2. Get it before Hidden Hills: map a landscape in a box you cannot see into.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Hidden Hills: map a landscape in a box you cannot see into. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Hidden Hills: map a landscape in a box you cannot see into.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Map to Touch: make a map that a blindfolded friend can read. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before A Map to Touch: make a map that a blindfolded friend can read.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Zoom-Out Atlas: from your room to your city in five pages. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in p1. Get it before Zoom-Out Atlas: from your room to your city in five pages.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Hidden Hills: map a landscape in a box you cannot see into, Tabletop Town: find places with a grid, Services Walk: who works where in our neighbourhood?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, a1, a2, a5. Get it before Hidden Hills: map a landscape in a box you cannot see into.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a scale tell you on a map? → How much smaller the map is than the real place.
@@ -920,7 +928,7 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/planet-earth.md: the founder's notes on maps, used for the map drawing and surveying activities
-- The Level 3 unit on maps and directions, which this unit builds on: the ideas of north, south, east and west, tile maps and scale by counting, now extended to scale bars, grids, height and finding a place from distances
+- The Level 3 unit on maps and directions, which this lesson builds on: the ideas of north, south, east and west, tile maps and scale by counting, now extended to scale bars, grids, height and finding a place from distances
 - Board chapter NCERT Class 4, Exploring Our Neighbourhood: coverage only, for the neighbourhood and services parts
 - Heezen, Tharp and Ewing, The Floors of the Oceans: I. The North Atlantic, Geological Society of America Special Paper 65, 1959
 - Heezen and Tharp, World Ocean Floor Panorama, 1977 (painted by Heinrich Berann)

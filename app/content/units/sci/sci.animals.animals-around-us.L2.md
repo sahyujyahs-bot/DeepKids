@@ -1,9 +1,9 @@
 # Animals around us: coverings, legs, wings and fins
 `sci.animals.animals-around-us.L2`
 
-**Summary.** How many legs does a body need to stand still? In this unit you will count an ant's legs, make animals from dough with different numbers of legs to test how well they stand, and play a snap game sorting animals by what covers their bodies.
+**Summary.** How many legs does a body need to stand still? In this lesson you will count an ant's legs, make animals from dough with different numbers of legs to test how well they stand, and play a snap game sorting animals by what covers their bodies.
 
-**Intro.** *A crow on the window ledge has two legs. The cat downstairs has four. The ant on the kitchen floor has six. Why do animals come with so many different numbers of legs?* Animals around us look very different. A crow is covered in feathers, a cat in fur, a gecko in tiny scales and you in skin and hair. A fish swims with fins, a crow flies with wings, and a snake slides along with no legs at all. Scientists compare animals by looking at their bodies, part by part. In this unit you count legs, compare coverings and test how many legs a body needs to stand without help.
+**Intro.** *A crow on the window ledge has two legs. The cat downstairs has four. The ant on the kitchen floor has six. Why do animals come with so many different numbers of legs?* Animals around us look very different. A crow is covered in feathers, a cat in fur, a gecko in tiny scales and you in skin and hair. A fish swims with fins, a crow flies with wings, and a snake slides along with no legs at all. Scientists compare animals by looking at their bodies, part by part. In this lesson you count legs, compare coverings and test how many legs a body needs to stand without help.
 
 ## Learning outcomes
 0. By the end I can sort animals by their body covering: hair or fur, feathers, scales, a shell, or bare skin.
@@ -119,7 +119,7 @@ We have compared animals by their coverings, legs, wings and fins, and tested ho
 Animal bodies come in many forms: two legs or eight, feathers or fur, fins or wings. But many of these different coverings are made of one material: your hair, a crow's feathers and a gecko's scales are all keratin. Bodies also stay up in different ways. A stool stands because of its shape. A crow and you stand by feeling each small tilt and correcting it, all the time. Your feet and ankles feel the floor, and your muscles answer each shift.
 
 - **Yoga Sutras of Patanjali 2.46 and 2.47:** “स्थिरसुखं आसनं / प्रयत्नशैथिल्यानन्तसमापत्तिभ्यां” Patanjali says that the way you sit or stand, your posture, should be steady and comfortable. He says it becomes steady when effort is relaxed and the mind rests on the endless. (When you stood with your eyes shut in the Dough Legs experiment, you were steady only because your feet and ankles kept working. You did not have to try hard, because your body made the corrections without you noticing.)
-- **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi thūṇo.” Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this unit, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
+- **Udana 6.4, the Tittha Sutta (Buddhist Pali Canon):** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi thūṇo.” Some men who could not see each felt one part of an elephant. One felt the leg and said an elephant is like a pillar. One felt the trunk and said an elephant is like a snake. Each was partly right, and they quarrelled. (In this lesson, one body part alone often fooled us. Wings did not make the bat a bird, and scales did not make the pangolin a reptile. We knew each animal only by putting all the parts together.)
 - Science (settled): When a person stands still, the body sways a little all the time, and ankle muscles correct the sway. With the eyes shut, the sway gets bigger.
 - Science (open): The brain and the spinal cord, the bundle of nerves inside the backbone, run many of these corrections without our attention. Nobody knows yet whether the body feels or knows each correction in its own way.
 - Other view, Many neuroscientists: These quick corrections are reflexes: the nerves do them automatically, the same way every time, and you do not need to be aware of them. In this view, awareness belongs to the brain, and only some of what the body does reaches the brain.
@@ -635,11 +635,11 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - Vets compare the bodies of animals to know how to care for each one.
 
 ## Spotted around us
-- Pigeons sitting on the air-conditioner boxes of flats in Chennai and Mumbai.
+- Pigeons sitting on the air-conditioner boxes of flats.
 - A crow on a phone wire, standing on one leg and shifting their foot.
-- Fish with shining scales on ice at a fish market in Kolkata or Kochi.
+- Fish with shining scales on ice at a fish market.
 - A house gecko waiting near the tube light at night to catch moths.
-- Cows and buffaloes walking calmly down a street in a town in Gujarat or Uttar Pradesh.
+- Cows and buffaloes walking calmly down a street in a town.
 
 ## Open questions
 - **When and where did dogs first come to live with people?** Different studies point to different places and times, more than 15,000 years ago. Scientists are still arguing.
@@ -676,10 +676,13 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 ## Links
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent and child to look up the animals they see, with photos taken by people all over India.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a gecko, an insect or a bird from your window, and people help you name them.
-- [Government Museum, Chennai: zoology gallery]() · place · Chennai: See the skeletons, feathers, scales and shells of many animals side by side.
-- [Taraporewala Aquarium]() · place · Mumbai: Watch how many kinds of fish use their fins to swim, turn and stop.
+- Government Museum, Chennai: zoology gallery · place · Chennai: See the skeletons, feathers, scales and shells of many animals side by side.
+- Taraporewala Aquarium · place · Mumbai: Watch how many kinds of fish use their fins to swim, turn and stop.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Count an Ant's Legs, Up Close: my hair, skin and nails. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1, a2. Get it before Count an Ant's Legs.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Dough Legs: how many legs does a body need to stand?, Two Legs, Standing Tall. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, c1. Get it before Dough Legs: how many legs does a body need to stand?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many legs does an ant have? → Six.

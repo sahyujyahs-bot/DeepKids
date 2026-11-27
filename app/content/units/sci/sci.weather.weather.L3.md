@@ -1,9 +1,9 @@
 # Measuring the weather: thermometers, rain gauges and wind vanes
 `sci.weather.weather.L3`
 
-**Summary.** A thermometer in the sun can say 45 degrees on a day that is not that hot. Why? In this unit you will test a thermometer in the sun and in the shade, find out whether a wider rain gauge catches deeper rain, and make a wind vane.
+**Summary.** A thermometer in the sun can say 45 degrees on a day that is not that hot. Why? In this lesson you will test a thermometer in the sun and in the shade, find out whether a wider rain gauge catches deeper rain, and make a wind vane.
 
-**Intro.** *Nila hangs a thermometer on her sunny balcony in Chennai. It says 45 degrees. The radio says it is 36 degrees in Chennai today. Both thermometers work. So which one tells the truth about the air?* Weather is what the air is doing right now: how warm it is, whether rain is falling, and which way the wind blows. To compare one day with another, or one town with another, people measure it. In this unit you measure temperature with a thermometer, rain with a rain gauge and wind with a wind vane. You find out why a thermometer must be kept in the shade. Then you keep your own weather diary, like the weather scientists of India.
+**Intro.** *Nila hangs a thermometer on her sunny balcony in Chennai. It says 45 degrees. The radio says it is 36 degrees in Chennai today. Both thermometers work. So which one tells the truth about the air?* Weather is what the air is doing right now: how warm it is, whether rain is falling, and which way the wind blows. To compare one day with another, or one town with another, people measure it. In this lesson you measure temperature with a thermometer, rain with a rain gauge and wind with a wind vane. You find out why a thermometer must be kept in the shade. Then you keep your own weather diary, like the weather scientists of India.
 
 ## Learning outcomes
 0. I can measure the temperature of the air with a thermometer, and explain why it must be kept in the shade.
@@ -40,24 +40,32 @@
 Words like 'hot' or 'very rainy' mean different things to different people. A child from Shimla and a child from Chennai would not agree on what 'cold' means. Numbers let everyone compare. Each measurement needs its own tool. A thermometer measures temperature. A rain gauge measures rain. A wind vane shows wind direction, and an anemometer measures wind speed. Clouds are still mostly judged by eye, by how much of the sky they cover.
 - e.g. 'Very hot' in Delhi in May might be 45 °C. 'Very hot' in Bengaluru might be 36 °C.
 - e.g. A weather report gives the maximum and minimum temperature, the rainfall in millimetres, and the wind.
+- **Weather scientists:** Measure temperature, pressure, wind, rain and humidity with instruments, and record numbers.
+- **North Indian farmers:** Pass on sayings called Ghagh and Bhaddari, which link the sky, the winds and the behaviour of animals and plants with the coming weather. They hold generations of watching.
 ### A thermometer shows its own temperature · *defined*
 **Definition:** A thermometer can only show how warm the thermometer itself is. It shows the air's temperature only when the air is the only thing warming or cooling it.
 
 In the shade, the thermometer gives heat to the air or takes heat from it until both are equally warm. Then its reading is the air's temperature. In sunlight, something else happens. The thermometer takes in sunlight, and that light warms it as well as the air does. So its reading climbs above the air's temperature. The air around it has not changed. Only the thermometer has. This is why a thermometer in the sun can read 5, 10 or even more degrees above one in the shade nearby.
 - e.g. In the Sun or Shade test, a thermometer hung in the sun read 44 °C. In the shade, a metre away, it read 33 °C.
 - e.g. Digital temperature signs at bus stops often stand in the sun. On sunny days they can show much higher numbers than the weather report.
+- **Everyday view:** The thermometer tells the temperature of the air.
+- **Physicists:** Say it tells only its own temperature. In the sun it can read much higher than the air, because it takes in sunlight, so a thermometer must be kept in shade and in moving air.
 ### Why sunlight warms things more than it warms the air · *defined*
 **Definition:** Clear air lets most sunlight pass straight through it. The ground, walls and other solid things take in much more sunlight, and they warm up first. The air is warmed mostly by touching the warm ground.
 
 Air is see-through, so most sunlight goes through it without warming it much. When sunlight lands on a floor, a wall or a thermometer, much of it is taken in, and the thing gets warm. A dark thing takes in more light than a white or shiny thing, so it warms more. This is why a sunny wall or ledge can be too hot to touch while the air beside it feels only warm. A thermometer near a sunny wall is warmed by the wall too.
 - e.g. At noon, a black car roof can be too hot to touch while the air beside it is only warm.
 - e.g. A white paper roof over a thermometer takes in less sunlight than a black one would.
+- **Joseph Fourier:** In the 1820s he said that the air near Earth must keep some heat, like glass in a frame.
+- **John Tyndall:** In 1859 showed in the lab that gases such as carbon dioxide and water vapour take in heat rays. He found that air is clear to sunlight but takes in heat that rises from the ground.
 ### The weather screen: a shaded house for thermometers · *defined*
 **Definition:** A weather screen is a white box with slatted sides, on legs. It holds thermometers about 1.25 to 2 metres above short grass. It keeps sunlight off them and lets air flow through.
 
 Every part of it has a reason. White takes in little sunlight, so the box itself stays cool. The slats let the air blow through, so the air inside is the same as the air outside. The legs keep it away from the ground, which gets hot in the day and cold at night. It stands in an open place, away from walls. The design was made in Scotland in the 1860s by Thomas Stevenson, a lighthouse engineer, so it is often called a Stevenson screen. Today almost every country follows the same rules, so a reading in Chennai can be fairly compared with one in Nairobi or Tokyo.
 - e.g. Weather stations in India keep their thermometers in white screens on legs.
 - e.g. Your white paper roof in the Sun or Shade test was a very simple weather screen.
+- **Thomas Stevenson:** In the 1860s he designed the white slatted box that is used all over the world, so that thermometers are shaded and air can flow.
+- **Luke Howard:** In the 1810s used readings from London and the countryside to show that the city is warmer than its surroundings. It shows how a reading depends on where the thermometer stands.
 ### How a rain gauge measures rain · *defined*
 **Definition:** A rain gauge catches rain, and we measure the depth of water in it in millimetres. That depth is the rainfall.
 
@@ -65,34 +73,46 @@ Rain falls over a whole area. A wide container catches more water than a narrow 
 - e.g. In the Wide or Narrow test, a steel dabba and a straight glass under the same rain from a chalni both filled to about the same depth, around 12 mm.
 - e.g. If 10 mm of rain falls on a flat terrace of 50 square metres, that is 500 litres of water.
 - e.g. An old Indian book, the Arthashastra, describes a bowl set up in front of a storehouse as a rain gauge.
+- **Kautilya's Arthashastra:** An old Indian book of government, from about 2,000 years ago, tells officers to measure rain in bowls at storehouses, so that taxes and crops could be planned.
+- **Korean court scientists:** In 1441 a rain gauge was made of iron and set up across the land under King Sejong. Rain was measured to help farmers, and the records were kept.
 ### Which way the wind blows · *defined*
 **Definition:** A wind is named for the direction it comes from. A wind vane turns until its arrow points into the wind, towards where the wind comes from.
 
 A wind vane has a small arrowhead at one end and a big, flat tail at the other. The wind pushes harder on the big tail. So the vane swings round until the tail is blown away from the wind, downwind. Then the arrow points the other way, into the wind. If the arrow points west, the wind is coming from the west. In India, the big summer winds come from the southwest, over the sea, and bring the southwest monsoon. In Chennai, much of the year's rain comes in October to December, with winds from the northeast. This is called the northeast monsoon.
 - e.g. Hold a hand fan to the east of a wind vane and wave it. The arrow turns to point east, at the fan.
 - e.g. An airport windsock is the other way round. Its open end faces the wind, and the sock blows away from it.
+- **Meteorologists:** Name a wind by where it comes from, so a west wind blows from the west.
+- **Oceanographers:** Name a sea current by where it goes, so a westward current flows toward the west. The two habits are opposite, and it is a good idea to say 'from' or 'toward' clearly.
 ### How strong is the wind? · *defined*
 **Definition:** Wind speed is how fast the air is moving. An anemometer measures it. You can also judge it by eye, from what the wind does to things around you.
 
 In a cup anemometer, the wind pushes the open side of each cup harder than the round back, so the cups spin. The faster they spin, the stronger the wind. Long before machines, sailors judged the wind from what they saw. In 1805, Francis Beaufort, an officer in the British navy, wrote down a scale from 0, calm, to 12, a hurricane. At first, each number was described by what the wind did to a ship's sails. Later, signs on land were added, such as smoke rising straight up or branches swaying. Weather offices still use a version of his scale.
 - e.g. When the wind is calm, smoke rises straight up and leaves do not move.
 - e.g. In a strong breeze, big branches sway and it is hard to hold an umbrella.
+- **Francis Beaufort:** In 1805 an Irish naval officer made a scale from 0 to 12 for judging the wind by what it does to the sea, sails and trees, with no instrument.
+- **Instrument makers:** Use cup anemometers, which spin faster in a faster wind, and now sonic sensors that time sound in the air. Numbers can be recorded and compared.
 ### The warmest time of day · *defined*
 **Definition:** On a clear day, the air is usually warmest in the middle of the afternoon, around 2 to 4 o'clock, not at noon. It is usually coolest just before sunrise.
 
 The Sun is highest at about noon, but the air keeps warming after that. The ground and buildings keep taking in sunlight and passing warmth to the air. Until mid-afternoon, they take in more heat than they lose. After that, the Sun is lower and they lose more than they take in, so the air starts to cool. All night, heat keeps leaving, so the coolest time is just before the Sun comes back. Clouds change this. On a cloudy or rainy day, the temperature may hardly change at all.
 - e.g. A shade thermometer in Madurai might read 28 °C at 7 in the morning, 35 °C at noon and 37 °C at 3 in the afternoon.
 - e.g. Think of a pot of water on the stove. If you turn the flame down a little, the water still gets hotter for a while. The ground and the air do the same after noon. The Sun gets weaker, but it still gives them more heat than they lose.
+- **Everyday view:** The Sun is highest at noon, so noon must be hottest.
+- **Meteorologists:** Explain that the ground keeps gaining heat as long as it takes in more than it gives out. The air is warmest at about two to four o'clock, and the warmest days of the year come weeks after the longest day.
 ### India's weather watchers · *defined*
 **Definition:** The India Meteorological Department, IMD, measures and reports the weather for the whole country. It was started in 1875.
 
 Every day, hundreds of IMD weather stations measure temperature, rain and wind in the same way, at the same times. Many are now automatic weather stations, which send readings by themselves. For a long time, India bought its weather instruments from abroad. Anna Mani, a scientist born in Peermade in Kerala in 1918, changed that. She joined IMD in 1948 and led the work to design and make weather instruments in India. She also measured sunlight and wind across India, to find good places for solar and wind power.
 - e.g. Chennai's weather reports come from two stations: Nungambakkam in the city and Meenambakkam at the airport.
 - e.g. Thousands of rain gauges across India are read every morning, and the rain is added up for each district.
+- **Traditional weather knowledge:** Farmers' sayings like those of Ghagh and Bhaddari, and Varahamihira's old book the Brihat Samhita, linked clouds, animals and winds to coming rain.
+- **India Meteorological Department (1875):** Uses instruments, satellites and computers to forecast. Many sayings are still checked by scientists, and some turn out to hold truth.
 ### The 'feels like' temperature · *idea*
 Many weather apps show two numbers: the temperature, and what it 'feels like'. The first is measured with a thermometer in the shade. The second is worked out from the temperature, how damp the air is, and how windy it is. Damp air makes it harder for sweat to dry, so a humid 34 °C in Chennai can feel worse than a dry 38 °C in Jaipur. There is no single agreed way to work out the 'feels like' number. Different countries and apps use different formulas, so they can give different answers for the same weather.
 - e.g. A weather app may say 33 °C, feels like 41 °C, on a sticky Chennai afternoon.
 - e.g. A fan makes you feel cooler, but it does not change what a thermometer reads.
+- **Different formulas:** The heat index, the wind chill and the wet-bulb temperature each give a different number for the same air.
+- **Scientists who study people:** Say bodies differ in size, clothing, age and what they are doing, so no single 'feels like' number fits everybody.
 
 ## Mostly agreed
 - To measure the temperature of the air, a thermometer must be kept out of direct sunlight, with air flowing round it. *How we know:* A thermometer in the sun reads well above one in the shade nearby. Weather offices around the world follow the same rules from the World Meteorological Organization, so their readings can be compared.
@@ -701,6 +721,12 @@ Shade, Rain and Wind (sci.weather.L3): Topic-level song for Weather L3
 
 ## Things to buy
 - [A laboratory thermometer, minus 10 to 110 °C, with red liquid (not mercury). Or a digital thermometer with a probe.](https://www.amazon.in/s?k=laboratory+thermometer+red+liquid) (tool): The experiments need a thermometer that reads air from about 10 °C to 60 °C. A fever thermometer will not work: it reads only a small range near body temperature. Some wall thermometers stop at 50 °C, which a thermometer in strong sun can pass. A second thermometer lets you read the sun and the shade at the same time. Used in e1, e3, p1, c1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in Make a Wind Vane. About ₹30 to ₹150. A phone compass app also works. Used in a2. Get it before Make a Wind Vane.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sun or Shade: where does a thermometer tell the truth about the air?, Wide or Narrow: does a bigger rain gauge catch deeper rain?, My Weather Diary: one week. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1, c2. Get it before Sun or Shade: where does a thermometer tell the truth about the air?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Rain While You Are Away. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c2. Get it before Rain While You Are Away.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Weather Screen for Your Balcony. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Weather Screen for Your Balcony.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Make a Wind Vane. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a2. Get it before Make a Wind Vane.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What tool measures temperature? → A thermometer.

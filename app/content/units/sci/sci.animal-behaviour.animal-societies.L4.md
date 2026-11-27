@@ -1,9 +1,9 @@
 # Hives, mounds and nests: how bees, wasps and termites share the work
 `sci.animal-behaviour.animal-societies.L4`
 
-**Summary.** Bees, wasps and termites live in big colonies and share the work. Does splitting a job really make it faster? In this unit you will watch ants at a trail, test whether splitting a job helps, and play a game of which bee does what.
+**Summary.** Bees, wasps and termites live in big colonies and share the work. Does splitting a job really make it faster? In this lesson you will watch ants at a trail, test whether splitting a job helps, and play a game of which bee does what.
 
-**Intro.** *A worker honeybee lives only about six weeks in summer. In that time she does five or six different jobs. Who decides when she changes?* In her first days a worker honeybee cleans empty cells in the comb. Then she feeds the young. Then she builds wax and guards the door. Last, she flies out for nectar. No bee gives her orders. In this unit you split a job among yourselves, to see what a hive gains and what it risks. You also watch ants at work, act out a bee's dance, and play a game where scouts choose a new home.
+**Intro.** *A worker honeybee lives only about six weeks in summer. In that time she does five or six different jobs. Who decides when she changes?* In her first days a worker honeybee cleans empty cells in the comb. Then she feeds the young. Then she builds wax and guards the door. Last, she flies out for nectar. No bee gives her orders. In this lesson you split a job among yourselves, to see what a hive gains and what it risks. You also watch ants at work, act out a bee's dance, and play a game where scouts choose a new home.
 
 ## Learning outcomes
 0. I can explain what makes a society eusocial, with a queen and workers, and name three kinds of animals that live this way.
@@ -36,7 +36,7 @@
 ### Eusocial: a society where only a few have young · *defined*
 **Definition:** A eusocial society is one where a few animals lay all the eggs, many others look after the young, and the animals of different generations live together.
 
-In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists count more than a dozen separate times that eusociality has appeared on Earth. The exact number depends on how they count. It is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this unit.
+In a wolf pack or an elephant herd, most grown-up females can have young. In a honeybee hive, almost all the work is done by workers who never lay eggs. One queen lays them all. Ants, termites and many bees and wasps live this way. So do a few kinds of snapping shrimp that live inside sponges, and two kinds of African mole-rat. Scientists count more than a dozen separate times that eusociality has appeared on Earth. The exact number depends on how they count. It is rare among animals. Yet ants and termites together are so many that they make up a large share of the animal weight in many warm forests. A worker who never has young is giving her life's work to her mother's young, who are her sisters. Why that can happen is still argued, and you will meet that argument in this lesson.
 - e.g. A honeybee hive with one queen, thousands of daughters who work, and a few hundred drones.
 - e.g. A termite mound with a king and queen, workers and soldiers.
 - e.g. A naked mole-rat colony in underground tunnels, with one breeding female and a few breeding males.
@@ -138,7 +138,7 @@ Naked mole-rats are mammals the size of a small hand, with almost no fur. They l
   Against: What is natural does not tell us what is fair. Elephants are led by older females, wolf packs are families, and most animals live alone. Nature shows many ways to live, so it cannot pick one for us.
 
 ## Roots
-In this unit a hive shares out its jobs, a dance tells other bees where to fly, and a swarm chooses a home. Here we ask whether a hive is one thing or many separate bees.
+In this lesson a hive shares out its jobs, a dance tells other bees where to fly, and a swarm chooses a home. Here we ask whether a hive is one thing or many separate bees.
 
 **Deep truth.** In a hive, one bee does many jobs in turn, from cleaning to finding food. When a hive loses many foragers, young bees start foraging early. So a job is not what a bee is. It is what the hive needs from her today.  
 *Habit it breaks:* We say worker, nurse, guard and soldier as if each were a kind of animal, the way we say 'teacher' as if that word were a person's whole self. In honeybees the word names a stage in a bee's life, not a kind of bee. In some termites and ants, soldiers do have a different body and keep one job.  
@@ -666,7 +666,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 13. (mcq) A scientist wants to test whether bees follow a dancer's message, or only the flower smell on her body. Which test would give the clearest answer?  
    Options: Make the dancer point the wrong way and see where the new bees go / Count the dancer's waggles / Ask the beekeeper which flowers are in bloom / Feed all the bees the same sugar  
    **Answer:** Make the dancer point the wrong way and see where the new bees go. *Why:* If the new bees fly to the place the dance describes, and not to the place with the flower smell, the dance carries the message. This is what James Gould's trick showed in 1975.
-14. (write) A friend says, 'A bee's whole life is decided on the day she hatches.' Use one fact from this unit to disagree. Then say one thing we still do not know.  
+14. (write) A friend says, 'A bee's whole life is decided on the day she hatches.' Use one fact from this lesson to disagree. Then say one thing we still do not know.  
    **Answer:** A honeybee worker does many jobs as she ages, and she can start foraging early if the hive lost its foragers. So her life is not set on the day she hatches. We still do not know why workers help raise their mother's young instead of having their own.. *Why:* A strong answer gives one fact that fits, such as age-based jobs or early foraging, and one honest open question, such as why workers help or why resting ants rest.
 15. (match) Match each question to what we know about it.  
    **Answer:** The waggle dance tells direction and distance → Settled; Why workers help raise their mother's young → Debated; Standing ants are a reserve → Debated; Naked mole-rats live with a queen → Settled. *Why:* Some ideas have been tested again and again, and are settled. Others still have scientists on different sides, so they are debated.
@@ -775,13 +775,15 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 - [Naked mole-rat (Wikipedia)](https://en.wikipedia.org/wiki/Naked_mole-rat) · interactive: For the parent: how a mammal lives with a queen, with pictures of the tunnels and the digging chain.
 - [Wisdom of the crowd (Wikipedia)](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) · interactive: For the parent: when a crowd's average beats the experts, and when it fails.
 - [Indian Institute of Science, Bengaluru](https://iisc.ac.in/) · interactive: For the parent: the home of decades of research on Indian paper wasps by Raghavendra Gadagkar and others.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A big garden where you can look for bees on flowers, ants on trees and termite mounds at the edges. Go with a grown-up and look from a distance.
-- [Guindy National Park]() · place · Chennai: A small forest in the city where you can look for ant trails, termite mounds and wasp nests along the paths. Check the opening times before you go.
+- Lalbagh Botanical Garden · place · Bengaluru: A big garden where you can look for bees on flowers, ants on trees and termite mounds at the edges. Go with a grown-up and look from a distance.
+- Guindy National Park · place · Chennai: A small forest in the city where you can look for ant trails, termite mounds and wasp nests along the paths. Check the opening times before you go.
 
 ## Things to buy
 - [A kitchen timer or stopwatch](https://www.amazon.in/s?k=kitchen+timer+stopwatch) (tool): For timing the rounds in Switch or Stay. A phone timer also works. Used in e1. 
 - [A digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): For Huddle or Spread, to read the temperature of the water in the bottles. Most homes already have one. Without one, use the blind hand test in the activity. Used in a5. 
 - [A packet of kabuli chana (white chickpeas)](https://www.amazon.in/s?k=kabuli+chana) (material): For the Jar of Dal test. Any dry bean or pulse of one kind will also do. Used in e2. 
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Cool Nest: keep a shoebox nest cooler on a hot day. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Cool Nest: keep a shoebox nest cooler on a hot day.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a colony? → The whole family of an ant, bee, wasp or termite society, living in one nest.
@@ -801,7 +803,7 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 ## Sources
 - Founder's notebook, Biology list: items 111 to 116 and 224 (social behaviour, cooperation, altruism and kin selection, game theory). Used here for division of labour and group decisions. Territories, pecking orders, helping relatives and game theory are left for sci.animal-behaviour.animal-societies.L5, as the curriculum says.
 - The founder's Bee Breath (bhramari) from the yoga lists in ideas/by_topic/living-in-harmony.md, used in the Roots practice.
-- The Class 3 unit sci.animal-behaviour.animal-societies.L3 was read so nothing repeats: it has elephants, ant sugar drops, wolves, and the 'no boss' idea. This unit goes on to jobs, castes, dances and swarm quorums, and its experiments are new.
+- The Class 3 unit sci.animal-behaviour.animal-societies.L3 was read so nothing repeats: it has elephants, ant sugar drops, wolves, and the 'no boss' idea. This lesson goes on to jobs, castes, dances and swarm quorums, and its experiments are new.
 - Seeley, T. D., 'Adaptive significance of the age polyethism schedule in honeybee colonies', Behavioral Ecology and Sociobiology 11, 1982 (jobs by age)
 - Seeley, T. D., The Wisdom of the Hive, Harvard University Press, 1995
 - Huang, Z.-Y. and Robinson, G. E., 'Honeybee colony integration: worker-worker interactions mediate hormonally regulated plasticity in division of labor', PNAS 89, 1992

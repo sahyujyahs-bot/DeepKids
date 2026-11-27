@@ -1,7 +1,7 @@
 # Two ways to divide, cells with no job yet, and cells that die on time
 `sci.what-is-life.cells-divide.L5`
 
-**Summary.** Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this unit you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.
+**Summary.** Your fingers began as a flat paddle, so some of your cells had to die on time. How does a body make a hand? In this lesson you will test which piece of a mint stem grows roots, and act out two ways cells divide with paper chromosomes.
 
 **Intro.** *Cut a 6 centimetre piece from a pudina stem and stand it in water. In about a week it grows roots, and later it becomes a whole plant. The piece had no roots at all. So which cells made the new roots, and where in the stem were they waiting? Say what you think, and why.* You will test this yourself in the Pudina Pieces Test, with four kinds of pieces. Before that, here is a second puzzle. Every cell in your body came from one first cell, by copying. Copies are the same as each other. So why are a brother and a sister from the same two parents not copies of each other? Both puzzles are about how cells divide, and about what a cell is still able to become.
 
@@ -604,7 +604,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
    **Answer:** Scientists disagree about why. *Why:* Some biologists say the death helps the yeast cell's sisters. Others say it may be a side effect of other machinery. The question is still open.
 
 ## Videos
-- **Mitosis vs. Meiosis: Side by Side Comparison** (Amoeba Sisters, 7 min) id `zrKdz93WlVk`: To see mitosis and meiosis drawn next to each other, step by step, after doing them with paper strips. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It uses the stage names (prophase, metaphase and so on), which this unit leaves out.
+- **Mitosis vs. Meiosis: Side by Side Comparison** (Amoeba Sisters, 7 min) id `zrKdz93WlVk`: To see mitosis and meiosis drawn next to each other, step by step, after doing them with paper strips. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It uses the stage names (prophase, metaphase and so on), which this lesson leaves out.
 - **What are stem cells? - Craig A. Kohn** (TED-Ed, 4 min) id `evH0I7Coc54`: To see what stem cells are, where they are found, and how doctors hope to use them. *Check:* Id, title and channel confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it.
 - **Apoptosis 4K (2006) by Drew Berry wehi.tv, sound design Franc Tétaz** (WEHImovies, 5 min) id `P5jEKs7AxVc`: To see a cell receive a death signal and take herself apart, in an animation made at a research institute in Melbourne. No home experiment can show this. *Check:* Id and title confirmed through YouTube's public lookup on 18 Nov 2026. Not watched from here: a parent should preview it. It shows the molecules inside the cell in detail and has no narration for children, so watch it together and pause to talk.
 
@@ -653,11 +653,11 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 
 ## Spotted around us
 - A bunch of pudina from the market, forgotten in a tumbler of water, growing white roots at its nodes.
-- Sugarcane setts being planted in a field near Mandya or Kolhapur. Each sett is a piece of cane with two or three nodes.
+- Sugarcane setts being planted in a field. Each sett is a piece of cane with two or three nodes.
 - Toad tadpoles in a rain puddle in June, some with a full tail, some with legs and a stub of tail.
 - A duck paddling on a village pond in Kuttanad, with webs between the toes that a hen on the bank does not have.
 - A blood donation camp. Each donor's bone marrow replaces the red cells within a few weeks.
-- Skin peeling from your shoulders a few days after a sunny day at Marina Beach or in Goa.
+- Skin peeling from your shoulders a few days after a sunny day at the beach.
 - A wall gecko with a tail that is shorter, smoother and a different colour from the rest of the body, because it has regrown.
 
 ## Open questions
@@ -705,13 +705,17 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: Free animations and short films on cell division, meiosis and cell death, made by a research institute for schools.
 - [The Nobel Prize in Physiology or Medicine 2002](https://www.nobelprize.org/prizes/medicine/2002/summary/) · interactive: For the parent: the prize for the roundworm work that showed cell death is planned, with a plain summary.
 - [The Nobel Prize in Physiology or Medicine 2012](https://www.nobelprize.org/prizes/medicine/2012/summary/) · interactive: For the parent: the prize for showing that specialised cells can be turned back into stem cells.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with galleries on biotechnology and the human body, where children can see models of cells and DNA.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with galleries on biotechnology and the human body, where children can see models of cells and DNA.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on galleries about the human body and life.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with galleries on life science and the human body.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with galleries on life science and the human body.
 
 ## Things to buy
 - [A fresh bunch of pudina (mint)](https://www.amazon.in/s?k=fresh+pudina+mint+leaves) (material): For the Pudina Pieces Test. Any vegetable seller has it. Choose a bunch with firm green stems at least 12 centimetres long. Used in e1. 
 - [A magnifying glass, about 5 times](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): For seeing the first white bumps of new roots, and for looking at hair, nails and wood. It is useful in many other units. Used in e1, a4, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Pudina Pieces Test: which piece of a stem can grow roots?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Pudina Pieces Test: which piece of a stem can grow roots?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Paddle to Hand: how do you get fingers out of a paddle?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before Paddle to Hand: how do you get fingers out of a paddle?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Double Trouble: what happens if nobody halves the chromosomes?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Double Trouble: what happens if nobody halves the chromosomes?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which division makes two cells with the full set of chromosomes? → Mitosis.
@@ -732,7 +736,7 @@ What Makes a Thing Alive? (sci.what-is-life.L5): Topic-level song
 - DeepKids notebook items bio:80 and bio:81 (cells copy themselves), which this subtopic is mapped to in the curriculum.
 - Founder's SCI Cards in ideas/by_topic/genes-and-inheriting-features.md: Nettie Stevens (chromosomes and sex), Marthe Gautier (the extra chromosome 21, and the credit taken from her) and Barbara McClintock. Used in the explanations and the agreed facts.
 - Founder's SCI Card for Lynn Margulis in ideas/by_topic/living-and-non-living-signs-of-life.md, used in the explanation of why a cell would die for others.
-- The Level 4 unit sci.what-is-life.cells-divide.L4, which this unit builds on. Its root tip tests, replacement game, chromosome count story and ship of Theseus are not repeated.
+- The Level 4 unit sci.what-is-life.cells-divide.L4, which this lesson builds on. Its root tip tests, replacement game, chromosome count story and ship of Theseus are not repeated.
 - There is no founder's topic note or combined lesson for this subtopic, and no open-textbook entry in knowledge/by_subtopic.json. The activities here are new.
 - Flemming, W., Zellsubstanz, Kern und Zelltheilung, 1882 (mitosis)
 - Hertwig, O., Beiträge zur Kenntniss der Bildung, Befruchtung und Theilung des thierischen Eies, Morphologisches Jahrbuch 1, 1876 (fertilisation in sea urchins)

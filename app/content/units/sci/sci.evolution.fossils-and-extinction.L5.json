@@ -3097,6 +3097,49 @@
     "a2"
    ],
    "plan": "A parent reads the chapters on the Deccan lava and the end of the dinosaurs, and tells the best parts while the child makes the paper time line."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Empty Board Test: after a mass extinction, who fills the world again?, The Last Fossil Test: if five species died on the same day, would the rocks show it?, The Hundred Squares: how many of all the species that ever lived are alive today?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Empty Board Test: after a mass extinction, who fills the world again?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Dark Week: who gets through a time without sunlight?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Dark Week: who gets through a time without sunlight?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

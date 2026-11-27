@@ -1,7 +1,7 @@
 # How things fly: wings push air down, and the air pushes them up
 `sci.forces.flight.L3`
 
-**Summary.** A cheel can circle over a city for an hour, held up by air you cannot see. How? In this unit you will show that air is real, test how tilting a hand wing changes the push of the air, and fly paper planes and seed spinners in fair tests.
+**Summary.** A cheel can circle over a city for an hour, held up by air you cannot see. How? In this lesson you will show that air is real, test how tilting a hand wing changes the push of the air, and fly paper planes and seed spinners in fair tests.
 
 **Intro.** *Hold a sheet of paper flat by two corners and drop it. Now crumple an identical sheet into a ball and drop it. Now fold a third sheet into a paper plane and throw it gently. Same paper. Why do they come down so differently?* Look up on any sunny afternoon in an Indian city. You will probably see big brown birds circling high above, hardly flapping at all. They are black kites, called cheel in Hindi. They can stay up for an hour. A crow beside them has to keep flapping. A paper kite on a string climbs only when the wind blows. A seed from a mahogany tree spins down like a tiny helicopter. A cheel weighs about as much as a 1-kilogram packet of sugar. So how can it stay up in air that you cannot even see?
 
@@ -782,7 +782,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 
 ## Spotted around us
 - Black kites circling high over the city on a hot afternoon, hardly flapping.
-- The sky full of kites on Makar Sankranti in Gujarat, Rajasthan and Hyderabad, on Vishwakarma Puja in Kolkata, or on Independence Day in Delhi.
+- The sky full of kites on Makar Sankranti, on Vishwakarma Puja or on Independence Day.
 - Big-leaf mahogany seeds spinning down onto city pavements.
 - Silky aak fluff and semal tree cotton drifting along a road.
 - A ceiling fan's tilted blades pushing air down.
@@ -837,10 +837,10 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities. Search for paper planes, kites and air.
 - [Bird Count India](https://birdcount.in) · interactive: A group that helps families count and record birds across India.
 - [HAL Heritage Centre and Aerospace Museum](https://hal-india.co.in) · place · Bengaluru: A museum with real aircraft, engines and helicopters made in India.
-- [Indian Air Force Museum, Palam]() · place · New Delhi: Old and new planes of the Indian Air Force, up close. Check opening days before you go.
-- [Kite Museum at Sanskar Kendra]() · place · Ahmedabad: A museum of kites from India and around the world, in the city famous for its January kite festival.
-- [Charity Birds Hospital, Chandni Chowk]() · place · Delhi: A hospital for birds, including those hurt by kite string. Many cities have bird rescue groups during kite festivals.
-- [Keoladeo National Park]() · place · Bharatpur: A famous bird park. In winter, cranes, storks and geese that have flown thousands of kilometres rest here.
+- Indian Air Force Museum, Palam · place · New Delhi: Old and new planes of the Indian Air Force, up close. Check opening days before you go.
+- Kite Museum at Sanskar Kendra · place · Ahmedabad: A museum of kites from India and around the world, in the city famous for its January kite festival.
+- Charity Birds Hospital, Chandni Chowk · place · Delhi: A hospital for birds, including those hurt by kite string. Many cities have bird rescue groups during kite festivals.
+- Keoladeo National Park · place · Bharatpur: A famous bird park. In winter, cranes, storks and geese that have flown thousands of kilometres rest here.
 
 ## Things to buy
 - [Paper clips (a box)](https://www.amazon.in/s?k=paper+clips) (material): Weights for the paper plane tests, the seed spinners and the slowest seed challenge. Used in e1, e2, g2, c1. 
@@ -849,6 +849,13 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Kite paper or tissue paper sheets](https://www.amazon.in/s?k=kite+paper+sheets) (material): The light covering for your home-made patang. Used in p1. 
 - [Thin bamboo sticks or long bamboo skewers](https://www.amazon.in/s?k=bamboo+sticks+craft) (material): The light, stiff frame of the kite. Used in p1. 
 - [Plain cotton kite thread on a spool (no glass)](https://www.amazon.in/s?k=cotton+kite+thread+firki) (material): Safe string for the kite. Never buy glass-coated or nylon manja, which cuts hands and birds. Used in p1. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Seed Spinners: do longer wings fall more slowly?, Bird Watch: flap, glide or soar?, The Slowest Seed. About ₹150 to ₹400. A phone stopwatch works well. Used in e2, a4, c1. Get it before Seed Spinners: do longer wings fall more slowly?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Seed Spinners: do longer wings fall more slowly?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Seed Spinners: do longer wings fall more slowly?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Float a Feather, Float a Ball (hair dryer). About ₹20 to ₹60. Used in a2. Get it before Float a Feather, Float a Ball (hair dryer).
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Air Is Real: the dry tissue and the cardboard run, Be the Air (act it out). About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1, a5. Get it before Air Is Real: the dry tissue and the cardboard run.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Flying Seed Hunt. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Flying Seed Hunt.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Hand Wing: how does tilt change the push of the air?. About ₹5 to ₹20. Cut card from a cereal box. Used in e3. Get it before Hand Wing: how does tilt change the push of the air?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is air a real material, or nothing? → A real material. It takes up space and pushes.

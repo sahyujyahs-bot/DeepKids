@@ -1,9 +1,9 @@
 # The solar system: planets, their satellites, and the true distances between them
 `sci.sky.solar-system.L5`
 
-**Summary.** Ganymede, a moon of Jupiter, is wider than the planet Mercury. So what makes a world a planet and not a moon? In this unit you will balance heavy and light dough balls to find the point they go round, and set a marble Earth and a peppercorn Moon at the true distance.
+**Summary.** Ganymede, a moon of Jupiter, is wider than the planet Mercury. So what makes a world a planet and not a moon? In this lesson you will balance heavy and light dough balls to find the point they go round, and set a marble Earth and a peppercorn Moon at the true distance.
 
-**Intro.** *Ganymede is a moon of Jupiter, and it is wider than the planet Mercury. Pluto was a planet when your grandparents went to school, and today it is not. If size is not the test, what makes one world a planet and another a satellite?* In this unit you find the answer, and you test it with your own hands. First you set a marble Earth and a peppercorn Moon the right distance apart. Then you balance two dough balls on a pencil, to find the point that two worlds both go round. You also find out how much more dough a ball needs when it is twice as wide. At the end you can say why Pluto's name changed, and where the solar system ends.
+**Intro.** *Ganymede is a moon of Jupiter, and it is wider than the planet Mercury. Pluto was a planet when your grandparents went to school, and today it is not. If size is not the test, what makes one world a planet and another a satellite?* In this lesson you find the answer, and you test it with your own hands. First you set a marble Earth and a peppercorn Moon the right distance apart. Then you balance two dough balls on a pencil, to find the point that two worlds both go round. You also find out how much more dough a ball needs when it is twice as wide. At the end you can say why Pluto's name changed, and where the solar system ends.
 
 ## Learning outcomes
 0. By the end I can name the eight planets in order, and say what sets the Earth apart.
@@ -740,7 +740,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 - A cloud picture on the weather forecast on television. It was taken by a weather satellite going round the Earth.
 - A planet next to the crescent Moon, on an evening when the two come close. A phone sky app tells you which planet it is.
 - The Aryabhata satellite on the back of an old 2-rupee note, in a family collection or a museum.
-- A planetarium show, such as in Chennai, Bengaluru, Hyderabad or Kolkata, with the planets and moons projected on a dome.
+- A planetarium show, with the planets and moons projected on a dome.
 - Look at a ball of any size in a shop and ask how many smaller balls would fit inside it. If the small ball is half as wide, the answer is eight.
 
 ## Open questions
@@ -789,12 +789,19 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - [Solar System Scope](https://www.solarsystemscope.com/) · interactive: A free 3D model of the solar system. Find Ganymede next to Mercury, and the orbits of the dwarf planets.
 - [NASA New Horizons mission to Pluto](https://science.nasa.gov/mission/new-horizons/) · interactive: The spacecraft that flew past Pluto and Charon in 2015, with its pictures and findings.
 - [International Astronomical Union](https://www.iau.org/) · interactive: For the parent: the group of astronomers that agreed the three tests for a planet in 2006.
-- [Birla Planetarium]() · place · Chennai: Sky shows about the planets and their moons. Check show times and languages before you go.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Shows about the solar system, with a small science exhibition. Check the show times before you go.
+- Birla Planetarium · place · Chennai: Sky shows about the planets and their moons. Check show times and languages before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Shows about the solar system, with a small science exhibition. Check the show times before you go.
 
 ## Things to buy
 - [A tape measure of 5 metres, or a long measuring string](https://www.amazon.in/s?k=measuring+tape+5+metre) (tool): For Marble Earth, Peppercorn Moon, Fix the Picture and An Honest Solar System. A tailor's tape or a builder's tape works, and many homes already have one. Used in a1, a5, c1. 
 - [How I Killed Pluto and Why It Had It Coming, a book by Mike Brown (2010)](https://www.amazon.in/s?k=How+I+Killed+Pluto+and+Why+It+Had+It+Coming) (book): For the parent, and for an older child to read in parts. The astronomer who found Eris tells the story of the vote of 2006 and his side of the argument. Used in p1. Before day 2 of The Planet Vote, read the chapter about Eris aloud. Ask which of Brown's reasons fit Side A, and which Side B would answer.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two-Ball Balance: where is the balance point of a heavy ball and a light one?, Twice as Wide: how many times as much dough?, The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a1, a2, a5, c1, c2. Get it before The Two-Ball Balance: where is the balance point of a heavy ball and a light one?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Two-Ball Balance: where is the balance point of a heavy ball and a light one?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Two-Ball Balance: where is the balance point of a heavy ball and a light one?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before The Hidden Ball: can a wobble show how heavy a ball you cannot see?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Twice as Wide: how many times as much dough?, The Hidden Ball: can a wobble show how heavy a ball you cannot see?, A Double World: build a pair that balances in empty space. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2, e3, c2. Get it before Twice as Wide: how many times as much dough?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹100 to ₹200. A marble or a round torch cell works. Used in e3. Get it before The Hidden Ball: can a wobble show how heavy a ball you cannot see?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Marble Earth, Peppercorn Moon: how far apart?. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Marble Earth, Peppercorn Moon: how far apart?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a satellite go round? → A planet, or another world that is not a star.
@@ -812,7 +819,7 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 - Core: a1, e1, a2, g1, e2, ws-core
 
 ## Sources
-- Founder's notebook, the universe, Sun, Moon, stars and planets page, and the notebook items on the solar system. They were checked for facts. Every experiment, activity and game in this unit is new.
+- Founder's notebook, the universe, Sun, Moon, stars and planets page, and the notebook items on the solar system. They were checked for facts. Every experiment, activity and game in this lesson is new.
 - DeepKids Combined lesson sci-C5-the-universe-sun-moon-stars-and-planets: read so that nothing repeats. Its orbits, satellites, latitude and time-zone work belongs to other units, and its story is not reused.
 - Curriculum entry sci.sky.solar-system.L5: planets of the solar system and the Earth, planets and satellites, and the scale of the solar system. The board chapter is NIOS Level B Lesson 11, Solar System and Earth.
 - Other units were checked so that nothing repeats. The Walk the Solar System activity, with the Sun as a disc 14 centimetres wide, is in sci.sky.solar-system.L4. The torch test is in sci.sky.solar-system.L3. The Jar and the Flame and Falling Sideways are in sci.sky.exploring-space.L3 and L4. Eclipses and Moon phases are in sci.sky.moon-phases.L3 and L4.

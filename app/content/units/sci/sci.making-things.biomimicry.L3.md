@@ -1,7 +1,7 @@
 # Biomimicry: copying how living things solve their problems
 `sci.making-things.biomimicry.L3`
 
-**Summary.** Velcro was copied from a plant's hooked burrs. What else can people copy from living things? In this unit you will test why water rolls off a leaf, test what makes a dive splash less, and build walls like a termite mound to keep ice cold.
+**Summary.** Velcro was copied from a plant's hooked burrs. What else can people copy from living things? In this lesson you will test why water rolls off a leaf, test what makes a dive splash less, and build walls like a termite mound to keep ice cold.
 
 **Intro.** *Find a shoe or a bag with a Velcro strap. Look closely at its two sides. One side has tiny stiff hooks. The other side has soft loops. A plant was using hooks like these long before anyone made Velcro. Why would a plant need hooks?* A burdock plant cannot walk. If their seeds just dropped to the ground, they would grow right under the parent plant. There they would have to share their parent's light, water and soil. So the burdock's seed heads, called burrs, are covered in stiff spines with tiny hooks at the tips. When a fox, a cow or a dog brushes past, the hooks catch in their fur. The animal carries the burr away, and the seeds fall off in new ground. Over many generations, burdock plants whose hooks gripped better spread further, so strong hooks became common. In 1941, a Swiss engineer called George de Mestral came home from a walk in the mountains with burrs all over his clothes and his dog. He looked at one under a microscope. He saw hundreds of tiny hooks caught in loops of fur and thread. He copied exactly that: one strip of hooks and one strip of loops. That became Velcro.
 
@@ -808,7 +808,7 @@ People tell this story now in many countries. They say that a train copied a kin
 - Silver balls of rain rolling on lotus leaves in a temple tank, or on chembu leaves in a garden.
 - A kingfisher sitting on an electric wire over a pond or canal, then diving.
 - A chhipkali, the house gecko, upside down on the ceiling near the tube light.
-- Termite mounds in fields and forests, especially in south and central India.
+- Termite mounds in fields and forests.
 - A clay water pot (kooja, matka or surahi) keeping water cool in summer.
 - A honeycomb hanging from a tree or under a balcony, with six-sided cells.
 
@@ -864,14 +864,21 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about how things are made and how they work.
 - [National Science Centre](https://www.nscd.gov.in) · place · New Delhi: A science centre with galleries on science and technology. Look for inventions and machines.
 - [The Lotus Temple](https://bahaihouseofworship.in) · place · New Delhi: A building shaped like a lotus flower. Talk about copying a look, and compare it with the lotus leaf's real design.
-- [Keoladeo National Park]() · place · Bharatpur, Rajasthan: A famous wetland for birds. Look for kingfishers diving, and watch how little they splash.
-- [A pond, lake or temple tank near you]() · place · anywhere: Look for lotus leaves after rain, kingfishers on wires, and dragonflies. Sit still and watch, like Eiji Nakatsu.
+- Keoladeo National Park · place · Bharatpur, Rajasthan: A famous wetland for birds. Look for kingfishers diving, and watch how little they splash.
+- A pond, lake or temple tank near you · place · anywhere: Look for lotus leaves after rain, kingfishers on wires, and dragonflies. Sit still and watch, like Eiji Nakatsu.
 
 ## Things to buy
 - [Magnifying glass (hand lens), 5 times or 10 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at burrs, Velcro, leaves and feathers, the way inventors do. Used in a1, a2, e1. 
 - [Plastic droppers (pipettes)](https://www.amazon.in/s?k=plastic+dropper+pipette+kids) (tool): To make drops of the same size, so the leaf and spoon tests are fair. Used in e1, a5. 
 - [Soft paintbrushes with long bristles](https://www.amazon.in/s?k=soft+paint+brush+set+kids) (tool): For the Gecko Toe Prints activity. Soft bristles act like gecko hairs. Used in a3. 
 - [Cling film (food wrap)](https://www.amazon.in/s?k=cling+film+food+wrap) (material): For the How Close Is Close? activity, testing which surfaces it clings to without glue. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Splash Like a Kingfisher, My Nature Invention. About ₹10 to ₹30. Any school ruler is fine. Used in e2, p1. Get it before Splash Like a Kingfisher.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in How Close Is Close? (cling film). About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a4. Get it before How Close Is Close? (cling film).
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Splash Like a Kingfisher. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2. Get it before Splash Like a Kingfisher.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Gecko Toe Prints, My Nature Invention, Make a Fastener Like a Burr. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3, p1, c1. Get it before Gecko Toe Prints.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Hitchhiker Sock Walk, Zoom In Like an Inventor. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, a2. Get it before The Hitchhiker Sock Walk.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Splash Like a Kingfisher. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Splash Like a Kingfisher.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does biomimicry mean? → Learning how a plant or an animal solves a problem in their own life, and copying the idea to solve a human problem.
@@ -894,7 +901,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song
 
 ## Sources
 - DeepKids notebook items bio:297 'Biomimetics & Bionics', bio:298 'Engineering inspired by biology', bio:300 'Bio-inspired materials (gecko tape, lotus effect, spider silk)'
-- The founder's brief for this unit: the kingfisher-nosed bullet train, burrs and Velcro, lotus leaves and self-cleaning surfaces, termite mounds and cooling, gecko feet, and children designing and testing their own nature-inspired things
+- The founder's brief for this lesson: the kingfisher-nosed bullet train, burrs and Velcro, lotus leaves and self-cleaning surfaces, termite mounds and cooling, gecko feet, and children designing and testing their own nature-inspired things
 - DeepKids Combined Class 5 Forces and movement: the 'Nature's shapes' step and voice v1 (Eiji Nakatsu and the kingfisher beak), and its dough-in-water idea, adapted into the splash experiment
 - DeepKids Combined Class 2 Habitats: experiment e2 'The leaf that water can't wet' (colocasia leaf, dust and rolling drops), deepened into experiment e1
 - DeepKids Combined Class 5 Water: the lotus effect step and self-cleaning paint

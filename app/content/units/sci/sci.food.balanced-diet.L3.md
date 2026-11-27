@@ -912,6 +912,11 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Coloured paper clips](https://www.amazon.in/s?k=coloured+paper+clips) (material): For the Paper-Clip Journey model of digestion. Used in a3. 
 - [What Happens to a Hamburger? by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Happens+to+a+Hamburger+Paul+Showers) (book): A clear picture book on digestion for ages 5 to 9. Used in a3. 
 - [Good Enough to Eat: A Kid's Guide to Food and Nutrition by Lizzy Rockwell](https://www.amazon.in/s?k=Good+Enough+to+Eat+Lizzy+Rockwell) (book): A friendly picture book on nutrients and a balanced diet. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Balloon Bellies: what do microbes like to eat?. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before Balloon Bellies: what do microbes like to eat?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Balloon Bellies: what do microbes like to eat?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e3. Get it before Balloon Bellies: what do microbes like to eat?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Food for a Two-Day Trek. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in c2. Get it before Food for a Two-Day Trek.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Balloon Bellies: what do microbes like to eat?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Balloon Bellies: what do microbes like to eat?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one go food, one grow food and one glow food. → For example: rice (go), dal (grow), palak (glow).

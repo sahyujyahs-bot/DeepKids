@@ -1,9 +1,9 @@
 # My family: who lives with us, and how we know each other
 `sci.family.family.L1`
 
-**Summary.** With your eyes shut, can you find your mother or grandmother just by sniffing a shirt she wore? In this unit you will try that in a fair test, pass a smell along a line of hands, and listen to stories of families of many kinds.
+**Summary.** With your eyes shut, can you find your mother or grandmother just by sniffing a shirt she wore? In this lesson you will try that in a fair test, pass a smell along a line of hands, and listen to stories of families of many kinds.
 
-**Intro.** *Close your eyes. Someone in your family hugs you. Can you tell who it is without looking?* You know your family by their faces and their voices. Your nose knows them too. Every person has their own smell. In this unit you find out if you can tell your family apart by smell alone. You also meet many kinds of families, in people and in other animals.
+**Intro.** *Close your eyes. Someone in your family hugs you. Can you tell who it is without looking?* You know your family by their faces and their voices. Your nose knows them too. Every person has their own smell. In this lesson you find out if you can tell your family apart by smell alone. You also meet many kinds of families, in people and in other animals.
 
 ## Learning outcomes
 0. By the end I can say who is in my family and who looks after me.
@@ -532,10 +532,13 @@ Who Is in My Family? (sci.family.L1):
 
 ## Links
 - [Cohabiting family members share microbiota with one another and with their dogs](https://elifesciences.org/articles/00458) · reading: For the parent: the 2013 study that found people in one home share skin microbes, free to read.
-- [Dubare Elephant Camp]() · place · Kodagu, Karnataka: Watch elephants being bathed in the Kaveri river, and ask the keepers about elephant families.
-- [Kaziranga National Park]() · place · Assam: Wild Asian elephant families live here. Calves often walk close beside their mothers.
+- Dubare Elephant Camp · place · Kodagu, Karnataka: Watch elephants being bathed in the Kaveri river, and ask the keepers about elephant families.
+- Kaziranga National Park · place · Assam: Wild Asian elephant families live here. Calves often walk close beside their mothers.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Make My Family Picture Stand Up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Make My Family Picture Stand Up.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Families of Many Kinds: listen and match. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Families of Many Kinds: listen and match.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a family? → People who belong to each other and look after each other.
@@ -551,7 +554,7 @@ Who Is in My Family? (sci.family.L1):
 - Core: a1, e1, e2, a2, ws-core
 
 ## Sources
-- ideas/by_topic/family.md: the notebook lists family handprints, grandparents' games and handmade cards. The Class 3 unit already uses all three, so this unit builds on them in other ways: the memory book (p1) asks family members about the child's babyhood, the way the grandparents' games week asks elders about theirs.
+- ideas/by_topic/family.md: the notebook lists family handprints, grandparents' games and handmade cards. The Class 3 unit already uses all three, so this lesson builds on them in other ways: the memory book (p1) asks family members about the child's babyhood, the way the grandparents' games week asks elders about theirs.
 - Porter, R. H. and Moore, J. D. (1981). Human kin recognition by olfactory cues. Physiology and Behavior 27: 493 to 495. Siblings and mothers identified a child's worn T-shirt by smell alone.
 - Kaitz, M., Good, A., Rokem, A. M. and Eidelman, A. I. (1987). Mothers' recognition of their newborns by olfactory cues. Developmental Psychobiology 20: 587 to 591. About 90% of mothers recognised their newborn's smell after 10 minutes to 1 hour of contact.
 - Song, S. J. and others (2013). Cohabiting family members share microbiota with one another and with their dogs. eLife 2: e00458. 159 people and 36 dogs in 60 households; household members, especially couples, shared more skin microbes.

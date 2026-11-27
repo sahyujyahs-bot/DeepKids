@@ -562,6 +562,8 @@ Squash It, Bend It, Heat It (sci.changes.L2): Topic-level song for Changing mate
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries about materials, metals and engines.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bend Test: does it spring back, stay bent or break?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Bend Test: does it spring back, stay bent or break?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a change that can be undone? → A reversible change.

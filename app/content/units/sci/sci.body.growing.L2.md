@@ -542,6 +542,12 @@ I Grow a Little Every Day (sci.body.L2):
 - [WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards) · interactive: For the parent: the growth charts that anganwadis and doctors in India use, made from the study of healthy babies in six countries.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Arms Out: is your arm span the same as your height?, My Growing Chart: measure three times, a month apart, Measure the Wriggler: a fair way to measure someone lying down. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, p1, c1. Get it before Arms Out: is your arm span the same as your height?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Bedtime Tall, Morning Tall: are you taller when you wake up?, Arms Out: is your arm span the same as your height?, Feet in a Row: is the oldest foot the biggest?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a2, p1, c1. Get it before Bedtime Tall, Morning Tall: are you taller when you wake up?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Bedtime Tall, Morning Tall: are you taller when you wake up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Bedtime Tall, Morning Tall: are you taller when you wake up?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in My Growing Chart: measure three times, a month apart. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before My Growing Chart: measure three times, a month apart.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in As Heavy as a Newborn: the atta packet baby. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a3. Get it before As Heavy as a Newborn: the atta packet baby.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how long is a newborn baby? → About 50 centimetres.

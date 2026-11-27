@@ -1,9 +1,9 @@
 # Organs inside you: where they sit and what they do
 `sci.body.organs-inside.L3`
 
-**Summary.** Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this unit you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.
+**Summary.** Where do your heart, lungs, stomach and brain sit, and what keeps them safe? In this lesson you will feel your insides, make a life-size organ map, see how liquid protects a brain with an egg in a jar, and squeeze a bag to see whether churning breaks down food.
 
-**Intro.** *Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?* Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this unit you find out where each organ sits, what it does and how the organs help each other.
+**Intro.** *Put your hand flat on your chest and keep very still. You can feel a beat under your hand. It started before you were born, and it goes on while you sleep. What is beating, and where exactly is it?* Your heart, lungs, stomach and brain are hidden under your skin and bones. You cannot see them, but you can feel what they do. You can feel a beat in your chest, air filling you up and a full feeling after dinner. In this lesson you find out where each organ sits, what it does and how the organs help each other.
 
 ## Learning outcomes
 0. I can say what an organ is: a body part with a special job, made of many living cells.
@@ -41,7 +41,7 @@
 ### What an organ is · *defined*
 **Definition:** An organ is a body part with a special job. It is made of different tissues, and each tissue is made of many cells of one kind.
 
-Think of a house. Bricks are like cells. A wall of bricks is like a tissue. A whole room, built from walls, a floor and a door, is like an organ. A kitchen is a room with a special job. Your stomach is an organ with a special job. Your body has many organs. This unit looks at four big ones inside you: the heart, the lungs, the stomach and the brain. Your skin is an organ too, and it is the biggest one you have.
+Think of a house. Bricks are like cells. A wall of bricks is like a tissue. A whole room, built from walls, a floor and a door, is like an organ. A kitchen is a room with a special job. Your stomach is an organ with a special job. Your body has many organs. This lesson looks at four big ones inside you: the heart, the lungs, the stomach and the brain. Your skin is an organ too, and it is the biggest one you have.
 - e.g. The heart is an organ. Its job is pumping blood.
 - e.g. The eye is an organ. Its job is seeing.
 - e.g. The skin is an organ. Its job is to cover and protect you.
@@ -181,7 +181,7 @@ We have been learning where the heart, lungs, stomach and brain are, and what th
 
 Long ago, all living things were single cells that did every job alone. Over a very long time, some cells began to live together as one body and share out the work. Some became heart cells that squeeze, some became lung cells that swap gases, and some became nerve cells that carry messages. The jobs one cell once did alone are now shared among many organs. Those many organs still keep one body alive together.
 
-- **Chandogya Upanishad 5.1:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on. (In this unit, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.)
+- **Chandogya Upanishad 5.1:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” The senses and breath once argued about which of them was the greatest. Speech, sight, hearing and mind each left the body in turn, and the body carried on. When breath, prana, began to leave, all the others were pulled up with it. They agreed breath was the one they all depended on. (In this lesson, the brain is badly hurt within minutes if the heart's blood stops, and every organ needs the oxygen your lungs bring in. The old story also puts breath at the centre of the body.)
 - **Saint Paul, First Letter to the Corinthians 12:12–26:** The body is one, though it has many parts. The eye cannot say to the hand, 'I don't need you.' If one part suffers, every part suffers with it. (Scientists see the same thing. When the heart stops, the brain is hurt within minutes. When the lungs struggle, every organ struggles.)
 - **Tao Te Ching 76:** “人之生也柔弱，其死也堅強。 / 萬物草木之生也柔脆，其死也枯槁。 / 故堅強者死之徒，柔弱者生之徒。” A newborn baby is soft and bendy, and a dead body is hard and stiff. Green plants bend, and dry dead ones snap. So the hard and stiff go with death, and the soft and bending go with life. (Your brain is one of the softest parts of you. In the egg in the jar test, the soft water around the egg protected it better than the hard jar alone.)
 - Science (settled): All animals with backbones share an ancient ancestor. That is why a fish and a child have a brain in a skull, a heart in front and a gut below, and why lungs and swim bladders began as one thing.
@@ -913,6 +913,10 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Kitchen scale that shows grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For the kitchen organ weigh-in. Used in a3. 
 - [Simple real stethoscope (toy ones are usually too weak to hear a heartbeat)](https://www.amazon.in/s?k=stethoscope+for+kids) (tool): To listen to the heart and lungs while learning where they are. A rolled-up paper tube held to the chest also works. Used in a1. 
 - [The Magic School Bus Inside the Human Body, by Joanna Cole and Bruce Degen](https://www.amazon.in/s?k=magic+school+bus+inside+the+human+body) (book): A picture-book trip through the stomach, blood, heart and brain. Used in p1. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Pack the Chest. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before Pack the Chest.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Helmet for an Egg Brain. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Helmet for an Egg Brain.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Egg in the Jar: how liquid protects the brain. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before The Egg in the Jar: how liquid protects the brain.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where is your stomach: behind your belly button, or under your ribs on the left? → Under the ribs on the left.

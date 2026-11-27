@@ -1,9 +1,9 @@
 # Signs of life: why still plants and seeds are alive
 `sci.what-is-life.signs-of-life.L2`
 
-**Summary.** A bowl of moong sprouts sits still on the shelf, but are they alive? In this unit you will shut sprouts in a dabba with chuna water to see whether they breathe, then sort tricky cases like curd, a phone and a cloud into alive or not.
+**Summary.** A bowl of moong sprouts sits still on the shelf, but are they alive? In this lesson you will shut sprouts in a dabba with chuna water to see whether they breathe, then sort tricky cases like curd, a phone and a cloud into alive or not.
 
-**Intro.** *Put a bowl of moong sprouts next to a toy car. Push the car, and the car zooms across the floor. The sprouts just lie there. Which one is breathing?* The car moves, but a car never breathes. The sprouts do not seem to do anything at all. Yet sprouts are alive, and every living being breathes. You cannot see breath, so we need a way to catch it. Chuna water is clear water that turns milky when breathed-out air reaches it. In this unit we use it to find out if still sprouts really breathe.
+**Intro.** *Put a bowl of moong sprouts next to a toy car. Push the car, and the car zooms across the floor. The sprouts just lie there. Which one is breathing?* The car moves, but a car never breathes. The sprouts do not seem to do anything at all. Yet sprouts are alive, and every living being breathes. You cannot see breath, so we need a way to catch it. Chuna water is clear water that turns milky when breathed-out air reaches it. In this lesson we use it to find out if still sprouts really breathe.
 
 ## Learning outcomes
 0. By the end I can name the seven signs of life in simple words: eat, breathe, grow, move, sense, get rid of waste and have young.
@@ -564,10 +564,10 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 
 ## Spotted around us
 - An onion or a potato in the kitchen basket growing a green or pale shoot.
-- Rain tree leaves folded up on an evening walk along a road in Bengaluru, Chennai or Kolkata.
+- Rain tree leaves folded up on an evening walk along a road.
 - A katori of milk with a spoon of curd, left covered overnight to set.
 - A money plant on a window grill, with every leaf turned towards the light outside.
-- A coconut lying in a backyard in Kerala or Goa, with a green shoot growing out of the husk.
+- A coconut lying in a backyard, with a green shoot growing out of the husk.
 
 ## Open questions
 - **Do plants feel anything, the way we feel?** Plants clearly sense light, touch, water and even sound, and they change what they do. Many scientists say plants feel and decide in their own way. Others say plants only react automatically, because feeling needs a brain. We see brains as one kind of hardware for feeling and deciding. The argument is not settled.
@@ -604,11 +604,13 @@ Seven Signs (sci.what-is-life.L2): Topic-level song for What is life? L2
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant, an ant or a mushroom from your flat and find out who they are.
 - [Kamala Sohonie, on Wikipedia](https://en.wikipedia.org/wiki/Kamala_Sohonie) · interactive: For the parent: the life of the scientist in the story, who studied how potato cells breathe.
 - [Jan Ingenhousz's book on plants and air (1779), scanned](https://www.biodiversitylibrary.org/search?searchTerm=Ingenhousz+Experiments+upon+vegetables) · interactive: For the parent and an older child: the real book that showed plants make the air stale in the dark, as breathing animals do.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old rain trees, a glass house and many plants to watch for signs of life.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: Home of the Great Banyan, one tree that has spread into what looks like a whole forest.
+- Lalbagh Botanical Garden · place · Bengaluru: Old rain trees, a glass house and many plants to watch for signs of life.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: Home of the Great Banyan, one tree that has spread into what looks like a whole forest.
 
 ## Things to buy
 - [A small packet of plain white chuna (slaked lime paste)]() (material): Chuna makes the chuna water that shows carbon dioxide. Many paan shops and grocery shops sell a small packet for a few rupees. Choose plain white chuna, not a coloured or flavoured one. Used in e1, e2. Keep it closed, high up and away from young children.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Do Still Sprouts Breathe? The chuna water test, Cold Sprouts: do sprouts breathe more slowly in the fridge?, Sure or Not Sure? Sorting tricky cases. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, c1. Get it before Do Still Sprouts Breathe? The chuna water test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the seven signs of life. → Eat, breathe, grow, move, sense, get rid of waste and have young.

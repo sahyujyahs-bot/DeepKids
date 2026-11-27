@@ -473,7 +473,9 @@
     "source": "Tao Te Ching 42",
     "teaching": "Laozi says that the Tao gives birth to One, and One gives birth to Two. Two gives birth to Three, and Three gives birth to all things.",
     "link": "In fertilisation, two cells from two parents join and make a third being, a new plant. All the cells of a banyan tree come from that one cell. Laozi was writing about the whole world, long before anyone saw a pollen tube. The verse and the science share a pattern, and the science does not prove the verse.",
-    "verse": ["道生一，一生二，二生三，三生萬物。"],
+    "verse": [
+     "道生一，一生二，二生三，三生萬物。"
+    ],
     "verse_lang": "zh"
    },
    {
@@ -3444,6 +3446,48 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Hidden Journey: draw how a pollen grain reaches an ovule, The Pollen Catcher: build a stigma that catches more of the pollen rain. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a3",
+    "c1"
+   ],
+   "plan": "Get it before The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Empty Places Test: does every ovule in a pod become a seed?, The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Bag Test: does this plant need a visitor to make fruit? (if you have a plant in flower). Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Empty Places Test: does every ovule in a pod become a seed?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

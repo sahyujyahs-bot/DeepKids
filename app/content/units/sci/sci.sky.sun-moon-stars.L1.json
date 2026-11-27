@@ -1876,7 +1876,22 @@
    "why": "Sky shows about the Sun, the Moon and the stars, and a science exhibition."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-print-sky",
+   "item": "Printed pages for the sky cards, caller cards and worksheets, about 15 pages",
+   "kind": "material",
+   "why": "Both games use printed cards, and the worksheets are printed as well. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print these before the first game."
+  }
+ ],
  "warmup": [
   {
    "q": "What two things does the Sun give us?",

@@ -2756,7 +2756,69 @@
    "why": "Ask politely if your child can watch paneer being made, and ask what the shop does with the whey."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Splitting Milk: which kitchen liquids curdle it?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Splitting Milk: which kitchen liquids curdle it?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Ten-Spoon Foods: guess what a food is made of, Chana Sundal: cook a snack and find its nutrients. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1",
+    "a4"
+   ],
+   "plan": "Get it before Ten-Spoon Foods: guess what a food is made of."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Sun-Dried Slices: how much of a vegetable is water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Sun-Dried Slices: how much of a vegetable is water?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Splitting Milk: which kitchen liquids curdle it?, My Water Diary: three days of water in and out. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before Splitting Milk: which kitchen liquids curdle it?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the six kinds of nutrient.",

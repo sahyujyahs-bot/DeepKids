@@ -1,9 +1,9 @@
 # Exploring space: why a satellite never lands, and what it costs to put one up
 `sci.sky.exploring-space.L4`
 
-**Summary.** A rocket climbs only about 400 kilometres to reach the space station, yet it is as tall as a ten-storey building. Why? In this unit you will roll marbles off a table to see falling and missing, load a balloon rocket, and draw satellite orbits on the floor.
+**Summary.** A rocket climbs only about 400 kilometres to reach the space station, yet it is as tall as a ten-storey building. Why? In this lesson you will roll marbles off a table to see falling and missing, load a balloon rocket, and draw satellite orbits on the floor.
 
-**Intro.** *Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now think of a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?* It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this unit you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.
+**Intro.** *Throw a ball as hard as you can. It curves down and lands. Throw it harder and it lands farther away. Now think of a throw so fast that the ground curves away as quickly as the ball falls. Where does the ball land?* It never lands. That ball would circle the Earth, falling all the time and always missing. This is exactly what the space station does. In this lesson you roll marbles off a table and watch speed decide where they land. You load a balloon rocket with paper clips and find out why rockets must carry fuel to lift their own fuel. You build a telescope from two lenses. You draw the orbits of satellites to scale on the floor. And you follow the 40-day journey of India's Chandrayaan-3, which went round the Earth again and again before it ever reached the Moon.
 
 ## Learning outcomes
 0. I can explain that a satellite is always falling, and stays up because it moves sideways fast enough to keep missing the ground.
@@ -792,7 +792,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - A Diwali rocket firework shooting up, with sparks streaming out of its tail.
 - A ship vanishing hull first beyond the horizon, as seen from a beach or from a harbour wall.
 - A bright steady dot gliding across the sky soon after sunset: the space station or a satellite.
-- The weather map on the TV news, with a swirl of cloud from a satellite over the Bay of Bengal.
+- The weather map on the TV news, with a swirl of cloud from a satellite over the sea.
 - A water bottle rocket or a balloon let go in the park, flying off the other way from its escaping air.
 - A curved satellite dish or a steel bowl that gathers sound, so that a whisper at the middle is clear.
 - The Moon in the daytime or at dusk, which is also falling around the Earth as you watch it.
@@ -860,6 +860,16 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [A pair of cheap reading glasses, plus 2.0 to plus 2.5](https://www.amazon.in/s?k=reading+glasses+plus+2.0) (tool): For the weak front lens of the two-lens telescope. A medical store, an optician or a roadside stall sells them for about Rs 50 to 150, and a grandparent may have an old pair. Check that the number has a plus sign, because minus lenses are for short sight and will not work. Used in e3. 
 - [A pocket magnifier, 5 to 10 times](https://www.amazon.in/s?k=pocket+magnifier+10x) (tool): For the eyepiece of the two-lens telescope. A stationery shop or a watch repairer often has one for about Rs 30 to 80. Ask for the strongest one (10x is best, 5x works). Used in e3. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the clay nose of the straw rocket and for holding the lenses on the stick. A small pack is enough. Used in p1, e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Falling Sideways: does a faster marble take longer to land?, The Loaded Balloon Rocket: how much does extra weight slow a rocket?, A Telescope from Two Lenses: how much bigger does it make faraway things?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, e2, e3, a1, p1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Falling Sideways: does a faster marble take longer to land?, A Telescope from Two Lenses: how much bigger does it make faraway things?, Orbit Map: draw the satellites to scale on the floor. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a1, a3, a4, c1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in A Telescope from Two Lenses: how much bigger does it make faraway things?. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e3. Get it before A Telescope from Two Lenses: how much bigger does it make faraway things?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Falling Sideways: does a faster marble take longer to land?, Orbit Map: draw the satellites to scale on the floor. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, a1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Sound Needs Something: a tin-can telephone. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Sound Needs Something: a tin-can telephone.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Sound Needs Something: a tin-can telephone. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2. Get it before Sound Needs Something: a tin-can telephone.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Soft Landing: land five coins from one metre without a bounce. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Soft Landing: land five coins from one metre without a bounce.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Soft Landing: land five coins from one metre without a bounce. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Soft Landing: land five coins from one metre without a bounce.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Falling Sideways: does a faster marble take longer to land?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before Falling Sideways: does a faster marble take longer to land?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What keeps a satellite from falling to the ground? → It falls all the time, but moves sideways so fast that it keeps missing.
@@ -880,7 +890,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Cards for Katherine Johnson (orbit calculations for America's first crewed flights), Galileo (the telescope and falling things) and Jocelyn Bell Burnell (radio astronomy), used in the explanations and the credit to women
-- Curriculum entry for exploring space and the Class 3 unit sci.sky.exploring-space.L3, which this unit goes a step deeper than: the L3 jar test, half-lens test, lime Earth and Thumba story are not repeated here
+- Curriculum entry for exploring space and the Class 3 unit sci.sky.exploring-space.L3, which this lesson goes a step deeper than: the L3 jar test, half-lens test, lime Earth and Thumba story are not repeated here
 - Checked against the nearby units so nothing repeats: the balloon rocket is used here for its weight and distance (the push-and-pull unit used it for action and reaction), and falling with sideways speed is new to this subtopic
 - Isaac Newton, Philosophiae Naturalis Principia Mathematica, 1687, and A Treatise of the System of the World (the Moon's fall compared with an apple's, and the cannon fired faster and faster from a high mountain)
 - NASA, International Space Station facts and figures: altitude about 400 kilometres, speed about 7.7 kilometres a second, a lap in about 90 minutes

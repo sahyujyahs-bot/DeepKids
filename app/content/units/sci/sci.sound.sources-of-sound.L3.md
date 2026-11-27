@@ -1,9 +1,9 @@
 # Sources of sound: every sound starts with a vibration
 `sci.sound.sources-of-sound.L3`
 
-**Summary.** What is moving when a tabla, a veena string or your own throat makes a sound? In this unit you will hunt for vibrations around the house, twang a ruler to see what changes the sound, and make a rubber-band veena.
+**Summary.** What is moving when a tabla, a veena string or your own throat makes a sound? In this lesson you will hunt for vibrations around the house, twang a ruler to see what changes the sound, and make a rubber-band veena.
 
-**Intro.** *Put your fingers gently on the front of your throat. Now hum a long 'mmmm'. What do your fingers feel? Now stop humming. What happens to the feeling, and to the sound?* Every sound you have ever heard started with something vibrating: a temple bell, a pressure cooker whistle, a crow, your own voice. Usually the vibration is too fast and too small to see. In this unit you will catch it with your fingers, with rice, with a ruler and with a foil ball. Then you will find out how it travels through the air to your ear, and why it cannot cross empty space.
+**Intro.** *Put your fingers gently on the front of your throat. Now hum a long 'mmmm'. What do your fingers feel? Now stop humming. What happens to the feeling, and to the sound?* Every sound you have ever heard started with something vibrating: a temple bell, a pressure cooker whistle, a crow, your own voice. Usually the vibration is too fast and too small to see. In this lesson you will catch it with your fingers, with rice, with a ruler and with a foil ball. Then you will find out how it travels through the air to your ear, and why it cannot cross empty space.
 
 ## Learning outcomes
 0. I can say that every sound is made by something vibrating, which means moving quickly back and forth.
@@ -96,7 +96,7 @@ The Saraswati veena is carved from jackfruit wood. It has 24 frets, 4 strings fo
 ### Your voice: a sound source inside you · *defined*
 **Definition:** Your voice is made when air from your lungs makes your vocal folds vibrate. Your mouth, tongue and lips then shape the sound into words.
 
-Deep in your throat are two soft flaps called vocal folds. When you breathe quietly, they stay open. When you speak, they close, and air from your lungs pushes them apart again and again, very fast. This vibration makes a buzz. Your throat, mouth and nose shape the buzz, the way a veena's body shapes its string's sound. Your tongue and lips turn it into 'ka', 'ma' and 'sa'. When you whisper, your vocal folds do not vibrate. The sound comes from air swirling as it rushes past your tongue, teeth and lips. How the sound gets into your ear is in the unit Our senses.
+Deep in your throat are two soft flaps called vocal folds. When you breathe quietly, they stay open. When you speak, they close, and air from your lungs pushes them apart again and again, very fast. This vibration makes a buzz. Your throat, mouth and nose shape the buzz, the way a veena's body shapes its string's sound. Your tongue and lips turn it into 'ka', 'ma' and 'sa'. When you whisper, your vocal folds do not vibrate. The sound comes from air swirling as it rushes past your tongue, teeth and lips. How the sound gets into your ear is in the lesson Our senses.
 - e.g. Hum, then whisper, with your fingers on your throat. The buzz is there for the hum, not the whisper.
 - e.g. Hum 'mmm' with your lips closed, then pinch your nose. The hum soon stops, because the air was coming out through your nose.
 ### Animals make sound for their own needs, not for us · *defined*
@@ -176,9 +176,9 @@ We have been learning that every sound starts with a vibration, and that the air
 
 One tap on a tabla starts one vibration. The air passes it on through billions of molecules, and it reaches every ear in the room: yours, your mother's and the cat's. Each ear receives the same movement, yet no molecule travelled from the drum to anyone. The world is joined in this way. Something that happens in one place is passed on, and everything around it shares in it.
 
-- **Mandukya Upanishad, verse 1:** “ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव / यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव” The syllable Om is all this. What was, what is and what will be are all Om. And what is beyond time is Om too. (Many families chant Om and feel it buzz in the chest. In this unit you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side.)
+- **Mandukya Upanishad, verse 1:** “ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव / यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव” The syllable Om is all this. What was, what is and what will be are all Om. And what is beyond time is Om too. (Many families chant Om and feel it buzz in the chest. In this lesson you found that the buzz is your vocal folds vibrating. What Om means is a question for the teaching, not for the science, and the two can sit side by side.)
 - **Rumi, Masnavi, Book 1, the opening lines (the Song of the Reed):** Listen to the reed flute, how it tells its story. It cries because it was cut from the reed bed, and it longs to go back. (Rumi's reed flute, the ney, is a hollow cane. Like a bansuri, it sounds only when breath makes the air inside it vibrate. Rumi uses that sound to speak of longing for the place we came from.)
-- **Surangama Sutra, chapter 6, Avalokiteshvara's account of his practice:** He listened to sounds, then turned his listening around, to notice the awareness that hears. Sounds came and went, but the hearing stayed. (Every sound in this unit starts, travels and fades. The Sutra asks you to notice the hearing itself, which is there before, during and after each sound.)
+- **Surangama Sutra, chapter 6, Avalokiteshvara's account of his practice:** He listened to sounds, then turned his listening around, to notice the awareness that hears. Sounds came and went, but the hearing stayed. (Every sound in this lesson starts, travels and fades. The Sutra asks you to notice the hearing itself, which is there before, during and after each sound.)
 - Science (settled): In a sound wave in air, each molecule moves back and forth far less than the width of a hair, while the wave itself travels about 343 metres every second.
 - Science (settled): When the universe was young, sound waves rang through its hot, thick gas. Their pattern can still be seen in the faint glow left over from that time, and in how galaxies are spread across the sky.
 - Other view, The Charvaka thinkers of ancient India, and many physicists today: A sound is nothing more than molecules pushing on each other. Om is a beautiful sound that people make, but the universe is not chanting it. Calling vibration sacred adds nothing to what we know. Many careful people hold this view.
@@ -844,7 +844,7 @@ Everything Hums (sci.sound.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: 
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: 
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: 
-- [A music class, a temple or a drum maker's shop near you]() · place · anywhere: 
+- A music class, a temple or a drum maker's shop near you · place · anywhere: 
 
 ## Things to buy
 - [30 cm ruler, plastic or steel](https://www.amazon.in/s?k=30+cm+steel+ruler) (tool):  Used in e1. 
@@ -852,6 +852,11 @@ Everything Hums (sci.sound.L3): Topic-level song
 - [Rubber bands of different thicknesses](https://www.amazon.in/s?k=rubber+bands+assorted+sizes) (material):  Used in a4, c1, p1. 
 - [Sounds All Around, by Wendy Pfeffer (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Sounds+All+Around+Wendy+Pfeffer) (book):  Used in a1. 
 - [Good Vibrations, by Evelyn Glennie](https://www.amazon.in/s?k=Good+Vibrations+Evelyn+Glennie) (book):  Used in c2. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Kitchen Orchestra and the Jal Tarang. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Kitchen Orchestra and the Jal Tarang.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in One Band, Biggest Sound. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before One Band, Biggest Sound.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in My Instrument Concert. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before My Instrument Concert.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Kitchen Orchestra and the Jal Tarang. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in a3. Get it before Kitchen Orchestra and the Jal Tarang.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Every sound starts with something ____. → Vibrating, which means moving quickly back and forth.
@@ -873,7 +878,7 @@ Everything Hums (sci.sound.L3): Topic-level song
 ## Sources
 - Founder's notebook, Sound topic (ideas/by_topic/sound.md), 'Sources of sound' and 'Sound & Vibration' rows: rubber-band box guitar, straw reed whistle, rice on a drum, tapping kitchen utensils, water glasses, a sound scavenger hunt, and 'everything has a voice; vibration is the hidden language of matter'. Used in the Vibration Hunt, Atta Trick, Rubber-band Veena, Straw Shehnai, Kitchen Orchestra and the Roots card.
 - Founder's sheets, String Theory row: the Sound and Pose game, and Om chanting to feel vibration in the body. Singularity row: 'Silence Singularity', making many sounds then stopping to notice silence. Used in the game g2 and the Roots practice.
-- Founder's sheets, Energy row: a balloon held to a phone speaker. Already in the unit Our senses (sci.senses.five-senses.L3), so linked, not repeated.
+- Founder's sheets, Energy row: a balloon held to a phone speaker. Already in the lesson Our senses (sci.senses.five-senses.L3), so linked, not repeated.
 - Founder's notebook, 'How sound travels' row ('emptiness is silent'; vacuum jar or video) and 'Ultrasound seed: bats and dolphins see with sound'. Used for space, the Royal Institution video and the animals card.
 - Founder's SCI Cards: C.V. Raman (an accountant doing physics in his spare time at the Indian Association for the Cultivation of Science).
 - DeepKids Combined lessons sci-C1-sound and sci-C5-sound: dancing rice, Boyle, Hooke and Kircher on the vacuum, Katy Payne and elephant infrasound, Raman and the syahi, the tabla maker and Evelyn Glennie perspectives, plant clicks, the tree-in-the-forest puzzle, and the space-explosion challenge. Reworked for Class 3 sources of sound. Their stories were not reused.

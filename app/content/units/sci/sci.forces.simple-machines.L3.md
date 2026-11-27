@@ -1,9 +1,9 @@
 # Simple machines: how a small push moves a big load
 `sci.forces.simple-machines.L3`
 
-**Summary.** A light child can lift a heavy grown-up on a see-saw just by sitting further from the middle. How? In this unit you will balance a ruler see-saw with coins, test long and steep ramps, build a well winch from a small box, and hunt for levers at home.
+**Summary.** A light child can lift a heavy grown-up on a see-saw just by sitting further from the middle. How? In this lesson you will balance a ruler see-saw with coins, test long and steep ramps, build a well winch from a small box, and hunt for levers at home.
 
-**Intro.** *Can you lift a grown-up off the ground, using only a plank? Most children think they are far too light. On a see-saw, a light child can do it, if the child sits in the right place. Where is that place, and why does it work?* About 2,200 years ago, a Greek thinker called Archimedes worked out the rule of the lever. A lever is a long, stiff bar that turns on one point. A later writer, Pappus, says Archimedes boasted: 'Give me a place to stand, and I will move the Earth.' Was he showing off? Or was he right? By the end of this unit, you can decide.
+**Intro.** *Can you lift a grown-up off the ground, using only a plank? Most children think they are far too light. On a see-saw, a light child can do it, if the child sits in the right place. Where is that place, and why does it work?* About 2,200 years ago, a Greek thinker called Archimedes worked out the rule of the lever. A lever is a long, stiff bar that turns on one point. A later writer, Pappus, says Archimedes boasted: 'Give me a place to stand, and I will move the Earth.' Was he showing off? Or was he right? By the end of this lesson, you can decide.
 
 ## Learning outcomes
 0. I can say what a simple machine is, and name the six kinds: lever, inclined plane, wheel and axle, pulley, wedge and screw.
@@ -63,7 +63,7 @@ On a see-saw, the heavier person does not always go down. Distance matters too. 
 ### No free gifts: a smaller push goes a longer way · *defined*
 **Definition:** A machine can make a push smaller, but then the push must travel a longer distance. Push times distance stays the same, or a little more because of friction.
 
-This is the most important idea in this unit. Machines never give you something for nothing. When a spoon lifts a tin lid, your hand moves far, and the lid moves only a little. When you walk up a long ramp, you push less, but you walk further. Scientists call push times distance 'work'. A machine cannot make the work smaller. It only spreads it out into a smaller push over a longer way. This is because energy is never made from nothing. Friction, the grip between touching things, always takes a little extra. So a real machine always needs a little more work than the ideal one.
+This is the most important idea in this lesson. Machines never give you something for nothing. When a spoon lifts a tin lid, your hand moves far, and the lid moves only a little. When you walk up a long ramp, you push less, but you walk further. Scientists call push times distance 'work'. A machine cannot make the work smaller. It only spreads it out into a smaller push over a longer way. This is because energy is never made from nothing. Friction, the grip between touching things, always takes a little extra. So a real machine always needs a little more work than the ideal one.
 - e.g. A long ramp needs a small push, but you walk a long way. Lifting straight up needs a big push, but only for a short distance.
 - e.g. A see-saw: the child at the far end moves down a long way. The grown-up near the middle rises only a little.
 - e.g. A hand pump: your hand moves a long way down, and the rod inside moves a short way up, with a bigger force.
@@ -841,7 +841,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - The sarota, a supari cutter, and kitchen tongs (chimta or idukki).
 - The ramp beside the steps at a railway station or a hospital.
 - Zigzag ghat roads climbing to hill stations.
-- A dhenki, the foot-worked rice pounder, in villages of Assam, Bengal and Odisha.
+- A dhenki, the foot-worked rice pounder, in a village.
 - A well with a pulley wheel or a winch handle.
 - The see-saw in your park.
 - A rolling pin on a chakla, and wheels on carts, cycles and autorickshaws.
@@ -899,8 +899,8 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [National Science Centre](https://www.nscd.gov.in) · place · New Delhi: A science centre with hands-on galleries. Look for exhibits on machines and how things work.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with a science park of hands-on exhibits, many of them about forces and machines.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about machines and engines.
-- [Brihadeeswarar Temple]() · place · Thanjavur: A temple about 1,000 years old, with a tower about 66 metres tall. Ask how its builders might have raised its huge stones without engines.
-- [A park see-saw, a village hand pump and a vegetable market]() · place · anywhere: Levers are everywhere nearby. At the market, watch how the tarazu balances.
+- Brihadeeswarar Temple · place · Thanjavur: A temple about 1,000 years old, with a tower about 66 metres tall. Ask how its builders might have raised its huge stones without engines.
+- A park see-saw, a village hand pump and a vegetable market · place · anywhere: Levers are everywhere nearby. At the market, watch how the tarazu balances.
 
 ## Things to buy
 - [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): The beam of the ruler see-saw, and for measuring stretches and ramps. Used in e1, e2, g1. 
@@ -910,6 +910,11 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Simple Machines: Wheels, Levers, and Pulleys, by David A. Adler, illustrated by Anna Raff](https://www.amazon.in/s?k=Simple+Machines+Wheels+Levers+Pulleys+David+Adler) (book): A clear picture book about simple machines, for ages 5 to 9. Good to read before playing Machine Spotter. Used in g2. 
 - [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, beautifully drawn book on how machines work, from levers to computers. For parents and curious older children. Its pages on levers and ramps are a good place to start. Used in c1. 
 - [Spring balance, also called a forcemeter (0 to 10 newtons)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): Measures pulls in newtons, instead of rubber band stretch, in the ramp test and the rice bag challenge. Used in e2, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in A Ramp for Everyone. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c2. Get it before A Ramp for Everyone.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Ramp Test: long and gentle, or short and steep?, The Well Winch: a wheel and axle on a small box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, e3. Get it before The Ramp Test: long and gentle, or short and steep?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Build a Shaduf: the 4,000-year-old water lifter. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Build a Shaduf: the 4,000-year-old water lifter.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Ramp Test: long and gentle, or short and steep?, A Ramp for Everyone. About ₹100 to ₹200. A marble or a round torch cell works. Used in e2, c2. Get it before The Ramp Test: long and gentle, or short and steep?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - The point a lever turns on is called the ____. → Fulcrum. It is also called the pivot.

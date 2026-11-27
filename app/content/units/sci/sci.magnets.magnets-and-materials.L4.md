@@ -1,7 +1,7 @@
 # Magnets and magnetic materials: the magnet pulls the nail, but does the nail pull back?
 `sci.magnets.magnets-and-materials.L4`
 
-**Summary.** A magnet pulls a nail, so does the nail pull the magnet back? In this unit you will float a magnet on a small raft to find out, see why two nails hanging from one magnet spread into a V, and test which steels keep their magnetism.
+**Summary.** A magnet pulls a nail, so does the nail pull the magnet back? In this lesson you will float a magnet on a small raft to find out, see why two nails hanging from one magnet spread into a V, and test which steels keep their magnetism.
 
 **Intro.** *A magnet can pick up a nail. Everyone says the magnet is pulling the nail. But what if the nail is pulling the magnet too? Put the magnet on a little boat on water and bring a nail close. What do you think the boat will do?* In Class 3 you found out that a magnet attracts iron, and that every iron atom is a tiny magnet. Now we go one step deeper. How does a plain nail, which is not a magnet, get pulled at all? Why do two nails hanging from one magnet spread apart? Why does a needle stay magnetic when a nail does not? And how can a fridge magnet grip your almirah on one side only? You find out by testing it yourself.
 
@@ -936,14 +936,18 @@ Tiny Magnets, All in Line (sci.magnets.L4): Topic-level song
 - [Newton's laws of motion (Wikipedia)](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) · interactive: For the parent: a clear article that includes the third law, with plain examples.
 - [Barkhausen effect (Wikipedia)](https://en.wikipedia.org/wiki/Barkhausen_effect) · interactive: For the parent: how the clicks of domains flipping are heard, and how engineers use them.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum. Search for magnets.
-- [Channapatna, the toy town]() · place · Channapatna, Ramanagara district, Karnataka: A town known for lacquered wooden toys. Watch the lathe, and look at how the toys are made. Ask the shop before you visit.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A large science museum with galleries on electricity and magnets.
+- Channapatna, the toy town · place · Channapatna, Ramanagara district, Karnataka: A town known for lacquered wooden toys. Watch the lathe, and look at how the toys are made. Ask the shop before you visit.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A large science museum with galleries on electricity and magnets.
 
 ## Things to buy
 - [A set of school magnets: ceramic discs and bar magnets, and one small neodymium magnet](https://www.amazon.in/s?k=magnet+set+for+school+science) (tool): Bendy fridge magnets are often too weak for these tests. A ceramic disc or a neodymium magnet moves a raft and holds nails easily. Keep neodymium magnets away from children under five. Used in e1, e2, e3, a1, a2, a4, a5, p1, c1. 
 - [A small pack of assorted steel nails, with some long and some short](https://www.amazon.in/s?k=assorted+steel+nails+small+pack) (material): For the Rafts, Hanging V and Soft or Hard tests. A hardware shop will sell a handful for a few rupees. Used in e1, e2, e3, a1, a4, p1. 
 - [A small digital kitchen scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): To weigh the rice in Magnet Against the Earth, and to balance the rafts and cars. It is optional. Counting spoonfuls gives a rough result. Used in a4, c1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): To balance the weights of the rafts and the toy cars. A pinch of atta dough works too. Used in e1, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Rafts on the Water: does the nail pull the magnet too?, The Hanging V: why do two nails spread apart?, Hidden Magnets at Home: where are they, and how do you know?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a5, a6, p1, c2. Get it before Rafts on the Water: does the nail pull the magnet too?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Magnetic Toy Train, then make it meet softly, The Gentle Gate: a door catch that shuts itself and opens with one finger. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c2. Get it before Build a Magnetic Toy Train, then make it meet softly.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Build a Magnetic Toy Train, then make it meet softly. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Build a Magnetic Toy Train, then make it meet softly.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A magnet pulls a nail. What does the nail do to the magnet? → It pulls the magnet with an equal force.
@@ -964,7 +968,7 @@ Tiny Magnets, All in Line (sci.magnets.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/magnets.md: test household metals, compare magnet strength, make a needle compass, draw field lines. Used here to go a step further: who pulls whom, and how a magnet is kept
-- The Class 3 unit on magnets and magnetic materials, which this unit builds on and does not repeat: its needle compass, paper clip chain, black sand and iron fish story are not used again
+- The Class 3 unit on magnets and magnetic materials, which this lesson builds on and does not repeat: its needle compass, paper clip chain, black sand and iron fish story are not used again
 - The Class 4 unit on poles, whose field walk and distance tests are not repeated here
 - Newton, Philosophiae Naturalis Principia Mathematica, 1687 (third law of motion)
 - Gilbert, De Magnete, 1600 (mutual attraction of lodestone and iron, which Gilbert called coition; the floating-vessel passage is cited from histories of magnetism and not checked against a primary edition)

@@ -1,9 +1,9 @@
 # The solar system: why a rocky planet and a gas giant are so different, and how we know
 `sci.sky.solar-system.L4`
 
-**Summary.** Mercury is closest to the Sun, yet Venus is hotter, and Saturn is lighter than water. Why are the planets so different? In this unit you will drop marbles into flour to make craters, shake a planet in a jar, and walk a scale model of the solar system.
+**Summary.** Mercury is closest to the Sun, yet Venus is hotter, and Saturn is lighter than water. Why are the planets so different? In this lesson you will drop marbles into flour to make craters, shake a planet in a jar, and walk a scale model of the solar system.
 
-**Intro.** *Four of the eight planets have solid ground. If you dropped a stone on Jupiter, it would never land, because there is no ground to land on. All eight planets formed from the same cloud of gas and dust, around the same young Sun. So why did they turn out as two quite different kinds of world?* In this unit you find out. You drop marbles into a tray of flour and learn how scientists read the age of a planet from its craters. You sort heavy things from light things in a jar, the way a young planet sorted itself. You work out how long sunlight takes to reach each planet, and why that makes driving a rover on Mars so slow. You also meet Inge Lehmann, a Danish scientist who found out what is inside the Earth without ever digging a hole.
+**Intro.** *Four of the eight planets have solid ground. If you dropped a stone on Jupiter, it would never land, because there is no ground to land on. All eight planets formed from the same cloud of gas and dust, around the same young Sun. So why did they turn out as two quite different kinds of world?* In this lesson you find out. You drop marbles into a tray of flour and learn how scientists read the age of a planet from its craters. You sort heavy things from light things in a jar, the way a young planet sorted itself. You work out how long sunlight takes to reach each planet, and why that makes driving a rover on Mars so slow. You also meet Inge Lehmann, a Danish scientist who found out what is inside the Earth without ever digging a hole.
 
 ## Learning outcomes
 0. I can explain how rocky planets and giant planets differ in size, make-up, density and whether they have solid ground.
@@ -670,7 +670,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - A rusty iron gate, bucket or nail. The red rust is the same kind of iron oxide that colours the dust of Mars.
 - The dark patches and bright areas on the full Moon. The dark patches are smooth lava plains with few craters, and the bright areas are old highlands full of craters.
 - A car parked in the sun with its windows shut. The inside gets hotter than the outside, in the same way as the covered tumbler in the Two Tumblers in the Sun experiment.
-- Lonar Lake in Maharashtra, a round lake in a crater about 1.8 kilometres wide, made by a space rock long ago.
+- A round lake in a crater about 1.8 kilometres wide, made by a space rock long ago, in a picture.
 - A raindrop splashing in soft mud, or a dropped stone in sand. The splash is round, even when it comes down at a slant.
 - A glass of muddy water left still on a shelf. Over an hour, the heavy sand sinks first and the water slowly clears from the bottom up.
 - A road map with a scale bar. Every distance on the map has been shrunk by the same amount, as in the Walk the Solar System activity.
@@ -724,12 +724,23 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [Solar System Scope](https://www.solarsystemscope.com/) · interactive: A free 3D model of the solar system, where you can see each planet's orbit and its real position today.
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) · interactive: Scroll along a page to cross a scale model of the solar system. It shows how empty the space between the planets is.
 - [Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/) · interactive: For the parent: pages about the Mars Orbiter Mission, Chandrayaan and other missions.
-- [M.P. Birla Planetarium]() · place · Kolkata: Sky shows about the planets in one of the biggest planetariums in Asia. Check show times and languages before you go.
-- [B.M. Birla Planetarium]() · place · Hyderabad: Shows about the planets and space, with a science museum next door.
+- M.P. Birla Planetarium · place · Kolkata: Sky shows about the planets in one of the biggest planetariums in Asia. Check show times and languages before you go.
+- B.M. Birla Planetarium · place · Hyderabad: Shows about the planets and space, with a science museum next door.
 
 ## Things to buy
 - [A pack of glass marbles, about 1.5 centimetres across](https://www.amazon.in/s?k=glass+marbles+pack) (material): For the Crater Tray test. A pack from a toy shop is enough, and one marble is all you need. Keep them away from children under five. Used in e1. 
 - [A pack of modelling clay in four colours](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Cut-Open Planets project, if you prefer clay to atta dough or have a wheat allergy. One small pack is enough for the Earth; Jupiter can be a smaller lump of the same clay, labelled not to scale. It keeps its shape for weeks. Used in p1. 
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Two Tumblers in the Sun: does a lid make a hotter world?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in e2. Get it before Two Tumblers in the Sun: does a lid make a hotter world?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Crater Tray: what do dents in flour tell us about a world?, Walk the Solar System: the Sun is a disc 14 centimetres wide, Land on Mars: a parachute that hardly works. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, a1, c1. Get it before Crater Tray: what do dents in flour tell us about a world?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Drive a Rover from Far Away: messages that take 25 minutes. About ₹150 to ₹400. A phone stopwatch works well. Used in a3. Get it before Drive a Rover from Far Away: messages that take 25 minutes.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Crater Tray: what do dents in flour tell us about a world?, Cut-Open Planets: Earth and Jupiter in dough. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1. Get it before Crater Tray: what do dents in flour tell us about a world?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Cut-Open Planets: Earth and Jupiter in dough. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in p1. Get it before Cut-Open Planets: Earth and Jupiter in dough.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Walk the Solar System: the Sun is a disc 14 centimetres wide. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1. Get it before Walk the Solar System: the Sun is a disc 14 centimetres wide.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Planet in a Jar: why the heavy stuff goes to the middle. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a4. Get it before Planet in a Jar: why the heavy stuff goes to the middle.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Walk the Solar System: the Sun is a disc 14 centimetres wide. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1. Get it before Walk the Solar System: the Sun is a disc 14 centimetres wide.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Land on Mars: a parachute that hardly works. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Land on Mars: a parachute that hardly works.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Planet in a Jar: why the heavy stuff goes to the middle. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a4. Get it before Planet in a Jar: why the heavy stuff goes to the middle.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the two kinds of planet in the solar system? → Rocky planets with solid ground, and giant planets with none.
@@ -749,7 +760,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the notebook items on the solar system (phy:45 and phy:60) and the idea of building the solar system to scale at home, used in the Walk the Solar System activity
-- The Class 3 unit on the solar system, which this unit builds on: the planets in order, sunlight spreading out and the marble orbit are left to it, and this unit goes deeper into what the planets are made of, what their surfaces show, and how far apart they are
+- The Class 3 unit on the solar system, which this lesson builds on: the planets in order, sunlight spreading out and the marble orbit are left to it, and this lesson goes deeper into what the planets are made of, what their surfaces show, and how far apart they are
 - ideas/by_topic/planet-earth.md: the Earth's layers and how scientists know them, used in the Planet in a Jar activity and the Cut-Open Planets project
 - Kepler, Astronomia Nova, 1609, and Harmonices Mundi, 1619 (ellipses, and the rule linking year and distance)
 - NASA Planetary Fact Sheet (sizes, densities, distances, year and day lengths), nssdc.gsfc.nasa.gov

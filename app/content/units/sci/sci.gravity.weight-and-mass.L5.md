@@ -1,9 +1,9 @@
 # Weight, mass and the normal force: what pulls a thing down and what holds it up
 `sci.gravity.weight-and-mass.L5`
 
-**Summary.** On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this unit you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.
+**Summary.** On Jupiter you would weigh about two and a half times as much as on Earth, but you could not stand there to feel it. Why not? In this lesson you will feel the push that holds a book up, squash dough in a pile of books, and see whether a scale always shows weight.
 
-**Intro.** *Put eight books in a pile on a table. Which book is pushed up the hardest by what lies under it: the top book, a middle book or the bottom book? Say what you think, and why.* It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this unit you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.
+**Intro.** *Put eight books in a pile on a table. Which book is pushed up the hardest by what lies under it: the top book, a middle book or the bottom book? Say what you think, and why.* It is hard to tell by looking, because nothing in the pile moves. In the Dough Stack experiment, you put soft dough at three levels of the pile. Then you see which dough is squashed the most. First, in Be the Table, your own hand holds up a book and feels what a table has to do. In this lesson you find out what pulls a thing down, what holds it up, and how hard each one acts. You also find out why your weight would change on another world while your mass would not.
 
 ## Learning outcomes
 0. By the end I can say how mass and weight are different, and give the unit of each.
@@ -153,10 +153,10 @@ The two jobs could have been set by two different amounts. A stone might have ha
   Against: Most textbooks keep 'weight' for the pull of gravity, which is nearly as strong in orbit as on the ground. They use 'normal force' or 'apparent weight' for what the scale shows.
 - **Gravity is not really a force.** (Albert Einstein, in his general theory of relativity of 1915; *accepted*)  
   For: Einstein's theory says that mass bends space and time, and that falling things simply follow the bend. It predicts the bending of starlight and the timing of satellite clocks correctly.  
-  Against: For everything in this unit, treating gravity as a force gives the right answers. Engineers and space agencies still use Newton's force for almost all their sums.
+  Against: For everything in this lesson, treating gravity as a force gives the right answers. Engineers and space agencies still use Newton's force for almost all their sums.
 
 ## Roots
-In this unit you squashed dough under a pile of books and saw the load grow towards the bottom. Here we ask what that says about how things stay up, and about us.
+In this lesson you squashed dough under a pile of books and saw the load grow towards the bottom. Here we ask what that says about how things stay up, and about us.
 
 **Deep truth.** In the Dough Stack, the dough under eight books was squashed far wider than the dough under one book. Every book rests on the one below, so each level carries everything above it. The bottom book is held up by the table, the table by the floor, and the floor by the Earth. So no book in a pile holds itself up.  
 *Habit it breaks:* We say a table stands or a book sits, as if each held itself up. Everything that stays up is held by something else, and that is held by something else again.  
@@ -168,7 +168,7 @@ In this unit you squashed dough under a pile of books and saw the load grow towa
 
 A book, a table, a floor, a pillar and the ground look like separate things. In the Dough Stack and the Load on the Pillar, they work as one chain. Each link pushes up on the link above it with a force equal to the weight of everything above. At the bottom is the Earth, which pulls the whole pile down and also holds it up. Many sages taught that nothing stands alone. A pile of books is a case where we can see this clearly, and we can draw it with arrows.
 
-- **Atharva Veda 12.1.12 (the hymn to the Earth):** “यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः । / तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु” The Earth is my mother, and I am her child. (The verse speaks of the Earth as the one who holds us. In this unit, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.)
+- **Atharva Veda 12.1.12 (the hymn to the Earth):** “यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः । / तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु” The Earth is my mother, and I am her child. (The verse speaks of the Earth as the one who holds us. In this lesson, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.)
 - **Zhuangzi, chapter 26 (Burton Watson's translation):** “夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？” A person uses only the small patch of ground under her feet. But if the earth around her were dug away down to the Yellow Springs, that small patch would be no use to her. (A pillar or a foot seems to need only the ground it touches. But the ground there is held up by all the ground round it. The passage says this as a lesson about usefulness, not about weight.)
 - Science (settled): A surface pushes back on anything that presses on it, because the atoms of the two touching things repel each other. This push is the normal force.
 - Science (open): Nobody knows why the mass that sets a thing's weight is exactly the mass that makes it hard to move.
@@ -894,6 +894,11 @@ Gravity (sci.gravity.L5): Topic-level song
 ## Things to buy
 - [A digital kitchen scale that reads in whole grams, up to 5 kilograms](https://www.amazon.in/s?k=digital+kitchen+weighing+scale+5kg) (tool): For Lift, Press and Tilt, the Dough Stack, Arrows to Scale and the 50-Newton Pack. It reads the push of a packet in grams. A good one costs about Rs 400 to 700. Used in e1, e2, a4, c2. 
 - [A tailor's measuring tape, 150 centimetres long](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): For measuring the distance to the screen in the Spreading Square, and the pillar in the Load on the Pillar. A metre ruler or a piece of string and a ruler also work. Used in e3, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dough Stack: which level of a pile is pushed up the hardest?, Lift, Press and Tilt: does a scale always read the weight?, The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a3, a4, p1. Get it before The Dough Stack: which level of a pile is pushed up the hardest?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e3. Get it before The Spreading Square: why does a pull get weaker with distance?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Spreading Square: why does a pull get weaker with distance?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e3. Get it before The Spreading Square: why does a pull get weaker with distance?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Spreading Square: why does a pull get weaker with distance?, Weigh Yourself on Nine Worlds, Arrows to Scale: weigh it, then draw the forces. About ₹10 to ₹30. Draw squares on plain paper. Used in e3, a2, a4. Get it before The Spreading Square: why does a pull get weaker with distance?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which is measured in newtons: mass or weight? → Weight. Mass is measured in kilograms.
@@ -914,11 +919,11 @@ Gravity (sci.gravity.L5): Topic-level song
 - Founder's notebook, the gravity page: the long concepts on gravity as a pull between masses, the push of the normal force, standing on solid ground, a person falling into Jupiter and the normal force when running at about 2 to 3 times the weight. They are used in the explanations on the normal force and on worlds with nothing to stand on, in the Dough Stack and in Lift, Press and Tilt.
 - Founder's notebook, the forces page: the ideas to hang weights and balance a book on a table to measure the normal force, and the drama of a table bravely supporting weight. They are the starting point of Be the Table and Lift, Press and Tilt.
 - Curriculum entry sci.gravity.weight-and-mass.L5: mass and weight are different, weight on the Moon and other planets, gravity, normal force and applied force. Board chapter Cambridge Stage 5 5.1 'Gravity, normal forces and applied forces'.
-- Other units were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The balance, the rubber band scale, the centre of gravity and the plant that grows from air are in sci.gravity.weight-and-mass.L4. The drop races and the swing are in the falling units. This unit does not repeat their stories or deep truths.
+- Other units were checked so that nothing repeats. The leaking bottle and the forcemeter in a lift are in sci.gravity.weight-and-mass.L3. The balance, the rubber band scale, the centre of gravity and the plant that grows from air are in sci.gravity.weight-and-mass.L4. The drop races and the swing are in the falling units. This lesson does not repeat their stories or deep truths.
 - Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book 3, Proposition 6 (the pendulum tests with gold, silver, lead, glass, sand, salt, wood, water and wheat).
 - Touboul, P. and others (2022). MICROSCOPE mission: final results of the test of the equivalence principle. Physical Review Letters 129, 121102.
 - Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften.
-- NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this unit are worked out from its masses and widths, so they differ a little from the equator values it prints).
+- NASA National Space Science Data Center, Planetary Fact Sheet (masses, radii and surface gravity of the planets and the Sun; the strengths of gravity for the giant planets in this lesson are worked out from its masses and widths, so they differ a little from the equator values it prints).
 - CSIR National Physical Laboratory, Mass Metrology (India's copy of the kilogram, NPK-57, is kept there).
 - ISRO, Chandrayaan-3 landing brochure (rover mass 26 kilograms).
 - Seiff, A. and others (1998). Thermal structure of Jupiter's atmosphere near the edge of a 5-micrometre hot spot in the north equatorial belt. Journal of Geophysical Research 103, 22857 (the Galileo probe).

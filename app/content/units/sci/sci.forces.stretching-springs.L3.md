@@ -1,7 +1,7 @@
 # Stretching and springs: why things spring back, and what happens if you stretch too far
 `sci.forces.stretching-springs.L3`
 
-**Summary.** A stretched rubber band springs back, but a pen spring pulled too far stays long. Why? In this unit you will hang coins on a rubber band five at a time to find the pattern and the limit, test how bouncy things are, and hunt for springs.
+**Summary.** A stretched rubber band springs back, but a pen spring pulled too far stays long. Why? In this lesson you will hang coins on a rubber band five at a time to find the pattern and the limit, test how bouncy things are, and hunt for springs.
 
 **Intro.** *Hold a rubber band between two fingers and stretch it a little. Feel it pull on your fingers. Stretch it more. Does the pull get bigger? Nothing else is touching the band. So where does that pull come from?* Give your child a rubber band and let them stretch it slowly, then let it go back. Ask two questions. What do you notice? What do you wonder? Good noticing sounds like 'the more I stretch it, the harder it pulls' or 'it gets thinner'. Write their wonders down and don't answer them yet. The coin test comes next, and it lets them find the answers for themselves.
 
@@ -881,11 +881,11 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - A hanging spring balance at a kabadiwala's or for luggage, its pointer moving as the load goes on.
 - The springs under a cycle or scooter seat, squashing over every bump.
 - A woven cot (kattil or charpai) or a mattress that sags as you sit and springs back when you stand.
-- Rubber trees in Kerala, with cups catching the white milky latex that becomes rubber.
+- Rubber trees, with cups catching the white milky latex that becomes rubber.
 - A gulel, the Y-shaped catapult, in a market or toy shop.
 - Bamboo and coconut palms bending in the wind during the monsoon, and standing up again.
 - The elastic in pyjamas and socks, and hair bands of every colour.
-- A living root bridge in Meghalaya, grown from rubber fig roots, swaying and springing back as people cross.
+- A rope bridge over a stream, swaying and springing back as people cross.
 - Spider webs on a balcony grille, sagging when a fly hits and springing back.
 
 ## Open questions
@@ -948,6 +948,10 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [30 cm ruler and a 1-metre measuring tape](https://www.amazon.in/s?k=30+cm+ruler+measuring+tape) (tool): For measuring stretches, launches, bounces and how far the car goes. Used in e1, e2, e3, e4, a6, p1, a2. 
 - [A set of different balls: a rubber bouncy ball, a tennis ball and a sponge ball](https://www.amazon.in/s?k=bouncy+ball+sponge+ball+set) (material): For comparing how well different balls bounce. Used in e4. 
 - [Ice-cream sticks (craft sticks)](https://www.amazon.in/s?k=ice+cream+sticks+craft) (material): For building the catapult. Used in c1. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Find the Limit. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e3. Get it before Find the Limit.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Bounce Test. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e4. Get it before The Bounce Test.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Rubber Band Orchestra. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a5. Get it before Rubber Band Orchestra.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A thing that springs back after stretching is called ____. → elastic

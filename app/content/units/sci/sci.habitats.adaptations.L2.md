@@ -613,6 +613,9 @@ Just Right for Here (sci.habitats.L2): Topic-level song for Habitats L2
 - Taraporewala Aquarium · place · Mumbai: Watch fish hang still in the water, steer with their fins and breathe with their gills.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Camel and a Fish from Waste. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Camel and a Fish from Waste.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Wrinkly Fingers: do they grip wet things better?. About ₹10 to ₹40. Small round stones or dried chana. Used in e2. Get it before Wrinkly Fingers: do they grip wet things better?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a camel's hump made of? → Fat, not water.

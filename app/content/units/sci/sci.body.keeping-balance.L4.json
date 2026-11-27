@@ -2992,6 +2992,68 @@
     "g1"
    ],
    "plan": "Read a few pages after the story and the discovery card, to give the grown-up the full picture."
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Level Bottle: a bottle that keeps its own water level."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Level Bottle: a bottle that keeps its own water level, Pupil Gauge: how fast do my pupils change with the light?, Steady-Level Tank: keep the level between two marks. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "c1"
+   ],
+   "plan": "Get it before Level Bottle: a bottle that keeps its own water level."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Pupil Gauge: how fast do my pupils change with the light?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Pupil Gauge: how fast do my pupils change with the light?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Level Bottle: a bottle that keeps its own water level."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

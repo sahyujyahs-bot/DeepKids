@@ -1,9 +1,9 @@
 # Energy: what makes things move, light up, heat up and make sounds
 `sci.energy.energy-around-us.L3`
 
-**Summary.** Where does the energy that moves and heats things around you come from? In this unit you will hunt for energy at work at home, drop a marble into atta from different heights, and trace where energy came from, step by step.
+**Summary.** Where does the energy that moves and heats things around you come from? In this lesson you will hunt for energy at work at home, drop a marble into atta from different heights, and trace where energy came from, step by step.
 
-**Intro.** *Try three things. Switch on a torch. Clap your hands hard. Hold your palm near, not on, a cup of hot tea. The torch gave light, the clap made a sound, and the tea warmed your hand. What do these three have in common?* Each one made something happen. Scientists say that whatever makes something happen needs energy. In this unit you go on a hunt for energy in your home. You drop a marble into a tray of atta from different heights to see what more energy does. And you find out where the energy for almost everything around you comes from.
+**Intro.** *Try three things. Switch on a torch. Clap your hands hard. Hold your palm near, not on, a cup of hot tea. The torch gave light, the clap made a sound, and the tea warmed your hand. What do these three have in common?* Each one made something happen. Scientists say that whatever makes something happen needs energy. In this lesson you go on a hunt for energy in your home. You drop a marble into a tray of atta from different heights to see what more energy does. And you find out where the energy for almost everything around you comes from.
 
 ## Learning outcomes
 0. I can say what energy is: what is needed to make something move, light up, heat up or make a sound.
@@ -610,10 +610,10 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - Builders use energy stored in a lifted weight: a pile driver drops a heavy block to hammer posts into the ground.
 
 ## Spotted around us
-- Rows of tall wind turbines at Muppandal and Aralvaimozhi, near Kanyakumari, turning in the wind that blows through the hills.
-- Blue solar panels on the roofs of flats, schools and temples, at Cochin airport, and in big solar parks such as Pavagada in Karnataka and Charanka in Gujarat.
+- Rows of tall wind turbines turning in the wind that blows through the hills.
+- Blue solar panels on the roofs of flats, schools and temples, or in big solar parks.
 - The pressure cooker whistle in almost every Indian kitchen: heat makes steam, and steam pushes up the whistle.
-- Dams like Idukki in Kerala and Bhakra in Himachal Pradesh, where water falling from high up spins turbines to make electricity.
+- A dam, where water falling from high up spins turbines to make electricity.
 - Your own warm hands on a cold morning, warmed by the energy from your breakfast.
 
 ## Open questions
@@ -660,6 +660,11 @@ Where Did It Come From? (sci.energy.L3): Topic-level song for Energy L3
 ## Things to buy
 - [A small bag of glass marbles (golis)](https://www.amazon.in/s?k=glass+marbles+kids) (material): Marbles are round, smooth and all about the same size, so they make neat craters. A small round lime works if you have none. Used in e1, c1, c2. 
 - [A kitchen or aquarium thermometer](https://www.amazon.in/s?k=kitchen+thermometer+digital) (tool): Optional. Shows how many degrees warmer the sunny water is. A fever thermometer only reads from about 35 degrees, so it won't work. Used in e2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Atta Crater Test: does a higher drop do more?, The Soft Landing. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, c2. Get it before The Atta Crater Test: does a higher drop do more?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Atta Crater Test: does a higher drop do more?, The Spinning Paper Snake, The Chain Reaction Bell. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, c1, c2. Get it before The Atta Crater Test: does a higher drop do more?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Soft Landing. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before The Soft Landing.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Chain Reaction Bell. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before The Chain Reaction Bell.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is energy? → What is needed to make something happen: move, light up, heat up or make a sound.

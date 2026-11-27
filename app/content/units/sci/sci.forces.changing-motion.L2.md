@@ -650,6 +650,11 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 ## Things to buy
 - [a small packet of glass marbles (goli)]() (material): Marbles roll smoothly along a card wall, so the Bend Wall result is easy to see. A ping-pong ball or any small hard ball works too. Used in e1, c1. Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3.
 - [Rosie Revere, Engineer by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer) (book): A girl builds things from junk, fails, and tries again. It shows the child that a failed try is part of making something work. Used in a1. Read it together after the catapult project.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Design a Catapult: does a bigger bend throw further?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1x. Get it before Design a Catapult: does a bigger bend throw further?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Design a Catapult: does a bigger bend throw further?. About ₹10 to ₹30. Any school ruler is fine. Used in p1x. Get it before Design a Catapult: does a bigger bend throw further?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Bend Wall: where does the marble go when the wall ends?, The Ramp Race: does a steeper ramp make a faster ball?, Design a Catapult: does a bigger bend throw further?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e2, p1x. Get it before The Bend Wall: where does the marble go when the wall ends?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Design a Catapult: does a bigger bend throw further?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in p1x. Get it before Design a Catapult: does a bigger bend throw further?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a push or a pull called? → A force.

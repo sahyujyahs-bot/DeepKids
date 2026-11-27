@@ -1,9 +1,9 @@
 # Parts of a plant, and the job each part does
 `sci.plants.plant-parts.L1`
 
-**Summary.** Can a tiny root really hold a plant in the ground? In this unit you will look at a whole coriander plant from root to tip, grow sprouts to test how roots grip, hold a leaf to the light to find its veins, and play a clue game.
+**Summary.** Can a tiny root really hold a plant in the ground? In this lesson you will look at a whole coriander plant from root to tip, grow sprouts to test how roots grip, hold a leaf to the light to find its veins, and play a clue game.
 
-**Intro.** *Here is a bunch of coriander from the market, with the roots still on. Shake it over a newspaper. Some soil falls off, but some soil stays stuck to the roots. Why does that soil hold on?* The part of a plant we usually see is the green part above the soil. But a plant also has parts under the ground, and every part has a job to do. In this unit you look at a whole plant, from the roots to the tip. You find the roots, the stem, the leaves, the flowers, the fruits and the seeds. Then you grow moong sprouts and test how roots hold on.
+**Intro.** *Here is a bunch of coriander from the market, with the roots still on. Shake it over a newspaper. Some soil falls off, but some soil stays stuck to the roots. Why does that soil hold on?* The part of a plant we usually see is the green part above the soil. But a plant also has parts under the ground, and every part has a job to do. In this lesson you look at a whole plant, from the roots to the tip. You find the roots, the stem, the leaves, the flowers, the fruits and the seeds. Then you grow moong sprouts and test how roots hold on.
 
 ## Learning outcomes
 0. By the end I can name the six parts of a plant, roots, stem, leaves, flowers, fruits and seeds, and point to them on a real plant.
@@ -498,7 +498,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 
 ## Spotted around us
 - A small peepal plant growing out of a crack in an old wall or a roof, holding on with roots in the crack.
-- A banyan tree with roots hanging down from the branches. The Adyar banyan in Chennai and the Great Banyan in Howrah are held up by roots like these.
+- A banyan tree with roots hanging down from the branches. Some giant banyans are held up by roots like these.
 - A sugarcane juice stall, where the seller crushes the stems to get the sweet juice.
 - A lotus in a temple tank, with round leaves floating flat on the water.
 - A banana flower (vazhaipoo, mocha) at the vegetable market, big and purple.
@@ -537,11 +537,15 @@ Roots Hold On (sci.plants.L1): A short song about how roots hold on.
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant near your home and find out who they are.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden, the Great Banyan]() · place · Howrah, Kolkata: See a banyan whose main trunk was removed about 100 years ago. The tree lives on, held up by thousands of roots that grew down from the branches.
-- [The Adyar Banyan Tree, Theosophical Society]() · place · Chennai: A huge old banyan with many prop roots. The main trunk fell in a storm in 1989, and the roots kept the rest of the tree standing.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees of many kinds, with roots, trunks, flowers and fruits to find.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden, the Great Banyan · place · Howrah, Kolkata: See a banyan whose main trunk was removed about 100 years ago. The tree lives on, held up by thousands of roots that grew down from the branches.
+- The Adyar Banyan Tree, Theosophical Society · place · Chennai: A huge old banyan with many prop roots. The main trunk fell in a storm in 1989, and the roots kept the rest of the tree standing.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees of many kinds, with roots, trunks, flowers and fruits to find.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Meet a Whole Plant: a coriander bunch from root to tip. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before Meet a Whole Plant: a coriander bunch from root to tip.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in A Plant That Stays Put: roots that hold. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before A Plant That Stays Put: roots that hold.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sprouts Hold On: can roots grip?, Meet a Whole Plant: a coriander bunch from root to tip, Roots in a Clear Cup: watch roots grow and hold. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a1, p1. Get it before Sprouts Hold On: can roots grip?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the six parts of a plant. → Roots, stem, leaves, flowers, fruits and seeds.

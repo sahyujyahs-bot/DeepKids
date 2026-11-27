@@ -1,9 +1,9 @@
 # History of astronomy: how people changed their minds about who moves, the Earth or the sky
 `sci.sky.history-of-astronomy.L4`
 
-**Summary.** In the year 499, Aryabhata wrote that the ground turns, not the Sun. How could anyone tell? In this unit you will spin in a chair with your eyes shut, copy what Galileo saw on Venus with a lamp and ball, and measure an angle as Tycho did.
+**Summary.** In the year 499, Aryabhata wrote that the ground turns, not the Sun. How could anyone tell? In this lesson you will spin in a chair with your eyes shut, copy what Galileo saw on Venus with a lamp and ball, and measure an angle as Tycho did.
 
-**Intro.** *Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?* For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this unit you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.
+**Intro.** *Close your eyes in a smooth, steadily turning chair. Can you tell that you are turning? Open your eyes, and the room seems to spin round you. So who is really turning, you or the room? And what does that have to do with the Sun and the Earth?* For thousands of years, people looked up and saw the Sun and the stars move round them. A few said the Earth must be the one that turns. Nobody could feel it. In this lesson you sit in a spinning chair and try to feel a steady turn. You make a lamp and a ball show the phases of Venus. You build a quadrant and find how exactly you can measure an angle. You draw an ellipse with string and pins. And you learn how a gap of 8 arcminutes, a very small angle, in a table of numbers changed astronomy.
 
 ## Learning outcomes
 0. I can explain why a steady turn or a steady movement cannot be felt, and why the Sun seems to go round us even though the Earth is what turns.
@@ -786,7 +786,7 @@ She stopped. She added one more line. And the edge of a shadow is blurry, becaus
 - A sundial in a garden, a school or a temple courtyard, with a tilted blade casting a shadow on a plate.
 - A bright planet in the evening sky, steady and not twinkling, while the stars around it flicker.
 - A train standing next to yours that seems to slide backwards when your train pulls out of the station.
-- A clock on a wall in a railway station showing the same time as every other station in India.
+- A clock on a wall in a railway station showing the same time as every other station.
 - The shadow of a flagpole or a lamp post, shortest around the middle of the day.
 - A calendar on the wall with 29 February in a leap year.
 - The Moon in the daytime sky, showing that sky objects keep moving whether or not it is dark.
@@ -846,8 +846,8 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [Stellarium Web](https://stellarium-web.org) · interactive: A free sky map in the browser. Use it to find planets tonight and to speed up time and watch a planet's loop.
 - [Indian Institute of Astrophysics](https://www.iiap.res.in) · interactive: For the parent: India's research institute for astronomy, with news, public talks and open days.
 - [Inter-University Centre for Astronomy and Astrophysics](https://www.iucaa.in) · interactive: For the parent: IUCAA in Pune runs a science park and talks for the public.
-- [Jantar Mantar, Jaipur]() · place · Jaipur, Rajasthan: The great stone observatory with the Samrat Yantra, about 27 metres tall. Look at the shadow's blurred edge as it crawls over the scale.
-- [Jantar Mantar, New Delhi]() · place · Connaught Place, New Delhi: The first of Jai Singh's observatories, with a smaller Samrat Yantra that you can climb, close to the city centre.
+- Jantar Mantar, Jaipur · place · Jaipur, Rajasthan: The great stone observatory with the Samrat Yantra, about 27 metres tall. Look at the shadow's blurred edge as it crawls over the scale.
+- Jantar Mantar, New Delhi · place · Connaught Place, New Delhi: The first of Jai Singh's observatories, with a smaller Samrat Yantra that you can climb, close to the city centre.
 
 ## Things to buy
 - [A half-circle protractor, 12 to 15 centimetres across](https://www.amazon.in/s?k=protractor+180+degree+school) (tool): For the quadrant and for marking the sundial. A school geometry box already has one. Used in e3, a2. 
@@ -856,6 +856,12 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [A box of drawing pins or thumb tacks](https://www.amazon.in/s?k=drawing+pins) (material): For drawing ellipses with string. A stationery shop sells them for a few rupees. Used in a1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For propping the sundial and holding the pencil gnomon. A small pack is enough. Used in a2. 
 - [A few small fishing swivels](https://www.amazon.in/s?k=fishing+swivels) (tool): For hanging the turntable pendulum so its thread can twist freely. A fishing tackle shop sells them for a few rupees. A key ring or a bent paper clip works less well, and the hand-held version in the activity needs none. Used in p1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in A Sundial for Your City: build a small Samrat Yantra. About ₹30 to ₹150. A phone compass app also works. Used in a2. Get it before A Sundial for Your City: build a small Samrat Yantra.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Tycho's Quadrant: how precisely can you measure an angle?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before Tycho's Quadrant: how precisely can you measure an angle?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Tycho's Quadrant: how precisely can you measure an angle?, Kepler's Ellipse: draw a planet's path with string and two pins, A Sundial for Your City: build a small Samrat Yantra. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a1, a2, p1, c1. Get it before Tycho's Quadrant: how precisely can you measure an angle?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Galileo's Venus: can Venus look full if it stays between us and the Sun?, A Pendulum on a Turntable: the idea behind Foucault's proof, Find North and Noon with Just a Stick and the Sun. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e2, p1, c1. Get it before Galileo's Venus: can Venus look full if it stays between us and the Sun?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Kepler's Ellipse: draw a planet's path with string and two pins. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1. Get it before Kepler's Ellipse: draw a planet's path with string and two pins.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Why can you not feel the Earth turn? → A steady movement cannot be felt, only changes.
@@ -875,8 +881,8 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - Core: e1, e2, e3, g1, ws-core
 
 ## Sources
-- ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Card for Galileo (the telescope, and falling things), and the topic's emphasis on credit to women, used for Cecilia Payne, Mariam al-Asturlabi and the other women named
-- Curriculum entry for the history of astronomy and the Class 3 unit sci.sky.history-of-astronomy.L3, which this unit goes a step deeper than: the L3 sinking cup, fist ruler, bottle clock, dough tablet, window calendar and the Parameshvara story are not repeated here
+- ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: the SCI Card for Galileo (the telescope, and falling things), and the idea's emphasis on credit to women, used for Cecilia Payne, Mariam al-Asturlabi and the other women named
+- Curriculum entry for the history of astronomy and the Class 3 unit sci.sky.history-of-astronomy.L3, which this lesson goes a step deeper than: the L3 sinking cup, fist ruler, bottle clock, dough tablet, window calendar and the Parameshvara story are not repeated here
 - Checked against the nearby units so nothing repeats: the lamp-and-ball test is about Venus and two models (the Moon phases units use a lamp for the Moon), and the two-viewpoint idea of parallax is only named here, since the stargazing unit tests it
 - Aryabhata, Aryabhatiya, 499, Golapada verses 9 and 10 (the Earth's spin and the boat), in the translation of W. E. Clark, 1930
 - Brahmagupta, Brahmasphutasiddhanta, 628, chapter 11 (arguments against a moving Earth), as discussed in Plofker, Mathematics in India, Princeton University Press, 2009

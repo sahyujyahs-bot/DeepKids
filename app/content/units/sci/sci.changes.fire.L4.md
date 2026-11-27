@@ -1,9 +1,9 @@
 # Fire: where the wax goes, and why burning loses nothing
 `sci.changes.fire.L4`
 
-**Summary.** A log can leave only a handful of ash, so where does the rest go? In this unit you will catch water and soot from a candle flame on a cold plate, test which paper shape burns fastest, and read a stove flame as blue or yellow.
+**Summary.** A log can leave only a handful of ash, so where does the rest go? In this lesson you will catch water and soot from a candle flame on a cold plate, test which paper shape burns fastest, and read a stove flame as blue or yellow.
 
-**Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this unit you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you see how the same idea explains your own breath, why the Sun is not a fire, and how flames burn in space.
+**Intro.** *A grown-up lights a tea-light candle. A cold steel plate is held a hand's width above the flame for ten seconds. When the plate is lifted, its underside is wet with tiny drops and has a black smudge. The candle was burning, so how can it make water?* Fire seems to use things up. A log turns into a pinch of ash, and a candle gets shorter and shorter. In this lesson you catch what a flame really makes. You test what changes how fast something burns, and you weigh things before and after burning. Then you see how the same idea explains your own breath, why the Sun is not a fire, and how flames burn in space.
 
 ## Learning outcomes
 0. I can explain that burning is a chemical reaction in which a fuel joins with oxygen and makes new substances such as carbon dioxide, water and soot.
@@ -688,6 +688,11 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 ## Things to buy
 - [A pack of tea-light candles](https://www.amazon.in/s?k=tea+light+candles+pack) (material): For the flame activity, the candle pouring project and the lid challenge. They burn for about four hours each, and are sold at most stationery and gift shops. Used in a1, p1, c1. 
 - [Fine steel wool, grade 0 or finer](https://www.amazon.in/s?k=fine+steel+wool+grade+0000) (material): For the steel wool balance. It is sold at hardware shops and for polishing wood. A stainless steel kitchen scrubber (the shiny jaali kind) will not burn. Ask for "steel wool 0000" at a paint or hardware shop; it costs about Rs 50 to 150 and one pad is plenty for several tries. Used in e2. 
+- [Wooden skewers, a pack of 10](https://www.amazon.in/s?k=wooden+skewers) (material): The skewer is the beam of the homemade balance that the steel wool hangs from. About ₹20 to ₹40 for a pack at a kitchen or general store. A thin dry stick from the garden works as the household alternative. Used in e2. Buy them before you build the steel wool balance.
+- [Modelling clay, one small ball](https://www.amazon.in/s?k=modelling+clay) (material): It is pressed onto one end of the stick to balance it finely on the thread. About ₹40 to ₹100 for a small block at a stationery shop. Sticky tape does the same job. Used in e2. Buy it before you build the steel wool balance.
+- [Baking soda or khane ka soda, about 3 tablespoons](https://www.amazon.in/s?k=baking+soda) (material): It reacts with the vinegar to make carbon dioxide, which puts the candle out in the Pour Out a Fire project. About ₹20 to ₹40 for a small packet at a kirana shop. Use baking soda or khane ka soda, but not baking powder. Used in p1. Check your kitchen first, and buy it before you make carbon dioxide in the Pour Out a Fire project.
+- [White vinegar, about 100 millilitres](https://www.amazon.in/s?k=white+vinegar) (material): It is poured onto the baking soda to make the carbon dioxide in the Pour Out a Fire project. About ₹40 to ₹80 for a small bottle at a grocery shop. Most kitchens already have some, so check first. Used in p1. Check your kitchen first, and buy it before the Pour Out a Fire project.
+- [Printed pages for the sorting cards, tokens and worksheets, about 10 pages]() (material): The sorting game uses 20 two-sided cards and 12 printed tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20. Used in g1, ws-core, ws-stretch, ws-challenge. Print these before the sorting game.
 
 ## Warm-up
 - What two things does a burning candle make that we cannot see? → Carbon dioxide and water vapour.
@@ -707,7 +712,7 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/changing-materials.md, section 'Concept activities: Fire': combustion as oxidation, the exothermic release, comparing flame colours with salt, toasting bread, watching a gas stove flame, and the philosophy of transformation through release. Used for the flame activities, the salt colour test and the roots
 - Founder's notes in the same file on 'Materials Under Heat', for the idea that heat reveals hidden properties
-- The Class 3 unit on fire (what a flame needs, fire safety, how people learned to use fire), which this unit builds on and does not repeat: the candle-gas idea, the fire triangle and the safety lamp stay there
+- The Class 3 unit on fire (what a flame needs, fire safety, how people learned to use fire), which this lesson builds on and does not repeat: the candle-gas idea, the fire triangle and the safety lamp stay there
 - The Class 4 unit on helpful microbes and the Class 4 unit on floating and sinking, for the structure and depth of a Class 4 unit
 - Cambridge Stage 4 chemical reactions and NCERT material on changes, for coverage only. Their text is not copied
 - Lavoisier, A., Traité élémentaire de chimie, Paris, 1789 (the conservation of mass, oxygen and burning)

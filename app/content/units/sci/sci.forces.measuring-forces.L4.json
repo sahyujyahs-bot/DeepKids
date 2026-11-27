@@ -3184,6 +3184,74 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in Magnet Against the Earth: how many clips can it hold?. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Magnet Against the Earth: how many clips can it hold?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Sagging Line: how hard does each end pull?, The Button and the Water: how hard does a water surface hold on?, Draw the Pulls: force arrows around the house. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Sagging Line: how hard does each end pull?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Sagging Line: how hard does each end pull?, The Button and the Water: how hard does a water surface hold on?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Sagging Line: how hard does each end pull?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Sagging Line: how hard does each end pull?, Draw the Pulls: force arrows around the house, Ten Readings, One Pull: how much do the numbers spread?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e1",
+    "a1",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Sagging Line: how hard does each end pull?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

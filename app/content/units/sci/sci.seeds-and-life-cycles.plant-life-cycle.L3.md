@@ -1,7 +1,7 @@
 # A plant's life cycle: how a seed grows into a plant that makes new seeds
 `sci.seeds-and-life-cycles.plant-life-cycle.L3`
 
-**Summary.** Every fruit in your kitchen was once a flower. How does a flower become a fruit, and what is inside? In this unit you will open fruits to find the seeds and the flower's leftovers, tag a flower and watch it change, and grow moong from seed to seed.
+**Summary.** Every fruit in your kitchen was once a flower. How does a flower become a fruit, and what is inside? In this lesson you will open fruits to find the seeds and the flower's leftovers, tag a flower and watch it change, and grow moong from seed to seed.
 
 **Intro.** *Look at a tomato, or a brinjal. See the little green star, or the green cap, at the top? Where do you think it came from? Here is a clue. Not long ago, this whole tomato was a small yellow flower.* Every fruit in your kitchen was once a flower. Every seed inside can grow into a plant that makes flowers again. Put a moong seed in a pot today. In two to three months, if they get sun and water, they will give you back a whole handful of moong. Which part of a flower turns into the fruit? And why does the plant end up exactly where they started, as seeds?
 
@@ -836,7 +836,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - Paddy fields in the monsoon, turning from green seedlings to golden grain in about four months.
 - Sprouting onions and potatoes in a kitchen basket, growing new plants without seeds.
 - Seedlings of neem or peepal growing in wall cracks, from seeds dropped by birds.
-- The blue hills of Munnar when neelakurinji flowers, once every 12 years.
+- A hillside turning blue when neelakurinji flowers, once every 12 years. Look for a plant that flowers only once in its life.
 
 ## Open questions
 - **How does bamboo count about 48 years before they flower, and how do clumps far apart stay in step?** Nobody has found a clock that could count so long inside a plant. There are ideas, but none has been proved.
@@ -886,10 +886,10 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L3): Topic-level song for Seeds, g
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a plant, and people around the world help you name it. Useful for finding out a tree's name.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Pictures and information about India's plants, including when they flower and fruit.
 - [Botanical Survey of India](https://bsi.gov.in) · interactive: The government body that studies India's plants. It runs botanic gardens in many cities.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden, and the Great Banyan]() · place · Howrah, near Kolkata: Home of the Great Banyan, a tree more than 250 years old. Their main trunk was removed in 1925, yet the tree lives on through thousands of roots that grew down from their branches.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, a glass house and flowers from all over the world. Look for plants at every stage of their life cycle.
-- [Eravikulam National Park]() · place · Munnar, Kerala: The hills here turn blue when neelakurinji flowers, once every 12 years. The next big bloom is expected around 2030.
-- [Government Botanical Garden, Ooty]() · place · Ooty, Tamil Nadu: A large old hill garden with many trees and flowers, and a fossil tree trunk millions of years old.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden, and the Great Banyan · place · Howrah, near Kolkata: Home of the Great Banyan, a tree more than 250 years old. Their main trunk was removed in 1925, yet the tree lives on through thousands of roots that grew down from their branches.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, a glass house and flowers from all over the world. Look for plants at every stage of their life cycle.
+- Eravikulam National Park · place · Munnar, Kerala: The hills here turn blue when neelakurinji flowers, once every 12 years. The next big bloom is expected around 2030.
+- Government Botanical Garden, Ooty · place · Ooty, Tamil Nadu: A large old hill garden with many trees and flowers, and a fossil tree trunk millions of years old.
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: A famous plant science garden in London, with clear pages about seeds, flowers and the Millennium Seed Bank.
 
 ## Things to buy
@@ -901,6 +901,8 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L3): Topic-level song for Seeds, g
 - [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures baby fruits and growing plants. Used in e1, p1. 
 - [The Tiny Seed, by Eric Carle](https://www.amazon.in/s?k=The+Tiny+Seed+Eric+Carle) (book): A picture book that follows one tiny seed through a whole year, from blowing in the wind to flowering and making new seeds. Used in g1. 
 - [From Seed to Plant, by Gail Gibbons](https://www.amazon.in/s?k=From+Seed+to+Plant+Gail+Gibbons) (book): A clear picture book on flowers, pollination, fruits and seeds, for ages 5 to 9. Used in e2. 
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Floating Leaves: does a leaf make gas in the light?. About ₹20 to ₹40. Check the kitchen first. Used in e4. Get it before Floating Leaves: does a leaf make gas in the light?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What comes after the seedling in a plant's life cycle? → The grown plant.

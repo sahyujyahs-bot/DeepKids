@@ -1,9 +1,9 @@
 # Air around us: it fills every gap, has weight, and keeps us alive
 `sci.air.air-around-us.L3`
 
-**Summary.** A glass full of chana can still take in water. So what was in the gaps? In this unit you will find out how much of a glass of chana is air, squeeze air and water to compare them, and measure how much bigger a breath makes your chest.
+**Summary.** A glass full of chana can still take in water. So what was in the gaps? In this lesson you will find out how much of a glass of chana is air, squeeze air and water to compare them, and measure how much bigger a breath makes your chest.
 
-**Intro.** *Push a balloon inside an empty plastic bottle and stretch its mouth over the bottle's neck. Now try to blow the balloon up. It hardly grows, however hard you blow. The bottle looked empty. So what is stopping the balloon?* The bottle was not empty. It was full of air. The air had nowhere to go, so it pushed back on the balloon. In this unit you find out that air is real stuff that takes up space and has weight. You measure how much air hides in a glass of grain. You squash air in a syringe. You also find out why you breathe, and how plants and air need each other.
+**Intro.** *Push a balloon inside an empty plastic bottle and stretch its mouth over the bottle's neck. Now try to blow the balloon up. It hardly grows, however hard you blow. The bottle looked empty. So what is stopping the balloon?* The bottle was not empty. It was full of air. The air had nowhere to go, so it pushed back on the balloon. In this lesson you find out that air is real stuff that takes up space and has weight. You measure how much air hides in a glass of grain. You squash air in a syringe. You also find out why you breathe, and how plants and air need each other.
 
 ## Learning outcomes
 0. I can show with a test that air takes up space, and explain why a 'full' glass of grain can still take in water.
@@ -38,6 +38,8 @@ We call a bottle 'empty' when nothing we can see is inside it. But it is full of
 - e.g. Water poured into a glass of dry rice makes bubbles, because the water pushes out the air between the grains.
 - e.g. A plastic bottle with its cap on will not crush flat when you squeeze it, because the air inside has nowhere to go.
 - e.g. When you pour water fast out of a bottle, it glugs. Each glug is a bubble of air going in to take the water's place.
+- **Hero of Alexandria:** Greek engineer from the first century CE, who showed with upside-down cups in water that air fills a space and keeps water out.
+- **Physicists:** Say air is mostly empty space between gas particles that fly about. It takes up space because the particles keep pushing, not because it is solid stuff.
 ### Air can be squashed · *defined*
 **Definition:** Air can be compressed, which means squashed into less space. When you let go, it spreads out again.
 
@@ -45,6 +47,8 @@ Pull back the plunger of a syringe to fill it with air. Hold a finger tight over
 - e.g. A bicycle pump squashes air into a tyre, so the tyre becomes hard.
 - e.g. A football is full of compressed air, which is why it bounces.
 - e.g. Bubble wrap pops when you squeeze it, because the squashed air bursts out.
+- **Robert Boyle:** Called air springy in 1662 and measured how squeezing it into half the space doubled its push. He thought of air as being like tiny coiled springs.
+- **Physicists after Boyle:** Explained the same result with moving particles. In less space they hit the walls more often, so the push grows.
 ### Air has weight · *defined*
 **Definition:** Air has weight. Near the ground, one litre of air weighs about 1.2 grams.
 
@@ -52,6 +56,8 @@ Air feels like nothing, but the Earth's gravity pulls on it, just as it pulls on
 - e.g. A football gets a few grams heavier when you pump more air into it.
 - e.g. A bottle of soda water gets a few grams lighter after it goes flat, because the gas has escaped.
 - e.g. The column of air above every square centimetre of the ground, from the ground up to the top of the sky, weighs about 1 kilogram.
+- **Aristotle and many after him:** Taught that air has no weight of its own, and said a blown-up bladder weighs the same as an empty one.
+- **Galileo, Torricelli and later scientists:** Weighed air in a bottle and showed it has weight. Torricelli's barometer showed the weight of air pressing on everything.
 ### What air is made of · *defined*
 **Definition:** Air is a mixture of gases. About four-fifths is nitrogen and about one-fifth is oxygen. The rest is a little argon, carbon dioxide and water vapour.
 
@@ -59,6 +65,8 @@ Air is not one thing. It is a mixture of gases, all invisible. If you could sort
 - e.g. A cold steel tumbler from the fridge gets wet on the outside, because water vapour from the air turns back into drops on it.
 - e.g. On a smoky day after Deepavali crackers, the air carries tiny bits of smoke as well as its gases.
 - e.g. Divers carry air in tanks because they need its oxygen under water.
+- **Ancient traditions:** Air is one of the basic elements, a single thing.
+- **Priestley, Scheele and Lavoisier (1770s):** Air is a mixture of different gases. One of them, oxygen, supports burning and breathing.
 ### Why we breathe · *defined*
 **Definition:** We breathe to take oxygen into our body and to get rid of carbon dioxide.
 
@@ -66,6 +74,9 @@ Every cell in your body needs energy to work. Cells get that energy from food, a
 - e.g. After running up the stairs, you breathe faster, because your working muscles need more oxygen.
 - e.g. You can stop eating for a day, but you can stop breathing only for a minute or so.
 - e.g. Fish also need oxygen. Their gills take it from air that has dissolved in the water.
+- **Aristotle:** Breathing is how the body cools the heart, which he thought was the seat of heat.
+- **Indian traditions:** Prana, the life-breath, enters the body with each breath.
+- **Lavoisier and modern biology:** Cells use oxygen to release energy from food, and breathing carries away the carbon dioxide made.
 ### Plants and air · *defined*
 **Definition:** Plants take carbon dioxide from the air to make food, using light, and give out oxygen. Like us, they also take in oxygen to use their food, day and night.
 
@@ -73,6 +84,8 @@ Plants cannot walk about to find food, so they make their own. Their leaves take
 - e.g. A money plant on a sunny window gives out oxygen in the day, and uses a little oxygen at night.
 - e.g. Seeds need air to sprout. Seeds kept deep under water for days often fail to sprout.
 - e.g. Gardeners make holes in the bottom of pots so that extra water drains away and air gets back into the soil.
+- **Jan van Helmont (1600s):** Thought a willow tree grew mostly from the water it was given.
+- **Priestley and Ingenhousz (1770s):** Showed plants change the air, and that they need light to do it. Plants make their food from air, water and light.
 ### Plants whose roots live in mud · *defined*
 **Definition:** Some plants grow where their roots sit in wet mud with very little air. They have special ways to get air down to their roots.
 
@@ -80,10 +93,14 @@ Mud under a pond or a river has almost no air in it. So a lotus has a problem: t
 - e.g. A slice of lotus stem has a ring of big holes, set out like the spokes of a wheel. They are its air canals.
 - e.g. At Pichavaram, near Chidambaram in Tamil Nadu, thousands of mangrove breathing roots stick up out of the mud.
 - e.g. Rice plants in a flooded field also have air spaces in their stems that carry air to their roots.
+- **A gardener:** Knows that a pot with no drainage lets roots rot, because roots in waterlogged soil cannot get air. To most of us, roots do not look like they breathe.
+- **Plant scientists:** Show that root cells burn food with oxygen like any other cell. Mangrove trees grow special roots that stick up out of the mud, called pneumatophores, to take in air.
 ### Where the oxygen in the air came from · *idea*
 When the Earth was young, its air had almost no oxygen. Scientists agree that the oxygen came from living things. Tiny beings in the sea, called cyanobacteria, were the first to photosynthesise and give out oxygen. Over hundreds of millions of years, oxygen built up in the air. Rocks show that this had clearly started by about 2,400 million years ago. Today plants on land and tiny floating beings in the sea, called plankton, keep making oxygen. Scientists estimate that about half of today's oxygen is made in the sea, but the exact share is still being worked out.
 - e.g. Old rocks called banded iron formations have stripes of iron rust. Many of them formed when oxygen from tiny sea beings met iron in the sea water.
 - e.g. Every breath you take holds oxygen that a plant or a tiny sea being once gave out.
+- **Most geologists:** Tiny bacteria that use light (cyanobacteria) made oxygen. It built up in the air about 2.4 billion years ago.
+- **Some researchers:** Found hints that small amounts of oxygen appeared earlier, and that it rose in steps. The exact timing is still being studied.
 
 ## Mostly agreed
 - Air is matter: it takes up space and has weight. *How we know:* A sealed bottle stops a balloon from blowing up. A flask weighs less after air is pumped out of it, and more after extra air is pumped in.
@@ -496,7 +513,7 @@ Kavya laughed, and went to fetch the sugarcane.
 2. (fill) Squashing something into less space is called ____ it.  
    **Answer:** ['compressing']. *Why:* To compress means to squash into less space. Air can be compressed. Water hardly at all.
 3. (match) Match each gas to what it does.  
-   **Answer:** Oxygen → our cells need it to get energy from food; Carbon dioxide → we breathe out more of it, and plants use it to make food; Nitrogen → makes up most of the air; Water vapour → water as a gas in the air. *Why:* These four gases are the ones that matter most in this unit. Knowing what each does explains breathing and plants.
+   **Answer:** Oxygen → our cells need it to get energy from food; Carbon dioxide → we breathe out more of it, and plants use it to make food; Nitrogen → makes up most of the air; Water vapour → water as a gas in the air. *Why:* These four gases are the ones that matter most in this lesson. Knowing what each does explains breathing and plants.
 4. (draw) Draw a glass full of chana. Use dots to show where the air is.  
    **Answer:** A glass with round chana grains, and dots in all the gaps between the grains, right down to the bottom.. *Why:* A strong drawing puts air in every gap, not only at the top. In the Full Glass test, bubbles came up from all through the glass.
 5. (sort) Sort these things. Does each one have air hiding inside it, or not?  
@@ -554,7 +571,7 @@ Kavya laughed, and went to fetch the sugarcane.
 13. (write) Many homes have a fish tank with a pump that puts bubbles of air into the water. Use what you know about how fish get oxygen to say why this helps the fish.  
    **Answer:** Fish take the oxygen that is dissolved in the water through their gills. The bubbles stir the water, so more air dissolves in it and the fish have more oxygen to take.. *Why:* A strong answer says that fish use air dissolved in water, not air in bubbles directly.
 14. (write) Astronauts on the Moon carry their own air in tanks, because the Moon has almost no air. Why do they need it? Why can a lot of air fit in a small tank?  
-   **Answer:** Their cells need oxygen to get energy from food. A lot of air fits in a small tank because air can be squashed: its particles are far apart, so they can be pushed close together.. *Why:* A strong answer uses both ideas from this unit: cells need oxygen, and air can be compressed.
+   **Answer:** Their cells need oxygen to get energy from food. A lot of air fits in a small tank because air can be squashed: its particles are far apart, so they can be pushed close together.. *Why:* A strong answer uses both ideas from this lesson: cells need oxygen, and air can be compressed.
 15. (truefalse) A plant shut in a dark, sealed jar slowly uses up the oxygen inside it.  
    **Answer:** True. *Why:* True. In the dark there is no light for photosynthesis, so the plant only uses oxygen. Every living part of a plant needs oxygen.
 ### Empty Pots and Ancient Tests (challenge) (challenge, 15 questions)
@@ -646,8 +663,8 @@ Kavya laughed, and went to fetch the sugarcane.
 - Bubbles rising when Amma pours water into rice or dal before cooking.
 - A water bottle glugging as you drink from it upside down.
 - Lotus stems in the vegetable market, with their ring of holes.
-- The breathing roots of mangroves at Pichavaram in Tamil Nadu, or in the Sundarbans in West Bengal.
-- Your breath making a cloud on a cold morning in Ooty, Shimla or Shillong.
+- The breathing roots of mangrove trees sticking up out of the mud, in a zoo or by the sea.
+- Your breath making a cloud on a cold morning.
 - Bubbles coming up from the soil when you water a dry plant pot.
 - A packet of chips puffed up with gas to stop the chips breaking.
 
@@ -693,15 +710,23 @@ Nothing Is Empty (sci.air.L3): Topic-level song for Air L3
 - [PhET Gas Properties](https://phet.colorado.edu/en/simulations/gas-properties) · simulation: A free simulation for the parent and curious older children. Pump gas particles into a box, push the wall in, and watch the particles crowd together.
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free simulation showing how particles sit close together in a solid and a liquid, and far apart in a gas.
 - [NOAA Global Monitoring Laboratory: carbon dioxide trends](https://gml.noaa.gov/ccgg/trends/) · interactive: For the parent: the daily measurements of carbon dioxide in the air at Mauna Loa, Hawaii, since 1958.
-- [Pichavaram Mangrove Forest]() · place · near Chidambaram, Tamil Nadu: One of the largest mangrove forests in India. Take a rowing boat through the channels at low tide and look for the breathing roots sticking up from the mud.
+- Pichavaram Mangrove Forest · place · near Chidambaram, Tamil Nadu: One of the largest mangrove forests in India. Take a rowing boat through the channels at low tide and look for the breathing roots sticking up from the mud.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with hands-on exhibits about air, pressure and the human body.
-- [Birla Science Centre]() · place · Hyderabad: A science museum with a planetarium. Look for exhibits on air and the body.
+- Birla Science Centre · place · Hyderabad: A science museum with a planetarium. Look for exhibits on air and the body.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits, including ones on air and pressure.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for air and pressure.
 
 ## Things to buy
 - [A plastic syringe with no needle, 10 ml or 20 ml](https://www.amazon.in/s?k=10ml+syringe+without+needle) (material): Any chemist sells them for a few rupees. Ask for one without a needle. An oral medicine syringe works too. Used in e2. 
 - [A packet of ordinary balloons](https://www.amazon.in/s?k=balloons+pack) (material): Any medium-sized balloon works. Used in a1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The String Round Your Chest: how much bigger does a breath make you?, How Heavy Is the Air in Our Room?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3, p1. Get it before The String Round Your Chest: how much bigger does a breath make you?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Full Glass: how much of a glass of chana is air?, The String Round Your Chest: how much bigger does a breath make you?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3. Get it before The Full Glass: how much of a glass of chana is air?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Air Hunt at Home: where is the air hiding?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a6. Get it before Air Hunt at Home: where is the air hiding?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Straw Water Thief: catch water with air. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a2. Get it before The Straw Water Thief: catch water with air.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Full Glass: how much of a glass of chana is air?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Full Glass: how much of a glass of chana is air?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in The Flat Soda Test: does a gas have weight?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a4. Get it before The Flat Soda Test: does a gas have weight?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Air Hunt at Home: where is the air hiding?. About ₹10 to ₹40. Small round stones or dried chana. Used in a6. Get it before Air Hunt at Home: where is the air hiding?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is an 'empty' bottle really empty? → No. It is full of air.

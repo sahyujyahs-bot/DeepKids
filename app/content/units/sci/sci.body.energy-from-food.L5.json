@@ -2991,6 +2991,79 @@
     "c1",
     "a1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?, Grown in the Dark: what does a seedling build with, when there is no light?, The Balloon Race: get the most gas from one teaspoon of sugar. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?."
+  },
+  {
+   "id": "b-a-small-funnel",
+   "item": "A small funnel",
+   "kind": "tool",
+   "why": "Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?. About ₹20 to ₹50. The top of a cut plastic bottle works.",
+   "url": "https://www.amazon.in/s?k=small+plastic+funnel",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Grown in the Dark: what does a seedling build with, when there is no light?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Grown in the Dark: what does a seedling build with, when there is no light?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Twenty Beans: where does a resting body spend its energy?, Grown in the Dark: what does a seedling build with, when there is no light?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Twenty Beans: where does a resting body spend its energy?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

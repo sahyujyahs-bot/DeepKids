@@ -553,6 +553,14 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Things to buy
 - [Citric acid crystals (nimbu sat or lemon salt), or a sachet of fruit salt]() (material): Needed for the dry mix test and the fizz challenge. Most grocery shops sell citric acid cheaply. Fruit salt from a chemist works too, because it already holds baking soda and citric acid. Used in e1, c1. Keep it in a dry, closed jar. A small packet is enough for the whole unit.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in How Small Was the First Life? A hair and a dot. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before How Small Was the First Life? A hair and a dot.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Shoebox Sea from Long Ago. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A Shoebox Sea from Long Ago.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Shoebox Sea from Long Ago. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Shoebox Sea from Long Ago.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in The Dry Mix: will the powders fizz without water?, Fizz Later: make the powder wait in water. About ₹20 to ₹40. Check the kitchen first. Used in e1, c1. Get it before The Dry Mix: will the powders fizz without water?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sea Water Sprouts: can moong sprout in water as salty as the sea?, How Small Was the First Life? A hair and a dot. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a2. Get it before Sea Water Sprouts: can moong sprout in water as salty as the sea?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Fizz Later: make the powder wait in water. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Fizz Later: make the powder wait in water.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in A Shoebox Sea from Long Ago. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before A Shoebox Sea from Long Ago.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do baking soda and citric acid fizz when they are dry? → No. They fizz only when water lets them meet.

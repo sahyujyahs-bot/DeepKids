@@ -1,9 +1,9 @@
 # Feedback loops: how bodies and machines sense, decide and correct
 `sci.body.keeping-balance.L5`
 
-**Summary.** You can balance a long stick on your palm for many seconds, but a pencil falls almost at once. Why is the short one harder? In this unit you will test sticks of three lengths, measure what your pulse does when you stand up, and find the same three-part loop in your body, in an electric iron and in a flush tank.
+**Summary.** You can balance a long stick on your palm for many seconds, but a pencil falls almost at once. Why is the short one harder? In this lesson you will test sticks of three lengths, measure what your pulse does when you stand up, and find the same three-part loop in your body, in an electric iron and in a flush tank.
 
-**Intro.** *Stand a pencil upright on your open palm and let go with the other hand. Try to keep the pencil standing. How long did it stay up? Now guess: would a stick as long as your arm be easier or harder? Say why you think so.* Most people guess that the long stick is harder, because it is bigger and heavier. You will test that guess in the Stick Test. To keep anything steady, three jobs must be done again and again. Something must notice a change. Something must decide what to do. Something must act. Your body does these three jobs for your warmth, your blood pressure and your blood sugar. An iron, a fridge and a flush tank do them too. In this unit you find the three jobs in each one, and you find out what happens when one job is missing or late.
+**Intro.** *Stand a pencil upright on your open palm and let go with the other hand. Try to keep the pencil standing. How long did it stay up? Now guess: would a stick as long as your arm be easier or harder? Say why you think so.* Most people guess that the long stick is harder, because it is bigger and heavier. You will test that guess in the Stick Test. To keep anything steady, three jobs must be done again and again. Something must notice a change. Something must decide what to do. Something must act. Your body does these three jobs for your warmth, your blood pressure and your blood sugar. An iron, a fridge and a flush tank do them too. In this lesson you find the three jobs in each one, and you find out what happens when one job is missing or late.
 
 ## Learning outcomes
 0. By the end I can name the three jobs in a feedback loop, which are sensor, control centre and effector, and say what each one does.
@@ -119,7 +119,7 @@ A thermostat has a dial, and the set point is a real position of that dial. Is t
 - **The older textbook picture:** The hypothalamus holds one set point, compares body temperature with it, and commands all the effectors, as a thermostat does.
 - **Andrej Romanovsky, physiologist (2007):** There is no single controller and no stored number. Sweating, shivering and skin blood flow are separate loops, each with its own sensors and its own switching temperature. They seem to agree only because they all respond to the same body temperature. The steady 37 degrees is what their combined action produces.
 ### Does a loop want something? · *debated*
-A thermostat acts until the room reaches 24 degrees and then stops. A bacterium swims until they reach the sugar. Both act towards an end. In 1943 Arturo Rosenblueth, Norbert Wiener and Julian Bigelow wrote that this is what purpose is: behaviour steered by negative feedback from a goal. Philosophers have argued about that ever since. A bacterium who swims towards sugar wants the sugar: every living being senses, chooses and acts. Whether the same can be said of a thermostat is a question this unit leaves open.
+A thermostat acts until the room reaches 24 degrees and then stops. A bacterium swims until they reach the sugar. Both act towards an end. In 1943 Arturo Rosenblueth, Norbert Wiener and Julian Bigelow wrote that this is what purpose is: behaviour steered by negative feedback from a goal. Philosophers have argued about that ever since. A bacterium who swims towards sugar wants the sugar: every living being senses, chooses and acts. Whether the same can be said of a thermostat is a question this lesson leaves open.
 - e.g. A dog who is hot looks for shade. A fridge that is warm runs its motor.
 - e.g. A float valve keeps a tank full with no wires, no brain and no program.
 - **Arturo Rosenblueth, Norbert Wiener and Julian Bigelow (1943):** Purposeful behaviour is behaviour controlled by negative feedback from a goal. This is true of a cat chasing a mouse and of a machine that tracks a target.
@@ -719,15 +719,15 @@ At the landing the teacher asked how long she had been steering.
 - Doctors and nurses check pulse, temperature and blood pressure because a level that has drifted shows which loop is struggling.
 
 ## Spotted around us
-- A float valve inside the black plastic water tank on a terrace in Chennai or Pune. It shuts the inlet when the tank is full.
+- A float valve inside the black plastic water tank on a terrace. It shuts the inlet when the tank is full.
 - A pressure cooker in the kitchen. Its weight lifts and lets steam out each time the pressure passes a set level.
 - A voltage stabiliser on the wall beside the fridge, clicking when the mains voltage changes.
 - The hum of the fridge starting and stopping through a quiet night.
-- A street dog panting in the shade on a May afternoon in Hyderabad. Panting is the dog's effector for losing heat.
-- A woman steering a coracle across the Kaveri at Hogenakkal, turning her paddle a little at a time as the current pushes.
+- A street dog panting in the shade on a May afternoon. Panting is the dog's effector for losing heat.
+- A person steering a round boat across a river, turning the paddle a little at a time as the current pushes.
 - A coal iron at a street ironing stall. It has no thermostat, so the person ironing tests it and adds or removes coal. The person closes the loop.
 - A small round sensor patch on the upper arm of someone with diabetes, reading glucose every few minutes.
-- A kite flyer on a rooftop at Sankranti in Ahmedabad or Hyderabad, pulling and letting out string as the kite dips and climbs.
+- A kite flyer on a rooftop, pulling and letting out string as the kite dips and climbs.
 
 ## Open questions
 - **Is there one set point for body temperature in the brain, or only many loops that add up to 37 degrees?** Nobody has found a stored number. Models with separate loops fit many measurements, but how the loops stay in step is still argued over.
@@ -783,6 +783,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [Optional: a wooden metre scale](https://www.amazon.in/s?k=wooden+metre+scale) (tool): Not needed if you have a broom handle or a walking stick. A metre scale is a good long stick for the Stick Test, and it measures as well. Stationery shops sell them. Used in e1. 
 - [Optional: a sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): Not needed. A phone timer works for every test here. A stopwatch with a lap button makes the Iron Light Test easier to time. Used in e1, e2, e3, c2. 
 - [The Way Things Work Now, a book by David Macaulay (2016)](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): For the family: large, clear drawings of how many home machines work. Used in a2. After Open or Closed?, look up one of your closed-loop machines in the book and find its sensor in the drawing.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Stick Test: which stick is easiest to balance, and what does balancing need?, Pour to the Line: eyes open, eyes shut, finger in, The Bowl That Refills Itself: a three-day water loop. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1, c1, c2. Get it before The Stick Test: which stick is easiest to balance, and what does balancing need?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Open or Closed? A loop hunt round the home. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a2. Get it before Open or Closed? A loop hunt round the home.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Bowl That Refills Itself: a three-day water loop. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in p1. Get it before The Bowl That Refills Itself: a three-day water loop.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three jobs in every feedback loop? → Sensing, deciding and acting. The parts are the sensor, the control centre and the effector.
@@ -800,10 +804,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Core: a1, e1, g1, a2, e2, ws-core
 
 ## Sources
-- Founder's notes in ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis'. The principle 'Sensors-controllers-effectors (skin, brain, sweat glands)' is the spine of this unit.
+- Founder's notes in ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis'. The principle 'Sensors-controllers-effectors (skin, brain, sweat glands)' is the spine of this lesson.
 - From the same notes: Thermostat Hunt (find household balancers) became Open or Closed?, taken further by sorting machines into loops that check their result and loops that do not. Card Dial (a card game that keeps a meter at 5) became the dice game Drift, Bang or Nudge. Body Council (people playing sensors, brain and sweat team) became the four roles in Loop Families. Feedback Loop Flipbook became the loop drawings in the worksheets.
 - Founder's philosophy line in the same notes: 'Balance is not stillness; it's gentle adjusting like a surfer staying on a wave.' This shaped the Stick Test and the story of the ferry.
-- The Class 3 and Class 4 units on keeping balance, which this unit builds on. Class 3 covered warmth and water. Class 4 covered two opposite pushes, blood sugar, delay and overshoot. This unit adds the three jobs of a loop, open and closed loops, the blood pressure loop, machines, on-off and how-much control, and loops in single cells.
+- The Class 3 and Class 4 units on keeping balance, which this lesson builds on. Class 3 covered warmth and water. Class 4 covered two opposite pushes, blood sugar, delay and overshoot. This lesson adds the three jobs of a loop, open and closed loops, the blood pressure loop, machines, on-off and how-much control, and loops in single cells.
 - Combined lesson sci-C5-body-parts-and-skeleton ('Notice, act, check, stop: this is called a feedback loop'), for coverage only.
 - Cannon, W. B. (1932) The Wisdom of the Body. Cannon introduced the word homeostasis in the 1920s.
 - Bernard, C. (1865) Introduction à l'étude de la médecine expérimentale (the inner environment)

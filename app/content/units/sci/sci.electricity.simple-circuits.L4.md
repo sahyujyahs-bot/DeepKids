@@ -1,9 +1,9 @@
 # Bulbs in a row and bulbs side by side: how the layout of a circuit changes what each part gets
 `sci.electricity.simple-circuits.L4`
 
-**Summary.** Take one bulb out of a string of bulbs and either all go dark or the rest stay lit. Which, and why? In this unit you will build bulbs in a row and side by side, draw circuit diagrams, and test a bulb and an LED both ways round.
+**Summary.** Take one bulb out of a string of bulbs and either all go dark or the rest stay lit. Which, and why? In this lesson you will build bulbs in a row and side by side, draw circuit diagrams, and test a bulb and an LED both ways round.
 
-**Intro.** *Try this with a grown-up. Light one torch bulb with two AA cells. Now put a second bulb into the same loop, one after the other. Both bulbs still glow, but each one is much dimmer than the single bulb was. The cells did not change. Where did the brightness go?* The way the wires are laid out decides how the push of the cells is shared between the bulbs. In this unit you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747. That guess is why the arrow in every circuit diagram points the opposite way to the electrons.
+**Intro.** *Try this with a grown-up. Light one torch bulb with two AA cells. Now put a second bulb into the same loop, one after the other. Both bulbs still glow, but each one is much dimmer than the single bulb was. The cells did not change. Where did the brightness go?* The way the wires are laid out decides how the push of the cells is shared between the bulbs. In this lesson you build circuits with bulbs in a row and bulbs side by side, and you score how bright each bulb is. You unscrew one bulb to see which circuit keeps working. You find out why a bulb's thin filament glows and why a fuse is meant to melt. You also test an LED, which works only one way round. And you learn about a guess made in 1747. That guess is why the arrow in every circuit diagram points the opposite way to the electrons.
 
 ## Learning outcomes
 0. I can build a series circuit and a parallel circuit with two or three bulbs, and say how bright the bulbs are in each.
@@ -690,10 +690,14 @@ One Path or Many Paths (sci.electricity.L4): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with a gallery on electricity and exhibits about how power reaches a city.
 
 ## Things to buy
-- [A school electric circuit kit: a holder for 2 AA cells, wires with crocodile clips, and a switch](https://www.amazon.in/s?k=electric+circuit+kit+for+school+crocodile+clips) (tool): Every experiment in this unit needs cells in a holder and wires with clips. Stationery shops, science shops and online sellers have them, and an electrical shop sells loose wire. Used in e1, e2, a1, a2, p1, c1. 
+- [A school electric circuit kit: a holder for 2 AA cells, wires with crocodile clips, and a switch](https://www.amazon.in/s?k=electric+circuit+kit+for+school+crocodile+clips) (tool): Every experiment in this lesson needs cells in a holder and wires with clips. Stationery shops, science shops and online sellers have them, and an electrical shop sells loose wire. Used in e1, e2, a1, a2, p1, c1. 
 - [Torch bulbs of 2.5 volts, with bulb holders](https://www.amazon.in/s?k=2.5v+torch+bulb+with+holder) (material): Three are needed for Bulb Teams and the festival string. Bulbs rated 2.5 volts glow well on two AA cells. Buy a few extra, because bulbs can fail. Used in e1, p1, c1. 
 - [Red LEDs (5 millimetres) and CR2032 coin cells](https://www.amazon.in/s?k=5mm+red+led+and+cr2032+battery) (material): For Which Way Round. A coin cell lights an LED directly, with no extra part. Keep coin cells away from children under five, because swallowing one is dangerous. Used in e2. 
 - [Fine steel wool and a 9 volt battery](https://www.amazon.in/s?k=fine+steel+wool+and+9v+battery) (material): For the grown-up fuse demonstration. Steel wool is sold with kitchen cleaning goods, and a 9 volt battery in any electrical or stationery shop. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Draw It Like an Engineer: circuit diagrams, Pencil Dimmer: slide the clip, change the glow, Build a Three-Bulb Festival String. About ₹10 to ₹30. Any school ruler is fine. Used in a1, a2, p1. Get it before Draw It Like an Engineer: circuit diagrams.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Three-Bulb Festival String. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Build a Three-Bulb Festival String.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Be the Festival Lights: a human circuit. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4. Get it before Be the Festival Lights: a human circuit.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a circuit with only one path called? → A series circuit.
@@ -716,7 +720,7 @@ One Path or Many Paths (sci.electricity.L4): Topic-level song
 - ideas/by_topic/electricity-and-staying-safe-with-it.md: SCI Cards for Rajeshwari Chatterjee and Michael Faraday (credit and context)
 - combined/sci-C4-electricity-and-staying-safe-with-it.json: the Class 4 combined lesson on circuits, switches and safety, used for the idea of circuit diagrams, the symbols, and the series and parallel changes. Its story is not reused
 - Cambridge Primary Science Stage 4 Unit 6 pack (cambridge/sci-L4-06.json): coverage only on switches and on changing the number of components in a circuit. No text copied
-- The Class 3 unit on simple circuits, which this unit builds on: a complete loop, conductors, a switch. This unit does not repeat its tests
+- The Class 3 unit on simple circuits, which this lesson builds on: a complete loop, conductors, a switch. This lesson does not repeat its tests
 - Franklin, B., letter to Peter Collinson, 1747, printed in Experiments and Observations on Electricity, London, 1751 (plus and minus, and the guessed direction)
 - Thomson, J. J., Philosophical Magazine 44, 1897 (discovery of the electron, a particle with the opposite charge to Franklin's plus)
 - Poynting, J. H., Philosophical Transactions of the Royal Society 175, 1884 (the flow of energy in the space around a wire)

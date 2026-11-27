@@ -1,9 +1,9 @@
 # Air pushes: why a card holds up a glass of water, and nothing really sucks
 `sci.air.air-around-us.L4`
 
-**Summary.** Why does a card stay on an upside-down glass of water, with nothing gluing it? The air is pushing it. In this unit you will do that trick, test a bottle with a hole and a straw with a hole, and watch a bottle squash itself.
+**Summary.** Why does a card stay on an upside-down glass of water, with nothing gluing it? The air is pushing it. In this lesson you will do that trick, test a bottle with a hole and a straw with a hole, and watch a bottle squash itself.
 
-**Intro.** *Fill a glass to the brim and slide a card over it. Hold the card and turn the glass upside down. Now take your hand away. The card does not fall. The water does not fall. What is holding it up?* There is no glue, no magnet and no hand. Something you cannot see is pushing the card up from below, and it is strong enough to hold a glass of water. In this unit you find out what it is. You test a bottle with a hole, a straw with a hole and a bottle that crushes itself. You also find out how people first proved that air has a push, and why it lifts water only ten metres and no more.
+**Intro.** *Fill a glass to the brim and slide a card over it. Hold the card and turn the glass upside down. Now take your hand away. The card does not fall. The water does not fall. What is holding it up?* There is no glue, no magnet and no hand. Something you cannot see is pushing the card up from below, and it is strong enough to hold a glass of water. In this lesson you find out what it is. You test a bottle with a hole, a straw with a hole and a bottle that crushes itself. You also find out how people first proved that air has a push, and why it lifts water only ten metres and no more.
 
 ## Learning outcomes
 0. I can explain that air pushes on everything it touches, from every direction, with about 1 kilogram of push on each square centimetre.
@@ -686,6 +686,11 @@ Nothing Is Empty (sci.air.L4): Topic-level song for Air
 - [A rubber suction hook for a bathroom tile](https://www.amazon.in/s?k=suction+cup+hook+bathroom) (tool): For the Suction Hook test. A small one from a hardware shop is enough, about Rs 30 to 80. Used in a3. 
 - [A clear plastic tube about 1 metre long](https://www.amazon.in/s?k=aquarium+air+tube+silicone) (material): For the siphon challenge. Aquarium air tubing from a pet shop works well. It costs about Rs 20 to 50. Used in c1. 
 - [A small pack of sewing needles or a compass for making small holes](https://www.amazon.in/s?k=geometry+compass+box) (tool): A grown-up uses it to make the holes in the bottle and straws. Most homes already have a sewing needle, and a compass from a geometry box also works. Used in e1, a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Suction Hook: how much can the air hold?, Hill Station Bottle: if you go up a hill, or fly, A Jar Barometer: watch the air's push for a week. About ₹10 to ₹30. Any school ruler is fine. Used in a3, a4, p1. Get it before The Suction Hook: how much can the air hold?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Suction Hook: how much can the air hold?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before The Suction Hook: how much can the air hold?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in A Jar Barometer: watch the air's push for a week. About ₹20 to ₹60. Used in p1. Get it before A Jar Barometer: watch the air's push for a week.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Card on the Glass: what holds it up?. About ₹5 to ₹20. Cut card from a cereal box. Used in a1. Get it before The Card on the Glass: what holds it up?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how hard does air push at sea level? → About 1 kilogram on each square centimetre.
@@ -704,7 +709,7 @@ Nothing Is Empty (sci.air.L4): Topic-level song for Air
 
 ## Sources
 - Founder's notes in ideas/by_topic/gases-evaporation-condensation-solutions.md: the jar-and-balloon barometer, the idea of air pressure as an invisible weight and the pressure-gradient play, used in the Jar Barometer project and the card game
-- The Class 3 unit on air around us, which this unit builds on: air takes up space and has weight, now extended to the push it makes in every direction
+- The Class 3 unit on air around us, which this lesson builds on: air takes up space and has weight, now extended to the push it makes in every direction
 - The Class 3 unit on wind and air, for the idea that wind blows from higher to lower pressure
 - NCERT and Cambridge primary science chapters on air, for coverage only. Their text is not copied
 - Torricelli, E., letter to Michelangelo Ricci, 11 June 1644, describing the mercury experiment done in 1643 by Viviani

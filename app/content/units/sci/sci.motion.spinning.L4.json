@@ -473,14 +473,18 @@
     "source": "Tao Te Ching 11",
     "teaching": "Thirty spokes meet in one hub, but it is the empty space in the hub that makes the wheel useful.",
     "link": "At the middle of the whirler there is only a hole in a pen. Yet the pull on the bag points to that empty hole all the time. The empty middle is what the whole circle is built around.",
-    "verse": ["三十輻共一轂，當其無，有車之用。"],
+    "verse": [
+     "三十輻共一轂，當其無，有車之用。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Rig Veda 1.164.11",
     "teaching": "The ancient singers of the Rig Veda spoke of a wheel with twelve spokes that turns round the sky and does not wear out. They saw the turning of the sky as a wheel of order.",
     "link": "Today we know that a pull towards a middle keeps the Moon and the planets going round, year after year, just like the bag on a string.",
-    "verse": ["द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"],
+    "verse": [
+     "द्वादशारं नहि तज्जराय वर्वर्ति चक्रं परि द्यामृतस्य ।"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -3029,6 +3033,69 @@
     "e2",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before The Whirler: how fast must a bag go round for each size of pull?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Get it before The Whirler: how fast must a bag go round for each size of pull?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Whirler: how fast must a bag go round for each size of pull?, Coins on the Turntable: which one slides off first?, Planets on a String: do far planets go round slower?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Whirler: how fast must a bag go round for each size of pull?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Coins on the Turntable: which one slides off first?, The Coin Keeper: keep three coins on a plate at one turn a second. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before Coins on the Turntable: which one slides off first?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

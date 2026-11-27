@@ -1,7 +1,7 @@
 # How animals breathe and find their food
 `sci.animals.animal-bodies.L3`
 
-**Summary.** Why do you breathe faster after you run, and how does a fish breathe under water? In this unit you will count your breaths before and after jumping, make a bottle lung, test your breath with limewater made from chuna, and find hidden smells like an animal does.
+**Summary.** Why do you breathe faster after you run, and how does a fish breathe under water? In this lesson you will count your breaths before and after jumping, make a bottle lung, test your breath with limewater made from chuna, and find hidden smells like an animal does.
 
 **Intro.** *Try this. Hold a steel tumbler close to your mouth and breathe out on it slowly, three times. What appears on the steel? Your breath carries something out of your body. A fish breathes too, but under water. How does a fish do that?* In summer, when village ponds in Bengal and Assam dry up, people sometimes dig in the damp mud and find fish still alive. One of them, the climbing perch, can live out of water for hours if they stay damp. They can even wriggle across wet grass to the next pond. They can do this because they breathe air as well as water. How does a fish breathe air? And how does any animal, in water, mud or sky, get the oxygen and the food they need?
 
@@ -169,7 +169,7 @@ We have seen what is in our breath, and how animals breathe and find food. Now w
 
 Plants use the Sun's light to join carbon dioxide and water into food, and they give out oxygen. Animals find that food with their senses, and take in that oxygen with lungs, gills or skin. Their cells join the two again, take out the energy, and breathe out carbon dioxide and water. Plants take those back in and use them again. So one circle of the same carbon, water and oxygen runs through every plant and animal, driven by the Sun.
 
-- **Taittiriya Upanishad 3.2 and 3.3:** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” The boy Bhrigu asks his father Varuna what the source of everything is. Bhrigu first understands that food is that source: from food all beings are born, by food they live, and into food they return. Then he understands that breath, prana, is the source too. (In this unit, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath.)
+- **Taittiriya Upanishad 3.2 and 3.3:** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” The boy Bhrigu asks his father Varuna what the source of everything is. Bhrigu first understands that food is that source: from food all beings are born, by food they live, and into food they return. Then he understands that breath, prana, is the source too. (In this lesson, food and breath meet in every cell. Your body is built from food, it uses oxygen to get energy from that food, and part of the food goes back out in your breath.)
 - **Bhagavad Gita 3.14 to 3.16:** “अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। / यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।। / कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्। / तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।। / एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः। / अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।” Krishna says that beings come from food, and food comes from rain. He calls this a wheel that keeps turning, in which each part gives to the next. (Science finds a circle too. Plants make food from rain water, air and light. Animals eat it, and breathe out the carbon dioxide that plants use to make more food.)
 - Science (settled): Almost all the oxygen in the air was made by living things that use sunlight: tiny living things in the sea first, more than two billion years ago, then plants. Today, roughly half still comes from tiny algae in the sea.
 - Science (settled): The tiny parts inside our cells that use oxygen, called mitochondria, came from bacteria that started living inside bigger cells long ago.
@@ -757,7 +757,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - Earthworms on paths and roads after monsoon rain.
 - Frogs calling near ponds in the monsoon, their throats puffing in and out.
 - A line of ants marching to a dropped sweet.
-- Mudskippers hopping on the mud in mangroves, in places like the Sundarbans and Bhitarkanika.
+- Mudskippers hopping on the mud of a mangrove shore.
 - Bats swooping round street lights at dusk, catching insects.
 - Kites and eagles circling high over towns, looking for food with sharp eyes.
 - Air bubbles from pumps in fish ponds and aquarium shops.
@@ -811,13 +811,22 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about the human body and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for the galleries about the human body and biology.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries on life and the body.
-- [Vikramshila Gangetic Dolphin Sanctuary]() · place · Bhagalpur, Bihar: A stretch of the Ganga protected for river dolphins. With luck you can see them come up to breathe.
-- [Keoladeo National Park]() · place · Bharatpur, Rajasthan: A wetland where many birds, including some bar-headed geese, spend the winter. Watch herons, storks and kingfishers finding food.
+- Vikramshila Gangetic Dolphin Sanctuary · place · Bhagalpur, Bihar: A stretch of the Ganga protected for river dolphins. With luck you can see them come up to breathe.
+- Keoladeo National Park · place · Bharatpur, Rajasthan: A wetland where many birds, including some bar-headed geese, spend the winter. Watch herons, storks and kingfishers finding food.
 
 ## Things to buy
 - [Edible chuna (lime paste), a small tub](https://www.amazon.in/s?k=edible+chuna+lime+paste) (material): Used to make limewater for the breath test. Paan shops sell it too. Used in e2. 
 - [A pack of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the bottle lung model. Used in a2. 
 - [What Do You Do with a Tail Like This? by Steve Jenkins and Robin Page](https://www.amazon.in/s?k=What+Do+You+Do+with+a+Tail+Like+This+Steve+Jenkins) (book): A picture book on how animals use their noses, ears, eyes, mouths, feet and tails, many of them to find food. Used in a5, a7, c1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Ant Detectives: which food do ants find first?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e3. Get it before Ant Detectives: which food do ants find first?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Build a Filter-Feeder's Sieve. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c2. Get it before Build a Filter-Feeder's Sieve.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Breath on a Steel Tumbler. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Breath on a Steel Tumbler.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Design a River-Bottom Hunter. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Design a River-Bottom Hunter.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Mouth Tools Buffet. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a7. Get it before Mouth Tools Buffet.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Build a Filter-Feeder's Sieve. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before Build a Filter-Feeder's Sieve.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Mouth Tools Buffet. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a7. Get it before Mouth Tools Buffet.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Breath on a Steel Tumbler. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a1. Get it before Breath on a Steel Tumbler.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Fish breathe with ____. → gills

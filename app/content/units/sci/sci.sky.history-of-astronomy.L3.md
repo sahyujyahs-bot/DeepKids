@@ -1,9 +1,9 @@
 # How people learned about the sky, and made clocks and calendars from it
 `sci.sky.history-of-astronomy.L3`
 
-**Summary.** How did people tell the time at night before clocks? In this unit you will build a sinking cup water clock like the old Indian ghati and time it three times to see how steady it is. You will also draw a day of 60 nazhigai and test your sense of a minute.
+**Summary.** How did people tell the time at night before clocks? In this lesson you will build a sinking cup water clock like the old Indian ghati and time it three times to see how steady it is. You will also draw a day of 60 nazhigai and test your sense of a minute.
 
-**Intro.** *Close your eyes. Say 'now' when you think one minute has passed. A grown-up checks with a clock. Were you early or late? Before clocks, how did people know the time at night?* Your own sense of time drifts, so people looked for something steadier. They found it in the sky. The Sun rises again every morning. The Moon grows full about every 29 and a half days. The seasons come round again every 365 days. People counted these repeats and made calendars. They made water clocks to count the hours between sunset and sunrise. In this unit you make a sinking cup clock, test how steady it is, and meet the sky-watchers who taught the world to count time.
+**Intro.** *Close your eyes. Say 'now' when you think one minute has passed. A grown-up checks with a clock. Were you early or late? Before clocks, how did people know the time at night?* Your own sense of time drifts, so people looked for something steadier. They found it in the sky. The Sun rises again every morning. The Moon grows full about every 29 and a half days. The seasons come round again every 365 days. People counted these repeats and made calendars. They made water clocks to count the hours between sunset and sunrise. In this lesson you make a sinking cup clock, test how steady it is, and meet the sky-watchers who taught the world to count time.
 
 ## Learning outcomes
 0. I can name the three repeats in the sky that give us the day, the month and the year, and say how long each one takes.
@@ -92,7 +92,7 @@ The Maya watched Venus very closely. Venus appears as a bright morning star, dis
 **Definition:** A water clock or a calculated table drifts a little from the truth over time. The sky's repeats are much steadier, so people corrected their clocks and calendars by watching the sky.
 
 A ghati bowl sinks a little faster or slower if the water is warmer, if the hole wears or if it is put down roughly. So astronomers checked it against the Sun and stars. Calculated tables of the sky drift too. Small errors in the numbers add up over hundreds of years. Parameshvara, in Kerala, saw that eclipses were not happening at the times the old tables said. He watched eclipses for decades and wrote a new, corrected system in 1431. Until 1967, even the length of the second came from the Earth's movement. Since then, it has been measured with atomic clocks, which are steadier still.
-- e.g. The sinking cup in this unit sinks in a slightly different time each round.
+- e.g. The sinking cup in this lesson sinks in a slightly different time each round.
 - e.g. Old tables made in 683 had drifted from the sky by the 1400s, and Parameshvara corrected them.
 - e.g. Since 1972, a leap second has sometimes been added to clocks, because the Earth's spin is not perfectly steady.
 ### Why do we count minutes in sixties? · *idea*
@@ -639,7 +639,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 14. (mcq) To work out the size of the whole Earth, what did Eratosthenes need?  
    Options: The angle of a noon shadow in one town, and the distance to another town where there was no shadow / A telescope and a ship / The weight of the Earth  
    **Answer:** The angle of a noon shadow in one town, and the distance to another town where there was no shadow. *Why:* The difference in the Sun's angle between two towns, and the distance between them, tell you what part of the Earth's circle lies between them. From that, he worked out the whole circle.
-15. (write) Choose one sky-watcher from this unit. Write three questions you would ask them if you could meet them, and say why you chose them.  
+15. (write) Choose one sky-watcher from this lesson. Write three questions you would ask them if you could meet them, and say why you chose them.  
    **Answer:** Any three real questions, for example to Parameshvara: How did you record the time of an eclipse? Were you ever wrong? Why did you keep watching for 55 years?. *Why:* A strong answer asks questions that show what the child knows about the person's work.
 
 ## Videos
@@ -697,7 +697,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 - The panchangam or calendar on your kitchen wall, with Pournami and Amavasya marked.
 - The word 'ghadi' on a watch shop sign, which comes from the ghati water clock.
 - The 60 little marks on a clock face, the Babylonian way of counting.
-- Jantar Mantar in Delhi and Jaipur, giant stone instruments for measuring the sky.
+- Giant stone instruments for measuring the sky, in a park or in a picture.
 - Karthigai Deepam lamps lit on the full Moon in Krittika, in homes and on the hill at Tiruvannamalai.
 - The new crescent Moon that families watch for to begin and end Ramzan.
 - Your balcony: the Sun setting in a slightly different place each week.
@@ -753,6 +753,14 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 
 ## Things to buy
 - [A small pack of plain plastic cups, about 150 to 200 ml](https://www.amazon.in/s?k=plastic+disposable+cups+200+ml) (material): The sinking cup clock needs a light plastic cup that will not go soft. A clean curd or ice-cream cup works too, if you have one. Packs are sold in any general store. Used in e1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Sinking Cup Clock: does it sink in the same time every round?, The Leaking Bottle Clock: does water run out at the same speed all the way?, How Long Is a Minute? Test your own sense of time. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e3, a1, c1. Get it before The Sinking Cup Clock: does it sink in the same time every round?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?, The Leaking Bottle Clock: does water run out at the same speed all the way?, A Day of 60 Nazhigai: draw the old Indian day wheel. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a2, a4. Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Eratosthenes on the Phone: compare noon shadows with someone in another city, Be a Babylonian Sky-Writer: tonight's sky on a dough tablet. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a4, a5. Get it before Eratosthenes on the Phone: compare noon shadows with someone in another city.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Window Calendar: does the Sun set in the same place every day?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before The Window Calendar: does the Sun set in the same place every day?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e2. Get it before The Fist Ruler: does a child's fist measure the same piece of sky as a grown-up's?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Be a Babylonian Sky-Writer: tonight's sky on a dough tablet. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a5. Get it before Be a Babylonian Sky-Writer: tonight's sky on a dough tablet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does one turn of the Earth give us? → One day and night.

@@ -1,9 +1,9 @@
 # Air resistance, water resistance and upthrust: what slows a thing down, and what holds it up
 `sci.forces.air-water-resistance.L5`
 
-**Summary.** A loaded box on a table needs several spoonfuls of rice to start sliding. Float the same box in water, and one paper clip pulls it across. Why? In this unit you will find the smallest pull that moves a floating box, race shapes of dough through water, and test a parachute with a hole.
+**Summary.** A loaded box on a table needs several spoonfuls of rice to start sliding. Float the same box in water, and one paper clip pulls it across. Why? In this lesson you will find the smallest pull that moves a floating box, race shapes of dough through water, and test a parachute with a hole.
 
-**Intro.** *A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.* Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this unit you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.
+**Intro.** *A lunch box holds two katoris of raw rice. It floats in a bucket of water. Could one hanging paper clip pull it across the water? Say yes or no, and say why.* Most people say no, because the box feels heavy in the hand. In the experiment Table or Tub you test it. You pull the same loaded box on a table and then on water. You pull the same loaded box on a table and then on water. Each time you count how many spoonfuls of rice, or how many paper clips, it takes to start the box moving. In this lesson you find out why water lets a heavy thing start so easily. You also find out why water and air push back hard on anything fast. Then you use both ideas to design a parachute.
 
 ## Learning outcomes
 0. By the end I can name friction, air resistance, water resistance and upthrust, and say which way each one acts.
@@ -816,12 +816,12 @@ That evening she lay on the planks and put one finger against the edge of the to
 ## Spotted around us
 - A pigeon fanning her tail and spreading her wings in the last second before she lands on a ledge.
 - A shuttlecock that leaves the racket very fast, slows quickly and drops almost straight down.
-- A ferry tied to the jetty with thick ropes at Fort Kochi or at Mumbai's ferry wharf.
+- A ferry tied to the jetty with thick ropes.
 - Silk cotton fluff drifting slowly down a street in summer, each tuft carrying one seed.
 - A plastic or brass kudam floating on the water of a well until it tips, fills and sinks.
 - The long sloping nose of a Vande Bharat train at a station platform.
 - The V-shaped wake behind a duck on a pond, or behind a fishing boat leaving a harbour.
-- A round coracle carrying people across the Kaveri at Hogenakkal. A round boat meets more water resistance than a long, narrow one, so a coracle is slow.
+- A round boat carrying people across a river. A round boat meets more water resistance than a long, narrow one, so a round boat is slow.
 
 ## Open questions
 - **Can the equations for moving air and water always be solved?** They were written about two hundred years ago. For swirling, turbulent flow nobody has found exact answers, or proved that exact answers always exist.
@@ -868,12 +868,16 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online model. Push a crate with and without friction, and see that balanced forces mean a steady speed.
 - [PhET Under Pressure](https://phet.colorado.edu/en/simulations/under-pressure) · simulation: A free online model. Lower a pressure gauge into a tank and see that deeper water presses harder.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with engines, aircraft and hands-on exhibits about forces and fluids.
-- [INS Kursura Submarine Museum]() · place · Visakhapatnam: A real submarine on the beach that you can walk through. Look for the tanks that took in water to dive.
+- INS Kursura Submarine Museum · place · Visakhapatnam: A real submarine on the beach that you can walk through. Look for the tanks that took in water to dive.
 - [Science City](https://sciencecitykolkata.org.in) · place · Kolkata: A large science centre with exhibits on motion, water and air.
 
 ## Things to buy
 - [A small box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips) (material): One to five clips are the tiny weights in Table or Tub. Small safety pins from the house work just as well. Used in e1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): Clay keeps its shape in water better than dough. Stiff atta dough from the kitchen also works, so this is only if you want it. Used in e2, c1, c2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Sinking Race: which shape of dough sinks fastest?, A Hole in the Parachute: does a vent change the fall?, The Parachute Trial: design, test and improve a parachute in three days. About ₹150 to ₹400. A phone stopwatch works well. Used in e2, e3, p1, c1. Get it before The Sinking Race: which shape of dough sinks fastest?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Table or Tub: how small a pull can start a loaded box?, The Sinking Race: which shape of dough sinks fastest?, A Hole in the Parachute: does a vent change the fall?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a4, p1, c1, c2. Get it before Table or Tub: how small a pull can start a loaded box?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in A Hole in the Parachute: does a vent change the fall?, Three Bottles: which one gets the biggest upthrust?, The Parachute Trial: design, test and improve a parachute in three days. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e3, a1, p1. Get it before A Hole in the Parachute: does a vent change the fall?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which force from water acts on a boat that is standing still? → Upthrust. Water resistance acts only when the boat moves.
@@ -894,7 +898,7 @@ Name the Force, Draw the Arrow (sci.forces.L5): Topic-level song for Forces L5
 - Founder's notes in ideas/by_topic/forces-and-movement.md, 'Concept activities: Buoyant Force' and 'Drag & Lift': float objects to test buoyancy, run with an umbrella to feel drag, make a simple parachute, and the thought 'resistance and support come from the same medium; motion shapes the forces we feel'. Used in Three Bottles, Newspaper on Your Chest, A Hole in the Parachute, the Parachute Trial and the roots.
 - Founder's notebook items phy:179 (buoyant force) and phy:180 (drag, lift), and the Air Resistance activities 'drop crumpled and normal paper' and 'make a paper parachute'.
 - Cambridge Primary Science Learner's Book 5, Unit 5.3 'Friction, air resistance, water resistance and upthrust', for coverage only: the four forces, force diagrams, the race of clay shapes through water, and the fair test of two parachutes with repeats and a mean.
-- The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This unit's parachute test changes the vent, which none of them tests.
+- The finished units sci.forces.friction.L5, sci.gravity.weight-and-mass.L5, sci.forces.flight.L3 and L4, sci.gravity.falling.L3 and L4 and sci.states.floating-and-sinking.L2 and L4. Their experiments and stories are not repeated. This lesson's parachute test changes the vent, which none of them tests.
 - Archimedes, On Floating Bodies, about 250 BCE (the upthrust on a body equals the weight of the fluid it displaces)
 - Stevin, S., De Beghinselen des Waterwichts, 1586 (the argument that water at rest holds up any part of itself)
 - Newton, I., Philosophiae Naturalis Principia Mathematica, 1687 (the first law of motion, and Book II on resistance in fluids)

@@ -1,7 +1,7 @@
 # Animals without backbones: how soft bodies hold their shape
 `sci.animals.invertebrates.L3`
 
-**Summary.** Most animals have no backbone at all, so how does a soft worm keep its shape? In this unit you will count the animals that share your home, test how water keeps a worm firm, tell insects from spiders by counting legs, and make a jellyfish in a bottle.
+**Summary.** Most animals have no backbone at all, so how does a soft worm keep its shape? In this lesson you will count the animals that share your home, test how water keeps a worm firm, tell insects from spiders by counting legs, and make a jellyfish in a bottle.
 
 **Intro.** *Bend forward and ask someone to run a finger gently down the middle of your back. Can you feel the row of bumps? Now think of an earthworm. Where are their bumps?* The bumps you felt are your backbone. It is a chain of small bones that holds you up. A worm has no backbone at all. Neither does a snail, a spider or an ant. Yet a worm can push through hard soil, and an ant can carry a crumb heavier than themself. So how do they hold their bodies up? And here is a surprise. If you counted every kind of animal on Earth, most of them would have no backbone.
 
@@ -178,7 +178,7 @@ We have been learning how animals without backbones hold their soft bodies in sh
 
 All animals come from soft animals that lived in the sea more than 550 million years ago. From those first soft bodies came worms, snails, insects, starfish, fish and you. Each line of animals found its own way to hold a soft body in shape: liquid held in, a shell, armour outside, or bones inside. So a worm, a crab and you are relatives who solved the same problem in different ways.
 
-- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation):** “सव्वे पाणा पियाउया / सुह-साया दुक्ख-पडिकूला / अप्पिय-वहा पिय-जीविणो जीविउ-कामा / सव्वेसिं जीवियं पियं” All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures. (In this unit, crabs guarded hurt legs and an octopus stayed away from a place where they were hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain.)
+- **Acaranga Sutra, Book 1, Lecture 2, Lesson 3 (a Jain scripture, in Hermann Jacobi's translation):** “सव्वे पाणा पियाउया / सुह-साया दुक्ख-पडिकूला / अप्पिय-वहा पिय-जीविणो जीविउ-कामा / सव्वेसिं जीवियं पियं” All beings are fond of life. They like pleasure and dislike pain. To all, life is dear. This is why Jain monks walk softly and sweep the ground ahead of them, so as not to step on tiny creatures. (In this lesson, crabs guarded hurt legs and an octopus stayed away from a place where they were hurt. The Jain teaching said long ago what these tests now show: small animals dislike pain.)
 - **Zhuangzi, chapter 2, the butterfly dream (a Chinese Taoist book):** “昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。 / 俄然覺，則蘧蘧然周也。 / 不知周之夢爲胡蝶與？ / 胡蝶之夢爲周與？” Zhuangzi dreamed he was a butterfly, happily flying about. When he woke up, he wondered: was he a man who had dreamed he was a butterfly, or a butterfly now dreaming he was a man? (We can watch what an ant or a butterfly does, but we cannot step inside their body to feel what they feel. In the dream, Zhuangzi imagines being a butterfly. Then he is not sure which one he really is. It shows how hard it is to know what it is like to be a different creature.)
 - Science (settled): All animals share one ancestor. Starfish, sea urchins and vertebrates are on one big branch of the family tree, so a starfish is a closer cousin of ours than a snail is.
 - Science (debated): In 2021, a review of more than 300 studies found strong evidence that crabs, lobsters, octopuses and squid feel pain. What an ant or a worm feels from the inside is still not known.
@@ -683,7 +683,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **general:** Make an inchworm. Fold a strip of paper into a zigzag. Pull a thread through it to squash it, then let go so it springs out. Tape a little sandpaper or a rubber band under the back end, so it grips while the front slides.; Copy the worm's bristles. Stick short pieces of a toothbrush or stiff paper fringe underneath, all leaning backwards. They slide forwards but catch backwards, so each push moves the worm one way.; Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. The sock bunches up and stretches out, again and again.
 - **creative:** Scrunch the paper cover of a drinking straw down into a tight wiggly worm. Put it on a plate and add one drop of water. The wet paper swells and opens out, so the worm stretches. A real worm stretches by squeezing the liquid inside, not by soaking it up.; Robot makers build soft robots that move like worms and octopus arms. Some are pumped full of air or liquid and then sealed, like the capped bottles in the Water Bones experiment.; Could your worm move along a tube or a hose, the way a worm moves through soil?
 - **s1 (3 min)**  
-  *Parent does:* Watch an earthworm move, or watch the video 'Exploring Invertebrates: How Do Earthworms Move?' in this unit. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.  
+  *Parent does:* Watch an earthworm move, or watch the video 'Exploring Invertebrates: How Do Earthworms Move?' in this lesson. Remember how the water rose up the bottle neck when you squeezed it in Water Bones.  
   *Parent says:* A worm squeezes to stretch forward, then pulls up their back end. Tiny bristles stop them sliding backwards. Can we copy that?  
   *Child mode:* A worm squeezes, stretches, grips and pulls. Can you copy that with paper?
 - **s2 (7 min)**  
@@ -876,10 +876,10 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - Snails and slugs on compound walls after the first monsoon rain.
 - Earthworms on the road on a rainy morning.
 - A round spider web on a hibiscus bush, sparkling with dew.
-- Crabs running sideways into holes on a beach at low tide, like at Juhu or Marina Beach.
+- Crabs running sideways into holes on a beach at low tide.
 - Woodlice curled into balls under a flowerpot.
-- Prawns, crabs and clams at a fish market, in Kochi, Mangaluru, Kolkata or Mumbai.
-- Starfish and sea anemones in rock pools at low tide, at places like Narara in Gujarat or the coast of Goa.
+- Prawns, crabs and clams at a fish market.
+- Starfish and sea anemones in rock pools at low tide.
 - Fireflies blinking in bushes on a warm night.
 - An empty cicada skin stuck to a tree trunk.
 
@@ -938,6 +938,12 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [A magnifying glass, or a bug viewer box with a lens in the lid (optional)](https://www.amazon.in/s?k=bug+viewer+magnifying+box+kids) (tool): To look closely at legs, body parts and tube feet without touching the animal. Used in a1, a2, a3. 
 - [Small rubber suction cups with hooks, a pack of 4 or more](https://www.amazon.in/s?k=small+suction+cup+hooks) (material): For the Many Small Suckers experiment, to model a starfish's tube feet. Used in e3. 
 - [A picture guide to Indian insects, spiders or seashore life](https://www.amazon.in/s?k=insects+of+india+field+guide) (book): To name what you find in the Backbone Census and on walks. Used in a1, a2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Armour That Can Grow. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before Armour That Can Grow.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Water Bones: how does a worm stay firm?, Armour That Can Grow, Crawl Without Legs. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c1, c2. Get it before Water Bones: how does a worm stay firm?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Jellyfish in a Bottle. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a4. Get it before Jellyfish in a Bottle.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Grow Out of Your Armour: act out a moult. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5. Get it before Grow Out of Your Armour: act out a moult.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Bottle Wormery: watch worms mix the soil. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Bottle Wormery: watch worms mix the soil.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Backbone or no backbone: an earthworm? → No backbone. They are held firm by liquid held tight inside them.

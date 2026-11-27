@@ -1,9 +1,9 @@
 # Life beyond Earth: how scientists look for signs of life on faraway worlds
 `sci.sky.life-beyond-earth.L4`
 
-**Summary.** No telescope can see a creature on a planet trillions of kilometres away. So how do scientists look for life there? In this unit you will tell which bottles hold living yeast from the gas they make, test how warm curd bacteria need it, and find planets from dips in starlight.
+**Summary.** No telescope can see a creature on a planet trillions of kilometres away. So how do scientists look for life there? In this lesson you will tell which bottles hold living yeast from the gas they make, test how warm curd bacteria need it, and find planets from dips in starlight.
 
-**Intro.** *Two bottles stand on a table. They are sealed, and you cannot see through them. The balloon on one of them is slowly swelling, and the balloon on the other is flat. You cannot open them or look inside. What can you say about what is in each bottle?* You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this unit you find out which bottles hold living yeast from the gas they make, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.
+**Intro.** *Two bottles stand on a table. They are sealed, and you cannot see through them. The balloon on one of them is slowly swelling, and the balloon on the other is flat. You cannot open them or look inside. What can you say about what is in each bottle?* You can say that something in the first bottle is making gas, and that something in the second is not. That is exactly the problem of a scientist who studies a planet from very far away. She cannot land, scoop up soil or look at a creature. She can only read the light that comes through a planet's air. In this lesson you find out which bottles hold living yeast from the gas they make, test the warmth that curd bacteria need, and learn how scientists read the air of worlds they will never visit.
 
 ## Learning outcomes
 0. I can explain what makes a planet or moon a place where life could live: liquid water, energy, the right chemicals, and the right temperature.
@@ -104,7 +104,7 @@ A planet is far too faint to see next to its bright star. But when it crosses in
 ### TRAPPIST-1: seven worlds around a red dwarf · *idea*
 **Definition:** TRAPPIST-1 is a small red dwarf star with seven Earth-sized planets going round it. Three of them lie in the habitable zone.
 
-In 2017, astronomers led by Michael Gillon in Belgium reported seven planets going round TRAPPIST-1, a dim red star about 40 light-years from Earth. The star is only a little bigger than Jupiter, and all seven planets orbit closer to it than Mercury does to our Sun. Their years last only from 1.5 to about 19 days. Planets e, f and g are often named as lying in the habitable zone. But a red dwarf sends out strong flares, and the planets are probably locked so that one side always faces the star. In 2023 the James Webb Space Telescope looked at the two inner planets and reported that they seem to have no thick atmosphere. Nobody yet knows if any of the outer planets has air, or water. This is a good place to test the methods in this unit.
+In 2017, astronomers led by Michael Gillon in Belgium reported seven planets going round TRAPPIST-1, a dim red star about 40 light-years from Earth. The star is only a little bigger than Jupiter, and all seven planets orbit closer to it than Mercury does to our Sun. Their years last only from 1.5 to about 19 days. Planets e, f and g are often named as lying in the habitable zone. But a red dwarf sends out strong flares, and the planets are probably locked so that one side always faces the star. In 2023 the James Webb Space Telescope looked at the two inner planets and reported that they seem to have no thick atmosphere. Nobody yet knows if any of the outer planets has air, or water. This is a good place to test the methods in this lesson.
 - e.g. One of the TRAPPIST-1 planets is so close to the star that its year lasts less than two Earth days.
 - e.g. The James Webb Space Telescope has begun to study the air of the TRAPPIST-1 planets.
 - e.g. A planet locked to its star has one side in permanent day and one side in permanent night.
@@ -171,7 +171,7 @@ A civilisation that wanted to be noticed could send a radio signal. Radio waves 
   Against: We have listened to a tiny part of the sky and a tiny set of signal types for a short time. Signals take years to cross space, and a civilisation may not last long or may not send any.
 
 ## Roots
-In this unit you tested bottles of yeast and cups of curd, and learned how scientists read the air of other worlds. This part asks two things: why living things can be found by the changes they make, and how sure anyone can be about something they cannot see.
+In this lesson you tested bottles of yeast and cups of curd, and learned how scientists read the air of other worlds. This part asks two things: why living things can be found by the changes they make, and how sure anyone can be about something they cannot see.
 
 **Deep truth.** In the Bottle Biosignature test, only the bottle with living yeast and sugar made gas and blew up its balloon. From outside, you could not see the yeast, only the gas they kept making. On a far planet, life might show up in the same way, as gases that would fade away unless living things kept making them. So we may find life by what it keeps changing, long before we see a creature.  
 *Habit it breaks:* We expect to find life by seeing a creature. But from far away, the first sign would be a change in the air.  
@@ -764,11 +764,11 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 - Radio telescopes in India, such as the Giant Metrewave Radio Telescope near Pune, listen to the sky for faint natural signals.
 
 ## Spotted around us
-- Idli and dosa batter swelling overnight in a closed pot, with bubbles and a sour smell, in kitchens across South India.
-- Dough rising in a bakery in Kerala, where yeast makes gas that makes the bread soft.
+- Idli and dosa batter swelling overnight in a closed pot, with bubbles and a sour smell.
+- Dough rising in a bakery, where yeast makes gas that makes the bread soft.
 - Curd setting in a warm kitchen, and not setting on a cold winter morning.
 - Venus, the bright planet that people call the evening star, and a reddish dot of Mars in the sky. Look for them at dusk with a grown-up.
-- Satellite pictures of India turning green in the monsoon and brown in the dry season.
+- Satellite pictures of our land turning green in the monsoon and brown in the dry season.
 - News stories about the James Webb Space Telescope and the atmospheres of far planets.
 - The Mars Orbiter Mission, Mangalyaan, which ISRO placed in orbit round Mars in 2014 on its first try.
 - A dim red light on a ship's bridge or in an observatory, which protects the eyes of people who watch the dark sky.
@@ -830,6 +830,11 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [A pack of plain balloons, all the same size](https://www.amazon.in/s?k=balloons+plain) (material): For the Bottle Biosignature test. Four new balloons of the same kind are needed. Used in e1. 
 - [Coloured cellophane sheets, red, green and yellow](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): For the Colours Taken Away activity, to take colours away from a rainbow. Used in a4. 
 - [A digital kitchen thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): For checking the warmth of the water in the yeast test and the milk in the curd test. Used in e1, e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Bottle Biosignature: which bottles hold life?, Planet Hunter's Graph: find two planets from dips in starlight, Catch the Plume: design a sampler to catch drops from a jet. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, c1. Get it before Bottle Biosignature: which bottles hold life?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Catch the Plume: design a sampler to catch drops from a jet. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in c1. Get it before Catch the Plume: design a sampler to catch drops from a jet.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Planet Hunter's Graph: find two planets from dips in starlight. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Planet Hunter's Graph: find two planets from dips in starlight.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Alive or Not? Argue it out. About ₹100 to ₹200. A marble or a round torch cell works. Used in a5. Get it before Alive or Not? Argue it out.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do all the living things we know of need? → Liquid water, a supply of energy and the right chemicals.
@@ -850,7 +855,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/how-life-began.md and living-and-non-living-signs-of-life.md: signs of life and how life could begin, used as background for the biosignature and what-counts-as-life parts
-- The Class 3 unit Life beyond Earth, which this unit builds on: liquid water, extremophiles, Europa, Enceladus and Mars, now taken to the habitable zone, chemosynthesis, biosignatures and claims
+- The Class 3 unit Life beyond Earth, which this lesson builds on: liquid water, extremophiles, Europa, Enceladus and Mars, now taken to the habitable zone, chemosynthesis, biosignatures and claims
 - The curd and idli batter examples reuse the everyday fermentation ideas of the Class 3 units on microbes and signs of life, here used as a model of a habitable zone and a biosignature
 - Lovelock, J. E., Nature 1965: a physical basis for life detection experiments
 - Hitchcock, D. R. and Lovelock, J. E., Icarus 1967: life detection by atmospheric analysis

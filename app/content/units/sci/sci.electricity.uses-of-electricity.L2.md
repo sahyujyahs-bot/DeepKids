@@ -1,9 +1,9 @@
 # Where we use electricity: from the wall and from cells
 `sci.electricity.uses-of-electricity.L2`
 
-**Summary.** In a power cut the fan and fridge stop, but the torch and a wall clock keep going. Why? In this unit you will listen to what goes quiet when a switch is off, test old cells to see if a clock still runs on them, and follow the wire from your fan back to the power station.
+**Summary.** In a power cut the fan and fridge stop, but the torch and a wall clock keep going. Why? In this lesson you will listen to what goes quiet when a switch is off, test old cells to see if a clock still runs on them, and follow the wire from your fan back to the power station.
 
-**Intro.** *The power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this unit you find out where wall electricity comes from, and you test how long a cell lasts.
+**Intro.** *The power goes off on a hot evening. What stops working? What keeps going?* Most children name the fan, the lights and the TV. But the torch still shines, and the wall clock still ticks. Why do some things stop and others keep going? The things that stop get electricity from the wall. The things that keep going carry their own small store of electricity, called a cell. In this lesson you find out where wall electricity comes from, and you test how long a cell lasts.
 
 ## Learning outcomes
 0. By the end I can name things at home that use electricity to make light, sound, heat, cold and movement.
@@ -497,10 +497,10 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 - A. Lalitha, from Chennai, became India's first woman electrical engineer in 1943. Engineers like her design the machines and wires that bring mains electricity to homes.
 
 ## Spotted around us
-- Near Kanyakumari in Tamil Nadu, hundreds of tall windmills turn in the wind and make electricity.
-- At the Idukki dam in Kerala, water falling from the reservoir makes electricity for homes across the state.
-- At the Barefoot College in Tilonia, Rajasthan, grandmothers from villages around the world learn to build and fix solar lamps for their own villages.
-- On a city street in Hyderabad or Pune, thick black wires run from poles into every building.
+- Tall windmills turning in the wind and making electricity.
+- A dam, where water falling from the reservoir makes electricity for homes.
+- Solar lamps shining at night in a village home, or a solar panel on a roof.
+- On a city street, thick black wires run from poles into every building.
 - On rooftops in many cities and villages, families put up blue solar panels to make their own electricity.
 
 ## Open questions
@@ -538,10 +538,15 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 ## Links
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online game from the University of Colorado. Send energy from the Sun, water or a person on a bicycle to a light bulb. Best played with a grown-up.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages. Search for books about electricity, power cuts and the Sun.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries about machines and electricity.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with exhibits about electricity and how it is made.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries about machines and electricity.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with exhibits about electricity and how it is made.
 
 ## Things to buy
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in The Phone Battery Race: which job uses up the battery faster?. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in e2. Get it before The Phone Battery Race: which job uses up the battery faster?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Follow the Wire: from your fan back to the power station. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a2. Get it before Follow the Wire: from your fan back to the power station.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Tired Cell Test: can a cell that fails the torch still run a clock?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before The Tired Cell Test: can a cell that fails the torch still run a clock?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Light the Dinner Table in a Power Cut. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in c1. Get it before Light the Dinner Table in a Power Cut.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one appliance that makes light. → A bulb, a tube light, a torch or a TV.
@@ -558,7 +563,7 @@ Plug or Cell (sci.electricity.L2): Topic-level song for Electricity L2
 
 ## Sources
 - ideas/by_topic/electricity-and-staying-safe-with-it.md, Electricity: 'count how many devices need electricity daily' became the listening activity (a1), 'observe city lights at night' and 'watch a documentary on how the grid works' became Follow the Wire (a2), 'drama of a city losing power' became the story and the Power Cut card game (g1). Safety: 'inspect household plugs', with the mains and cell safety rules.
-- combined/sci-C2-electricity-and-staying-safe-with-it.json, Day 1 and Day 2: the power-cut warm-up, the five jobs of electricity and the 'before electricity' questions (a3) were adapted. The electricity hunt sorted into wall and cell is in Level 3 (Simple circuits), so this unit uses listening, the Tired Cell Test and the phone battery test instead.
+- combined/sci-C2-electricity-and-staying-safe-with-it.json, Day 1 and Day 2: the power-cut warm-up, the five jobs of electricity and the 'before electricity' questions (a3) were adapted. The electricity hunt sorted into wall and cell is in Level 3 (Simple circuits), so this lesson uses listening, the Tired Cell Test and the phone battery test instead.
 - Cambridge Primary Science Stage 2, Unit 6.1 'Where do we use electricity?': light, sound, heat, cold and movement, mains electricity and cells.
 - Jane Marcet, Conversations on Chemistry (1806). Faraday credited this book with first teaching him chemistry while he was a bookbinder's apprentice (Science History Institute, 'Jane Marcet'; Whipple Library, Cambridge). The year he read it is given differently in different accounts.
 - Duracell and Energizer guidance, and many battery tests: cells too weak for high-drain devices such as torches can still run low-drain devices such as clocks and remotes.

@@ -1,9 +1,9 @@
 # Chemistry detectives: how ink and flames show what things are made of
 `sci.chemistry-detectives.finding-out-whats-inside.L3`
 
-**Summary.** A black pen looks like it holds one black ink. Is it really just one colour? In this unit you will make ink spread on wet paper, work out which pen wrote a secret note, and test flames to see what salt does to their colour.
+**Summary.** A black pen looks like it holds one black ink. Is it really just one colour? In this lesson you will make ink spread on wet paper, work out which pen wrote a secret note, and test flames to see what salt does to their colour.
 
-**Intro.** *Try this. Make a fat dot with a black sketch pen near the bottom of a strip of kitchen towel. Dip the very end of the strip in water, below the dot. Watch for five minutes. The water climbs, and the black dot starts to turn into other colours. Why would black ink turn into other colours?* Chemists are scientists who find out what things are made of, and how they change. Often they cannot see the answer with their eyes alone. So they use tests that make a thing show what is in it. In this unit you use two of their oldest tests. Wet paper pulls a mixture apart. A flame shows a colour for each element. Then you use them like a detective, to find out which pen wrote a secret note.
+**Intro.** *Try this. Make a fat dot with a black sketch pen near the bottom of a strip of kitchen towel. Dip the very end of the strip in water, below the dot. Watch for five minutes. The water climbs, and the black dot starts to turn into other colours. Why would black ink turn into other colours?* Chemists are scientists who find out what things are made of, and how they change. Often they cannot see the answer with their eyes alone. So they use tests that make a thing show what is in it. In this lesson you use two of their oldest tests. Wet paper pulls a mixture apart. A flame shows a colour for each element. Then you use them like a detective, to find out which pen wrote a secret note.
 
 ## Learning outcomes
 0. I can explain that a mixture is two or more substances mixed together, and that most black sketch pen ink is a mixture of dyes.
@@ -37,6 +37,8 @@ Most things around us are mixtures. Air is a mixture of gases. Seawater is water
 - e.g. Muddy water: let it stand, and the mud sinks to the bottom.
 - e.g. Rice with small stones: people spread it on a plate and pick the stones out by hand.
 - e.g. Salt water: let the water dry up, and the salt is left.
+- **Everyday and market use:** 'Pure' means not mixed with anything bad: pure ghee, pure water.
+- **Chemists:** 'Pure' means one single substance. A glass of clear spring water is a mixture, with salts and gases in it.
 ### Why black ink splits into colours · *defined*
 **Definition:** Most black sketch pen ink is a mixture of several coloured dyes. Together they look black. Chromatography pulls them apart.
 
@@ -44,24 +46,32 @@ Mix enough colours together and your eye sees black or a very dark brown. Pen ma
 - e.g. Colour one spot with every sketch pen in the box, one on top of another. You get a dark, muddy blot.
 - e.g. Many green sketch pens split into a yellow band and a blue band.
 - e.g. Some black inks are made of one black substance, such as the carbon in Indian ink. These do not split.
+- **Everyday view:** Black ink looks like one colour, and it seems to be a simple thing.
+- **Mikhail Tsvet:** In the early 1900s this Russian botanist split green leaf colour into bands by passing it through a column of chalk. He named the method chromatography, 'colour writing'. Black ink is also a mixture.
 ### Why some dyes travel further · *defined*
 **Definition:** A dye that dissolves easily in water and holds on to the paper only weakly travels furthest. A dye that holds on to the paper more strongly stays nearer the dot.
 
 Two things act on each dye at once. The moving water carries it up the strip. The paper fibres hold it back. Each dye is a different substance, so the balance is different for each one. Some dyes travel almost as far as the water. Others hardly leave the dot. That is what makes the pattern. With the same paper and the same liquid, the same dye always travels about the same share of the way.
 - e.g. On kitchen towel, the blue in many black sketch pens travels further than the purple.
 - e.g. If the water climbs 10 cm and a dye goes 5 cm, that dye went half the way. On a longer strip, it would still go about half the way.
+- **Adsorption view:** A dye clings to the paper's surface, and the water carries it along, pulling it away. A strong clinger moves little.
+- **Archer Martin and Richard Synge:** Their 1941 work, awarded a Nobel Prize in 1952, treated the water as one layer and the paper's wet fibres as another. A dye divides itself between them, and how it divides decides how far it goes.
 ### Some inks do not move in water · *defined*
 **Definition:** Chromatography works only when the liquid can dissolve the substances. Ballpoint ink and permanent marker ink do not dissolve in water, so in water they stay on the dot.
 
 Ballpoint ink is a thick paste made with oily liquids. Permanent markers use dyes that do not dissolve in water. That is why they do not wash off easily. Chemists choose a liquid that dissolves the mixture they want to test. For these inks they would use a liquid such as alcohol. A dot that does not move at all in water is still a clue. It tells you the ink is a different kind.
 - e.g. A dot of ballpoint pen on a wet kitchen-towel strip stays a dot.
 - e.g. A permanent marker dot also stays where it is, while a sketch pen dot next to it spreads.
+- **Everyday view:** Permanent ink is permanent. It will never come off or move.
+- **Chemists:** A substance only moves if the liquid can dissolve it. Permanent ink does not dissolve in water but does dissolve in alcohol. Forensic chemists choose liquids to match the ink.
 ### Chromatography in labs today · *defined*
 **Definition:** Chemists use chromatography to separate and find the substances in almost any mixture, such as food, medicines, blood, water and air.
 
 In a lab, the mixture is often pushed through a long, thin tube packed with powder. Each substance comes out of the far end at its own time. A machine notes when each one comes out and how much of it there is. Food labs check whether spices have added colours. Hospital labs test blood. Sports labs test for banned medicines. Forensic scientists compare the inks on documents. All of them use the same idea as the paper strip in the Which Pen test.
 - e.g. Food safety labs in India test chilli and turmeric powder for colours that are not allowed.
 - e.g. A hospital lab can test a small sample of blood for many medicines at once.
+- **Tsvet's time:** For about thirty years his method was ignored, until other scientists picked it up in the 1930s.
+- **Labs today:** Use chromatography to test blood for medicines, food for poisons and air for pollution. It is one of the most used tools of chemistry.
 ### Every element has its own flame colour · *defined*
 **Definition:** When some elements are heated in a flame, they give out light of their own colour. Chemists use the colour to tell which element is there.
 
@@ -69,24 +79,32 @@ A gas stove flame is blue and almost see-through. Add a little salt, and it flas
 - e.g. When rasam or dal boils over onto the stove, the blue flame flares yellow-orange for a moment.
 - e.g. Old orange street lights glow with the light of hot sodium.
 - e.g. Green fireworks usually have barium in them, and red ones strontium.
+- **Robert Bunsen and Gustav Kirchhoff:** In 1860 they showed that each element glows with its own colour pattern in a flame, and used it to discover two new elements, caesium and rubidium.
+- **Niels Bohr and later physicists:** Explained the colours from 1913: each atom has levels of energy for its electrons. When an electron drops down a level, it gives out light of one exact colour.
 ### Why heat makes coloured light · *defined*
 **Definition:** The heat of a flame gives energy to the electrons in each atom. When the electrons give that energy out again, it comes out as light of exact colours.
 
 Electrons are the tiny particles on the outside of every atom. Each kind of atom has its own set of energies that its electrons can have. So each element gives out its own exact set of colours, and no other element gives the same set. That is why a flame colour works like a fingerprint for an element. You do not need to see the atom. You only need to see its light.
 - e.g. Sodium always gives the same yellow-orange, whether it comes from table salt, rasam or seawater.
 - e.g. A prism is a piece of glass that splits light into its colours. It splits sodium's light into two very thin yellow lines, close together.
+- **Niels Bohr (1913):** Electrons circle the atom's centre on set orbits, and give out light when they jump down.
+- **Quantum physics today:** Electrons are not on orbits. They have fixed energy levels, and light of one exact colour comes out when an electron drops between levels.
 ### Reading what the Sun is made of · *defined*
 **Definition:** Sunlight split into its colours has thin dark lines in it. Each element makes its own set of lines, so the lines show which elements are in the Sun.
 
 Split by a prism, sodium's light shows two thin yellow lines. Sunlight split the same way has two thin dark lines in exactly the same place. In 1859, Gustav Kirchhoff showed why. Sodium in the Sun's outer layers takes in that yellow light, so it goes missing from sunlight. Since then, astronomers have read the light of stars to find what they are made of. Most stars, like the Sun, are mostly hydrogen and helium. Helium was found in the Sun's light 27 years before anyone found it on Earth.
 - e.g. Iron, calcium and sodium have all been found in the Sun from its light.
 - e.g. The Sun is about 15 crore kilometres away, and nobody has ever taken a sample of it.
+- **Auguste Comte (1835):** Said we would never know what the stars are made of.
+- **Kirchhoff, Bunsen, then Cecilia Payne (1925):** Found that light's dark lines tell the elements. Payne showed the Sun is mostly hydrogen. Other astronomers first doubted her.
 ### Is anything perfectly pure? · *defined*
 **Definition:** Chemists say almost nothing is perfectly pure. Nearly every substance has tiny traces of other substances in it.
 
 Tap water has small amounts of dissolved salts. That is why a drop of it can make a few tiny orange flashes in a flame. Even the purest substances made in labs have a few atoms of something else. So chemists ask 'How pure is it?' rather than 'Is it pure?'. Better tests keep finding smaller and smaller traces.
 - e.g. Bottled water lists the salts dissolved in it on the label.
 - e.g. A medicine packet says how pure the medicine must be.
+- **Market view:** 'Pure' gold or 'pure' water is a thing you can buy.
+- **Chemists:** Perfect purity is a goal that is never fully reached. Even 99.9999 percent pure silicon has a few foreign atoms.
 
 ## Mostly agreed
 - Most coloured inks and food colours are mixtures of dyes, and chromatography can separate them. *How we know:* Anyone can do it at home with paper and water. Labs separate the same dyes and name each one.
@@ -313,7 +331,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **question:** Three cups of water look the same. Can a flame show which one has salt dissolved in it?
 - **predict:** One cup is plain water, one is sugar water and one is salt water. They all look clear. What do you think the flame will do with each one? Why do you think so?
 - **fair test:** Use the same amount of liquid on the same kind of spoon. The grown-up holds each spoon in the same part of the flame for the same time, 5 seconds. Only the liquid changes.
-- **safety:** Only a grown-up lights the stove and holds the spoons in the flame. The child stands at least one metre away. Tie back long hair, and keep dupattas and loose sleeves away from the stove. The spoon gets hot: cool it in the sink. Homes with induction cooktops have no flame. Instead, watch the coloured flames video in this unit.
+- **safety:** Only a grown-up lights the stove and holds the spoons in the flame. The child stands at least one metre away. Tie back long hair, and keep dupattas and loose sleeves away from the stove. The spoon gets hot: cool it in the sink. Homes with induction cooktops have no flame. Instead, watch the coloured flames video in this lesson.
 - **record:** Fill in the table with the flame colour you saw for each cup. You can draw each flame too, if you like.
 - **results table:** Cup | My guess: what is in it? | Colour of the flame | How long the colour lasted | What I now think is in it
 - **s1 (5 min) · grown-up needed**  
@@ -356,7 +374,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   - Ask: What do you notice? What do you wonder? (good: The black is turning blue.; Colours are coming out of the black.; Where did the colours come from?)
 - **s3 (1 min)**  
   *Parent does:* Lift the strip out and lay it on a plate.  
-  *Parent says:* Where did the colours come from? Keep that question in your head. The Which Pen test later in this unit will help us answer it.  
+  *Parent says:* Where did the colours come from? Keep that question in your head. The Which Pen test later in this lesson will help us answer it.  
   *Child mode:* Lift the strip out and lay it on a plate. Point to each colour you can see.
   - Check: A black dot spread into other colours on a wet strip. Which of these is the best question to ask next? → **Was the colour already in the black ink?**
 ### a2 · Chalk Column, Like Tsvet (20 min)
@@ -370,7 +388,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* 1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Run a kitchen-towel strip with a dot of the same pen beside it. 4. Watch for about 10 minutes, until the water is near the top.  
   *Parent says:* Watch the ring. Do the colours move the same way as on the paper strip?  
   *Child mode:* Stand the chalk in the water. The ring stays above the water. Watch.
-  - Note: Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the unit: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk.
+  - Note: Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the lesson: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk.
 - **s3 (4 min)**  
   *Parent does:* Lift the chalk out and let it dry. Compare it with a paper strip of the same pen.  
   *Parent says:* Are the bands in the same order as on paper? What does that tell you about the chalk?  
@@ -688,6 +706,9 @@ What's Inside? (sci.chemistry-detectives.L3): Topic-level song for Chemistry det
 ## Things to buy
 - [A packet of water-based sketch pens, including black, brown and green](https://www.amazon.in/s?k=sketch+pens+set) (material): Sketch pen inks dissolve in water, so they separate on wet paper. Black pens from two different makers give two different patterns, which the Which Pen test needs. Most homes with school children already have some. Used in e1, e2, a1, a2, a3. 
 - [A few sheets of white blotting paper](https://www.amazon.in/s?k=white+blotting+paper+sheets) (material): Blotting paper gives sharper, clearer bands than kitchen towel. It costs a few rupees a sheet at a stationery shop. Kitchen towel or a thick paper napkin also works. Used in e1, e2, p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Three White Powders: a detective's tests. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a4. Get it before Three White Powders: a detective's tests.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Which Pen Wrote the Note?, Does Every Colour Split?, The Sharpest Bands. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, c1. Get it before Which Pen Wrote the Note?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a mixture? → Two or more substances mixed together, but not joined.

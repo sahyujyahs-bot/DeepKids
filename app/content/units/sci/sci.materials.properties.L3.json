@@ -4133,7 +4133,143 @@
    "why": "A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-thermometer--for-water-or-",
+   "item": "A thermometer (for water or room, 0 to 110 °C)",
+   "kind": "tool",
+   "why": "Used in Feely Bag Detective. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests.",
+   "url": "https://www.amazon.in/s?k=lab+thermometer+110+c",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Feely Bag Detective."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Property Ladder. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Property Ladder."
+  },
+  {
+   "id": "b-a-bar-magnet-or-two--and-a-f",
+   "item": "A bar magnet or two, and a few small magnets",
+   "kind": "tool",
+   "why": "Used in The Mystery Material. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests.",
+   "url": "https://www.amazon.in/s?k=bar+magnet+school",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before The Mystery Material."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Snap, Bend or Spring Back?, The Droop Test: how flexible is it?, The Property Ladder. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3",
+    "p1"
+   ],
+   "plan": "Get it before Snap, Bend or Spring Back?."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in The Vanishing Drop: how fast does it soak in?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before The Vanishing Drop: how fast does it soak in?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Snap, Bend or Spring Back?, The Kitchen Float Lab. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1",
+    "a6"
+   ],
+   "plan": "Get it before Snap, Bend or Spring Back?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Layers to Darkness: transparent, translucent or opaque?, The Privacy Window. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e5",
+    "c2"
+   ],
+   "plan": "Get it before Layers to Darkness: transparent, translucent or opaque?."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in The Vanishing Drop: how fast does it soak in?, Layers to Darkness: transparent, translucent or opaque?, The Mystery Material. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "e4",
+    "e5",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Vanishing Drop: how fast does it soak in?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Layers to Darkness: transparent, translucent or opaque?, The Privacy Window. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e5",
+    "c2"
+   ],
+   "plan": "Get it before Layers to Darkness: transparent, translucent or opaque?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Property Ladder, The Kitchen Float Lab. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a3",
+    "a6"
+   ],
+   "plan": "Get it before The Property Ladder."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "A word that tells what a material is like is a ____.",

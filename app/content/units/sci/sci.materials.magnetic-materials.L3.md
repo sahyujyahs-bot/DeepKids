@@ -1,7 +1,7 @@
 # Magnetic materials: what a magnet attracts, and why only some things
 `sci.materials.magnetic-materials.L3`
 
-**Summary.** Two steel things can look alike, yet one sticks to a magnet and the other does not. Why? In this unit you will test what a magnet attracts, see if it works through paper, make a nail into a magnet, and sort a pile of scrap.
+**Summary.** Two steel things can look alike, yet one sticks to a magnet and the other does not. Why? In this lesson you will test what a magnet attracts, see if it works through paper, make a nail into a magnet, and sort a pile of scrap.
 
 **Intro.** *Take a fridge magnet into your kitchen. Touch it to a steel spoon, then to a steel tumbler. Both are grey, shiny and called steel. Will the magnet stick to both?* In many kitchens, the magnet sticks to the spoon but not to the tumbler. It also sticks to the fridge door, but falls off the wooden cupboard door right beside it. Colour and shine do not decide whether a magnet sticks. So what does? You will test sixteen things and look for the pattern. Then you will find out what is different inside the things a magnet attracts.
 
@@ -102,7 +102,7 @@ When we say wood, water or aluminium is non-magnetic, we mean that a fridge magn
 ### Heat can stop a material being magnetic · *defined*
 **Definition:** Every magnetic material stops being magnetic when it gets hot enough. The temperature at which this happens is called its Curie point.
 
-Heat makes atoms jiggle. When iron gets hot enough, the jiggling is stronger than the rule that lines up its tiny magnets. The domains break up, and a magnet no longer attracts the iron. For iron this happens at about 770 degrees Celsius, when it glows red. For nickel it is about 358 degrees. Pierre Curie, a French scientist, measured this carefully in 1895. When the iron cools down, it becomes magnetic again. Heat can also weaken a magnet for good, so never heat a magnet. Making iron red-hot needs a gas flame and a grown-up, so in this unit we only read about it.
+Heat makes atoms jiggle. When iron gets hot enough, the jiggling is stronger than the rule that lines up its tiny magnets. The domains break up, and a magnet no longer attracts the iron. For iron this happens at about 770 degrees Celsius, when it glows red. For nickel it is about 358 degrees. Pierre Curie, a French scientist, measured this carefully in 1895. When the iron cools down, it becomes magnetic again. Heat can also weaken a magnet for good, so never heat a magnet. Making iron red-hot needs a gas flame and a grown-up, so in this lesson we only read about it.
 - e.g. A magnet does not attract a red-hot nail. When the nail cools, the magnet attracts it again.
 - e.g. A magnet left on a hot stove gets weaker.
 - e.g. Nickel stops being magnetic at about 358 degrees Celsius, and iron at about 770 degrees.
@@ -149,7 +149,7 @@ Some living things carry magnets inside them. Magnetotactic bacteria make tiny c
 ### Super-strong magnets and why they are dangerous · *defined*
 **Definition:** The strongest everyday magnets are made from a mixture of the metals neodymium, iron and boron. They can pinch skin, and two swallowed ones can badly hurt a child.
 
-In 1982, two scientists, working separately, found a new kind of magnet. Masato Sagawa worked in Japan, and John Croat in the United States. They mixed neodymium, iron and boron, and made a magnet far stronger than any before. These magnets are inside earphones, phones, electric cars and wind turbines. Neodymium is one of the rare earth metals, which are hard to separate from rock and from each other. Two neodymium magnets attract each other very strongly. If a child swallows two, they can clamp together through the walls of the gut. That makes holes in the gut, and the child needs an operation. That is why this unit uses only ordinary fridge magnets. If you find tiny shiny round magnets, keep them away from little children.
+In 1982, two scientists, working separately, found a new kind of magnet. Masato Sagawa worked in Japan, and John Croat in the United States. They mixed neodymium, iron and boron, and made a magnet far stronger than any before. These magnets are inside earphones, phones, electric cars and wind turbines. Neodymium is one of the rare earth metals, which are hard to separate from rock and from each other. Two neodymium magnets attract each other very strongly. If a child swallows two, they can clamp together through the walls of the gut. That makes holes in the gut, and the child needs an operation. That is why this lesson uses only ordinary fridge magnets. If you find tiny shiny round magnets, keep them away from little children.
 - e.g. Neodymium magnets are in earphones and the motors of electric cars.
 - e.g. A tiny neodymium magnet can lift a heavy steel tool. A fridge magnet cannot.
 
@@ -859,11 +859,11 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
 - The steel fridge door, with magnets from trips and shops stuck all over it.
 - Old iron gates and window grills, which stick to a magnet, even under paint.
 - Metal roof sheets on sheds and tea stalls. They are steel coated with zinc, and a magnet sticks to them.
-- The Delhi Iron Pillar at Mehrauli, nearly 1,600 years old and made of almost pure iron.
+- An old iron pillar, nearly 1,600 years old and made of almost pure iron, in a picture.
 - Railway lines and the rails of a metro. They are steel and a magnet sticks.
 - The kabadiwala's cart, piled with old iron pans, steel utensils, aluminium pots and bundles of paper.
 - The cupboard catch on a kitchen cabinet, with a small magnet inside.
-- Black sand on beaches in Kerala and Odisha, where a magnet can catch some of the dark grains.
+- Black sand on a beach, where a magnet can catch some of the dark grains.
 
 ## Open questions
 - **Can scientists predict which new mixtures of metals will be magnetic?** Often they can only guess. Computers are getting better at it, but surprises such as Heusler's alloy still happen.
@@ -917,13 +917,20 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about machines, metals and electricity.
 - [Archaeological Survey of India: the Delhi Iron Pillar at Mehrauli](https://asi.nic.in) · place · New Delhi: A nearly 1,600-year-old pillar of almost pure iron stands in the Qutb complex. A magnet sticks to iron, but please do not touch the pillar. Look and wonder how it has stayed so free of rust.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Shows about the Sun, the Earth and the sky. Good for learning about the Earth's iron core and the stars that made iron.
-- [A kabadiwala, a hardware shop and a steel utensil shop near you]() · place · anywhere: Bring a magnet and ask the shopkeeper's permission. At the utensil shop, test which steel vessels stick. At the kabadiwala's, ask how they sort their metal.
-- [A beach or riverbank with dark sand]() · place · Kerala, Odisha or anywhere with dark sand: Drag a magnet in a plastic bag through dark sand and see which grains cling. They are tiny pieces of magnetite.
+- A kabadiwala, a hardware shop and a steel utensil shop near you · place · anywhere: Bring a magnet and ask the shopkeeper's permission. At the utensil shop, test which steel vessels stick. At the kabadiwala's, ask how they sort their metal.
+- A beach or riverbank with dark sand · place · Kerala, Odisha or anywhere with dark sand: Drag a magnet in a plastic bag through dark sand and see which grains cling. They are tiny pieces of magnetite.
 
 ## Things to buy
 - [Ceramic bar or horseshoe magnets for school science (a set of 2 to 6)](https://www.amazon.in/s?k=bar+magnet+horseshoe+magnet+school+science+set) (tool): A bigger, stronger school magnet than a fridge magnet makes every test clearer. Choose ceramic magnets, not tiny neodymium ones, which are dangerous if swallowed. Used in e1, e2, e3, a1, a3, a5, a6, a8, p1. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Lets you look at the tiny specks in the star dust hunt. Used in a4. 
 - [A box of steel paper clips and a pack of steel washers](https://www.amazon.in/s?k=steel+paper+clips+steel+washers) (material): Cheap magnetic bits for the experiments and the sorting ramp. Check that they stick to a magnet. Used in e2, e3, p1, c2, a8. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Through the Paper: does a magnet work through things?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Through the Paper: does a magnet work through things?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in The Great Magnet Test: what does a magnet attract?, Make a Nail a Magnet: which materials can become magnets?, The Kabadiwala's Heap: sort the scrap. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in e1, e3, a3. Get it before The Great Magnet Test: what does a magnet attract?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Through the Paper: does a magnet work through things?, Build a Magnetic Sorting Ramp. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, p1. Get it before Through the Paper: does a magnet work through things?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Hidden Iron in Soil and Sand. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a5. Get it before Hidden Iron in Soil and Sand.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Magnet Tag. About ₹100 to ₹200. A marble or a round torch cell works. Used in a7. Get it before Magnet Tag.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Great Magnet Test: what does a magnet attract?, Make a Nail a Magnet: which materials can become magnets?, The Mystery Bag. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1, e3, a6, a7. Get it before The Great Magnet Test: what does a magnet attract?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does 'magnetic' mean? → A magnet attracts it.
@@ -950,7 +957,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - Combined Class 3 Materials and their properties (e2 'Which materials are magnetic?', the alloy and kabadiwala ideas, the stainless-steel tumbler surprise)
 - Combined Class 1 and Class 2 Materials and their properties (the magnet test, and 'a magnet can prove iron but not name a metal')
 - Cambridge Stage 3 5.5 Magnetic materials (Sunil's fridge magnet and the cupboard door, the model recycling plant, does magnetism pass through materials, William Gilbert and the garlic claim)
-- The SCI Cards in the materials notebook (underdog scientists first), this unit follows the same lens with Inge Lehmann and Salvatore Bellini
+- The SCI Cards in the materials notebook (underdog scientists first), this lesson follows the same lens with Inge Lehmann and Salvatore Bellini
 - Weiss, Journal de Physique, 1907 (magnetic domains)
 - Curie, Annales de Chimie et de Physique, 1895 (magnetism and temperature)
 - Einstein and de Haas, Verhandlungen der Deutschen Physikalischen Gesellschaft, 1915 (magnetism comes from electron spin)

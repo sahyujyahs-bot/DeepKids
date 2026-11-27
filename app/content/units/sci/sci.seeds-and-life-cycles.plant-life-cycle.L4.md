@@ -1,9 +1,9 @@
 # The life cycle of a flowering plant: how fruit ripens, how plants time their lives, and how they end
 `sci.seeds-and-life-cycles.plant-life-cycle.L4`
 
-**Summary.** A hard green mango in a paper bag with a ripe banana turns soft and yellow days before a mango left alone, though they never touch. Why? In this unit you will test this yourself, find out what turns a leaf yellow, and sort kitchen foods that are a plant's stored savings.
+**Summary.** A hard green mango in a paper bag with a ripe banana turns soft and yellow days before a mango left alone, though they never touch. Why? In this lesson you will test this yourself, find out what turns a leaf yellow, and sort kitchen foods that are a plant's stored savings.
 
-**Intro.** *Take two hard green mangoes. Put one in a paper bag with a very ripe banana. Put the other in a paper bag alone. Wait four days and press both. The mango that sat with the banana is usually softer. The banana never touched it. So how could one fruit change the other?* Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit nearby. In this unit you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.
+**Intro.** *Take two hard green mangoes. Put one in a paper bag with a very ripe banana. Put the other in a paper bag alone. Wait four days and press both. The mango that sat with the banana is usually softer. The banana never touched it. So how could one fruit change the other?* Ripening looks like something each fruit does alone, slowly, as time goes by. But a ripe fruit also sends out a gas that changes the fruit nearby. In this lesson you test that gas. You also find out why a leaf turns yellow, where a new money plant can grow roots, and how long different plants live. Some plants flower for a single season and some flower for hundreds of years. At the end you will see a plant's life as a whole, from the first leaf to the last.
 
 ## Learning outcomes
 0. I can explain that ripe fruit gives off a gas called ethylene, which helps nearby raw fruit to ripen, and use this to plan and test ripening at home.
@@ -910,9 +910,9 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 - [SeasonWatch](https://www.seasonwatch.in) · interactive: An Indian citizen-science project where children record, week by week, when trees near them have new leaves, flowers and fruits. A good way to watch a tree through a year.
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: A famous plant science garden in London, with clear pages on plants, fruit, ferns and tree rings.
 - [Science Buddies](https://www.sciencebuddies.org) · interactive: Step-by-step ideas for plant experiments, including fruit ripening and cuttings, for older children.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Thiruvananthapuram: A research garden in Kerala with a huge collection of tropical plants, including ferns, palms and bamboos. Look for plants at different stages of life.
-- [Birbal Sahni Institute of Palaeosciences]() · place · Lucknow: A research institute where scientists study fossil plants and tree rings. It has a museum, and it is worth asking before visiting.
-- [A fruit market near you]() · place · Anywhere: Ask the sellers how they ripen mangoes and bananas, and watch which fruit sit together. Compare what they say with what you found.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Thiruvananthapuram: A research garden in Kerala with a huge collection of tropical plants, including ferns, palms and bamboos. Look for plants at different stages of life.
+- Birbal Sahni Institute of Palaeosciences · place · Lucknow: A research institute where scientists study fossil plants and tree rings. It has a museum, and it is worth asking before visiting.
+- A fruit market near you · place · Anywhere: Ask the sellers how they ripen mangoes and bananas, and watch which fruit sit together. Compare what they say with what you found.
 
 ## Things to buy
 - [Brown paper bags, a pack of about 20](https://www.amazon.in/s?k=brown+paper+bags) (material): For the ripening bag test and the shelf, window and fridge test. Folded newspaper works just as well and is free, so you may not need to buy these. Used in e1, e4. 
@@ -920,6 +920,10 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 - [Magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at fern spores, money plant roots and the dots under a fern frond. Used in a2, e3. 
 - [30 centimetre ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): For measuring roots, making the lifespan tape and checking sizes. Used in e3, a1, a4. 
 - [What a Plant Knows, by Daniel Chamovitz](https://www.amazon.in/s?k=What+a+Plant+Knows+Daniel+Chamovitz) (book): For the parent: a clear, short book about how plants sense light, smell, touch and time, and what that means. Used in p1. Read the chapter on how plants smell before the ripening bag test, and the chapter on how plants remember before the Pinch or Let Go project.
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Shelf, Window or Fridge? Where does a green tomato ripen?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in e4. Get it before Shelf, Window or Fridge? Where does a green tomato ripen?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Lifespan Tape: plants on a very long strip of paper. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a4. Get it before The Lifespan Tape: plants on a very long strip of paper.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in What Makes a Leaf Turn Yellow? Darkness, or a ripe banana?, Ripe on Time: have a mango ready for a family dinner. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, c1. Get it before What Makes a Leaf Turn Yellow? Darkness, or a ripe banana?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What gas do ripe fruit give off that helps nearby fruit ripen? → Ethylene.
@@ -939,7 +943,7 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/seeds-plant-growth-and-plant-life-cycles.md: the weekly journey 'Let grow and grow' (look after a plant through the rest of their life, record their progress, write a note if they die), used in Pinch or Let Go and in the big question about dying
-- The Class 3 unit on the life cycle of a flowering plant, which this unit builds on: the circle of stages is taken to how fruit ripen, how plants time their lives and how they end
+- The Class 3 unit on the life cycle of a flowering plant, which this lesson builds on: the circle of stages is taken to how fruit ripen, how plants time their lives and how they end
 - The founder's SCI card on Nikolai Vavilov, used in the claim about passing on what a plant learned
 - Denny, F. E., Journal of Agricultural Research, 1924: Hastening the coloration of lemons
 - Gane, R., Nature, 1934: Production of ethylene by some ripening fruits

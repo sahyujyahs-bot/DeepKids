@@ -3052,6 +3052,57 @@
     "p1",
     "g2"
    ]
+  },
+  {
+   "id": "b-clear-ruler",
+   "item": "Clear plastic ruler, 30 centimetres",
+   "kind": "tool",
+   "why": "It is used to look at a straight line through water in the Water-Drop Magnifier test, and as a stick in the coin challenge. About ₹20 to ₹60 at a stationery shop. A clear plastic bag works for the first test, and a long wooden spoon works in the coin challenge.",
+   "url": "https://www.amazon.in/s?k=clear+plastic+ruler+30+cm",
+   "used_in": [
+    "e2",
+    "a1",
+    "c2"
+   ],
+   "plan": "Buy it before the Water-Drop Magnifier test."
+  },
+  {
+   "id": "b-modelling-clay-light",
+   "item": "Modelling clay, one small block",
+   "kind": "material",
+   "why": "It holds the coin down to the bottom of the cup in the Appearing Coin test. About ₹40 to ₹100 for a small block at a stationery or toy shop. A small ball of atta dough does the same job.",
+   "url": "https://www.amazon.in/s?k=modelling+clay",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Buy it before the Appearing Coin test."
+  },
+  {
+   "id": "b-glass-marble",
+   "item": "Clear glass marble, one or two",
+   "kind": "material",
+   "why": "It works as a small lens in the bottle lens activity and in the tiny print challenge. About ₹20 to ₹60 for a few marbles at a toy or stationery shop. A clear glass bead from a craft shop works in its place.",
+   "url": "https://www.amazon.in/s?k=clear+glass+marble",
+   "used_in": [
+    "a5",
+    "c1"
+   ],
+   "plan": "Buy them before the bottle lens activity."
+  },
+  {
+   "id": "b-print-refraction",
+   "item": "Printed pages for the situation cards, mats, tokens and worksheets, about 20 pages",
+   "kind": "material",
+   "why": "The games use 24 situation cards, three mats, 20 lens tokens and 16 mystery cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹20 to ₹40.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

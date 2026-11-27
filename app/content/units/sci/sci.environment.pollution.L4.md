@@ -1,7 +1,7 @@
 # Gone from sight: how dirty water hides, travels and builds up
 `sci.environment.pollution.L4`
 
-**Summary.** Thin coloured water again and again and the colour fades from sight, but is the dirt really gone? In this unit you will test your eyes against your nose, race tools to clear spilled oil, and play a game about which dirt a net or cloth can take out.
+**Summary.** Thin coloured water again and again and the colour fades from sight, but is the dirt really gone? In this lesson you will test your eyes against your nose, race tools to clear spilled oil, and play a game about which dirt a net or cloth can take out.
 
 **Intro.** *Two tumblers of water stand side by side. Both look exactly like water from the tap. Into one of them, someone stirred a spoonful of kewra essence. Can you tell which one, without tasting?* Look as hard as you like, and the two look the same. Now bring each tumbler to your nose. One smells of flowers and the other of nothing. Your eyes could not find the difference, but your nose could. So when a river, a pond or a well 'looks clear', what has been checked, and what has not?
 
@@ -788,13 +788,20 @@ Downstream (sci.environment.L4): Topic-level song for Caring for the environment
 - [Centre for Science and Environment (CSE)](https://www.cseindia.org/) · interactive: For the parent. A Delhi research group led by Sunita Narain. Its reports on water, sewage and rivers are written in plain language, and its children's magazine Gobar Times is on the same site.
 - [Minamata disease (Wikipedia)](https://en.wikipedia.org/wiki/Minamata_disease) · interactive: For the parent. A clear history of the illness, the cats, the factory and the people who fought for recognition.
 - [East Kolkata Wetlands (Wikipedia)](https://en.wikipedia.org/wiki/East_Kolkata_Wetlands) · interactive: For the parent. How a city's sewage feeds fish ponds and fields, and why the wetlands are protected.
-- [East Kolkata Wetlands]() · place · Kolkata, West Bengal: A working wetland where the city's used water runs through shallow fish ponds. Ask about guided visits first, and go with a grown-up.
-- [Pallikaranai Marsh]() · place · Chennai, Tamil Nadu: A wetland inside the city, where birds and marsh plants live beside roads and flats. It shows how a wetland holds and cleans water, and what happens when a city presses on it.
+- East Kolkata Wetlands · place · Kolkata, West Bengal: A working wetland where the city's used water runs through shallow fish ponds. Ask about guided visits first, and go with a grown-up.
+- Pallikaranai Marsh · place · Chennai, Tamil Nadu: A wetland inside the city, where birds and marsh plants live beside roads and flats. It shows how a wetland holds and cleans water, and what happens when a city presses on it.
 
 ## Things to buy
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): For the Gone from Sight test. A few drops in each test is enough, and the bottle lasts for a long time. Used in e1, e2. 
 - [A small bottle of food essence such as vanilla, rose or kewra](https://www.amazon.in/s?k=vanilla+essence) (material): For the sniff test in Gone from Sight. It is the scent that is still there after the colour has gone. Used in e1. 
 - [A packet of art clay or potter's clay](https://www.amazon.in/s?k=terracotta+clay+for+pottery) (material): For the Clay, Colour and the Bucket project. A potter or an art shop sells it by the kilo. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Overnight Collector: can a paper strip find what your eyes cannot?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Overnight Collector: can a paper strip find what your eyes cannot?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Spill Boom: keep the oil in one corner. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Spill Boom: keep the oil in one corner.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Overnight Collector: can a paper strip find what your eyes cannot?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e2. Get it before The Overnight Collector: can a paper strip find what your eyes cannot?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Oil Spill Race: which tool clears the most oil?. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before Oil Spill Race: which tool clears the most oil?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Pass-It-On Seeds: how a little becomes a lot up a food chain. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Pass-It-On Seeds: how a little becomes a lot up a food chain.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Overnight Collector: can a paper strip find what your eyes cannot?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Overnight Collector: can a paper strip find what your eyes cannot?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - If you thin out coloured water until you can't see the colour, is the colour gone? → No. It is spread out, but it is still there.

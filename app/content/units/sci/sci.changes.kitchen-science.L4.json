@@ -2880,6 +2880,65 @@
     "e2"
    ],
    "plan": "After the Tawa Toast Test, a parent can read aloud a few pages on browning."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Two Katori Dhoklas: with soda and without. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Two Katori Dhoklas: with soda and without."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Two Katori Dhoklas: with soda and without. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Two Katori Dhoklas: with soda and without."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Wake the Mustard: raw seeds and roasted seeds. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Wake the Mustard: raw seeds and roasted seeds."
+  },
+  {
+   "id": "b-safety-goggles",
+   "item": "Safety goggles",
+   "kind": "tool",
+   "why": "Used in Tear-Free Chopping: make the cook's eyes last longer. About ₹60 to ₹200. Sunglasses give some protection.",
+   "url": "https://www.amazon.in/s?k=safety+goggles+kids",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Tear-Free Chopping: make the cook's eyes last longer."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

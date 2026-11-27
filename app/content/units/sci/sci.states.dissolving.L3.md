@@ -1,9 +1,9 @@
 # Dissolving: what water takes in, and how much
 `sci.states.dissolving.L3`
 
-**Summary.** Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this unit you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.
+**Summary.** Salt disappears in water, but atta only makes it cloudy. Where does the salt go? In this lesson you will test kitchen things in water, count how many spoons of salt and sugar a glass of water can take, and make lemonade that is sweet to the last sip.
 
-**Intro.** *Put a spoon of salt in one glass of water and a spoon of atta in another. Stir both. One goes clear, and one goes cloudy. Why does water swallow up one and not the other?* When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this unit you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.
+**Intro.** *Put a spoon of salt in one glass of water and a spoon of atta in another. Stir both. One goes clear, and one goes cloudy. Why does water swallow up one and not the other?* When salt disappears into water, we say it dissolves. Atta does not dissolve. It floats about as tiny bits and slowly sinks. In this lesson you test what dissolves from your own kitchen. You count how many spoons of salt and sugar a little water can take before it is full. You find out whether a strainer can catch dissolved salt. And you make lemonade that is sweet right to the last sip.
 
 ## Learning outcomes
 0. I can test kitchen things in water and sort them into soluble and insoluble, and say what I saw for each.
@@ -33,6 +33,8 @@ Everything is made of tiny particles. A grain of salt is many millions of salt p
 - e.g. Salt in rasam has dissolved. You taste it in every spoon, but you cannot see a single grain.
 - e.g. Rose sherbet syrup is pink and clear, so it is a solution of sugar and colour in water.
 - e.g. Instant coffee powder dissolves in hot milk and leaves nothing on the bottom of the cup.
+- **The Chandogya Upanishad:** A father has his son put salt in water. The next day it cannot be seen, yet every sip tastes salty. The teacher uses it to speak of what is in everything and cannot be seen.
+- **Chemists:** Say the salt breaks into particles too small to see, which spread through the water. The same story, told with a particle picture.
 ### Some things do not dissolve · *defined*
 **Definition:** An insoluble thing does not break up into particles in a liquid. It stays as bits you can see, which float, make the liquid cloudy, or sink.
 
@@ -40,6 +42,8 @@ Stir atta into water and the water turns white and cloudy. Wait half an hour, an
 - e.g. Mud in a monsoon puddle makes the water brown and cloudy, then settles when the puddle is still.
 - e.g. Coconut oil floats on water. You can see it as a shiny layer on top.
 - e.g. Chalk dust in water makes it white, and a layer of chalk settles on the bottom.
+- **Everyday view:** Sand and stones do not dissolve in water, and are insoluble.
+- **Geologists:** Find that rock dissolves slowly. Limestone caves were carved by rainwater over thousands of years, and quartz dissolves a little in hot springs.
 ### Water has a limit for each thing · *defined*
 **Definition:** A certain amount of water can dissolve only so much of each substance. When it has dissolved that much, the solution is saturated, and any more stays as grains.
 
@@ -47,6 +51,8 @@ A little water cannot dissolve a whole packet of salt. In 100 millilitres of wat
 - e.g. Three tablespoons of water took two or three teaspoons of salt in the Full Glass Test, but more than ten teaspoons of sugar.
 - e.g. Sugar syrup for rasgulla or gulab jamun is very thick because a lot of sugar is dissolved in a little water.
 - e.g. Water that is full of salt is about seven times saltier than sea water.
+- **Standard view:** A given amount of water dissolves only so much and then it is full.
+- **Chemists:** Know that you can make a supersaturated solution, which holds more than the limit if it is cooled carefully. A touch makes the extra crystallise at once. Hand warmers use this.
 ### Full of salt, but not full of sugar · *defined*
 **Definition:** A solution that is saturated with one substance can still dissolve a different substance.
 
@@ -54,6 +60,8 @@ In the Full Glass Test, the water that was full of salt would not take one more 
 - e.g. Sea water is salty, but it can still dissolve sugar.
 - e.g. Oral rehydration solution, ORS, has both salt and sugar dissolved in the same water.
 - e.g. Lemon juice has acid and sugar dissolved in it, and you can still dissolve salt in it for a salty lime soda.
+- **Chemists:** Say each substance has its own limit, so a salt-full solution can still take sugar.
+- **Food scientists:** Know that a dissolved substance sometimes changes how much of another can dissolve. Salt makes some proteins come out of solution, which is called salting out.
 ### Warm water and dissolving · *defined*
 **Definition:** In warm water, particles move faster, so most solids dissolve faster. For many solids, warm water can also hold more.
 
@@ -61,6 +69,8 @@ Water particles are always moving. In warm water they move faster and bump into 
 - e.g. Sugar dissolves quickly in hot tea but sits at the bottom of a glass of iced water.
 - e.g. To make sugar syrup, cooks heat sugar and water together, because hot water dissolves much more sugar.
 - e.g. Warm water and cool water take about the same number of spoons of salt before they are full.
+- **Cooks:** Find that sugar and salt dissolve faster and more in hot tea than in cold.
+- **Chemists:** Note that gases dissolve less when warm, which is why a warm drink goes flat, and a few salts, such as calcium sulphate, also dissolve less when warmer.
 ### A filter catches only what has not dissolved · *defined*
 **Definition:** A filter has holes smaller than the bits in a cloudy mixture, so it catches them. Dissolved particles are far smaller than the holes, so they go through.
 
@@ -68,6 +78,8 @@ Pour cloudy atta water through a folded cotton cloth, and the atta stays on the 
 - e.g. A tea strainer catches tea leaves, but the dissolved colour and taste go into the cup.
 - e.g. A filter coffee maker keeps the coffee powder in the top, and the dark, dissolved coffee drips through.
 - e.g. Salt pans near Thoothukudi let the sun evaporate sea water, because no filter could catch the salt.
+- **Sushruta Samhita:** This old Indian medical text advises making water safe by boiling, putting it in the sun, heating a hot iron in it, and filtering it through sand and cloth.
+- **Membrane scientists:** Make filters with holes so small that they hold back even dissolved salt. Such membranes, used in reverse osmosis, can turn sea water into drinking water.
 ### Salt and sugar dissolve in different ways · *defined*
 **Definition:** Salt is made of two kinds of particles, sodium and chloride. In water they come apart into ions, particles with a tiny electric charge. Sugar particles stay whole when they dissolve.
 
@@ -75,11 +87,15 @@ A salt crystal is built from two kinds of particles, sodium and chloride, holdin
 - e.g. Sweat and tears carry ions, which is why wet skin lets electricity through more easily than dry skin.
 - e.g. Sea water carries electricity because it is full of dissolved salt ions.
 - e.g. ORS has both kinds: salt that splits into ions, and sugar that stays whole.
+- **Svante Arrhenius:** In 1884 his thesis said that salts split into charged particles, ions, in water. His examiners gave it a low mark, but he won the Nobel Prize in 1903.
+- **Dmitri Mendeleev:** Was among the famous chemists who did not accept the ion idea, and thought dissolving was a chemical bonding with water. It took years of evidence for ions to be accepted.
 ### Why each thing has its own limit · *idea*
 Chemists know the main reason. A solid dissolves when water holds on to its particles more strongly than the particles hold on to each other. Different solids are held together with different strengths, and water holds each one in its own way. So each one has its own limit. Chemists can measure the limit of any substance very exactly in a laboratory. But working out the limit of a new substance just from what its particles are like is still hard, even with powerful computers. Scientists are still improving the ways to predict it.
 - e.g. Salt and sugar both dissolve well, but sugar has a much higher limit.
 - e.g. Chalk dissolves so little that we call it insoluble, though a tiny amount does dissolve.
 - e.g. Medicine makers test how well each new medicine dissolves, because it must dissolve in the body to work.
+- **Old alchemists:** Taught that like dissolves like. Water takes watery things, and oil takes oily things.
+- **Josiah Willard Gibbs:** In the 1870s he showed that dissolving depends on a balance of energy and disorder, so a thing dissolves when the balance favours it. The old rule is the result of that balance.
 ### Liquids can dissolve too, or not · *defined*
 **Definition:** Some liquids mix into water completely and make a solution. Others, like oil, do not mix with water and always separate into a layer.
 
@@ -87,6 +103,8 @@ Lemon juice, vinegar and rose water mix into water completely. You cannot see wh
 - e.g. In a jar of Andhra avakaya pickle, the oil sits on top of the mango pieces.
 - e.g. Tadka oil floats as shiny circles on top of a bowl of sambar.
 - e.g. Washing an oily kadai needs soap, because water alone slides off the oil.
+- **Chemists:** Explain that two liquids mix when their molecules attract each other and the water molecules about equally. Oil and water do not.
+- **Cell biologists:** Point out that the oil-and-water split is useful. The skin of every cell forms by itself, because oily tails hide from water and make a double layer.
 
 ## Mostly agreed
 - A dissolved substance is still in the water, spread all through it as particles too small to see. *How we know:* You can taste dissolved salt in every sip, and when the water evaporates, the salt is left behind.
@@ -496,7 +514,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 5. (write) You cannot see the salt in a glass of salt water. Write two ways to show that the salt is still there.  
    **Answer:** Taste a drop: it is salty. Leave the water in the sun until it dries: salt crystals are left behind.. *Why:* A strong answer gives two different tests and says what each one would show.
 6. (match) Match each word to what it means.  
-   **Answer:** Dissolve → mix into a liquid and disappear from sight; Solution → a liquid with something dissolved in it; Insoluble → does not dissolve; Saturated → cannot dissolve any more. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about dissolving.
+   **Answer:** Dissolve → mix into a liquid and disappear from sight; Solution → a liquid with something dissolved in it; Insoluble → does not dissolve; Saturated → cannot dissolve any more. *Why:* Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about dissolving.
 7. (mcq) In the Full Glass Test, three tablespoons of water took two or three teaspoons of salt. Then grains stayed on the bottom. What does this show?  
    Options: The salt was bad / The water could not dissolve any more salt / The spoon was too big  
    **Answer:** The water could not dissolve any more salt. *Why:* The water had reached its limit for salt. It was saturated. The salt was the same salt that had dissolved a minute before.
@@ -643,7 +661,7 @@ Every morning that week, Farhan checked. The water went down and down. After abo
 - Sugar sitting at the bottom of a glass of cold nimbu pani at a roadside stall.
 - Tea leaves and coffee grounds left in a strainer or filter after the drink is made.
 - Oil floating as shiny circles on top of a bowl of sambar.
-- White salt heaps beside shallow pans on the coast near Thoothukudi.
+- White salt heaps beside shallow pans on the coast.
 
 ## Open questions
 - **Can we predict how much of a brand new substance will dissolve, just from what its particles are like?** Chemists can measure solubility exactly, but predicting it from scratch is still hard, even with powerful computers.
@@ -682,12 +700,17 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 ## Links
 - [PhET Sugar and Salt Solutions](https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions) · simulation: A free simulation. Shake salt and sugar into water, see salt split into ions and sugar stay whole, and test which one carries electricity.
 - [PhET Concentration](https://phet.colorado.edu/en/simulations/concentration) · simulation: A free simulation for curious older children. Keep adding a solid to water and watch it become saturated.
-- [The salt pans near Thoothukudi]() · place · Thoothukudi, Tamil Nadu: Shallow ponds where the sun evaporates sea water and leaves the salt behind. You can often see them from the road.
-- [Sambhar Lake]() · place · near Jaipur, Rajasthan: India's largest inland salt lake. Its water is very salty, and salt is collected from it as the water evaporates.
+- The salt pans near Thoothukudi · place · Thoothukudi, Tamil Nadu: Shallow ponds where the sun evaporates sea water and leaves the salt behind. You can often see them from the road.
+- Sambhar Lake · place · near Jaipur, Rajasthan: India's largest inland salt lake. Its water is very salty, and salt is collected from it as the water evaporates.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on exhibits about matter and everyday science.
 
 ## Things to buy
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Clean the Muddy Water. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Clean the Muddy Water.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Oil and Water: will they ever mix?. About ₹40 to ₹80. Lemon juice works for many tests. Used in a4. Get it before Oil and Water: will they ever mix?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Clean the Muddy Water. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Clean the Muddy Water.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Clean the Muddy Water. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Clean the Muddy Water.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does sugar dissolve in water? → Yes. It disappears, and the water tastes sweet.

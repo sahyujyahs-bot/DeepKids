@@ -1,7 +1,7 @@
 # Colour and rainbows: how sunlight splits into colours
 `sci.light.colour.L3`
 
-**Summary.** Sunlight looks white, so where do the colours of a rainbow come from? In this unit you will catch a rainbow on the floor with water, spin a colour wheel to turn colours back into white, and let only one colour through a filter.
+**Summary.** Sunlight looks white, so where do the colours of a rainbow come from? In this lesson you will catch a rainbow on the floor with water, spin a colour wheel to turn colours back into white, and let only one colour through a filter.
 
 **Intro.** *Fill a clear glass to the top with water. Stand it at the edge of a windowsill where the morning or evening Sun shines in. Now look at the floor below it. What do you notice? What do you wonder?* Sunlight looks plain and white. It lights up the kitchen and nobody thinks about it. But sometimes, after the monsoon rain, a giant curve of colours hangs in the sky. Where were those colours before the rain came? Were they in the clouds? In the water? Or were they hiding inside the sunlight all along? In 1666, about 360 years ago, a young man in England called Isaac Newton darkened his room to find out. He made a small hole in the window shutter and put a glass prism in the beam of sunlight.
 
@@ -807,8 +807,8 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - C.V. Raman's discovery about scattered light is used today to identify chemicals, even in old paintings.
 
 ## Spotted around us
-- A rainbow over the tea gardens of Assam or the paddy fields of Kerala after a monsoon shower, with the Sun low behind you.
-- The spray at Jog Falls in Karnataka or Athirappilly Falls in Kerala, which often holds a rainbow on sunny days.
+- A rainbow over a tea garden or a paddy field after a monsoon shower, with the Sun low behind you.
+- The spray at a waterfall, which often holds a rainbow on sunny days.
 - Tiny rainbows thrown round a room by a glass chandelier, a Durga Puja pandal light or a cut-glass bottle.
 - Swirling colours on a soap bubble while bathing or washing clothes.
 - A rainbow sheen on a puddle where a scooter has leaked a drop of oil.
@@ -875,6 +875,11 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Coloured cellophane sheets: red, green and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Colour filters for the leaf in red light and the Colour Filters activity. Red cellophane from gift wrap or a red see-through sweet wrapper works too. Used in a1, a2. 
 - [Plant spray bottle with a fine mist](https://www.amazon.in/s?k=plant+mist+spray+bottle) (tool): Makes a fine mist for a rainbow on a balcony or terrace. Any clean spray bottle with a mist setting works. Used in e2. 
 - [Diffraction grating glasses, also called rainbow glasses](https://www.amazon.in/s?k=diffraction+grating+glasses) (tool): Turn every light into a rainbow. Good for comparing lamps in the spectroscope project. Used in p1. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in The Rainbow Forecaster. About ₹30 to ₹150. A phone compass app also works. Used in c2. Get it before The Rainbow Forecaster.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Biggest Rainbow Indoors. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before The Biggest Rainbow Indoors.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Water Prism: do the colours ever change order?, Where Does Green End? Counting the colours, The Biggest Rainbow Indoors. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1, a4, c1. Get it before The Water Prism: do the colours ever change order?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Biggest Rainbow Indoors, The Rainbow Forecaster. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1, c2. Get it before The Biggest Rainbow Indoors.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three things that make their own light. → The Sun, a bulb and a flame are some. The Moon does not make light. It reflects the Sun's.

@@ -515,6 +515,10 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Things to buy
 - [One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia by Miranda Paul](https://www.amazon.in/s?k=One+Plastic+Bag) (book): Women in the Gambia turned plastic waste into something useful. It makes the child ask what to do with the materials we throw away. Used in a1. Read it together after the lesson on how materials are used.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Tilt Test: which material makes the best tray mat?, Heavy or Light: does a heavier katori grip better?, The Slipperiest Slide for a Matchbox. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, c1. Get it before The Tilt Test: which material makes the best tray mat?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in The Tilt Test: which material makes the best tray mat?. About ₹20 to ₹60. Used in e1. Get it before The Tilt Test: which material makes the best tray mat?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in The Slipperiest Slide for a Matchbox. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in c1. Get it before The Slipperiest Slide for a Matchbox.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is friction? → The grip between two things that touch.

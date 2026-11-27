@@ -596,6 +596,9 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 - Hollongapar Gibbon Sanctuary · place · Jorhat, Assam: A forest sanctuary where hoolock gibbons, India's only apes, live wild. Go with a guide, early in the morning, to hear them sing. Check visiting times before you go.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Where Apes Live: a map of ape homes. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Where Apes Live: a map of ape homes.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Laugh Test: when you laugh, does the air go out or in?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Laugh Test: when you laugh, does the air go out or in?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, old1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do apes have tails? → No. Monkeys mostly have tails, and apes have none.

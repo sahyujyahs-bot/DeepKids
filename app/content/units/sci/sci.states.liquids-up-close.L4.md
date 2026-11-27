@@ -1,9 +1,9 @@
 # Liquids up close: why water pushes harder the deeper you go
 `sci.states.liquids-up-close.L4`
 
-**Summary.** Poke three holes in a bottle of water and the lowest hole squirts the farthest. Why does water push harder the deeper you go? In this unit you will test three jets, find how a push spreads through water, and mark a level line along a wall with a hose.
+**Summary.** Poke three holes in a bottle of water and the lowest hole squirts the farthest. Why does water push harder the deeper you go? In this lesson you will test three jets, find how a push spreads through water, and mark a level line along a wall with a hose.
 
-**Intro.** *Poke three holes in a plastic bottle, one near the top, one in the middle and one near the bottom. Fill the bottle with water. All three jets start at once. Which one will squirt the farthest?* Many people guess the top hole, because it is higher. The answer comes from something you cannot see: the push that water makes on everything it touches. In this unit you measure that push with a bottle, and with a hose that is longer than a room. You find out why the push grows with depth, why it does not depend on how much water there is, and why the water in a hose always settles to the same level. You also build a machine from two syringes, and see why the top-floor tap runs slowly and why a dam is thickest at the bottom.
+**Intro.** *Poke three holes in a plastic bottle, one near the top, one in the middle and one near the bottom. Fill the bottle with water. All three jets start at once. Which one will squirt the farthest?* Many people guess the top hole, because it is higher. The answer comes from something you cannot see: the push that water makes on everything it touches. In this lesson you measure that push with a bottle, and with a hose that is longer than a room. You find out why the push grows with depth, why it does not depend on how much water there is, and why the water in a hose always settles to the same level. You also build a machine from two syringes, and see why the top-floor tap runs slowly and why a dam is thickest at the bottom.
 
 ## Learning outcomes
 0. I can describe liquid particles: they touch and slide, so a liquid takes the shape of its container and keeps its size.
@@ -157,7 +157,7 @@ A siphon is a tube that empties a container over its rim. Fill the tube with wat
   Against: The push of water grows with depth. At the bottom of a tall dam, it is far bigger than at the top. A wall must be much thicker there, or it would break.
 
 ## Roots
-In this unit you measure the push of water at different depths, and watch water find its level in a hose. One rule is behind both: a spot in water is pushed only by the water above it. This part looks at that rule, and at where it shows up in your own body.
+In this lesson you measure the push of water at different depths, and watch water find its level in a hose. One rule is behind both: a spot in water is pushed only by the water above it. This part looks at that rule, and at where it shows up in your own body.
 
 **Deep truth.** In the Three Jets experiment, the lowest hole squirted farthest, though all three holes were in the same bottle of water. In the Same Level experiment, the water stood at the same height in the thin hose and in the wide funnel. A spot in water is pushed only by the water above it. How much water lies around it makes no difference.  
 *Habit it breaks:* We think more water means more push, so that a big tank beats a small one and a wide lake beats a thin tube. The Three Jets and Same Level experiments show that depth matters, and the amount does not.  
@@ -720,11 +720,11 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - A JCB digging a trench by the road, with shiny rods that slide in and out of its arm.
 - An auto rickshaw driver pressing the brake pedal as the road gets busy.
 - A barber pumping the foot pedal of the chair to raise a customer.
-- The Mettur Dam, a thick wall across the Kaveri river.
+- A dam, a thick wall across a river.
 - A kettle with the water in the spout standing as high as the water inside.
 - A mason with a clear hose checking the height of a wall.
 - A garage where a hydraulic jack lifts a car so a tyre can be changed.
-- A step well in Rajasthan or Gujarat, with deep steps down to the water.
+- A step well, with deep steps down to the water.
 
 ## Open questions
 - **How does a siphon work: by air pressure, or by the water pulling itself along?** Experiments in recent years have reported siphons running in a vacuum. Scientists still argue about how much comes from each cause.
@@ -784,6 +784,13 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 - [A clear plastic tube or hose, 4 metres long, with an inside width of 6 to 10 millimetres](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): For marking a level line on a wall. A hardware, plumbing or aquarium shop sells it by the metre, usually about Rs 30 to 50 a metre. If it costs too much, buy 3 metres and put the marks 2 metres apart. Used in e2. 
 - [About 1 metre of thin, soft aquarium air tube (silicone or plastic), about 4 millimetres wide](https://www.amazon.in/s?k=aquarium+air+tube+silicone) (material): For the Syringe Arm. It stretches over the tip of a syringe so it does not leak. Pet and aquarium shops sell it for about Rs 10 a metre. The thick hose from the level-line test is too wide for syringe tips. Used in p1. 
 - [A bottle of liquid food colour](https://www.amazon.in/s?k=liquid+food+colour+blue) (material): To colour the water in the hose and the syringes, so you can see it. Any grocery or baking shop sells small bottles. A pinch of haldi, or a drop of ink, also works. Used in e2, p1. 
+- [Compass from a geometry box](https://www.amazon.in/s?k=geometry+box+compass) (tool): Its sharp point makes the small holes in the bottle for the jets tests. About ₹40 to ₹100 at a stationery shop. A thick needle or a nail, with a grown-up to make the holes, is the household alternative. Used in e1, a2, c1. Buy it before the Three Jets test.
+- [Masking tape, one roll](https://www.amazon.in/s?k=masking+tape) (material): It covers the holes and marks the heights on the bottle, the wall and the hose. About ₹30 to ₹60 for a roll at a hardware shop. Sticky tape works in its place. Used in e1, e2, a2, p1, c1. Buy it before the Three Jets test.
+- [Measuring tape, 3 to 5 metres](https://www.amazon.in/s?k=measuring+tape) (tool): It measures how far the water squirts and how high the level line sits on the wall. About ₹50 to ₹150 at a hardware or stationery shop. A long ruler works for the squirt test. Used in e1, e2, c1. Buy it before the Three Jets test.
+- [Thin plastic straws, a pack of 20 or more](https://www.amazon.in/s?k=plastic+drinking+straws) (material): Each child uses three straws in the Straw Trouble activity to find out whether drinking is sucking or pushing. About ₹20 to ₹60 for a pack at a grocery or stationery shop. Straws from juice boxes work as the household alternative. Used in a4, c1. Buy them before the Straw Trouble activity.
+- [Wooden ice-cream sticks, about 10](https://www.amazon.in/s?k=wooden+ice+cream+sticks) (material): They make the frame of the syringe arm, which is fixed to a cardboard base. About ₹20 to ₹50 for a pack at a kirana shop or online. Thin cardboard strips cut from a box work as the household alternative. Used in p1. Buy them before you build the Syringe Arm.
+- [Paper fasteners, a small pack](https://www.amazon.in/s?k=paper+fasteners) (material): They are the joints that let the syringe arm bend. About ₹20 to ₹50 for a small pack at a stationery shop. Short pieces of straw tied with thread are the household alternative. Used in p1. Buy them before you build the Syringe Arm.
+- [Printed pages for the game cards, vote tokens and worksheets, about 15 pages]() (material): The card game uses 24 two-sided cards and nine printed vote tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30. Used in g1, ws-core, ws-stretch, ws-challenge. Print these before the card game.
 
 ## Warm-up
 - What is pressure? → How hard something pushes on each small part of a surface.
@@ -805,7 +812,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 ## Sources
 - ideas/by_topic/forces-and-movement.md: a drama about a dam holding back water, a visit to a hydroelectric dam and pressure and buoyant forces, used for the dam activity and the spotted items
 - ideas/by_topic/matter-and-particles.md: matter as particles that attract each other in different ways, used for the particle picture of a liquid
-- The Class 3 unit on liquids up close, which this unit builds on: viscosity and surface tension, now extended to the push of a liquid at depth, levels and hydraulics
+- The Class 3 unit on liquids up close, which this lesson builds on: viscosity and surface tension, now extended to the push of a liquid at depth, levels and hydraulics
 - Neighbour units floating-and-sinking and plants water-transport, which are built on and not repeated: density and weight, and how water climbs a plant, are left there
 - Cambridge Primary Science Stage 4, 3.1 Materials, substances and particles (liquids, coverage only)
 - Stevin, S., De Beghinselen des Waterwichts (The principles of the weight of water), Leiden, 1586

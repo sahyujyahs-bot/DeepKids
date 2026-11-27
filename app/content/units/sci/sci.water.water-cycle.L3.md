@@ -1,9 +1,9 @@
 # The water cycle: where rain comes from and where it goes
 `sci.water.water-cycle.L3`
 
-**Summary.** Rain is fresh water, yet the sea is salty. Where does the rain come from? In this unit you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.
+**Summary.** Rain is fresh water, yet the sea is salty. Where does the rain come from? In this lesson you will make fresh water from salty water with sunshine, make a cloud in a jar, and race different ways of drying water to see what makes it evaporate faster.
 
-**Intro.** *Wet your hand and press it flat on a dry floor tile in the sunshine. Watch your handprint. Count slowly. Where is the water going? It did not soak into the tile.* In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This unit follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.
+**Intro.** *Wet your hand and press it flat on a dry floor tile in the sunshine. Watch your handprint. Count slowly. Where is the water going? It did not soak into the tile.* In a minute or two, your handprint vanishes. The water has not been destroyed. It has gone into the air, as an invisible gas. It might come back down as rain next week, a hundred kilometres away. Every drop of rain you have ever seen went up first. This lesson follows water on its round journey: up from the sea, into the clouds, down as rain, along rivers and back to the sea. You will make a real cloud in a jar, and get fresh water out of salty water using only sunshine.
 
 ## Learning outcomes
 0. I can say what the water cycle is: water goes from the sea and the land up into the air, forms clouds, falls as rain, and flows back to the sea.
@@ -686,7 +686,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* Read out these two ideas. Villages in dry hills hang big nets to catch fog. Desert beetles catch fog drops on their backs and drink them. Then compare them with your design.  
   *Parent says:* Villages and beetles have solved this problem before you.  
   *Child mode:* Which of these two ideas would you copy for a real village?
-  - Think: A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?
+  - Think: A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this lesson did tiny drops join into bigger ones?
 
 ## Worksheets
 ### Water Cycle Detective (core) (core, 16 questions)
@@ -869,9 +869,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - Drops on the inside of the lid of a pot of rice or sambar.
 - The water pipe from an AC unit, dripping on a hot afternoon. That water came out of the room's air.
 - Dew on car windscreens and scooter seats on a winter morning.
-- Thick winter fog over Delhi and the fields of Punjab, when trains and flights run late.
-- Clouds sitting on the hills of the Western Ghats in the monsoon, at places like Lonavala and Mahabaleshwar.
-- Salt pans beside the road near the sea in Gujarat, or near Thoothukudi in Tamil Nadu, with white heaps of salt.
+- Thick winter fog over the city and the fields, when trains and flights run late.
+- Clouds sitting on the hills in the monsoon.
+- Salt pans beside the road near the sea, with white heaps of salt.
 - Clothes drying on terraces, fastest on windy, sunny days.
 - Mist rising off a pond or river on a cold morning.
 - The earthy smell of the first monsoon rain. Scientists call it petrichor.
@@ -931,11 +931,11 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free online simulation. Heat and cool water molecules, and watch them jiggle, spread out as a gas, and come back together as a liquid.
 - [Exploratorium Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for clouds and evaporation.
 - [Indian Institute of Tropical Meteorology](https://www.tropmet.res.in) · place · Pune: India's main monsoon research institute. Its scientists study monsoon clouds and have tested cloud seeding.
-- [Mawsynram and Sohra (Cherrapunji)]() · place · East Khasi Hills, Meghalaya: Two of the wettest places on Earth. Visit in the monsoon to see the water cycle at full power, with waterfalls everywhere.
-- [The salt pans of the Little Rann of Kutch]() · place · Kutch, Gujarat: Salt workers called Agariyas make salt by letting brine evaporate in the sun, as in this unit's story. Visit in winter, when salt is made.
+- Mawsynram and Sohra (Cherrapunji) · place · East Khasi Hills, Meghalaya: Two of the wettest places on Earth. Visit in the monsoon to see the water cycle at full power, with waterfalls everywhere.
+- The salt pans of the Little Rann of Kutch · place · Kutch, Gujarat: Salt workers called Agariyas make salt by letting brine evaporate in the sun, as in this lesson's story. Visit in winter, when salt is made.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Shows about the Earth, the Sun and other worlds, including moons like Titan.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with hands-on exhibits about heat, energy and weather.
-- [A terrace, a park or a window with a view of the sky]() · place · anywhere: Everything you need for Cloud Watch and the Morning Dew Walk is right outside.
+- A terrace, a park or a window with a view of the sky · place · anywhere: Everything you need for Cloud Watch and the Morning Dew Walk is right outside.
 
 ## Things to buy
 - [Cling film](https://www.amazon.in/s?k=cling+film+food+wrap) (material): Covers the bowl in Sea in a Bowl and the bowls in Beat the Sun. Used in e1, c1. Most kitchens already have it.
@@ -946,6 +946,11 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [The Cloud Book, by Tomie dePaola](https://www.amazon.in/s?k=The+Cloud+Book+Tomie+dePaola) (book): A picture book about the main kinds of clouds, what they tell us about the weather, and old sayings about clouds to test. Used in a3. If bought, read it before Cloud Watch, and use its pictures to name the clouds you see.
 - [A Drop Around the World, by Barbara Shaw McKinney](https://www.amazon.in/s?k=A+Drop+Around+the+World+Barbara+Shaw+McKinney) (book): Follows one drop of water through clouds, rivers, plants and animals around the world. Used in g1. If bought, read it after the first game of Round the World Drop, and compare the book's drop with your bracelet.
 - [A Drop of Water, by Walter Wick](https://www.amazon.in/s?k=A+Drop+of+Water+Walter+Wick) (book): Close-up photographs of drops, frost, dew and steam that make evaporation and condensation visible. For older children and parents. Used in e4, a2. If bought, look at its dew and frost pages after the Cold Tumbler and the Dew Walk.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Vanishing Handprint. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before The Vanishing Handprint.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Cold Tumbler: where do the drops come from?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e4. Get it before The Cold Tumbler: where do the drops come from?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Make a Monsoon: the kettle and the mountain. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a5. Get it before Make a Monsoon: the kettle and the mountain.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Cold Tumbler: where do the drops come from?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e4. Get it before The Cold Tumbler: where do the drops come from?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - When water goes up into the air as an invisible gas, it ____. → Evaporates.
@@ -972,7 +977,7 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - Founder's sheets, HomeSchooling Track, STEM Activities websites: Exploratorium, used in links.
 - DeepKids Combined Class 5 Water (combined, sci-C5-water.json): the sweating steel glass, the salt pans, the water cycle that has no start or end, clouds as drops on specks of dust, transpiration, the voices of Palissy, Perrault and Halley, and 'Water's Many Lives' card game. Improved here into e4, e1, the explanations, the challenging views and the bead game. Its story was not reused.
 - DeepKids Combined Class 3 Water (combined, sci-C3-water.json): the sun-and-shade drying plates, improved here into the Evaporation Race. Its rain gauge and Drop's Journey game are already in the sibling unit on water sources, so they were not repeated.
-- Sibling unit sci.water.water-sources-and-uses.L3 was read so this unit does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this unit's deep truth is about water that is in the air though we cannot see it.
+- Sibling unit sci.water.water-sources-and-uses.L3 was read so this lesson does not repeat it: groundwater, wells, storage, the matka and clean water stay there. Its deep truth ('no water is new') is not repeated; this lesson's deep truth is about water that is in the air though we cannot see it.
 - Aitken, J. On dust, fogs, and clouds. Transactions of the Royal Society of Edinburgh, 1880 (cloud drops need specks)
 - Perrault, P. De l'origine des fontaines, 1674; Halley, E. on evaporation from the sea, Philosophical Transactions, 1687
 - Halley, E. An historical account of the trade winds, and monsoons. Philosophical Transactions, 1686

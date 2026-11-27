@@ -1,9 +1,9 @@
 # What are things made of?
 `sci.materials.what-is-it-made-of.L1`
 
-**Summary.** A paper cup holds hot tea, yet paper goes soft in water. So is the cup only paper? In this unit you will hunt for six materials in your kitchen, cut a paper cup open to find out, and play material bingo.
+**Summary.** A paper cup holds hot tea, yet paper goes soft in water. So is the cup only paper? In this lesson you will hunt for six materials in your kitchen, cut a paper cup open to find out, and play material bingo.
 
-**Intro.** *Tea from a paper cup does not leak. But paper goes soft and soggy in water. So how can a paper cup hold tea?* Look around the room. The door, the fan, the bucket, the window, your shirt and your book are all made of something. What a thing is made of is called its material. In this unit you learn six materials: wood, metal, plastic, glass, fabric and paper. You find them all over your home. Then you solve the puzzle of the paper cup.
+**Intro.** *Tea from a paper cup does not leak. But paper goes soft and soggy in water. So how can a paper cup hold tea?* Look around the room. The door, the fan, the bucket, the window, your shirt and your book are all made of something. What a thing is made of is called its material. In this lesson you learn six materials: wood, metal, plastic, glass, fabric and paper. You find them all over your home. Then you solve the puzzle of the paper cup.
 
 ## Learning outcomes
 0. By the end I can name six materials (wood, metal, plastic, glass, fabric and paper) and find things made of each one at home.
@@ -29,6 +29,9 @@ Every thing you can touch is made of a material. A chair might be made of wood. 
 - e.g. In a kitchen you can find a steel kadai, a glass jar, a plastic dabba, a wooden ladle, a cotton towel and a paper bag.
 - e.g. A clay diya for Karthigai Deepam is made of clay, another material.
 - e.g. Your rubber chappal is made of rubber.
+- **Indian traditions:** Everything is made of five elements, the mahabhuta: earth, water, fire, air and space.
+- **Greek thinkers:** Gave four elements: earth, water, air and fire.
+- **Modern chemistry:** Everything is made of about 118 elements, joined in countless ways, and a material is a certain way of joining them.
 ### How to tell what a thing is made of · *defined*
 **Definition:** You can often tell a thing's material by looking at it, touching it, tapping it and lifting it.
 
@@ -36,6 +39,8 @@ Wood has thin lines called grain, and it sounds dull when you knock on it. Metal
 - e.g. Tap a steel plate with a spoon: ting! Tap a wooden board: tok.
 - e.g. Lift a steel tiffin and a plastic tiffin of the same size. The steel one is heavier.
 - e.g. Hold a cotton towel up to the light. You can see tiny holes between the threads.
+- **Our senses:** We judge a material by sight, touch, sound and weight.
+- **Spectroscopists:** Use the light a thing gives out or takes in to tell what it is made of, even for a star we cannot touch. Every element has its own pattern of colours.
 ### One material makes many things, and one thing can have many materials · *defined*
 **Definition:** One material, like steel, can be made into many different things. And one thing, like a pencil, can be made of more than one material.
 
@@ -43,6 +48,8 @@ Steel makes tumblers, spoons, plates, keys and train carriages. Paper makes book
 - e.g. A pencil is wood outside, with a grey stick inside called graphite. Many pencils also have paint and a rubber on the end.
 - e.g. An umbrella has a fabric top, metal spokes and a plastic or wooden handle.
 - e.g. A spoon can be steel, wood, plastic or even silver, and it is still a spoon.
+- **Everyday view:** A pencil is wood with a graphite core. Steel makes spoons and bridges.
+- **Materials scientists:** Say what we call one material is layers inside layers. Wood is a tangle of cellulose fibres, and graphite is sheets of carbon atoms. A material looks different at each scale.
 ### Where materials come from · *defined*
 **Definition:** Every material comes from something in nature: a plant, an animal, rock, sand or oil from under the ground.
 
@@ -50,6 +57,8 @@ Wood comes from trees. Paper is made from wood, or from other plant threads like
 - e.g. Karnataka makes more silk than any other state in India.
 - e.g. A paper mill in Tamil Nadu makes paper from bagasse, the dry stalks left after sugarcane juice is squeezed out.
 - e.g. Firozabad, a city in Uttar Pradesh, makes glass bangles from melted sand and other materials.
+- **Indian philosophy:** Taught that all things are made of five great elements, earth, water, fire, air and space, mixed in different ways.
+- **Astrophysicists:** Show that the atoms of carbon, oxygen and iron in everything were made inside stars that died long ago. Our materials come from nature, and nature's atoms come from the stars.
 
 ## Mostly agreed
 - Everything we can touch is made of one or more materials. *How we know:* Every thing people have ever tested, from a spoon to a mountain, is made of materials that can be named and studied.
@@ -502,11 +511,11 @@ And some things, like her pencil, were made of more than one thing.
 - Toy makers use soft fabric for toys for babies, because soft fabric has no sharp edges and does not hurt when it falls.
 
 ## Spotted around us
-- A row of shining steel tiffin boxes on a kitchen shelf in Chennai, each one with a name scratched on the lid.
-- Glass bangles in every colour on a street stall in Hyderabad, clinking as people try them on.
-- A wooden kettuvallam houseboat in the backwaters of Kerala, its roof made of woven palm and bamboo.
-- A kabadiwala in Kolkata with heaps of newspaper, metal tins and plastic bottles, each in its own pile.
-- A handloom weaver in Assam weaving a gamosa, a white cotton cloth with a red border.
+- A row of shining steel tiffin boxes on a kitchen shelf, each one with a name scratched on the lid.
+- Glass bangles in every colour on a street stall, clinking as people try them on.
+- A wooden houseboat on the backwaters, its roof made of woven palm and bamboo.
+- A kabadiwala with heaps of newspaper, metal tins and plastic bottles, each in its own pile.
+- A handloom weaver weaving a gamosa, a white cotton cloth with a red border.
 
 ## Open questions
 - **How many different materials are there in the world?** Scientists keep making new ones, and nobody has counted them all. Nobody knows how many more could be made.
@@ -541,10 +550,15 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about cotton, paper or making things.
-- [DakshinaChitra Heritage Museum]() · place · Chennai: Old homes from South India built of wood, clay, stone and palm leaves, with potters and weavers at work.
-- [National Crafts Museum and Hasta Kala Academy]() · place · New Delhi: Crafts from all over India made of wood, metal, cloth, clay and paper.
+- DakshinaChitra Heritage Museum · place · Chennai: Old homes from South India built of wood, clay, stone and palm leaves, with potters and weavers at work.
+- National Crafts Museum and Hasta Kala Academy · place · New Delhi: Crafts from all over India made of wood, metal, cloth, clay and paper.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Look Closer: the threads in paper and cloth. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before Look Closer: the threads in paper and cloth.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Make a Hand Fan That Works. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Make a Hand Fan That Works.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in A Shoebox Room: one material for each part, Make a Hand Fan That Works. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in p1, c1. Get it before A Shoebox Room: one material for each part.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in A Shoebox Room: one material for each part. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before A Shoebox Room: one material for each part.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a window usually made of? → Glass.
@@ -560,7 +574,7 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/materials-and-their-properties.md: the notebook's ideas on materials and sound (knock wood, metal and cloth) are used as tapping clues in the explanations and games, and its 'guessing game for hidden material' idea shaped Bring Me Something Made Of. Its transparency, heat and surface-tension activities belong to other units. The Class 3 unit on this subtopic uses paper making, salt from sea water, kitchen colours, milk plastic and the journey backwards, so this unit uses the paper cup test, a kitchen material hunt, crayon rubbings, torn-edge fibres and a scrunch test instead.
+- ideas/by_topic/materials-and-their-properties.md: the notebook's ideas on materials and sound (knock wood, metal and cloth) are used as tapping clues in the explanations and games, and its 'guessing game for hidden material' idea shaped Bring Me Something Made Of. Its transparency, heat and surface-tension activities belong to other units. The Class 3 unit on this subtopic uses paper making, salt from sea water, kitchen colours, milk plastic and the journey backwards, so this lesson uses the paper cup test, a kitchen material hunt, crayon rubbings, torn-edge fibres and a scrunch test instead.
 - Cambridge Primary Science Stage 1, Unit 4.1 'What is it made of?': the materials hunt at home and naming the materials of everyday things.
 - Paper cups for hot and cold drinks are usually coated on the inside with a thin layer of polyethylene plastic, or sometimes another plastic, to keep the drink from soaking into the paper.
 - Most chips packets are made of plastic film with a very thin coating of aluminium on the inside, to keep out light and air.

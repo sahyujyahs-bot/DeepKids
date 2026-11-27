@@ -1,9 +1,9 @@
 # Living light: how a glow is made, how it is read, and why eyes need the dark
 `sci.light.living-light.L4`
 
-**Summary.** How does a firefly make light with no heat and no flame? In this unit you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.
+**Summary.** How does a firefly make light with no heat and no flame? In this lesson you will watch your pupils change, test how much you can see in the dark after waiting, use raw and boiled potato to see how heat stops a helper chemical, and play a game of fireflies flashing together.
 
-**Intro.** *Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?* Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this unit you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.
+**Intro.** *Walk out of bright sunshine into a dark cupboard. For a minute you see nothing at all. Stay there, and shapes begin to appear. Nothing in the cupboard has changed. What has?* Your eyes have been changing, step by step, so that they can catch very faint light. A firefly's flash is faint light too, made by chemistry inside their body. In this lesson you find out what a flash needs, why a helper chemical stops working in hot water, and how a squid and a crowd of bacteria make one lamp together. You also test how much your own eyes can see in the dark, and play a game in which fireflies with different beats learn to flash as one.
 
 ## Learning outcomes
 0. I can name the four things a firefly's flash needs, luciferin, luciferase, oxygen and ATP, and say what each one does.
@@ -819,10 +819,10 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
    **Answer:** They pick them up from the sea water. *Why:* A baby squid has no bacteria at first. They pick up the right kind from the sea water, and only one kind is allowed to stay. Picking 'born with them' misses that this partnership has to be set up again by each new squid.
 11. (mcq) There are two groups of fireflies with different beats. In group one, each firefly joins any flash they see once they are past halfway to their own flash. In group two, each firefly ignores every flash but their own. Which group will line up, and why?  
    Options: Group one, because answering each other's flashes pulls them into step / Group two, because each keeps their own steady beat / Neither, because only a leader can line them up  
-   **Answer:** Group one, because answering each other's flashes pulls them into step. *Why:* A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this unit shows: no leader is needed.
+   **Answer:** Group one, because answering each other's flashes pulls them into step. *Why:* A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this lesson shows: no leader is needed.
 12. (mcq) The pacemaker cells of your heart keep time together with no boss cell. How is this like fireflies flashing together?  
    Options: Each cell answers its neighbours, and the whole group keeps one beat / Both are led by one main cell / Both make light  
-   **Answer:** Each cell answers its neighbours, and the whole group keeps one beat. *Why:* In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this unit shows: no leader is needed.
+   **Answer:** Each cell answers its neighbours, and the whole group keeps one beat. *Why:* In both cases, many separate beats pull each other into step. No member leads. Picking 'one main cell' misses what this lesson shows: no leader is needed.
 13. (mcq) A scientist adds the gene for a green glowing protein next to the gene for a nerve cell's protein. What does the green glow tell her?  
    Options: That the nerve cell's gene is working in that cell / That the cell is hot / That the cell is dead  
    **Answer:** That the nerve cell's gene is working in that cell. *Why:* The glowing gene is switched on wherever the gene beside it is switched on. So the green light marks where the gene is working. Picking 'hot' misses that this glow is cold.
@@ -845,13 +845,13 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - Computer scientists copy the way fireflies line up to make groups of sensors keep time together with no master clock.
 
 ## Spotted around us
-- Fireflies flashing together in trees, in the mangroves of Southeast Asia, and in the Western Ghats in late May and June.
-- The blue sparkle of sea sparkle in the waves of beaches near Chennai, Mumbai, Goa and Kerala on some winter nights.
+- Fireflies flashing together in trees, in mangroves or in forests in late May and June.
+- The blue sparkle of sea sparkle in the waves of a beach on some winter nights.
 - A black cat's or a dog's eyes shining green in a torch beam, because of a mirror-like layer at the back of the eye.
 - The pupils of your own eyes getting bigger in a dark cinema, and smaller when you come out into the sun.
 - A shopkeeper's UV machine making parts of a banknote glow.
 - A white shirt glowing under a purple party light, because of the brightener from washing powder.
-- Olive Ridley turtle nesting beaches near Chennai, where volunteers ask neighbours to keep lights low in the hatching season.
+- A sea turtle nesting beach, where volunteers ask neighbours to keep lights low in the hatching season.
 - A dim red light in a train driver's cabin, in an observatory, or on a ship's bridge at night.
 
 ## Open questions
@@ -916,6 +916,8 @@ The Rest of the Rainbow (sci.light.L4): Topic-level song
 - [Food colouring, a small bottle](https://www.amazon.in/s?k=food+colour+liquid) (material): For the Crowd and the Signal activity. Strong tea works too. Used in a3. 
 - [Coloured cellophane sheets, red, green and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): For the Unforgeable Flash challenge, to change the colour of a torch. Used in c1. 
 - [Silent Sparks: The Wondrous World of Fireflies, by Sara Lewis](https://www.amazon.in/s?k=silent+sparks+sara+lewis) (book): A readable book about fireflies by a firefly scientist, for the parent and for older readers. Used in c1, c2. Read a short chapter aloud on the evenings you do the Unforgeable Flash and Fireflies in Step challenges.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Helper That Heat Stops: raw potato, boiled potato and a bottle of peroxide. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Helper That Heat Stops: raw potato, boiled potato and a bottle of peroxide.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four ingredients of a firefly's flash. → Luciferin, luciferase, oxygen and ATP.
@@ -937,7 +939,7 @@ The Rest of the Rainbow (sci.light.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/light-seeing-and-shadows.md, 'Bioluminescence & fluorescence': shine a UV lamp on tonic water, highlighter ink under blacklight, collect things that fluoresce under a UV torch (white clothes), glowing scorpions, card game matching organisms to their type of luminescence and a quiz on the difference between fluorescence and bioluminescence (used in e3, g2), candle-gazing and dark-room breathing (roots practice), glow tag and night games (c1)
 - Founder's notes on the philosophy 'Life creates its own light; darkness can reveal hidden glow; energy transformation is universal', which the unit takes further with the eye that reads the light and the crowd that flashes as one
-- The Class 3 unit Living light, which this unit builds on: glow sticks, cold light, the firefly, the deep sea and light pollution, now taken to the chemistry, the eye and the crowd
+- The Class 3 unit Living light, which this lesson builds on: glow sticks, cold light, the firefly, the deep sea and light pollution, now taken to the chemistry, the eye and the crowd
 - McElroy, W. D., Proceedings of the National Academy of Sciences 1947: the energy source for firefly bioluminescence is ATP
 - Dubois, R. (1885, 1887): luciferin and luciferase, and the effect of heat on the helper
 - Ando, Y. and others, Nature Photonics 2008: firefly luciferin reaction quantum yield about 41 percent

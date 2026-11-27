@@ -1,9 +1,9 @@
 # How animals choose partners: displays, songs, dances and nests
 `sci.animals.courtship-and-mates.L4`
 
-**Summary.** A peacock's long tail makes flying harder, so why does he have it? In this unit you will watch pigeons at the window, test whether one change to a display changes what is chosen, test how a long tail slows flight, and play a call-and-answer game.
+**Summary.** A peacock's long tail makes flying harder, so why does he have it? In this lesson you will watch pigeons at the window, test whether one change to a display changes what is chosen, test how a long tail slows flight, and play a call-and-answer game.
 
-**Intro.** *A peacock's train is about one and a half metres long. A tiger can see the train from far away, and the train is heavy to carry. He sheds the train every year and grows a new one. Why does he grow something so costly?* The peacock grows his train because peahens choose. A peahen walks past several peacocks, watches them, and picks one to be the father of her chicks. The things animals do to find and win a partner are called courtship. A magpie robin sings. Two sarus cranes dance. A weaver bird builds a nest and waits for a female to inspect it. In this unit you run a choosing test with paper trains. You also find out what a long tail costs a flyer.
+**Intro.** *A peacock's train is about one and a half metres long. A tiger can see the train from far away, and the train is heavy to carry. He sheds the train every year and grows a new one. Why does he grow something so costly?* The peacock grows his train because peahens choose. A peahen walks past several peacocks, watches them, and picks one to be the father of her chicks. The things animals do to find and win a partner are called courtship. A magpie robin sings. Two sarus cranes dance. A weaver bird builds a nest and waits for a female to inspect it. In this lesson you run a choosing test with paper trains. You also find out what a long tail costs a flyer.
 
 ## Learning outcomes
 0. I can say what courtship is, and why animals need it.
@@ -143,7 +143,7 @@ A peahen prefers some peacocks to others. What is her preference about? There ar
   Against: Suhel Quader studied baya weavers in India and published the work in 2006. He found that the place mattered more than the weaving. Females preferred nests hung high, on thorny trees and on thin branches.
 
 ## Roots
-In this unit you counted what choosers pick, and you found that a long tail shortens a paper bird's flight. Here we ask what choosing has made, and whether beauty is in the thing or in the one who looks.
+In this lesson you counted what choosers pick, and you found that a long tail shortens a paper bird's flight. Here we ask what choosing has made, and whether beauty is in the thing or in the one who looks.
 
 **Deep truth.** In the Long Tail Test, the paper bird with the longest tail flew the shortest distance. A male long-tailed widowbird still grows a tail half a metre long. Female widowbirds choose long-tailed males, so those males have more young. So the choices of females have shaped the bodies of males, even where flying became harder.  
 *Habit it breaks:* We think every part of a body is there to help its owner stay alive: legs to run, a beak to feed. A long tail does not help a widowbird stay alive. It is there because others of his kind preferred it.  
@@ -153,7 +153,7 @@ In this unit you counted what choosers pick, and you found that a long tail shor
 - *what is life:* Most animals cannot make young alone. Their kind of life goes on only where two beings find each other and accept each other.
 - *what is this world:* Much of the colour and song around you was shaped by choosers. A peacock's train and a magpie robin's song exist because, over many generations, partners watched and listened and chose.
 
-Two animals begin as separate beings, and often as strangers. In courtship each one pays close attention to the other. Then one cell from each joins, and a new being begins from the two. Many wise teachers taught that many beings come from one source. This unit shows something that goes the other way. Two separate beings come together, and from the two a new life begins, again and again, in every generation.
+Two animals begin as separate beings, and often as strangers. In courtship each one pays close attention to the other. Then one cell from each joins, and a new being begins from the two. Many wise teachers taught that many beings come from one source. This lesson shows something that goes the other way. Two separate beings come together, and from the two a new life begins, again and again, in every generation.
 
 - **Valmiki Ramayana, Bala Kanda, sarga 2:** The poet Valmiki sees a pair of krauncha birds together by a river. A hunter shoots the male, and the female cries out. Valmiki's grief comes out as a verse, which tradition calls the first shloka. (Many scholars think the krauncha is the sarus crane. The poem takes the bond between two birds seriously. Field studies agree that sarus pairs stay together for many years. Whether a crane grieves as a person does cannot yet be measured.)
 - **Kurunthokai 40, by Sembulappeyaneerar (Tamil Sangam poetry):** The poet asks: what is my mother to yours, and how did you and I ever meet? Yet, like red earth and pouring rain, our hearts have mixed. (The poem is about two people. It says plainly what happens in every pair: two beings who were strangers come to act together. Two sarus cranes calling in a duet show the same joining.)
@@ -628,8 +628,8 @@ Yazhini sat down and picked up her strips. They were only a little bent.
 - A pigeon on a ledge puffing up his neck, bowing and turning in circles in front of another pigeon.
 - A male koel calling 'ku-oo, ku-oo' from a tree in the hot months before the rains.
 - A black and white magpie robin singing from a pole or a rooftop at sunrise.
-- Peacocks calling and displaying as the monsoon begins, in villages and at places such as Viralimalai in Tamil Nadu.
-- Bright yellow bullfrogs in rain pools after the first heavy rain, in Kerala, Goa and Maharashtra.
+- Peacocks calling and displaying as the monsoon begins.
+- Bright yellow frogs calling in rain pools after the first heavy rain.
 - Helmet-shaped, half-built weaver nests hanging from palm leaves or over a well in the rainy season.
 
 ## Open questions
@@ -685,6 +685,9 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Things to buy
 - [A sheet of round sticker bindis, all one size and colour](https://www.amazon.in/s?k=round+sticker+bindi) (material): For the spots in the Eyespot Test. Dots drawn with one felt pen also work, so buy the bindis only if you want to. Used in e1. 
 - [The Book of Indian Birds, by Salim Ali](https://www.amazon.in/s?k=The+Book+of+Indian+Birds+Salim+Ali) (book): For naming the birds you hear and see. Salim Ali also made the first careful study of how baya weavers court. Used in p1, a1. During the Morning Song Count, look up each singer you manage to see. Read what the book says about their breeding season.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Long Tail Test: does a long tail make flying harder?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Long Tail Test: does a long tail make flying harder?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Long Tail Test: does a long tail make flying harder?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Long Tail Test: does a long tail make flying harder?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is courtship? → Everything an animal does to find and win a partner for having young.
@@ -704,7 +707,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Sources
 - Founder's notebook, Biology list, items 117 to 121 and 153: mating and reproductive behaviour, sexual selection (mate choice, competition), courtship rituals, monogamy, polygamy, polyandry and promiscuity, parental investment theory, and sexual selection in depth. This Class 4 unit covers courtship rituals and mate choice, and introduces the many ways of pairing by example. Competition between males, the theory of sexual selection, parental investment and the named family systems are left for sci.animals.courtship-and-mates.L5, as the curriculum says.
 - There is no lower-level unit of this subtopic. The prerequisite sci.animals.animal-babies.L2 and the units sci.animal-behaviour.animal-communication.L4, sci.animals.animals-around-us.L3 and sci.forces.flight.L4 were checked so that no experiment, game or story repeats. The peahen eyespot debate also appears in the communication unit as one challenging view. Here it is the centre of the Eyespot Test.
-- The Combined lesson sci-C4-the-world-of-birds has two cards on finding a mate (a fine song and a peacock's train). This unit builds those two lines out into a full unit. Its story is new.
+- The Combined lesson sci-C4-the-world-of-birds has two cards on finding a mate (a fine song and a peacock's train). This lesson builds those two lines out into a full unit. Its story is new.
 - Darwin C. (1871). The Descent of Man, and Selection in Relation to Sex. John Murray, London.
 - Andersson M. (1982). Female choice selects for extreme tail length in a widowbird. Nature 299: 818-820.
 - Petrie M., Halliday T., Sanders C. (1991). Peahens prefer peacocks with elaborate trains. Animal Behaviour 41.

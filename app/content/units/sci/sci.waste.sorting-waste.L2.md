@@ -1,9 +1,9 @@
 # Wet and dry waste: which bin, and where does it go?
 `sci.waste.sorting-waste.L2`
 
-**Summary.** A dry onion skin goes in the wet waste bin, but a milk packet goes in the dry one. How can that be? In this unit you will press waste on napkins to see which leaves a wet mark, weigh one meal's waste on a hanger, and sort a kitchen's waste into two bowls.
+**Summary.** A dry onion skin goes in the wet waste bin, but a milk packet goes in the dry one. How can that be? In this lesson you will press waste on napkins to see which leaves a wet mark, weigh one meal's waste on a hanger, and sort a kitchen's waste into two bowls.
 
-**Intro.** *Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?* The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? The Napkin Press Test in this unit will help you find out.
+**Intro.** *Hold a dry onion skin in one hand and a banana peel in the other. Which one feels wet? Now guess. Which bin does each one go in?* The banana peel feels wet. The onion skin feels dry and papery. Yet both go in the same bin, the wet waste bin. Wet waste means waste that rots. So how can you tell which bin a thing goes in, if feeling it does not tell you? The Napkin Press Test in this lesson will help you find out.
 
 ## Learning outcomes
 0. By the end I can say what wet waste and dry waste are, and give three examples of each.
@@ -428,7 +428,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 
 ## Spotted around us
 - A green bin and a blue bin side by side at a railway station or a bus stand.
-- The waste collector's cart or truck with two drums or two parts, in Chennai, Pune, Indore and many other cities.
+- The waste collector's cart or truck with two drums or two parts.
 - A heap of old marigold and jasmine flowers after a festival like Onam, Ganesh Chaturthi or Durga Puja, waiting to rot.
 - A kabadiwala's shop stacked with bundles of newspaper, cardboard and bottles.
 - Fuzzy mould on an old bread crust or a forgotten lemon: decomposers at work.
@@ -465,10 +465,12 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 Will It Rot? (sci.waste.L2): Topic-level song for Waste L2
 
 ## Links
-- [NCERT textbooks online](https://ncert.nic.in/textbook.php) · interactive: For the parent: the Class 3 science book, Our Wondrous World, has a chapter on waste, which comes next after this unit.
-- [A dry waste collection centre in your ward]() · place · Bengaluru, and similar centres in many other cities: If your city has one, a short visit with a grown-up shows where the blue bin goes and who sorts it.
+- [NCERT textbooks online](https://ncert.nic.in/textbook.php) · interactive: For the parent: the Class 3 science book, Our Wondrous World, has a chapter on waste, which comes next after this lesson.
+- A dry waste collection centre in your ward · place · Bengaluru, and similar centres in many other cities: If your city has one, a short visit with a grown-up shows where the blue bin goes and who sorts it.
 
 ## Things to buy
+- [Chart paper, two sheets](https://www.amazon.in/s?k=chart+paper) (material): The bin labels are drawn on it so that everyone at home can read them. About ₹10 to ₹25 a sheet at a stationery shop. Thick card from an old cardboard box is the household alternative. Used in c1. Buy it before the bin label challenge.
+- [Printed pages for the game board, waste cards and worksheets, about 12 pages]() (material): The board game needs a printed board of 12 squares and 20 waste cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹12 to ₹25. Used in g1, ws-core, ws-stretch. Print these before the board game.
 
 ## Warm-up
 - What is wet waste? → Waste that rots, like peels and food.
@@ -485,7 +487,7 @@ Will It Rot? (sci.waste.L2): Topic-level song for Waste L2
 
 ## Sources
 - ideas/by_topic/waste.md: the 'Waste is not a waste' week and the idea of seeing things differently, used for the roots and the question 'Will it rot?'. The Semmelweis SCI card fits handwashing and germs better than Class 2 sorting, so it was not used here.
-- NCERT Class 3 Our Wondrous World, chapter on waste: green bin for things that rot easily, including dried leaves and eggshells, and blue bin for metal, glass, plastic and paper. This unit leads into the Class 3 unit, which tests what wet waste does to dry waste.
+- NCERT Class 3 Our Wondrous World, chapter on waste: green bin for things that rot easily, including dried leaves and eggshells, and blue bin for metal, glass, plastic and paper. This lesson leads into the Class 3 unit, which tests what wet waste does to dry waste.
 - Supreme Court of India, Almitra H. Patel and another versus Union of India, Writ Petition (Civil) 888 of 1996; the Barman Committee report of 1998; Municipal Solid Wastes (Management and Handling) Rules, 2000; Solid Waste Management Rules, 2016, which ask every home to separate biodegradable, non-biodegradable and domestic hazardous waste.
 - S. Yoshida and others, 'A bacterium that degrades and assimilates poly(ethylene terephthalate)', Science 351 (2016), 1196-1199: Ideonella sakaiensis.
 - Decomposition of plant litter by bacteria and fungi: any ecology textbook.

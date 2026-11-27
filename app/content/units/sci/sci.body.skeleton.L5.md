@@ -1,9 +1,9 @@
 # Muscles in pairs, joints, and skeletons of shell and water: how muscles that can only pull move a body
 `sci.body.skeleton.L5`
 
-**Summary.** A muscle can only pull. It can never push. So how do you push your tongue out of your mouth? In this unit you will roll a dough worm to find how much longer a body gets when it is squeezed thinner. You will find the partner of each muscle, hunt for six kinds of joint, and measure how high each finger can lift alone. Then you will see how a crab moves inside armour, and how an earthworm moves with a skeleton made of water.
+**Summary.** A muscle can only pull. It can never push. So how do you push your tongue out of your mouth? In this lesson you will roll a dough worm to find how much longer a body gets when it is squeezed thinner. You will find the partner of each muscle, hunt for six kinds of joint, and measure how high each finger can lift alone. Then you will see how a crab moves inside armour, and how an earthworm moves with a skeleton made of water.
 
-**Intro.** *Bend your arm. A muscle pulled it. Now stick out your tongue. No muscle can push. So what moved your tongue forward, out of your mouth?* Every muscle in every animal works in one way. It gets shorter, and so it pulls. It cannot push, and it cannot make itself long again. Your arm has bones for muscles to pull on. Your tongue has no bone at all, and neither has an earthworm. Yet a tongue can reach out and an earthworm can stretch forward. By the end of this unit you will be able to say exactly how they do it.
+**Intro.** *Bend your arm. A muscle pulled it. Now stick out your tongue. No muscle can push. So what moved your tongue forward, out of your mouth?* Every muscle in every animal works in one way. It gets shorter, and so it pulls. It cannot push, and it cannot make itself long again. Your arm has bones for muscles to pull on. Your tongue has no bone at all, and neither has an earthworm. Yet a tongue can reach out and an earthworm can stretch forward. By the end of this lesson you will be able to say exactly how they do it.
 
 ## Learning outcomes
 0. I can explain why a muscle can only pull, using the sliding threads inside a muscle fibre.
@@ -40,7 +40,7 @@
 ### A muscle can only pull · *defined*
 **Definition:** A muscle works by contracting, which means getting shorter. A muscle that gets shorter pulls. No muscle can push, and no muscle can make itself long again.
 
-This is true of every muscle in every animal, from an ant's leg to an elephant's trunk. The reason is inside the muscle. A muscle is made of threads that slide past each other to make it shorter. The threads can pull themselves together. They have no way to push themselves apart. So after a muscle has contracted, something else must pull it long again. That something is usually another muscle. It can also be gravity, a springy band, or liquid under pressure. The rest of this unit is about the different ways bodies solve this one problem.
+This is true of every muscle in every animal, from an ant's leg to an elephant's trunk. The reason is inside the muscle. A muscle is made of threads that slide past each other to make it shorter. The threads can pull themselves together. They have no way to push themselves apart. So after a muscle has contracted, something else must pull it long again. That something is usually another muscle. It can also be gravity, a springy band, or liquid under pressure. The rest of this lesson is about the different ways bodies solve this one problem.
 - e.g. Your biceps pulls your forearm up. It cannot push the forearm down again.
 - e.g. A rope works the same way. You can pull a bucket up from a well with a rope, but you cannot push the bucket down with the rope.
 - e.g. Your heart is a muscle. It squeezes blood out by getting shorter all round. Blood coming back in stretches it again.
@@ -175,7 +175,7 @@ The largest land arthropod alive, the coconut crab, weighs about 4 kilograms. Th
   Against: A 2026 study of 44 kinds of insect found that the finest tubes take very little room at any size. Moulting, weight, and being hunted by birds and bats may matter as much or more.
 
 ## Roots
-In this unit you found that a muscle can only pull, and that a body gets longer when it is squeezed thinner. Here we ask what that tells us about who does the moving when a body moves.
+In this lesson you found that a muscle can only pull, and that a body gets longer when it is squeezed thinner. Here we ask what that tells us about who does the moving when a body moves.
 
 **Deep truth.** A muscle can only shorten, and it cannot make itself long again. In the Dough Worm, the dough grew four times as long when it was squeezed to half its width. An earthworm's ring muscles squeeze their own body like that, and the lengthening stretches the lengthwise muscles for their next pull. Bone, shell and liquid all do this one job: they carry one muscle's pull across to stretch another. So a skeleton is whatever lets muscles undo each other, and it need not be hard.  
 *Habit it breaks:* We say 'my biceps bends my arm', as if one muscle did the job alone. We also use the word skeleton to mean bones. Both habits hide the same fact. A muscle is useless without a partner, and a skeleton is defined by what it does for the pair, not by what it is made of.  
@@ -188,7 +188,7 @@ In this unit you found that a muscle can only pull, and that a body gets longer 
 The threads inside a muscle can only slide together. From that one limit come very different bodies: your arm with two muscles and a bone, a crab with muscles inside a tube, a spider who straightens a leg with liquid, an earthworm whose skeleton is liquid, and a tongue that is its own skeleton. They look unlike, but each is the same arrangement, in which one pull is undone by an opposite pull. One rule shows up as many kinds of body. And inside each body, no muscle acts alone, so every movement is something the whole arrangement does.
 
 - **Heraclitus, fragment 51 (Diels-Kranz B51):** Heraclitus says that people do not understand how a thing that pulls against itself agrees with itself. He calls it a fitting-together that turns back on itself, like that of a bow or a lyre. (A bow works only because the wood pulls one way and the string pulls the other. Your elbow works only because two muscles pull opposite ways. The opposition is what makes the movement possible.)
-- **Bhagavad Gita 3.27:** The verse says that all actions are carried out by the qualities of nature. A person confused by the sense of 'I' thinks, 'I am the doer.' (The verse is about a person and their actions, not about muscles. But the science of this unit shows something of the same shape in the body. We say one muscle bends the arm, when the bending is done by a pair, a bone, nerves and fuel together.)
+- **Bhagavad Gita 3.27:** The verse says that all actions are carried out by the qualities of nature. A person confused by the sense of 'I' thinks, 'I am the doer.' (The verse is about a person and their actions, not about muscles. But the science of this lesson shows something of the same shape in the body. We say one muscle bends the arm, when the bending is done by a pair, a bone, nerves and fuel together.)
 - **Tao Te Ching 76:** The chapter says that a person is soft and supple while alive, and stiff and hard when dead. It calls the stiff and hard the companions of death, and the soft and weak the companions of life. (A living muscle can let go, and letting go needs energy. A muscle with no energy left locks stiff. And two of the most skilful movers, an octopus's arm and an elephant's trunk, have no hard parts at all.)
 - Science (settled): Actin and myosin are far older than muscles. Single-celled beings such as amoebas use the same two proteins to crawl and to divide. Animals built muscle from a tool that cells already had.
 - Science (open): Whether muscle arose once or more than once in animals is still being worked out. A 2012 study found that the striped muscle of jellyfish lacks some key proteins that ours has. Its authors argue that such muscle arose separately in jellyfish and in animals like us.
@@ -691,7 +691,7 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 
 ## Videos
 - **How your muscular system works - Emma Bryce** (TED-Ed, 5 min) id `VVL-8zr2hk4`: To see the three kinds of muscle and how skeletal muscles pull on bones in pairs. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Muscle Tissues and Sliding Filament Model** (Amoeba Sisters, 8 min) id `dpxalWACO7k`: To watch actin and myosin threads slide, and see why a myosin arm needs ATP to let go. It uses some words beyond this unit, so watch it together. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Muscle Tissues and Sliding Filament Model** (Amoeba Sisters, 8 min) id `dpxalWACO7k`: To watch actin and myosin threads slide, and see why a myosin arm needs ATP to let go. It uses some words beyond this lesson, so watch it together. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 - **Earthworm: movement - hydrostatic skeleton** (Vidya-mitra, 3 min) id `Swy9dr9LtUU`: To watch a real earthworm's segments go thin and long, then short and fat, as the wave passes along. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
@@ -744,10 +744,10 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 ## Spotted around us
 - An earthworm on wet ground after the first rains. Watch one part of the body go thin and reach forward while another part goes fat and grips.
 - The empty brown skins of cicadas, holding on to tree trunks. Each one has a split down the back where the insect climbed out.
-- The Chinese fishing nets at Fort Kochi in Kerala. The crew's weight pulls the net down, and stones on ropes pull it up again.
+- A big fishing net hung from a wooden frame by the shore. The crew's weight pulls the net down, and stones on ropes pull it up again.
 - An elephant at a temple or in a forest such as Mudumalai, picking up one banana or a whole bundle of leaves with the trunk.
 - A dead spider in a corner, with every leg curled in. No pressure is left to hold the legs straight.
-- Crabs running sideways on a beach in Chennai, Goa or Puri. Their leg joints are hinges that swing mostly one way.
+- Crabs running sideways on a beach. Their leg joints are hinges that swing mostly one way.
 - A touch-me-not plant by a roadside or in a garden. Brush a leaf and watch it fold.
 - An excavator digging a road. Shiny rods slide in and out of cylinders on the arm as liquid is pushed in.
 
@@ -802,6 +802,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Things to buy
 - [Round party balloons, a small packet](https://www.amazon.in/s?k=party+balloons) (material): For the Water Balloon Worm. Any general store sells them. A thin polythene bag tied tightly shut works in their place, though it is harder to hold. Used in a4. 
 - [A hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For Armour Up Close. A phone camera held close and zoomed in works in its place. Used in a5. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dough Worm: if a body gets half as wide, how much longer does it get?, The Finger Lift: which finger can lift highest all alone?, The Tongue Puzzle: what pushes a tongue out?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a4, p1. Get it before The Dough Worm: if a body gets half as wide, how much longer does it get?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Tongue Puzzle: what pushes a tongue out?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before The Tongue Puzzle: what pushes a tongue out?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Dough Worm: if a body gets half as wide, how much longer does it get?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Dough Worm: if a body gets half as wide, how much longer does it get?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Droop and Rise: a water skeleton in a plant. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a6. Get it before Droop and Rise: a water skeleton in a plant.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Dough Worm: if a body gets half as wide, how much longer does it get?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1. Get it before The Dough Worm: if a body gets half as wide, how much longer does it get?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Can a muscle push? → No. A muscle can only pull, by getting shorter.
@@ -821,9 +827,9 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Sources
 - Founder's notebook, item bio:20, 'Musculoskeletal system', which this subtopic is mapped to.
 - Founder's topic notes for body parts and skeleton (ideas/by_topic/body-parts-and-skeleton.md): the evolution picture book pages on the first animals to swim using muscles and on the first exoskeletons, and the SCI Card for Gerty Cori on how muscles use energy.
-- DeepKids Combined lessons sci-C4 and sci-C5 on body parts and skeleton: muscles contract, relax and work in pairs. Tendons and ligaments. Kinds of joints. Exoskeletons, moulting and hydrostatic skeletons. This unit takes each of these further and does not reuse their stories or experiments.
+- DeepKids Combined lessons sci-C4 and sci-C5 on body parts and skeleton: muscles contract, relax and work in pairs. Tendons and ligaments. Kinds of joints. Exoskeletons, moulting and hydrostatic skeletons. This lesson takes each of these further and does not reuse their stories or experiments.
 - Curriculum entry sci.body.skeleton.L5: muscles work in pairs, joints, exoskeletons and hydrostatic skeletons.
-- The Level 2 and Level 4 units of this subtopic, read so that this unit builds on them: hinge and ball and socket joints (Level 2), and levers, bone and the three kinds of skeleton (Level 4).
+- The Level 2 and Level 4 units of this subtopic, read so that this lesson builds on them: hinge and ball and socket joints (Level 2), and levers, bone and the three kinds of skeleton (Level 4).
 - Huxley A. F., Niedergerke R. (1954). Structural changes in muscle during contraction: interference microscopy of living muscle fibres. Nature 173: 971-973.
 - Huxley H., Hanson J. (1954). Changes in the cross-striations of muscle during contraction and stretch and their structural interpretation. Nature 173: 973-976.
 - Kier W. M., Smith K. K. (1985). Tongues, tentacles and trunks: the biomechanics of movement in muscular-hydrostats. Zoological Journal of the Linnean Society 83: 307-324. https://doi.org/10.1111/j.1096-3642.1985.tb01178.x

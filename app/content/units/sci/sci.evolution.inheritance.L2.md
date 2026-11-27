@@ -1,9 +1,9 @@
 # Alike and different: features we inherit and skills we learn
 `sci.evolution.inheritance.L2`
 
-**Summary.** Eye colour comes from your parents, but speaking Telugu or drawing a kolam does not. Why? In this unit you will test with paper balls and a bucket whether practice can change a skill, ask your family what they inherited and what they learned, and sort things in a game.
+**Summary.** Eye colour comes from your parents, but speaking Telugu or drawing a kolam does not. Why? In this lesson you will test with paper balls and a bucket whether practice can change a skill, ask your family what they inherited and what they learned, and sort things in a game.
 
-**Intro.** *Hold out your thumb. Can you make it longer by practising? Now think of throwing a ball. Can you get better at that by practising?* Some things about you came from your parents before you were born. Other things you learned after you were born. They feel the same, because they are all part of you. In this unit you find out which is which. You test it with a bucket, a few paper balls and a strip of paper. Then you ask your family what they inherited, what they learned, and who taught them.
+**Intro.** *Hold out your thumb. Can you make it longer by practising? Now think of throwing a ball. Can you get better at that by practising?* Some things about you came from your parents before you were born. Other things you learned after you were born. They feel the same, because they are all part of you. In this lesson you find out which is which. You test it with a bucket, a few paper balls and a strip of paper. Then you ask your family what they inherited, what they learned, and who taught them.
 
 ## Learning outcomes
 0. By the end I can say what it means to inherit a feature, and name some features I inherited.
@@ -457,11 +457,12 @@ What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution
 
 ## Links
 - [Learn.Genetics: what are traits?](https://learn.genetics.utah.edu/content/basics/traits/) · interactive: For the parent: clear pages and pictures from the University of Utah on features that come from genes.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Hands-on science galleries, including ones on the human body.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: Science galleries and shows for children, including the human body.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Science galleries and a planetarium, with hands-on exhibits for children.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Hands-on science galleries, including ones on the human body.
+- Birla Industrial and Technological Museum · place · Kolkata: Science galleries and shows for children, including the human body.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: Science galleries and a planetarium, with hands-on exhibits for children.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does inherit mean? → To get a feature from your parents, through their genes.
@@ -478,7 +479,7 @@ What I Got and What I Learned (sci.evolution.L2): Topic-level song for Evolution
 
 ## Sources
 - ideas/by_topic/genes-and-inheriting-features.md: the science journal pages on a family tree with traits (p2 to p3) became the family survey, which adds a column for skills and who taught them. The SCI card on Janaki Ammal became an application. The notebook's RNA story and most cards are for older levels.
-- Cambridge Primary Science Stage 2, 4.3 Inheriting characteristics: animals inherit characteristics from both parents and look similar but not identical. This unit adds the other half of the covers line: what we learn.
+- Cambridge Primary Science Stage 2, 4.3 Inheriting characteristics: animals inherit characteristics from both parents and look similar but not identical. This lesson adds the other half of the covers line: what we learn.
 - Weismann, A. (1889). Essays upon Heredity. He removed the tails of mice for five generations; all offspring had normal tails.
 - Lamarck, J.-B. (1809). Philosophie zoologique: inheritance of characters acquired by use and disuse.
 - Werker, J. F. and Tees, R. C. (1984). Cross-language speech perception: evidence for perceptual reorganization during the first year of life. Infant Behavior and Development 7: 49 to 63. English-learning infants discriminated the Hindi dental and retroflex stops at 6 to 8 months, and few did at 10 to 12 months.

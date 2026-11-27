@@ -1,9 +1,9 @@
 # Animal babies: how young animals grow into their parents' shape
 `sci.animals.animal-babies.L1`
 
-**Summary.** A baby pigeon hatches with no grey feathers, yet a month later it looks like its parents. In this unit you will measure how many heads tall a baby, a child and a grown-up are, and play a game of who looks like their parent.
+**Summary.** A baby pigeon hatches with no grey feathers, yet a month later it looks like its parents. In this lesson you will measure how many heads tall a baby, a child and a grown-up are, and play a game of who looks like their parent.
 
-**Intro.** *Look at a photo of yourself as a tiny baby. Now look in the mirror. Is the baby just a small you, or a different shape?* Every animal starts small. A kitten looks like a small cat. A tadpole looks nothing like a frog. And a human baby? Babies look like their parents in some ways, and not in others. In this unit we look at baby animals and their parents. Then we measure our own bodies, with strips of paper, to find out how a baby's shape changes as they grow.
+**Intro.** *Look at a photo of yourself as a tiny baby. Now look in the mirror. Is the baby just a small you, or a different shape?* Every animal starts small. A kitten looks like a small cat. A tadpole looks nothing like a frog. And a human baby? Babies look like their parents in some ways, and not in others. In this lesson we look at baby animals and their parents. Then we measure our own bodies, with strips of paper, to find out how a baby's shape changes as they grow.
 
 ## Learning outcomes
 0. By the end I can say that every kind of animal has young, and that humans do too.
@@ -466,11 +466,16 @@ Little Ones Grow (sci.animals.L1): Topic-level song for Animals L1
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a bird, insect or animal from your window and find out their name.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: A big zoo where you can see elephant, deer and monkey families with their young.
-- [Nehru Zoological Park]() · place · Hyderabad: A large zoo with many Indian animals, including mothers with young in some seasons.
-- [Assam State Zoo]() · place · Guwahati: A zoo inside a forest, with animals from Northeast India.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: A big zoo where you can see elephant, deer and monkey families with their young.
+- Nehru Zoological Park · place · Hyderabad: A large zoo with many Indian animals, including mothers with young in some seasons.
+- Assam State Zoo · place · Guwahati: A zoo inside a forest, with animals from Northeast India.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Banana Jar: watch fruit fly babies grow. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in p1. Get it before The Banana Jar: watch fruit fly babies grow.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in As Long as a Newborn: a string baby. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before As Long as a Newborn: a string baby.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in As Long as a Newborn: a string baby. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before As Long as a Newborn: a string baby.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Heads Tall: is a baby shaped like a small grown-up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Heads Tall: is a baby shaped like a small grown-up?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the young of a cat called? → A kitten.

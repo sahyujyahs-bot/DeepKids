@@ -1,9 +1,9 @@
 # Why a camel has a hump, a woodpecker a hard head and an octopus no bones
 `sci.animals.animal-bodies.L4`
 
-**Summary.** Why does a camel carry its fat in one hump, and an octopus have no bones? In this unit you will test with ice where fat works best, test why a wide foot does not sink in sand, squeeze a soft body through small holes, and play a card game.
+**Summary.** Why does a camel carry its fat in one hump, and an octopus have no bones? In this lesson you will test with ice where fat works best, test why a wide foot does not sink in sand, squeeze a soft body through small holes, and play a card game.
 
-**Intro.** *A camel can walk for days across the Thar desert without a drink. On her back she carries a big hump. Most people say the hump is full of water. Is that true?* Before you read on, guess what is inside the hump. Is it water, fat, muscle or air? Say your guess and the reason for it. Now think of two more animals with a part that looks odd. A woodpecker has a pointed beak and bangs it on wood all day. An octopus has soft arms and no bones. Each odd part is a clue to a problem that animal has to solve to stay alive. In this unit you find the problems, test two of them with ice and dough, and discover that every answer has a price.
+**Intro.** *A camel can walk for days across the Thar desert without a drink. On her back she carries a big hump. Most people say the hump is full of water. Is that true?* Before you read on, guess what is inside the hump. Is it water, fat, muscle or air? Say your guess and the reason for it. Now think of two more animals with a part that looks odd. A woodpecker has a pointed beak and bangs it on wood all day. An octopus has soft arms and no bones. Each odd part is a clue to a problem that animal has to solve to stay alive. In this lesson you find the problems, test two of them with ice and dough, and discover that every answer has a price.
 
 ## Learning outcomes
 0. I can explain that an odd body part is an answer to a problem in the animal's way of life, and name the problem and one price for the camel's hump, the woodpecker's head and the octopus's soft body.
@@ -37,7 +37,7 @@
 ### Every odd body part answers a problem · *defined*
 **Definition:** An adaptation is a feature of a body that helps an animal survive and have young in the place and the way she lives.
 
-An animal has to solve the same few problems every day. She must get food, get water, get oxygen, move around, stay at the right temperature and stay safe. Each place sets these problems in a different way. A dune is hot and soft and short of water. A tree trunk is straight and hard, and food hides inside it. A reef has many cracks and many hungry fish. So the body parts of animals in these places are different. The way to understand an odd part is to ask three questions. What problem does it solve? How does it solve it? What does it cost? We use these three questions all through this unit. Humans are animals too. Our feet, hands and backbone are answers as well, and they also have prices.
+An animal has to solve the same few problems every day. She must get food, get water, get oxygen, move around, stay at the right temperature and stay safe. Each place sets these problems in a different way. A dune is hot and soft and short of water. A tree trunk is straight and hard, and food hides inside it. A reef has many cracks and many hungry fish. So the body parts of animals in these places are different. The way to understand an odd part is to ask three questions. What problem does it solve? How does it solve it? What does it cost? We use these three questions all through this lesson. Humans are animals too. Our feet, hands and backbone are answers as well, and they also have prices.
 - e.g. A camel's hump keeps fat for lean times.
 - e.g. A woodpecker's stiff tail props her against a trunk.
 - e.g. An octopus's soft body squeezes into a crack to hide.
@@ -45,7 +45,7 @@ An animal has to solve the same few problems every day. She must get food, get w
 **Definition:** A camel's hump is a lump of fat under the skin. The camel uses the fat as a store of energy when food is hard to find.
 
 The hump of a big dromedary camel can hold up to about 30 kilograms of fat. When the camel finds little to eat, her body slowly uses the fat, and the hump shrinks and flops to one side. When she eats well again, the hump fills out. Fat is a good store because it holds about twice as much energy as the same weight of sugar. Why is it all in one lump? Fat also works like a blanket, and a thick blanket all over would trap the heat inside her body. By keeping the fat on her back, the camel leaves the rest of her skin thin, so the heat can leave. The lump on top may also shade her back from the Sun. Burning fat does make a little water, but it also needs more breathing, and breathing loses water. So the hump is a food store, not a water tank.
-- e.g. In the Ice Test in this unit, the same cloth keeps ice cold when it is wrapped all around the block, but not when it is in one lump on top.
+- e.g. In the Ice Test in this lesson, the same cloth keeps ice cold when it is wrapped all around the block, but not when it is in one lump on top.
 - e.g. A thin, hungry camel has a small hump that flops. A well-fed camel has a firm, tall hump.
 - e.g. A Bactrian camel, from the cold deserts of Central Asia, has two humps and a thick winter coat.
 ### How a camel saves water · *defined*
@@ -82,7 +82,7 @@ A woodpecker's head stops very suddenly each time it hits the wood. A hit like t
 
 An octopus has no skeleton, so she can squeeze her whole body through any gap that is wider than her beak. She uses this to hide in cracks and to open shells and jars. She has two ways to move. Most of the time she crawls over the sea floor on her arms, which is slow but uses little energy. When she is in danger, she fills her mantle with water and squeezes it out through a funnel. The water jets backwards, and she shoots away. The same mantle space holds her gills, and she breathes through it. Her blood is blue, because it carries oxygen with copper instead of iron. Two of her three hearts push blood through the gills, and the third pushes it round the body. Her arms are lined with suckers that can taste what they touch.
 - e.g. A common octopus can squeeze through a hole not much bigger than her beak.
-- e.g. In the Squeeze Test in this unit, a soft dough ball passes through a small hole, and a hard ball of the same size cannot.
+- e.g. In the Squeeze Test in this lesson, a soft dough ball passes through a small hole, and a hard ball of the same size cannot.
 - e.g. An octopus can drill through a shell and then eat the soft animal inside.
 ### Every part has a price · *defined*
 **Definition:** A trade-off is a deal in which getting one gain means paying a cost somewhere else.
@@ -647,10 +647,10 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 - A crow's foot gripping a railing or a wire.
 - A house gecko on a wall at night, her toes spread flat.
 - A buffalo or a cow chewing slowly, lying under a tree.
-- A camel cart on a road in Rajasthan or Gujarat, the camel's wide pad spread on the road.
+- A camel's wide pad spread on the ground, in a picture or at a fair.
 - A Black-rumped Flameback or another woodpecker tapping on a trunk in a park or an old campus.
 - A tractor with wide back tyres in a paddy or sugarcane field.
-- An octopus at a fish market on the coast of Kerala, Tamil Nadu or Andhra Pradesh, with her suckers and soft body.
+- An octopus at a fish market, with her suckers and soft body.
 - An egret or a duck walking on mud without sinking, with her feet spread wide.
 - A sunbird at a hibiscus or a coral tree, her thin curved beak in the flower.
 - An elephant at a temple or a forest fringe, flapping her ears.
@@ -701,14 +701,18 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [Woodpecker (Wikipedia)](https://en.wikipedia.org/wiki/Woodpecker) · interactive: For the parent: an article on woodpecker toes, tongues and the debate over their heads.
 - [Common octopus (Wikipedia)](https://en.wikipedia.org/wiki/Common_octopus) · interactive: For the parent: an article on octopus hearts, blood, arms and colour change.
 - [iNaturalist](https://www.inaturalist.org) · interactive: A free app and website. Photograph any animal near you, and people around the world help name her.
-- [ICAR National Research Centre on Camel]() · place · Bikaner, Rajasthan: A research centre on camels, with herds of camels. Check what visitors can see, and the opening times, before visiting.
-- [Arignar Anna Zoological Park]() · place · Vandalur, Chennai: A large zoo where you can watch the feet, beaks and necks of many animals. Check opening times before visiting.
+- ICAR National Research Centre on Camel · place · Bikaner, Rajasthan: A research centre on camels, with herds of camels. Check what visitors can see, and the opening times, before visiting.
+- Arignar Anna Zoological Park · place · Vandalur, Chennai: A large zoo where you can watch the feet, beaks and necks of many animals. Check opening times before visiting.
 
 ## Things to buy
 - [A few glass marbles (kanche) and a small rubber ball](https://www.amazon.in/s?k=glass+marbles) (material): For the Squeeze Test, as the hard parts. Both cost a few rupees at a kirana or toy shop. You may already have them. Used in a1. 
 - [A set of small steel katoris](https://www.amazon.in/s?k=steel+katori+set) (tool): For the Ice Test, so that the three blocks sit in identical bowls. You may already have them. Used in e1. 
 - [A steel tumbler and a measuring jug marked in millilitres](https://www.amazon.in/s?k=measuring+jug+250+ml) (tool): For the Foot Test weight, and for measuring water. You may already have these. Used in e2. 
 - [The Soul of an Octopus by Sy Montgomery](https://www.amazon.in/s?k=the+soul+of+an+octopus) (book): A true book about octopuses for older readers and parents. Read a chapter aloud to talk about how octopuses think. Used in a4. Read one chapter aloud after the Two Hands, Two Jobs activity, and talk about how an octopus's arms might work.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Ice Test: does it matter where the fat goes?, Foot Test: why does a camel not sink in the sand?, Squeeze Test: how small a hole can a soft body pass?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1. Get it before Ice Test: does it matter where the fat goes?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Squeeze Test: how small a hole can a soft body pass?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1. Get it before Squeeze Test: how small a hole can a soft body pass?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Tongue Tools: reach the raisin in the crack. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2. Get it before Tongue Tools: reach the raisin in the crack.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is inside a camel's hump? → Fat.

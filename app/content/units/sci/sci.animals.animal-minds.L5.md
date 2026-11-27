@@ -1,9 +1,9 @@
 # Do other animals feel? Bee dances, elephant rumbles and the question of consciousness
 `sci.animals.animal-minds.L5`
 
-**Summary.** A hermit crab in a good shell puts up with a small electric shock, but one in a poor shell climbs out. What does that tell us about what the crab feels? In this unit you will read a bee's dance, test a prize against an ice cube on yourself, and watch one animal.
+**Summary.** A hermit crab in a good shell puts up with a small electric shock, but one in a poor shell climbs out. What does that tell us about what the crab feels? In this lesson you will read a bee's dance, test a prize against an ice cube on yourself, and watch one animal.
 
-**Intro.** *Someone taps just below your kneecap and your leg kicks. Someone offers you the last piece of mysore pak and you stop to think about your sister. Both are things your body did. What is the difference between them?* The kick happens the same way every time, whatever else is going on. The sweet is different. You weigh how much you want it against how your sister will feel. Scientists use this difference to study other animals. They cannot ask a bee or a crab how they feel. But they can watch whether the animal weighs one thing against another. In this unit you will run that test on yourself. You will also learn two ways animals send detailed messages: the dance of the honeybee and the low rumble of the elephant.
+**Intro.** *Someone taps just below your kneecap and your leg kicks. Someone offers you the last piece of mysore pak and you stop to think about your sister. Both are things your body did. What is the difference between them?* The kick happens the same way every time, whatever else is going on. The sweet is different. You weigh how much you want it against how your sister will feel. Scientists use this difference to study other animals. They cannot ask a bee or a crab how they feel. But they can watch whether the animal weighs one thing against another. In this lesson you will run that test on yourself. You will also learn two ways animals send detailed messages: the dance of the honeybee and the low rumble of the elephant.
 
 ## Learning outcomes
 0. I can explain how a honeybee's waggle dance gives the direction and distance of food, and how scientists checked that other bees use it.
@@ -185,7 +185,7 @@ Every animal alive today comes from the same early ancestors. Those ancestors al
 
 - **Dhammapada, verse 129:** “Sabbe tasanti daṇḍassa, / sabbe bhāyanti maccuno; / Attānaṁ upamaṁ katvā, / na haneyya na ghātaye.” As paraphrased: all beings tremble at violence, and all fear death. Put yourself in the place of another, and do not harm or cause harm. (The verse asks you to work out another's feeling from your own. Scientists do the same when they compare a crab's trade-off with a person's. The verse simply does not wait for the experiment.)
 - **Tattvartha Sutra, chapter 2 (sutras 22 to 24 in most editions), a Jain text by Umasvati:** “पृथिव्यप्तेजोवायुवनस्पतयः स्थावराः / वनस्पत्यन्तानामेकम्” Living beings are grouped by how many senses they have. Plants have one sense, touch. Worms have two, ants three, bees four, and humans and other large animals five. (This old list draws no line between beings who feel and beings who do not. It says they differ in how many ways they sense. Today's scientists also find that feeling is hard to switch off at any one kind of animal.)
-- **Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789), chapter 17, in a footnote:** On how we should treat other animals, he wrote: 'The question is not, Can they reason? nor, Can they talk? but, Can they suffer?' (Bentham said that what matters is feeling, and that cleverness and speech are beside the point. The trade-off tests and mood tests in this unit are ways of putting his question to a crab or a bee.)
+- **Jeremy Bentham, An Introduction to the Principles of Morals and Legislation (1789), chapter 17, in a footnote:** On how we should treat other animals, he wrote: 'The question is not, Can they reason? nor, Can they talk? but, Can they suffer?' (Bentham said that what matters is feeling, and that cleverness and speech are beside the point. The trade-off tests and mood tests in this lesson are ways of putting his question to a crab or a bee.)
 - Science (settled): Crabs, bees and fish weigh harm against reward, which a simple reflex does not do.
 - Science (debated): Whether insects and crabs have conscious experience is argued over. The New York Declaration of 2024 calls it a realistic possibility.
 - Science (open): Nobody can explain how the activity of nerve cells goes with a feeling, even in a human brain. David Chalmers named this the hard problem in 1995.
@@ -510,7 +510,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
   *Parent does:* Your child makes a plan that deals with each thing on the list. They can draw it, or set out the bowls and coin and explain it aloud. Then they add a cost. They choose a way to make the favourite food harder to get, in three steps.  
   *Parent says:* Show me your test, in a drawing or with the bowls. How will you stop the side from deciding it? Now make the favourite food cost more. How far will they go for it?  
   *Child mode:* Draw your test, or set out the bowls and tell it. Fix each problem on your list. Then make the favourite food harder to get.
-  - Note: A good plan has the same bowls, a coin for the sides and equal piles. The cost can be distance from a person, a paper lid to push off, or a smaller pile. The idea of a cost comes from this unit's trade-off tests.
+  - Note: A good plan has the same bowls, a coin for the sides and equal piles. The cost can be distance from a person, a paper lid to push off, or a smaller pile. The idea of a cost comes from this lesson's trade-off tests.
 - **s3 (9 min)**  
   *Parent does:* A family member plays the bird. They secretly choose a favourite and how much they want it. Your child runs six tries of the plan and works out the favourite and how strong it is.  
   *Parent says:* I will be the bird. I have a favourite food, and I will not tell you. Run your test and find out what I want, and how much.  
@@ -675,15 +675,15 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 - Vets now give painkillers and anaesthetics to fish, and some aquariums do the same for octopuses.
 - Britain's Animal Welfare (Sentience) Act of 2022 requires the government to consider how its decisions affect animals who can feel, including crabs and octopuses.
 - Engineers have copied the way honeybee colonies share news of good flower patches, to write computer methods that search for good answers.
-- Nurses and doctors judge pain in babies, who cannot speak, from the face, the cry, the heartbeat and how the baby moves. They work out a feeling from outside, as this unit does for other animals.
+- Nurses and doctors judge pain in babies, who cannot speak, from the face, the cry, the heartbeat and how the baby moves. They work out a feeling from outside, as this lesson does for other animals.
 
 ## Spotted around us
-- A huge rock bee comb hanging under a flyover, a water tank or a tall building ledge in Bengaluru, Chennai or Hyderabad. The dancers are on its surface.
+- A huge rock bee comb hanging under a flyover, a water tank or a tall building ledge. The dancers are on its surface.
 - A small comb of dwarf honeybees wrapped around a twig in a hibiscus or curry leaf bush.
-- A temple elephant in Kerala or Tamil Nadu whose forehead flutters for a moment. She may be rumbling.
+- A temple elephant whose forehead flutters for a moment. She may be rumbling.
 - A street dog who walks over and lies down beside another dog who has just been chased off.
 - A crow who drops a piece of food when a bigger crow lands, and picks it up again when the bigger crow leaves.
-- A hermit crab on a beach at Rameswaram, Gokarna or the Andamans, trying out an empty shell for size.
+- A hermit crab on a beach, trying out an empty shell for size.
 - A cow at the roadside who keeps turning her head and calling towards a calf tied a little way off.
 
 ## Open questions
@@ -728,16 +728,21 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 ## Links
 - [Elephant Listening Project (Cornell University)](https://www.elephantlisteningproject.org/) · interactive: Recordings of elephant rumbles, some speeded up so that people can hear the low parts.
 - [ElephantVoices](https://www.elephantvoices.org/) · interactive: Joyce Poole's library of elephant calls and gestures, with what each one is used for.
-- [Nature Conservation Foundation](https://www.ncf-india.org/) · interactive: For the parent: the Indian group whose elephant warning system on the Valparai plateau appears in this unit's story.
+- [Nature Conservation Foundation](https://www.ncf-india.org/) · interactive: For the parent: the Indian group whose elephant warning system on the Valparai plateau appears in this lesson's story.
 - [The New York Declaration on Animal Consciousness](https://sites.google.com/nyu.edu/nydeclaration/declaration) · interactive: For the parent: the short 2024 statement, with the evidence behind it.
 - [Waggle dance (Wikipedia)](https://en.wikipedia.org/wiki/Waggle_dance) · interactive: For the parent: diagrams of the dance and the history of the argument about it.
-- [Theppakadu Elephant Camp, Mudumalai Tiger Reserve]() · place · Mudumalai, the Nilgiris, Tamil Nadu: Watch Asian elephants being fed and cared for, close to the forest where their calls were studied.
-- [Dubare Elephant Camp]() · place · Kodagu, Karnataka: See elephants bathing in the Kaveri. Stand quietly nearby and notice whether you can feel a rumble.
+- Theppakadu Elephant Camp, Mudumalai Tiger Reserve · place · Mudumalai, the Nilgiris, Tamil Nadu: Watch Asian elephants being fed and cared for, close to the forest where their calls were studied.
+- Dubare Elephant Camp · place · Kodagu, Karnataka: See elephants bathing in the Kaveri. Stand quietly nearby and notice whether you can feel a rumble.
 
 ## Things to buy
 - [Paper drinking straws](https://www.amazon.in/s?k=paper+drinking+straws) (material): For the gentle puff of air in the Ice and Prize Test. A clean ballpoint pen tube or a rolled paper tube works too. Used in e1. 
 - [Plain index cards in two colours](https://www.amazon.in/s?k=coloured+index+cards) (material): For writing out the shell and pinch cards of the hermit crab game if you have no printer. Slips of paper work too. Used in g1. 
 - [The Mind of a Bee, by Lars Chittka (2022)](https://www.amazon.in/s?k=The+Mind+of+a+Bee+Lars+Chittka) (book): For the parent: the evidence that bees learn, weigh choices and may feel, written by a scientist who ran many of the tests. Used in a1, a3. Read chapter by chapter over a few weeks, and tell your child one bee experiment at a meal each time.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Floor Message Test: can a message travel through the ground?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Floor Message Test: can a message travel through the ground?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Ice and Prize Test: what does a prize change?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before The Ice and Prize Test: what does a prize change?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Read the Dance: where did the bee send her sisters?, The Evidence Checklist: reflex, or more than a reflex?. About ₹10 to ₹30. Any school ruler is fine. Used in a1, a4. Get it before Read the Dance: where did the bee send her sisters?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Ice and Prize Test: what does a prize change?, The Middle Note: how a mood test for bees works. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a3. Get it before The Ice and Prize Test: what does a prize change?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - On the comb, what does a waggle run straight up mean? → The food is in the direction of the sun.
@@ -759,7 +764,7 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - ideas/by_topic/our-closest-cousins.md and combined/sci-C5-our-closest-cousins.json: feelings (play, laughter and grief), Valparai, and the idea of a non-human person, reworked here for elephants, bees and crabs
 - combined/sci-C5-thinking-and-memory.json: the subconcepts on whether emotions are built in or constructed, animal consciousness, and what consciousness is (emergence, panpsychism), used for the perspectives. None of its experiments or its story is reused
 - ideas/scientists.json: the SCI Card approach to deep truths, used for the roots card
-- The Level 3 and Level 4 units of this subtopic and the Level 4 units on animal communication and animal societies, read so that nothing is repeated: this unit adds the tests for feeling, the dance controversy and dialects, elephant rumbles and the consciousness debate
+- The Level 3 and Level 4 units of this subtopic and the Level 4 units on animal communication and animal societies, read so that nothing is repeated: this lesson adds the tests for feeling, the dance controversy and dialects, elephant rumbles and the consciousness debate
 - von Frisch, K., The Dance Language and Orientation of Bees, Harvard University Press, 1967
 - Wenner, A. M. and Wells, P. H., Anatomy of a Controversy: The Question of a 'Language' Among Bees, Columbia University Press, 1990
 - Gould, J. L., Honey bee recruitment: the dance-language controversy, Science, 1975

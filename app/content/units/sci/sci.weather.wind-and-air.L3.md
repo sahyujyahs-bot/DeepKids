@@ -1,9 +1,9 @@
 # Wind: why air moves, and how it lifts kites and turns windmills
 `sci.weather.wind-and-air.L3`
 
-**Summary.** Nobody pushes the air, yet it moves. What makes wind blow? In this unit you will open the fridge to see where the air goes, test whether soil or water warms faster in the sun, and fly a tiny thread kite at home.
+**Summary.** Nobody pushes the air, yet it moves. What makes wind blow? In this lesson you will open the fridge to see where the air goes, test whether soil or water warms faster in the sun, and fly a tiny thread kite at home.
 
-**Intro.** *Switch off the fan and shut the windows. The air in the room is still. Now hold a strip of tissue paper and walk fast across the room. The tissue streams out behind you. Where did that wind come from?* Wind is air moving past you. You can make it by moving through still air, or a fan can push the air past you. But outdoors, nobody is pushing. So what moves the air? In this unit you find out by opening a fridge and watching where its cold air goes. You find out why the sea breeze reaches coastal towns in the afternoon, how a kite stays up on a thread, and how a paper windmill can lift a load. You also meet the people who argued about why the great winds over the oceans blow.
+**Intro.** *Switch off the fan and shut the windows. The air in the room is still. Now hold a strip of tissue paper and walk fast across the room. The tissue streams out behind you. Where did that wind come from?* Wind is air moving past you. You can make it by moving through still air, or a fan can push the air past you. But outdoors, nobody is pushing. So what moves the air? In this lesson you find out by opening a fridge and watching where its cold air goes. You find out why the sea breeze reaches coastal towns in the afternoon, how a kite stays up on a thread, and how a paper windmill can lift a load. You also meet the people who argued about why the great winds over the oceans blow.
 
 ## Learning outcomes
 0. I can explain that wind is moving air, and show that air is real stuff with weight that pushes when it moves.
@@ -737,7 +737,7 @@ Lakshmamma looked at her for a long time. Then she said, 'My father would have l
 - Washing flapping on balcony clotheslines on a breezy afternoon.
 - Black kites circling high above a city on a hot day, without flapping.
 - A woman winnowing rice in a muram, a flat basket, letting the breeze carry away the husk.
-- Rows of wind turbines along the highway near Kanyakumari or in Gujarat.
+- Rows of wind turbines along a highway.
 - Cold air rolling out of an open fridge or a shop's ice-cream freezer.
 
 ## Open questions
@@ -786,6 +786,15 @@ Shade, Rain and Wind (sci.weather.L3): A song about shade, rain and wind.
 
 ## Things to buy
 - [A simple room thermometer](https://www.amazon.in/s?k=room+thermometer+analog) (tool): Shows how much warmer the soil gets than the water in the sun. You can do the test by touch without one. Used in e3. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in My Breeze Diary: does the wind change with the time of day?. About ₹30 to ₹150. A phone compass app also works. Used in p1. Get it before My Breeze Diary: does the wind change with the time of day?.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Windmill That Lifts: does a stronger wind lift the load faster?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Windmill That Lifts: does a stronger wind lift the load faster?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Windmill That Lifts: does a stronger wind lift the load faster?, Make Your Own Wind: the tissue strip walk, My Breeze Diary: does the wind change with the time of day?. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, p1, c1. Get it before The Windmill That Lifts: does a stronger wind lift the load faster?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Open Fridge: where does the air go?, The Windmill That Lifts: does a stronger wind lift the load faster?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, e2. Get it before The Open Fridge: where does the air go?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Breeze in a Box: a model sea breeze. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before The Breeze in a Box: a model sea breeze.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Soil or Water: which warms faster in the sun?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e3. Get it before Soil or Water: which warms faster in the sun?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Weigh the Air: a soft ball and a pumped ball. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a2. Get it before Weigh the Air: a soft ball and a pumped ball.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Open Fridge: where does the air go?, Make Your Own Wind: the tissue strip walk, The Thread Kite: fly a tiny kite at home. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, a1, a4, p1, c2. Get it before The Open Fridge: where does the air go?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is wind? → Air moving past something.

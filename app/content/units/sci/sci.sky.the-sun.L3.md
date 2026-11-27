@@ -1,9 +1,9 @@
 # Our Sun: why its light warms things, and why we never look at it
 `sci.sky.the-sun.L3`
 
-**Summary.** Sunlight feels gentle on your skin, yet a magnifying glass can make paper smoke. Why? In this unit you will run the magnifying glass test with a grown-up, see whether ice melts faster on black or white paper, and make a safe picture of the Sun on your wall.
+**Summary.** Sunlight feels gentle on your skin, yet a magnifying glass can make paper smoke. Why? In this lesson you will run the magnifying glass test with a grown-up, see whether ice melts faster on black or white paper, and make a safe picture of the Sun on your wall.
 
-**Intro.** *Stand in a patch of sunlight from a window for one minute. Then step into the shade next to it. Which feels warmer? That sunlight has just crossed 150 million kilometres of nearly empty space, where there is almost nothing to warm. So where does the warmth on your skin come from?* The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this unit you gather sunlight with a magnifying glass and see how hot it can make paper. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.
+**Intro.** *Stand in a patch of sunlight from a window for one minute. Then step into the shade next to it. Which feels warmer? That sunlight has just crossed 150 million kilometres of nearly empty space, where there is almost nothing to warm. So where does the warmth on your skin come from?* The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this lesson you gather sunlight with a magnifying glass and see how hot it can make paper. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.
 
 ## Learning outcomes
 0. I can explain that the Sun is a star, a huge ball of very hot gas, and the nearest star to the Earth.
@@ -659,11 +659,11 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 ## Spotted around us
 - Rice vadams, papads and red chillies drying on terraces in the summer sun.
 - Solar water heaters on the roofs of apartment buildings, with their black pipes facing the sky.
-- Cochin International Airport in Kerala runs on solar power from huge fields of panels.
-- The salt pans of Thoothukudi in Tamil Nadu, where the Sun dries seawater into salt.
-- Chhundo in Gujarat, a sweet and sour mango pickle that is cooked slowly by the Sun in glass jars on a terrace.
-- Pongal in Tamil Nadu and Makar Sankranti in many states, when families give thanks for the harvest and the Sun. Chhath in Bihar, when families pray to the Sun at sunrise and sunset.
-- The Konark Sun Temple in Odisha, built as the Sun's chariot, with great stone wheels.
+- A building or an airport with solar panels on its roof, running on the Sun's power.
+- Salt pans by the sea, where the Sun dries seawater into salt.
+- A sweet and sour mango pickle that is cooked slowly by the Sun in glass jars on a terrace.
+- Pongal and Makar Sankranti, when families give thanks for the harvest and the Sun. Chhath, when families pray to the Sun at sunrise and sunset.
+- A temple built as the Sun's chariot, with great stone wheels, in a picture.
 - A curtain or a shop sign faded pale on the side that faces the Sun.
 - A garden lizard basking on a sunny compound wall in the morning.
 
@@ -711,12 +711,17 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 - [Aditya-L1, ISRO](https://www.isro.gov.in/Aditya_L1.html) · interactive: India's first spacecraft to study the Sun, launched from Sriharikota in 2023. Its page has pictures and news.
 - [Kodaikanal Solar Observatory](https://www.iiap.res.in/) · place · Kodaikanal, Tamil Nadu: One of the oldest solar observatories in the world, watching the Sun since 1899. It has a small museum. Check the visiting days on the Indian Institute of Astrophysics website before you go.
 - [Udaipur Solar Observatory](https://www.prl.res.in/) · place · Udaipur, Rajasthan: A solar observatory built on an island in Fatehsagar Lake, where the water keeps the air steady for watching the Sun. Check visiting rules first.
-- [Periyar Science and Technology Centre and B. M. Birla Planetarium]() · place · Chennai, Tamil Nadu: A science centre and planetarium with sky shows about the Sun and stars.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A planetarium with shows about the Sun, the planets and the stars.
+- Periyar Science and Technology Centre and B. M. Birla Planetarium · place · Chennai, Tamil Nadu: A science centre and planetarium with sky shows about the Sun and stars.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A planetarium with shows about the Sun, the planets and the stars.
 
 ## Things to buy
 - [A magnifying glass, at least 5 cm across](https://www.amazon.in/s?k=magnifying+glass+75mm) (tool): Needed for the Sun Dot experiment. Glass or clear plastic both work, and it is cheap at stationery shops. Reading glasses for long sight may work instead, but more slowly. Keep it in a drawer, never on a sunny windowsill. Used in e1. 
 - [Black chart paper](https://www.amazon.in/s?k=black+chart+paper) (material): For the Sun Dot experiment, the ice test and the sun cooker. Paper coloured all over with a black crayon or marker works too. Used in e1, e2, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Mirror Sun: a safe picture of the Sun on your wall. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before The Mirror Sun: a safe picture of the Sun on your wall.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Mirror Sun: a safe picture of the Sun on your wall. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before The Mirror Sun: a safe picture of the Sun on your wall.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Mirror Sun: a safe picture of the Sun on your wall, An Eclipse Party for the Whole Building. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2, c2. Get it before The Mirror Sun: a safe picture of the Sun on your wall.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Sun Print: a picture made only by sunlight. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before The Sun Print: a picture made only by sunlight.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is the Sun a star or a planet? → A star, the nearest one to us.
@@ -738,7 +743,7 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row 'Reflection, Shadow, Refraction, Rainbows, Prism, Sun's movement' (light bounces and bends; visit a solar observatory; Sun salutations and sunrise music, used here as the sunlight-on-your-back practice)
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Mária Telkes, the Sun Queen (sun ovens, used in the sun cooker challenge), Maria Mitchell (sunspot photography) and Ruby Payne-Scott (radio bursts from the Sun)
-- Prerequisite unit sci.sky.sun-moon-stars.L3 (built on, not repeated: the Sun as a star by distance, pinhole viewer and Cecilia Payne's story are there; this unit adds absorption, focusing, eye safety and how the Sun is not a fire)
+- Prerequisite unit sci.sky.sun-moon-stars.L3 (built on, not repeated: the Sun as a star by distance, pinhole viewer and Cecilia Payne's story are there; this lesson adds absorption, focusing, eye safety and how the Sun is not a fire)
 - Neighbouring units checked so as not to repeat their tests: sci.energy.energy-around-us.L3 (water in sun and shade), sci.sky.solar-system.L3 (light spreading with distance, ice under a sunshade), sci.day-night-seasons.day-and-night.L3 (shadow stick, sundial)
 - Helmholtz, 'On the interaction of natural forces', lecture, 1854 (contraction as the Sun's heat source)
 - Thomson (Lord Kelvin), 'On the Age of the Sun's Heat', Macmillan's Magazine 5, 1862

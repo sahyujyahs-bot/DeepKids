@@ -875,6 +875,10 @@ There Is No Away (sci.waste.L3): Topic-level song
 - [One Plastic Bag: Isatou Ceesay and the Recycling Women of the Gambia, by Miranda Paul, illustrated by Elizabeth Zunon](https://www.amazon.in/s?k=One+Plastic+Bag+Miranda+Paul) (book): A true picture-book story of a woman who started turning plastic bags into purses with the women of her village, in the Gambia. Used in a4. 
 - [The Adventures of a Plastic Bottle, by Alison Inches](https://www.amazon.in/s?k=Adventures+of+a+Plastic+Bottle+Alison+Inches) (book): A plastic bottle tells its own journey, from oil to factory to recycling. A good picture book for the Follow the Bottle activity. Used in a2. 
 - [Joseph Had a Little Overcoat by Simms Taback](https://www.amazon.in/s?k=Joseph+Had+a+Little+Overcoat) (book): A man turns his worn coat into a jacket, a vest, a scarf and smaller and smaller things. It shows the child how things can be used again and again. Used in a1. Read it together at the start of the reuse activity.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in No-Sew T-shirt Bag. About ₹10 to ₹30. Any school ruler is fine. Used in a4. Get it before No-Sew T-shirt Bag.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Toy from Trash. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Toy from Trash.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Melt and Remake: new crayons from broken ones. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e2. Get it before Melt and Remake: new crayons from broken ones.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which R comes first: reduce, reuse or recycle? → Reduce. The best waste is the waste we never make.

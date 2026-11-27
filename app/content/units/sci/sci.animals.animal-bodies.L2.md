@@ -1,9 +1,9 @@
 # How animals move, and how their mouths fit their food
 `sci.animals.animal-bodies.L2`
 
-**Summary.** Do bent knees really help you jump farther? In this unit you will crouch and jump to test it, find how legs, wings and fins push on ground, air and water, and match teeth and beaks to the food an animal eats.
+**Summary.** Do bent knees really help you jump farther? In this lesson you will crouch and jump to test it, find how legs, wings and fins push on ground, air and water, and match teeth and beaks to the food an animal eats.
 
-**Intro.** *A frog sitting still looks as if she has short legs. Then she jumps, and her back legs open out longer than her whole body. Where were those long legs hiding, and why do they fold up like that?* Every animal that moves has to push on something. A crow's wings push on the air. A fish's tail pushes on the water. Your feet push on the floor. Animals also have mouths shaped for their food: sharp beaks, flat teeth, pointed teeth or no teeth at all. In this unit you test your own jump, crawl like a snake, flap like a bird, and grind a leaf the way a cow chews grass.
+**Intro.** *A frog sitting still looks as if she has short legs. Then she jumps, and her back legs open out longer than her whole body. Where were those long legs hiding, and why do they fold up like that?* Every animal that moves has to push on something. A crow's wings push on the air. A fish's tail pushes on the water. Your feet push on the floor. Animals also have mouths shaped for their food: sharp beaks, flat teeth, pointed teeth or no teeth at all. In this lesson you test your own jump, crawl like a snake, flap like a bird, and grind a leaf the way a cow chews grass.
 
 ## Learning outcomes
 0. By the end I can name how different animals move: with legs, wings, fins, or their whole body.
@@ -596,9 +596,9 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - Animal doctors look at the teeth of horses and cows to tell how old they are.
 
 ## Spotted around us
-- Pigeons bending their legs and jumping off the air-conditioner boxes outside flats in Chennai and Mumbai.
-- Ducks paddling in the backwaters of Kuttanad in Kerala, where many families raise ducks.
-- Black kites circling high over Delhi, Hyderabad and Kolkata, hardly flapping their wings.
+- Pigeons bending their legs and jumping off the air-conditioner boxes outside flats.
+- Ducks paddling in a pond or a canal. Look at their webbed feet.
+- Black kites circling high in the sky, hardly flapping their wings.
 - A white-throated kingfisher sitting on an electric wire above a paddy field, watching for food.
 - Cows and buffaloes resting by the road, chewing with their jaws swinging from side to side.
 
@@ -636,10 +636,17 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 ## Links
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Look up the frogs, birds and other animals you see, with photos taken by people all over India.
 - [Bird Count India](https://birdcount.in) · interactive: Ideas for watching and counting birds from home, and the yearly bird counts that families across India join.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: Watch how many kinds of animals move and eat: jumping, flying, swimming and sliding.
-- [Natural History Museum, Thiruvananthapuram]() · place · Thiruvananthapuram: See the skeletons and stuffed animals up close, and compare their legs, wings, teeth and beaks.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: Watch how many kinds of animals move and eat: jumping, flying, swimming and sliding.
+- Natural History Museum, Thiruvananthapuram · place · Thiruvananthapuram: See the skeletons and stuffed animals up close, and compare their legs, wings, teeth and beaks.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Jump Test: do bent knees make you jump farther?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before The Jump Test: do bent knees make you jump farther?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Make a Flying Lizard: the slowest paper glider. About ₹150 to ₹400. A phone stopwatch works well. Used in c1. Get it before Make a Flying Lizard: the slowest paper glider.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Jump Test: do bent knees make you jump farther?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Jump Test: do bent knees make you jump farther?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in My Teeth Map: count, draw and bite. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a4. Get it before My Teeth Map: count, draw and bite.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Wing Push: flap a notebook like a wing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Wing Push: flap a notebook like a wing.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Wing Push: flap a notebook like a wing. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2. Get it before Wing Push: flap a notebook like a wing.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a fish push on to swim? → The water.

@@ -1,7 +1,7 @@
 # In-between animals: mammals that lay eggs, fish that breathe air, and what the five groups tell us about evolution
 `sci.animals.vertebrate-groups.L5`
 
-**Summary.** A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel is a fish, yet she comes up to breathe air. In this unit you will test how much air cold and warm water hold, put animal features in order of arrival, and find old leftover parts in your body.
+**Summary.** A platypus has fur and feeds her babies milk, yet she lays eggs. A murrel is a fish, yet she comes up to breathe air. In this lesson you will test how much air cold and warm water hold, put animal features in order of arrival, and find old leftover parts in your body.
 
 **Intro.** *Which came first in the history of animals: lungs or legs? And which came first: milk, or babies born without an egg? Say what you think, and why.* Many people guess that lungs and legs arrived together, when animals first moved onto land. Many also guess that birth came before milk. In the first activity, the Feature Ladder, you tick the features of seven animals and read the order from your own table. Two animals settle the question: a fish with lungs and a mammal who lays eggs. Then you test why a fish would ever need to breathe air.
 
@@ -665,7 +665,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ## Videos
 - **Great Transitions: The Origin of Tetrapods | HHMI BioInteractive Video** (biointeractive, 17 min) id `zK8XGEDcTfo`: Neil Shubin tells how his team predicted where a fish with limbs should be found, searched the Arctic for years and found Tiktaalik. Watch it after Predict the In-between Animal. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length of about 17 minutes comes from a library listing of the film. Not watched from here: a parent should watch it first.
 - **Mudskippers: The Fish That Walk on Land | Life | BBC Earth** (BBC Earth, 4 min) id `CAQuoH_fOWM`: To see fish who live on wet mud, move on their front fins and breathe air through their skin and mouth. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first.
-- **Platypus Parts | National Geographic** (National Geographic, 3 min) id `QNoQvjlmGdk`: To see a living platypus swim and feed, and to look at her bill, fur and feet. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first, and check what it says against this unit.
+- **Platypus Parts | National Geographic** (National Geographic, 3 min) id `QNoQvjlmGdk`: To see a living platypus swim and feed, and to look at her bill, fur and feet. *Check:* Address, title and channel confirmed through YouTube's public lookup. The length is a guess. Not watched from here: a parent should watch it first, and check what it says against this lesson.
 
 ## Quiz
 1. (mcq) A murrel is kept in a pot filled to the brim, under a tight lid. What is the danger?  
@@ -716,7 +716,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ## Spotted around us
 - Live murrels or climbing perches in a tub at a fish market, coming up to the surface for air while other fish lie on ice.
 - A fighting fish in a small bowl at a pet shop, swimming up every few minutes to gulp air.
-- Mudskippers hopping on the wet mud at low tide in a mangrove creek, such as at Point Calimere in Tamil Nadu or Coringa in Andhra Pradesh.
+- Mudskippers hopping on the wet mud at low tide in a mangrove creek.
 - Fish crowding and gasping at the surface of a temple tank or village pond early on a hot summer morning.
 - The scaly legs and feet of a crow, a hen or a pigeon. They are the same kind of scales a crocodile has.
 - Goosebumps on your own arm when you step out of a bath on a cool morning.
@@ -768,15 +768,20 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - [Tiktaalik roseae, University of Chicago](https://tiktaalik.uchicago.edu) · interactive: Pictures of the fossil, the story of the search in the Arctic, and what each part of her body shows, from the team who found her.
 - [Understanding Evolution, University of California Museum of Paleontology](https://evolution.berkeley.edu) · interactive: For the parent and an older child: clear pages on family trees, on how to read them, and on the move from water to land.
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: A family tree of all life that you can zoom into. Search for the platypus, the lungfish or the crow and see where each branch joins.
-- [HHMI BioInteractive](https://www.biointeractive.org) · interactive: Free films and activities on evolution for classrooms, including the film about Tiktaalik in this unit.
+- [HHMI BioInteractive](https://www.biointeractive.org) · interactive: Free films and activities on evolution for classrooms, including the film about Tiktaalik in this lesson.
 - [Madras Crocodile Bank Trust and Centre for Herpetology](https://madrascrocodilebank.org) · place · Mamallapuram, near Chennai: Watch muggers, gharials and other crocodiles, the closest living relatives of birds. Ask the keepers how the mothers guard their nests.
-- [Dinosaur Fossil Park and Museum, Raiyoli]() · place · Raiyoli, near Balasinor, Gujarat: Fossil dinosaur eggs and bones in the rocks where they were found, from the time when India was an island.
-- [Indroda Dinosaur and Fossil Park]() · place · Gandhinagar, Gujarat: Fossil dinosaur eggs from Gujarat, and life-size models of the dinosaurs who laid them.
-- [B. M. Birla Science Museum]() · place · Hyderabad: The Dinosaurium holds the mounted skeleton of Kotasaurus, a large plant-eating dinosaur found in Telangana.
+- Dinosaur Fossil Park and Museum, Raiyoli · place · Raiyoli, near Balasinor, Gujarat: Fossil dinosaur eggs and bones in the rocks where they were found, from the time when India was an island.
+- Indroda Dinosaur and Fossil Park · place · Gandhinagar, Gujarat: Fossil dinosaur eggs from Gujarat, and life-size models of the dinosaurs who laid them.
+- B. M. Birla Science Museum · place · Hyderabad: The Dinosaurium holds the mounted skeleton of Kotasaurus, a large plant-eating dinosaur found in Telangana.
 
 ## Things to buy
 - [Paper or steel drinking straws](https://www.amazon.in/s?k=paper+drinking+straws) (material): The 'teat' in Lap or Suck. One straw is enough. A clean tender-coconut straw works as well. Used in e2. 
 - [Your Inner Fish, by Neil Shubin (2008)](https://www.amazon.in/s?k=your+inner+fish+neil+shubin) (book): For the parent or a keen older reader. One of the finders of Tiktaalik explains how the human body carries the history of fish, in plain language. Used in a5, a2. Read chapter 1, on finding Tiktaalik, after Predict the In-between Animal. Read the chapter on hands before Old Parts in Your Body.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Five Hundred Million Years on a String: a timeline of the vertebrates. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before Five Hundred Million Years on a String: a timeline of the vertebrates.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Feature Ladder: which features came first?, Five Hundred Million Years on a String: a timeline of the vertebrates, A Fin That Can Do a Push-up. About ₹10 to ₹30. Any school ruler is fine. Used in a1, p1, c1. Get it before The Feature Ladder: which features came first?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Fin That Can Do a Push-up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Fin That Can Do a Push-up.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Count the Differences: reading the family tree from letters. About ₹10 to ₹30. Draw squares on plain paper. Used in a3. Get it before Count the Differences: reading the family tree from letters.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name a mammal who lays eggs. → The platypus, or an echidna.
@@ -798,8 +803,8 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 - Founder's evolution timeline in ideas/by_topic/evolution-the-tree-of-life.md: the first vertebrates at 500 million years, bony fish at 420, lobe-finned fish, Tiktaalik at 375, the earliest four-limbed animals at 365, animals with an amnion at 320, the earliest mammals at 225, the monotremes, birds at 150 'from dinosaurs', and the extinction at 66. Used for the Feature Ladder, the string timeline and the explanation cards.
 - Founder's true or false card game in ideas/by_topic/how-we-know.md, which includes the card 'Dinosaurs are extinct (F)'. Used as the model and the first card of the game Sure or Surprised?
 - The curriculum entry for sci.animals.vertebrate-groups.L5: 'Surprises: mammals that lay eggs, fish that breathe air, birds that are dinosaurs; what the groups tell us about evolution.' All four parts are covered.
-- The Class 3 and Class 4 units on vertebrate groups, and the units sci.classification.sorting-living-things.L4 and sci.animals.birds.L4, which this unit builds on. Their experiments and stories are not repeated. The platypus's discovery, the same-bones activity and the evidence that birds are dinosaurs are told there, so this unit only recalls them.
-- The Combined lesson sci-C4-evolution-the-tree-of-life (common ancestry as a branching tree and not a ladder, evidence from bones and from DNA). This unit takes those ideas further for vertebrates. Its story is not reused.
+- The Class 3 and Class 4 units on vertebrate groups, and the units sci.classification.sorting-living-things.L4 and sci.animals.birds.L4, which this lesson builds on. Their experiments and stories are not repeated. The platypus's discovery, the same-bones activity and the evidence that birds are dinosaurs are told there, so this lesson only recalls them.
+- The Combined lesson sci-C4-evolution-the-tree-of-life (common ancestry as a branching tree and not a ladder, evidence from bones and from DNA). This lesson takes those ideas further for vertebrates. Its story is not reused.
 - PHILOSOPHY.md, for the Roots card.
 - Daeschler, E. B., Shubin, N. H. and Jenkins, F. A., 'A Devonian tetrapod-like fish and the evolution of the tetrapod body plan', Nature 440, 2006 (Tiktaalik)
 - Coates, M. I. and Clack, J. A., 'Polydactyly in the earliest known tetrapod limbs', Nature 347, 1990, and 'Fish-like gills and breathing in the earliest known tetrapod', Nature 352, 1991 (Acanthostega)

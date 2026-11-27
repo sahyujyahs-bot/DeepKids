@@ -1,9 +1,9 @@
 # Illusions: how your brain can be fooled about what you see
 `sci.senses.perception.L3`
 
-**Summary.** Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this unit you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.
+**Summary.** Two lines can both be 10 cm long, yet one looks longer. Why does the brain get fooled? In this lesson you will test how much the arrow-lines trick fools different people, try crossed fingers on a pea, and make a spinning picture toy from 1825.
 
-**Intro.** *Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.* Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this unit you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.
+**Intro.** *Look at these two lines. The top one has arrowheads at its ends, like this: <——>. The bottom one has fins that open outwards, like this: >——<. Which line is longer? Now measure both with a ruler.* Both lines are the same length. Most people see the line with open fins as longer, and it still looks longer after they measure it. Your eyes caught the light correctly. It was your brain that decided how long the lines are, and here it used the fins as a clue and got it wrong. In this lesson you find out what clues your brain uses, test how much an illusion fools the people in your home, and find out whether knowing the answer makes it go away.
 
 ## Learning outcomes
 0. I can say what an illusion is: a time when what I see or feel is different from what is really there, as a ruler or another test shows.
@@ -448,7 +448,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - **record:** For each illusion, a tally of how many visitors were fooled and how many were not, and a short sentence on which fooled the most.
 - **schedule:** day 1: Make 4 or 5 illusions on separate sheets, neatly, with a question card for each. (25 min); day 2: Set up the museum on a table or a wall. Test at least 5 visitors. Write each visitor's answer before they measure. (20 min); day 3: Count the answers for each illusion. Make a tally and find which illusion fooled the most people. (15 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Choose 4 or 5 illusions from this unit. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.  
+  *Parent does:* 1. Choose 4 or 5 illusions from this lesson. 2. Draw each one neatly on its own sheet, using a ruler. 3. Write a question card for each, like 'Which line is longer?' 4. Write the answer on the back of the card.  
   *Parent says:* A museum needs good exhibits. Let's make each illusion neat, because a messy drawing might give the trick away.  
   *Child mode:* Pick 4 or 5 illusions. Draw each one neatly, or use a card you made for the game. Write a question for each. Put the answer on the back.
 - **s2 (20 min)**  
@@ -657,7 +657,7 @@ Kavya grinned. "First we measure," she said. "Then we fool."
 - Camouflage patterns are printed on soldiers' uniforms, copying the way animals hide.
 
 ## Spotted around us
-- Railway tracks, a Mumbai local train line or a long straight road that seem to meet far away.
+- Railway tracks, a local train line or a long straight road that seem to meet far away.
 - A long corridor in your block of flats that seems to get narrower at the far end.
 - The train next to yours at a station starts moving, and you feel your own train move.
 - The Moon seeming to follow your car or bus at night.
@@ -711,6 +711,10 @@ The World Comes In (sci.senses.L3): Topic-level song for Senses L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru, Karnataka: A large science museum with hands-on galleries. Check whether a perception or fun-science gallery is open before you go.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Arrow Lines: how much does your brain stretch a line?, The Railway Track Trick: two equal strips, Bird in the Cage: a picture toy from 1825. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a3, p1. Get it before The Arrow Lines: how much does your brain stretch a line?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Same Grey, Different Grey, Our Illusion Museum. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5, p1. Get it before Same Grey, Different Grey.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Crossed Fingers: can one pea feel like two?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Crossed Fingers: can one pea feel like two?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call it when what we see is different from what is really there? → An illusion.

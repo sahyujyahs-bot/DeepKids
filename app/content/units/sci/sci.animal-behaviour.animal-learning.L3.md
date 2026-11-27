@@ -1,9 +1,9 @@
 # How animals learn: by trying, and by copying others
 `sci.animal-behaviour.animal-learning.L3`
 
-**Summary.** A young chimpanzee learns to fish for termites by watching. Do people copy only what works, or every step? In this unit you will run a fair test to see whether people copy a step that does nothing, and play a game about how animals learn.
+**Summary.** A young chimpanzee learns to fish for termites by watching. Do people copy only what works, or every step? In this lesson you will run a fair test to see whether people copy a step that does nothing, and play a game about how animals learn.
 
-**Intro.** *Try this with a grown-up. Put a sweet inside a clear box and close the lid. Tap the lid twice with a spoon, then open it and take the sweet out. Put the sweet back and say, 'Your turn.' Did they tap the lid too? The tap did nothing, so why would anyone copy it?* Learning means changing what you do because of what you have seen or what has happened to you. Every animal learns, from a bee to an elephant. Some animals mostly learn alone, by trying. Others learn a lot by watching. In this unit you find out how dogs, crows and chimpanzees learn, and you test how closely people copy.
+**Intro.** *Try this with a grown-up. Put a sweet inside a clear box and close the lid. Tap the lid twice with a spoon, then open it and take the sweet out. Put the sweet back and say, 'Your turn.' Did they tap the lid too? The tap did nothing, so why would anyone copy it?* Learning means changing what you do because of what you have seen or what has happened to you. Every animal learns, from a bee to an elephant. Some animals mostly learn alone, by trying. Others learn a lot by watching. In this lesson you find out how dogs, crows and chimpanzees learn, and you test how closely people copy.
 
 ## Learning outcomes
 0. I can explain the difference between something an animal is born knowing and something they learn.
@@ -542,7 +542,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 14. (fill) When young animals learn a habit from others and a group keeps it for years, it is called a ____.  
    **Answer:** ['tradition']. *Why:* A tradition spreads by social learning and lasts in a group, like the great tits' way of opening the puzzle box.
 15. (write) Zoos hide food in puzzle feeders. Which way of learning does a puzzle feeder help an animal use, and why?  
-   **Answer:** Working it out or trial and error: the animal must try and solve a new problem to get the food.. *Why:* A strong answer links the feeder to a way of learning from this unit.
+   **Answer:** Working it out or trial and error: the animal must try and solve a new problem to get the food.. *Why:* A strong answer links the feeder to a way of learning from this lesson.
 
 ## Videos
 - **Termite Fishing** (Dr. Jane Goodall & the Jane Goodall Institute USA, 3 min) id `inFkERO30oM`: Wild chimpanzees fishing for termites with grass stems, the tool skill young chimpanzees learn by watching their mothers. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
@@ -591,7 +591,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 
 ## Spotted around us
 - Crows waiting on a wall when a family puts out rice before lunch.
-- Pigeons flying down to a grain seller who feeds them at the same spot each morning, as at the pigeon feeding spots in Mumbai.
+- Pigeons flying down to a grain seller who feeds them at the same spot each morning.
 - Street dogs sitting by the tea stall at the time it gets busy.
 - Monkeys at a temple who have learned to snatch bags that may hold food.
 - A younger child copying exactly how an older cousin folds their hands, or draws a kolam or rangoli.
@@ -634,12 +634,14 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 ## Links
 - [All About Birds: American Crow](https://www.allaboutbirds.org/guide/American_Crow) · interactive: For the parent. Facts, sounds and videos of crows, the bird family that includes our house crows and jungle crows.
 - [Bird Count India](https://birdcount.in) · interactive: Join bird counts with families across India. You can record the crows and mynas you see in the Plate Lesson.
-- [Mysuru Zoo (Sri Chamarajendra Zoological Gardens)]() · place · Mysuru: Watch the primates and birds. Look for one animal learning from another, or solving a feeder.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: A large zoo with monkeys, birds and elephants. Watch how the young ones copy the adults.
-- [Any temple, market or railway station with monkeys or pigeons]() · place · Your own city: Watch from a safe distance. What have the animals learned about people? Never feed monkeys.
+- Mysuru Zoo (Sri Chamarajendra Zoological Gardens) · place · Mysuru: Watch the primates and birds. Look for one animal learning from another, or solving a feeder.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: A large zoo with monkeys, birds and elephants. Watch how the young ones copy the adults.
+- Any temple, market or railway station with monkeys or pigeons · place · Your own city: Watch from a safe distance. What have the animals learned about people? Never feed monkeys.
 
 ## Things to buy
 - [Chaser: Unlocking the Genius of the Dog Who Knows a Thousand Words, by John W. Pilley with Hilary Hinzmann](https://www.amazon.in/s?k=Chaser+Pilley+dog+who+knows+a+thousand+words) (book): For the parent, or to read aloud in parts. The true story of how Chaser learned her toy names. Used in a2. 
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Two-Door Prize Box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Build a Two-Door Prize Box.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an instinct? → Something an animal can do without learning, from birth.
@@ -656,7 +658,7 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 - Core: a1, e1, g1, a2, a3, ws-core
 
 ## Sources
-- Founder's notebook, Biology list: items 98 to 104 (habituation; learning and cognition; classical conditioning, Pavlov; operant conditioning, Skinner; observational learning and imitation; problem-solving and tool use; animal memory). Pavlov and Thorndike are taught in sci.animals.animal-minds.L3, so this unit builds on observational learning, imitation and tool learning.
+- Founder's notebook, Biology list: items 98 to 104 (habituation; learning and cognition; classical conditioning, Pavlov; operant conditioning, Skinner; observational learning and imitation; problem-solving and tool use; animal memory). Pavlov and Thorndike are taught in sci.animals.animal-minds.L3, so this lesson builds on observational learning, imitation and tool learning.
 - Curriculum entry sci.animal-behaviour.animal-learning.L3: 'Dogs learn tricks; crows solve puzzles; chimps use tools.' No board chapters are mapped.
 - Nearby units checked so nothing repeats: sci.animals.animal-minds.L3 (thirsty crow, Clever Hans, pointing test, clap training game, Betty the crow), sci.animals.animals-around-us.L3 (Jane Goodall's first tool sighting), sci.mind.thinking-and-memory.L3.
 - Horner and Whiten, 'Causal knowledge and imitation/emulation switching in chimpanzees and children', Animal Cognition 8, 2005 (clear and opaque puzzle box)

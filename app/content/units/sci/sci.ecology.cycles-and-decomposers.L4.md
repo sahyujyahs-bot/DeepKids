@@ -1,9 +1,9 @@
 # Where does the log go? How dead things return to the air and the soil
 `sci.ecology.cycles-and-decomposers.L4`
 
-**Summary.** A fallen log slowly vanishes. Where does it go? In this unit you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.
+**Summary.** A fallen log slowly vanishes. Where does it go? In this lesson you will look closely at one spoon of soil, show that a jar of soil breathes out a gas, test whether chopping up leaves makes them rot faster, and follow who eats one meal's leftovers.
 
-**Intro.** *A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?* A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this unit you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.
+**Intro.** *A big coconut palm falls in a storm. Nobody moves it. Come back in two years, and the trunk is gone. There is no heap of wood and nobody carried it away. Where did all that tree go?* A palm trunk weighs more than a hundred kilograms. It cannot just vanish. Some of it went into the soil. Some of it went somewhere you cannot see. In this lesson you catch the invisible part in a jar, you find out why small pieces rot faster than big ones, and you grow a plant in rotted leaves to see whether they feed a new plant.
 
 ## Learning outcomes
 0. I can name three kinds of cleanup crew (scavengers, detritivores and decomposers) and say what each one does.
@@ -361,7 +361,7 @@ He laughed, which he had not done since the storm. He did not call Raju. When On
   *Child mode:* Name each leftover from our meal.
   - Note: Use real leftovers from the day's cooking. Include at least one thing that cannot rot, such as a wrapper or a plastic bag, because the later steps need it. One child: the parent writes while the child sorts. Two to four children: one child lays out and names, one draws the table, one reads the crew words; swap at the next meal. Do not eat any of the leftovers during the activity.
 - **s2 (15 min)**  
-  *Parent does:* For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this unit: scavenger, detritivore, decomposer.  
+  *Parent does:* For each leftover, ask your child to guess who would eat it and what would be left at the end. Write it in the table. Use words from this lesson: scavenger, detritivore, decomposer.  
   *Parent says:* Who would eat this? Is it a scavenger, a detritivore or a decomposer? What would be left at the end?  
   *Child mode:* Guess who eats each leftover, then fill in the table.
   - Ask: Which leftover is eaten first, and by whom? (good: The rice, by crows and ants.; The peel, by flies and mould.)
@@ -671,13 +671,18 @@ Nothing Is Wasted (sci.ecology.L4): Topic-level song
 - [iNaturalist: identify the mushrooms, insects and plants you find](https://www.inaturalist.org) · interactive: Upload a photo of a mushroom, a beetle or a leaf, and the community helps to name it.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: pictures and records of the fungi, insects and birds of India, including vultures.
 - [Bombay Natural History Society: the vulture programme](https://www.bnhsindia.org) · interactive: For the parent: how BNHS counts, protects and breeds vultures in India.
-- [Lalbagh Botanical Garden]() · place · Bengaluru, Karnataka: A big old garden with fallen leaves, rotting logs and mushrooms in the monsoon. Look for the cleanup crew along the paths.
+- Lalbagh Botanical Garden · place · Bengaluru, Karnataka: A big old garden with fallen leaves, rotting logs and mushrooms in the monsoon. Look for the cleanup crew along the paths.
 
 ## Things to buy
 - [Edible chuna (lime paste), a small tub](https://www.amazon.in/s?k=edible+chuna+lime+paste) (material): To make the limewater for the Breathing Soil test. It costs a few rupees at a paan shop. Only a grown-up handles it. Used in e1. 
 - [A 10 times magnifying glass](https://www.amazon.in/s?k=magnifying+glass+10x+for+kids) (tool): For the Soil Detective, and for looking at mould, mushrooms and tiny animals. A phone camera zoomed in also works. Used in a1. 
 - [Cocopeat, a small block or bag](https://www.amazon.in/s?k=cocopeat+block) (material): For the Methi project. Cocopeat holds water but has almost no nutrients. A small block costs about Rs 50 to 100. A nursery may sell a handful, or you can use sand for pot A. Used in p1. 
 - [Vermicompost, a small pack](https://www.amazon.in/s?k=vermicompost+organic+manure) (material): For the Methi project. It is the rotted matter left by earthworms and microbes. A nursery or a neighbour with a compost pit can spare 3 tablespoons. A small pack costs about Rs 50. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Does rot feed the next plant? Methi in three pots. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Does rot feed the next plant? Methi in three pots.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Does rot feed the next plant? Methi in three pots. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Does rot feed the next plant? Methi in three pots.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Does rot feed the next plant? Methi in three pots. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Does rot feed the next plant? Methi in three pots.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Cut It Up: does chopping help the decomposers?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Cut It Up: does chopping help the decomposers?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three cleanup crews? → Scavengers, detritivores and decomposers.
@@ -696,9 +701,9 @@ Nothing Is Wasted (sci.ecology.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/microorganisms.md: the founder's notes on fungi (threads that grow at the tip, fungi among the first life on land), used for the fungus explanations
-- The Class 3 unit on decomposers, which this unit builds on: from what rotting needs to where the matter goes, and from mould to the whole cleanup crew
+- The Class 3 unit on decomposers, which this lesson builds on: from what rotting needs to where the matter goes, and from mould to the whole cleanup crew
 - The Class 3 units on photosynthesis and on respiration in animals, whose limewater method is reused for the Breathing Soil test
-- curriculum/sci.json: the go-deep entry for decomposers at Class 5 (carbon and nitrogen cycles, compost), which this unit prepares for
+- curriculum/sci.json: the go-deep entry for decomposers at Class 5 (carbon and nitrogen cycles, compost), which this lesson prepares for
 - Oaks, J. L. and 12 others, 'Diclofenac residues as the cause of vulture population decline in Pakistan', Nature 427, 630-633 (2004)
 - Prakash, V. and others, 'Catastrophic collapse of Indian white-backed Gyps bengalensis and long-billed Gyps indicus vulture populations', Biological Conservation 109 (2003)
 - Green, R. E. and others, 'Diclofenac poisoning as a cause of vulture population declines across the Indian subcontinent', Journal of Applied Ecology 41 (2004)

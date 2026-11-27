@@ -1,9 +1,9 @@
 # Inside a cell: the skin, the jelly and the instruction room
 `sci.what-is-life.cells.L4`
 
-**Summary.** A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this unit you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.
+**Summary.** A potato strip stays stiff in plain water but goes floppy in strong salt water, though nobody squeezed it. Why? In this lesson you will test potato strips in plain and salty water, bring a wilted herb back to life, and play a game to find which cell part does what.
 
-**Intro.** *Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?* Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this unit you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.
+**Intro.** *Look at a bunch of coriander that has gone limp on the kitchen counter. Put the stems in a glass of water for an hour. The leaves stand up again. The water went in through the cut ends and the roots, but the leaves are far away. How did the water get to every leaf, and why did the leaves go floppy in the first place?* Every leaf is made of tiny cells, and each cell has a thin skin. When a cell holds plenty of water, she is firm, and the leaf stands up. When she loses water, she goes soft, and the leaf droops. In this lesson you find out what a cell is made of, what the skin does, and where the water goes. You also meet cells that live alone in a drop of pond water and do everything a body does.
 
 ## Learning outcomes
 0. I can name the three main parts of a cell, the membrane, the cytoplasm and the nucleus, and say what each one does.
@@ -745,11 +745,20 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - [Cell Size and Scale, Learn.Genetics, University of Utah](https://learn.genetics.utah.edu/content/cells/scale/) · interactive: Slide from a coffee bean down to a cell and a bacterium to see how much smaller each step is.
 - [Inside a Cell, Learn.Genetics, University of Utah](https://learn.genetics.utah.edu/content/cells/insideacell/) · interactive: Click on a cell's parts to see what each one does.
 - [Foldscope](https://foldscope.com/) · interactive: A paper microscope made at Stanford by Manu Prakash and Jim Cybulski. Its site has guides and a gallery of what people have seen.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with galleries on the human body and on life, where older children can look at models of cells.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with galleries on the human body and on life, where older children can look at models of cells.
 
 ## Things to buy
 - [A pocket microscope or a clip-on phone microscope (60 times)](https://www.amazon.in/s?k=pocket+microscope+60x) (tool): Optional, about Rs 300 to 600. For the Hay Pond. A clip-on lens shows single-celled swimmers much better than a magnifier, but a phone camera and a torch also work. Used in p1. 
 - [A digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Optional. For weighing the potato strips before and after the Potato Strips test, as an extra measurement. The test works with a ruler alone. Used in e1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Hay Pond: a week of looking for single-celled swimmers. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in p1. Get it before Hay Pond: a week of looking for single-celled swimmers.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Potato Strips: what does salt water do to a cell?, Naked Egg: a skin you can see and measure, Raisin Swell: plain water or salt water?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, c1. Get it before Potato Strips: what does salt water do to a cell?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Be the Membrane: build a filter that picks by size. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c1. Get it before Be the Membrane: build a filter that picks by size.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Plant Cell and an Animal Cell from the kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before Build a Plant Cell and an Animal Cell from the kitchen.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Naked Egg: a skin you can see and measure. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2. Get it before Naked Egg: a skin you can see and measure.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Be the Membrane: build a filter that picks by size. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Be the Membrane: build a filter that picks by size.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Build a Plant Cell and an Animal Cell from the kitchen. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Build a Plant Cell and an Animal Cell from the kitchen.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Potato Strips: what does salt water do to a cell?, Be the Membrane: build a filter that picks by size. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, c1. Get it before Potato Strips: what does salt water do to a cell?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the thin skin around a cell called? → The cell membrane.
@@ -771,7 +780,7 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - Founder's RNA picture book in ideas/by_topic/microorganisms.md (single-celled life that senses, decides and signals; the prokaryote mother who splits into two), used in the single-cell explanation and the roots
 - DeepKids notebook items bio:71 to bio:73 (cell biology, cell theory, prokaryotic and eukaryotic cells)
 - Existing DeepKids lesson sci-C3-living-and-non-living-signs-of-life (cells, bacteria and viruses), improved on, with a different story
-- Level 3 unit sci.what-is-life.cells.L3, which this unit goes deeper than and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied
+- Level 3 unit sci.what-is-life.cells.L3, which this lesson goes deeper than and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied
 - Pfeffer, W., Osmotische Untersuchungen, 1877 (osmosis and the man-made membrane)
 - de Vries, H., on plasmolysis in plant cells, 1884
 - Overton, E., on the entry of substances into cells and the fatty nature of the membrane, 1895 to 1899

@@ -1,7 +1,7 @@
 # Fair tests: change one thing and keep the rest the same
 `sci.how-we-know.fair-tests.L3`
 
-**Summary.** Does lemon juice really stop a cut apple turning brown? In this unit you will find out what makes such a test fair, test it with apple slices, compare underarm and overarm throws in ten tries each, and write the results in a table.
+**Summary.** Does lemon juice really stop a cut apple turning brown? In this lesson you will find out what makes such a test fair, test it with apple slices, compare underarm and overarm throws in ten tries each, and write the results in a table.
 
 **Intro.** *Two children each drop a ball. The girl drops a rubber ball from above her head. Her little brother drops a plastic ball from his knee. The rubber ball bounces much higher. "My ball is bouncier!" she says. Is she right?* We can't tell yet. Two things were different: the ball and the height it fell from. Either one could have made the higher bounce. To find out about the balls, both must fall from the same height onto the same floor. Then the ball is the only thing left that is different.
 
@@ -680,6 +680,12 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries where children can test things for themselves.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Fair Car Race. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before The Fair Car Race.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Brown Apple Test: what keeps a cut apple white?, The Family Balance Table, My Own Fair Test. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, p1, c1. Get it before The Brown Apple Test: what keeps a cut apple white?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Unfair Bounce. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a1. Get it before The Unfair Bounce.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Be James Lind: act out the scurvy test. About ₹40 to ₹80. Lemon juice works for many tests. Used in a4. Get it before Be James Lind: act out the scurvy test.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Fair Car Race. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before The Fair Car Race.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A fair test changes how many things? → Only one thing.

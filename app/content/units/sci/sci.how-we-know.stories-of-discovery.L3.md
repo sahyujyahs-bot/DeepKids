@@ -748,6 +748,9 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 ## Things to buy
 - [Beautiful Oops! by Barney Saltzberg](https://www.amazon.in/s?k=Beautiful+Oops) (book): A lift-the-flap book that turns spills and tears into new pictures. It shows the child that a mistake can lead to a discovery. Used in a1. Read it together after the Oops paintings.
 - [Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor by Robert Burleigh](https://www.amazon.in/s?k=Solving+the+Puzzle+Under+the+Sea) (book): A picture book about Marie Tharp, who mapped the ocean floor. It shows how a careful woman scientist worked out what others did not believe. Used in a1. Read it together after Day 7.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Too-Weak Tape Test, Find the Scruff, A Fair Credit Wall. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, c2. Get it before The Too-Weak Tape Test.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Hot or Cold: Which Freezes First?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before Hot or Cold: Which Freezes First?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What did Fleming's mould kill? → Bacteria.

@@ -1,9 +1,9 @@
 # Weight and mass: why a balance works on the Moon and a spring scale does not
 `sci.gravity.weight-and-mass.L4`
 
-**Summary.** A balance gives the same answer on the Moon, but a spring scale does not. Why? In this unit you will build a balance and a rubber band scale, find where a flat shape balances, and weigh things before and after they dissolve or fizz to see where the mass goes.
+**Summary.** A balance gives the same answer on the Moon, but a spring scale does not. Why? In this lesson you will build a balance and a rubber band scale, find where a flat shape balances, and weigh things before and after they dissolve or fizz to see where the mass goes.
 
-**Intro.** *In a shop in Madurai, a mango sits in one pan of a two-pan balance. A 300-gram weight sits in the other pan. The pans are level. Now take the same balance, the same mango and the same weight to the Moon, where things weigh only about one sixth as much. Will the pans still be level? And what if the shopkeeper uses a spring scale instead? Make a guess, and say why.* A balance and a spring scale both give a number for a mango, but they do it in different ways. In this unit you build both from things at home. You find out how far a rubber band stretches as you add water, and how to turn that into a scale. You find the one point where a cardboard shape balances, which can be a point with no cardboard at all. You weigh a fizzing bottle to see where mass goes. And you find out how, more than 200 years ago, someone weighed the whole Earth.
+**Intro.** *In a shop in Madurai, a mango sits in one pan of a two-pan balance. A 300-gram weight sits in the other pan. The pans are level. Now take the same balance, the same mango and the same weight to the Moon, where things weigh only about one sixth as much. Will the pans still be level? And what if the shopkeeper uses a spring scale instead? Make a guess, and say why.* A balance and a spring scale both give a number for a mango, but they do it in different ways. In this lesson you build both from things at home. You find out how far a rubber band stretches as you add water, and how to turn that into a scale. You find the one point where a cardboard shape balances, which can be a point with no cardboard at all. You weigh a fizzing bottle to see where mass goes. And you find out how, more than 200 years ago, someone weighed the whole Earth.
 
 ## Learning outcomes
 0. I can explain that a balance compares masses, so it gives the same answer on the Moon, while a spring scale measures a pull, so it gives a different answer.
@@ -763,7 +763,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 - A tarazu, a two-pan balance with iron weights, on a counter in a market or a jeweller's shop.
 - A woman carrying a pot of water on her head and walking steadily.
 - A bus or lorry with a high load leaning on a bend.
-- A Thanjavur dancing doll, which rocks and stands up straight again.
+- A dancing doll with a round bottom, which rocks and stands up straight again.
 - A mason's plumb line, a stone on a thread, beside a wall being built.
 - A see-saw in a park, balanced with two children of different masses sitting at different distances.
 - A street performer balancing on a rope with a long pole.
@@ -824,6 +824,18 @@ Gravity (sci.gravity.L4): Topic-level song
 ## Things to buy
 - [A small digital kitchen scale that reads in whole grams](https://www.amazon.in/s?k=digital+kitchen+weighing+scale+1g) (tool): To check your homemade scales and to weigh before and after in the fizz test. Look for one that reads in single grams, up to about 5 kilograms. Most kitchens that bake already have one. Used in e1, e3, a1, a3, a4, p1. 
 - [A packet of wide rubber bands, about 6 to 8 centimetres long](https://www.amazon.in/s?k=wide+rubber+bands+office) (material): For the Rubber Band Scale. A wide, fresh band gives a clear stretch for each 100 grams. Thin or old bands stretch too far or snap. A packet from a stationery shop is enough. Used in e1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in How Heavy Is the Air in Our Room?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before How Heavy Is the Air in Our Room?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Rubber Band Scale: how does the stretch grow with the load?, Where Does It Balance? Finding the centre of gravity, Build a Balance, and catch a cheat. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a3, a4, c1. Get it before The Rubber Band Scale: how does the stretch grow with the load?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Where Does It Balance? Finding the centre of gravity. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before Where Does It Balance? Finding the centre of gravity.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Heavy for Its Size: same jar, different mass. About ₹20 to ₹50. Torn clean cloth works. Used in a4. Get it before Heavy for Its Size: same jar, different mass.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Where Does the Mass Go? Weighing before and after. About ₹20 to ₹40. Check the kitchen first. Used in e3. Get it before Where Does the Mass Go? Weighing before and after.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Where Does the Mass Go? Weighing before and after. About ₹40 to ₹80. Lemon juice works for many tests. Used in e3. Get it before Where Does the Mass Go? Weighing before and after.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Heavy for Its Size: same jar, different mass. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a4. Get it before Heavy for Its Size: same jar, different mass.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Van Helmont's Pot: where does a plant's mass come from?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Van Helmont's Pot: where does a plant's mass come from?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Rubber Band Scale: how does the stretch grow with the load?, Where Does the Mass Go? Weighing before and after, Build a Balance, and catch a cheat. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1, e3, a1, a2. Get it before The Rubber Band Scale: how does the stretch grow with the load?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Where Does the Mass Go? Weighing before and after. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3. Get it before Where Does the Mass Go? Weighing before and after.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Rubber Band Scale: how does the stretch grow with the load?, Where Does It Balance? Finding the centre of gravity, Where Does the Mass Go? Weighing before and after. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1, e2, e3, a1. Get it before The Rubber Band Scale: how does the stretch grow with the load?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a two-pan balance compare? → Two masses.
@@ -844,7 +856,7 @@ Gravity (sci.gravity.L4): Topic-level song
 ## Sources
 - ideas/by_topic/gravity.md: the activities 'weigh objects on a kitchen scale to feel gravity' and 'observe how a hanging string always points toward the Earth's centre', used for the balance, rubber band scale and plumb-line tests
 - ideas/by_topic/gravity.md: the Grade 3 concept that the Earth pulls you and you pull the Earth back, used for the Cavendish and balance-point cards
-- The Class 3 unit on weight and mass (sci.gravity.weight-and-mass.L3), which this unit builds on: the idea that mass stays the same and weight changes with the world, now extended to how scales work, centre of gravity, conservation of mass and weighing the Earth
+- The Class 3 unit on weight and mass (sci.gravity.weight-and-mass.L3), which this lesson builds on: the idea that mass stays the same and weight changes with the world, now extended to how scales work, centre of gravity, conservation of mass and weighing the Earth
 - The Combined lesson sci-C5-gravity: weight across the Solar System, used for the numbers in newtons for each kilogram and the Feel Another World activity
 - Hooke, R., De Potentia Restitutiva, or Of Spring, London, 1678 (the stretch of a spring is in proportion to the force)
 - Cavendish, H., 'Experiments to determine the density of the Earth', Philosophical Transactions of the Royal Society, 1798

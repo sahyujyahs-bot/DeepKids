@@ -1,9 +1,9 @@
 # Germs: how illness travels from person to person
 `sci.microorganisms.germs.L3`
 
-**Summary.** Can germs reach a person you never touched? In this unit you will count the hands on a door handle, follow a glitter trail to see how germs spread, find the bad well like John Snow, and build and break a chain of illness.
+**Summary.** Can germs reach a person you never touched? In this lesson you will count the hands on a door handle, follow a glitter trail to see how germs spread, find the bad well like John Snow, and build and break a chain of illness.
 
-**Intro.** *Think of the main door of your flat. Who touched its handle today? Count everyone, and then think about who touched the things they touched.* Germs are far too small to see, and they have no legs or wings to cross a room. Yet a cold can go round a whole family in a week, and a tummy bug can go round a whole school. So how does a germ get from one person to another? In this unit you follow the trail with glitter, which you can see, and find out how far one hand can reach.
+**Intro.** *Think of the main door of your flat. Who touched its handle today? Count everyone, and then think about who touched the things they touched.* Germs are far too small to see, and they have no legs or wings to cross a room. Yet a cold can go round a whole family in a week, and a tummy bug can go round a whole school. So how does a germ get from one person to another? In this lesson you follow the trail with glitter, which you can see, and find out how far one hand can reach.
 
 ## Learning outcomes
 0. I can say what germs are: the few bacteria, viruses and other microbes that can make us ill.
@@ -59,7 +59,7 @@ Germs land on our skin all the time. Skin with no cuts keeps most of them out. T
 ### Why one person gets ill and another does not · *defined*
 **Definition:** Whether a germ makes you ill depends on how many germs reach you, where they get in, and how ready your body's defences are.
 
-Two children can sit with the same ill friend, and only one of them catches the cold. A few germs are often cleared out before they can multiply. Many germs at once are harder to clear. Germs on your hand do nothing until they reach your eye, nose or mouth. A body that has met a germ before, or has had a vaccine for that germ, often clears that germ quickly. Sleep and good food help the defences too. So spreading is a matter of chance, and each way we block the germs makes the chance smaller. How the body fights germs is in the unit on the immune system.
+Two children can sit with the same ill friend, and only one of them catches the cold. A few germs are often cleared out before they can multiply. Many germs at once are harder to clear. Germs on your hand do nothing until they reach your eye, nose or mouth. A body that has met a germ before, or has had a vaccine for that germ, often clears that germ quickly. Sleep and good food help the defences too. So spreading is a matter of chance, and each way we block the germs makes the chance smaller. How the body fights germs is in the lesson on the immune system.
 - e.g. A child who washes before eating gives the germs on their hand less chance to reach their mouth.
 - e.g. A child who has had the measles vaccine is very unlikely to catch measles, even in an outbreak.
 - e.g. In the Handshake Chain experiment, glitter passes from hand to hand. The hands further down the chain get fewer specks, just as fewer germs reach people further along a chain.
@@ -648,7 +648,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - Many schools teach children to cough into the elbow and to cover the mouth.
 
 ## Spotted around us
-- The hand sanitiser bottle at a hospital entrance, a bank or a mall in Chennai, Kolkata or Pune.
+- The hand sanitiser bottle at a hospital entrance, a bank or a mall.
 - The lift buttons in a block of flats, shiny where the most fingers press.
 - A filter or a pot of boiled water in the kitchen.
 - A cane basket or a net cover over a plate of idlis, dhokla or fruit.
@@ -706,6 +706,11 @@ Break the Chain (sci.microorganisms.L3): Topic-level song for Microorganisms L3
 
 ## Things to buy
 - [A small tube of craft glitter](https://www.amazon.in/s?k=craft+glitter+tube) (material): The pretend germ in the Glitter Trail and the Handshake Chain. Sold in stationery shops for a few rupees. Kumkum or rangoli colour can be used instead. Used in e1, e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Be John Snow: find the bad well. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Be John Snow: find the bad well.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in How Many Hands? The door handle count. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before How Many Hands? The door handle count.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Poster for the Lift, The No-Hands Door. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c1. Get it before A Poster for the Lift.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in One Germ Becomes Many: doubling with rice grains. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before One Germ Becomes Many: doubling with rice grains.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a germ? → A microbe or virus that can make us ill.

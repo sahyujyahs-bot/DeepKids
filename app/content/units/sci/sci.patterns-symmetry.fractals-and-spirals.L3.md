@@ -1,9 +1,9 @@
 # Fractals and spirals: patterns that repeat inside themselves
 `sci.patterns-symmetry.fractals-and-spirals.L3`
 
-**Summary.** Why does a piece broken off a cauliflower look like a small cauliflower? In this unit you will look for shapes that repeat inside themselves, measure a bendy coast on a map with long steps and short steps, and count the spirals on a pineapple.
+**Summary.** Why does a piece broken off a cauliflower look like a small cauliflower? In this lesson you will look for shapes that repeat inside themselves, measure a bendy coast on a map with long steps and short steps, and count the spirals on a pineapple.
 
-**Intro.** *Take a cauliflower from the kitchen. Break off one floret. Hold it next to the whole cauliflower. What do you notice? Now break a tiny piece off the floret. What does that piece look like?* Each piece looks like a smaller copy of the whole cauliflower. Many things in nature are built like this, with the same shape repeating at smaller and smaller sizes. In this unit you will find these patterns in a cauliflower, a leaf and your own body. You will measure a coast on a map and find that its length depends on the ruler you use. And you will count the spirals on a pineapple and find out why a snail's shell curls.
+**Intro.** *Take a cauliflower from the kitchen. Break off one floret. Hold it next to the whole cauliflower. What do you notice? Now break a tiny piece off the floret. What does that piece look like?* Each piece looks like a smaller copy of the whole cauliflower. Many things in nature are built like this, with the same shape repeating at smaller and smaller sizes. In this lesson you will find these patterns in a cauliflower, a leaf and your own body. You will measure a coast on a map and find that its length depends on the ruler you use. And you will count the spirals on a pineapple and find out why a snail's shell curls.
 
 ## Learning outcomes
 0. I can say what a fractal is, and find one in a cauliflower, a leaf or a picture of a fern.
@@ -645,12 +645,12 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 
 ## Spotted around us
 - A cauliflower or broccoli in the vegetable market, made of florets that look like small copies of the head.
-- Pineapples on a fruit cart, with spiral rows of scales winding both ways. Many Indian pineapples come from Assam, Tripura, West Bengal and Kerala.
+- Pineapples on a fruit cart, with spiral rows of scales winding both ways.
 - A shankha, the conch shell blown at pujas and temple festivals, curling in a spiral.
 - The kolam on a doorstep in the morning, with loops repeating round a grid of dots.
 - A neem or rain tree seen from a balcony, with branches splitting into smaller branches.
-- A satellite picture of a cyclone over the Bay of Bengal, with spiral bands of cloud.
-- A map of the Sundarbans, where the Ganga's delta splits into hundreds of smaller channels.
+- A satellite picture of a cyclone over the sea, with spiral bands of cloud.
+- A map of a river delta, where the river splits into hundreds of smaller channels.
 - Murukku and jalebi in a sweet shop, spirals made by a cook's hand.
 
 ## Open questions
@@ -700,6 +700,11 @@ Smaller and Smaller (sci.patterns-symmetry.L3): Topic-level song for Patterns an
 
 ## Things to buy
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps to see the smaller levels of a fractal, such as tiny florets and fine leaf veins. Not needed, but it makes the zooming clearer. Used in a2, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Long Is the Coast? Long steps or short steps, Draw a Fractal Tree and a Triangle of Triangles, The Longest Coast in a Small Box. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a4, c1, c2. Get it before How Long Is the Coast? Long steps or short steps.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Count the Pineapple Spirals. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e2. Get it before Count the Pineapple Spirals.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Draw a Fractal Tree and a Triangle of Triangles, Be a Sunflower: which turn packs the seeds best?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4, c2. Get it before Draw a Fractal Tree and a Triangle of Triangles.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Grow a Shell Spiral on Squared Paper. About ₹10 to ₹30. Draw squares on plain paper. Used in a5. Get it before Grow a Shell Spiral on Squared Paper.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a fractal? → A shape whose parts look like smaller copies of the whole.

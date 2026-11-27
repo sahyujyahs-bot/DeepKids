@@ -1,9 +1,9 @@
 # Seeds that wait: how a dry seed stays alive for years
 `sci.seeds-and-life-cycles.seeds-and-germination.L5`
 
-**Summary.** Dry moong seeds mostly sprout after a night in the freezer, but soaked seeds die. Why? In this unit you will draw a chana waking up over four days, run the Freezer Test, and find out whether a seed that has begun to wake can be dried again.
+**Summary.** Dry moong seeds mostly sprout after a night in the freezer, but soaked seeds die. Why? In this lesson you will draw a chana waking up over four days, run the Freezer Test, and find out whether a seed that has begun to wake can be dried again.
 
-**Intro.** *A scientist in the United States worked on a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Soon the seed had a green shoot. How can a seed stay alive for 1,300 years?* The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this unit you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.
+**Intro.** *A scientist in the United States worked on a lotus seed from a dry lake bed in China. The seed was about 1,300 years old. She filed a small cut in the hard coat and put the seed in water. Soon the seed had a green shoot. How can a seed stay alive for 1,300 years?* The scientist was Jane Shen-Miller, and she reported the lotus seed in 1995. The seed had done almost nothing for all those years. They had not grown, and they had hardly used any food. Then water reached the young plant inside, and the seed germinated like a seed from last year. In this lesson you find out what keeps a dry seed alive. You put dry seeds and soaked seeds in the freezer. You dry seeds again after they have started to wake. Then you see how seed banks use the same science to keep seeds safe.
 
 ## Learning outcomes
 0. I can name the parts of a seed and say, in order, what happens when a seed germinates.
@@ -148,7 +148,7 @@ A dry seed can live through more than a freezer. From 2008 to 2009, scientists k
   Against: The seed keeps and protects every part needed for life, and a dead seed does not. Many biologists call that being alive.
 
 ## Roots
-In this unit you froze dry seeds and soaked seeds, and you dried seeds that had started to wake. Here we ask what a waiting seed shows about life, and about ourselves.
+In this lesson you froze dry seeds and soaked seeds, and you dried seeds that had started to wake. Here we ask what a waiting seed shows about life, and about ourselves.
 
 **Deep truth.** In the Freezer Test, dry moong lived through a night in the freezer, and soaked moong died. In No Going Back, moong who were dried after their roots came out died too. A dry seed can live through cold and drying that kill a seedling. So a plant is toughest as a dry seed, and once the root is out there is no way back.  
 *Habit it breaks:* We think of a seed as the small, helpless start of a plant. We think of the grown plant as the strong one. Against cold and drought it is the other way round. The dry seed is the form in which a plant survives what no leaf or root can.  
@@ -712,7 +712,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 - The label on a seed packet at a nursery or seed shop. The label shows the germination percentage and the date of the test.
 - Sprouts in a tiffin box. If dry moong from the shelf sprouts, the seeds were alive and resting all the time in the jar.
 - A sealed tin, mud pot or bin of seed grain with dry neem leaves on top, in a store room.
-- Lotus pods at a flower market or a temple tank, such as in Madurai or Thrissur. The dark seeds inside have one of the hardest coats of any seed.
+- Lotus pods at a flower market or a temple tank. The dark seeds inside have one of the hardest coats of any seed.
 - Paddy or wheat that sprouts on the standing plant when rain falls at harvest time. Once the grains have sprouted, they cannot be stored as seed.
 - A bare field or roadside that turns green a few days after the first heavy rain of the monsoon.
 
@@ -761,14 +761,19 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: Search the site for 'Millennium Seed Bank' to see how seeds of wild plants are dried, frozen and tested.
 - [Crop Trust](https://www.croptrust.org) · interactive: For the parent: how seed banks around the world keep crop varieties, and why copies are sent to Svalbard.
 - [Genesys](https://www.genesys-pgr.org) · interactive: A catalogue of seed samples held in seed banks around the world. Search for rice or millet and see how many samples come from India.
-- [National Genebank, ICAR-NBPGR]() · place · New Delhi: India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so write and ask before you visit.
-- [Navdanya Biodiversity Conservation Farm]() · place · Near Dehradun: A farm and community seed bank. Hundreds of old varieties of rice, wheat and millets are grown and shared here every year.
-- [Deccan Development Society]() · place · Pastapur, near Zaheerabad, Telangana: Women farmers here run village seed banks of millets and pulses. Ask about a visit during their yearly festival of seeds.
-- [A plant nursery or seed shop near you]() · place · Anywhere: Read the labels on seed packets. Ask how the shop stores its seeds in the monsoon, and how old the oldest packet is.
+- National Genebank, ICAR-NBPGR · place · New Delhi: India's national store of crop seeds, kept in very cold rooms. It is a working research institute, so write and ask before you visit.
+- Navdanya Biodiversity Conservation Farm · place · Near Dehradun: A farm and community seed bank. Hundreds of old varieties of rice, wheat and millets are grown and shared here every year.
+- Deccan Development Society · place · Pastapur, near Zaheerabad, Telangana: Women farmers here run village seed banks of millets and pulses. Ask about a visit during their yearly festival of seeds.
+- A plant nursery or seed shop near you · place · Anywhere: Read the labels on seed packets. Ask how the shop stores its seeds in the monsoon, and how old the oldest packet is.
 
 ## Things to buy
 - [Whole green moong, about 250 grams](https://www.amazon.in/s?k=whole+green+moong) (material): For the Freezer Test, No Going Back and Three Jars, Three Weeks. Most kitchens have it. Use one packet for all the groups in a test. Used in e1, e2, p1. 
 - [The Triumph of Seeds, a book by Thor Hanson (2015)](https://www.amazon.in/s?k=The+Triumph+of+Seeds+Thor+Hanson) (book): For the parent or an older child: a biologist's clear and lively account of how seeds feed, wait, travel and defend themselves. Used in e2. After No Going Back, a parent can read aloud from the chapters on how seeds wait.
+- [Whole kabuli chana, about 10 grains, uncooked](https://www.amazon.in/s?k=kabuli+chana) (material): The seeds are soaked and drawn over four days, to see what happens inside a waking seed. About ₹80 to ₹120 a kilogram at a grocery shop, so a small handful costs only a few rupees. Used in a3. Buy it before the Four Days, Four Drawings activity.
+- [Hand lens or magnifying glass, about 60 to 75 millimetres wide](https://www.amazon.in/s?k=magnifying+glass) (tool): It lets the children look closely at the inside of a waking chana in the drawing activity. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative. Used in a3. Buy it before the Four Days, Four Drawings activity.
+- [Squared graph paper, a few sheets](https://www.amazon.in/s?k=graph+paper) (material): It is used to draw the line graph of the three jars in the Three Jars project. About ₹5 to ₹15 a sheet at a stationery shop. A notebook page ruled into squares works as well. Used in p1. Buy it before you start the Three Jars project.
+- [Cotton wool, one small roll](https://www.amazon.in/s?k=cotton+wool) (material): It is packed around the sample to keep it cold in the power cut challenge. About ₹40 to ₹80 for a small pack at a chemist. Newspaper or an old towel does the same job. Used in c1. Buy it before the Power Cut challenge.
+- [Printed pages for the game cards, tokens and worksheets, about 15 pages]() (material): The two games use five mix cards, 24 seed fate cards and three answer tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print these before the first game.
 
 ## Warm-up
 - Name the three parts of a seed. → The seed coat, the embryo and the food store.

@@ -1,9 +1,9 @@
 # Stored energy: how energy waits in a twist, a height, food and a cell
 `sci.energy.stored-energy.L3`
 
-**Summary.** Where is energy while it waits? In this unit you will build a roll-back jar, test whether more turns make it roll back further, check if a tired cell that dims a torch is really empty, and see why the water tank sits on the roof.
+**Summary.** Where is energy while it waits? In this lesson you will build a roll-back jar, test whether more turns make it roll back further, check if a tired cell that dims a torch is really empty, and see why the water tank sits on the roof.
 
-**Intro.** *Roll a jar away from you along the floor and let go. It slows down and stops. Then, with nobody touching it, it rolls back to you. What made it come back?* The jar has a rubber band and a small weight inside. Rolling the jar away twisted the band. The twist held energy, and the energy brought the jar back. In this unit you build this roll-back jar and find out how many turns make it come back furthest. You also test a torch cell that seems finished, read the energy on food packets, and find energy waiting all over your home.
+**Intro.** *Roll a jar away from you along the floor and let go. It slows down and stops. Then, with nobody touching it, it rolls back to you. What made it come back?* The jar has a rubber band and a small weight inside. Rolling the jar away twisted the band. The twist held energy, and the energy brought the jar back. In this lesson you build this roll-back jar and find out how many turns make it come back furthest. You also test a torch cell that seems finished, read the energy on food packets, and find energy waiting all over your home.
 
 ## Learning outcomes
 0. I can say what stored energy is, and give examples of energy waiting in height, in a stretched, squashed or twisted shape, in food and fuel, and in cells.
@@ -486,7 +486,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 ## Worksheets
 ### Energy Waiting (core) (core, 15 questions)
 1. (match) Match each thing to where its energy is waiting.  
-   **Answer:** Water in the tank on the roof → in its height; A stretched catapult → in its shape; A plate of rice → in the food; A TV remote's AA cells → in their chemicals; A wound-up clock spring → in its coiled shape. *Why:* These are the four kinds of store in this unit: height, shape, food and fuel, and cells. A strong answer can also say what would let each one out.
+   **Answer:** Water in the tank on the roof → in its height; A stretched catapult → in its shape; A plate of rice → in the food; A TV remote's AA cells → in their chemicals; A wound-up clock spring → in its coiled shape. *Why:* These are the four kinds of store in this lesson: height, shape, food and fuel, and cells. A strong answer can also say what would let each one out.
 2. (fill) Energy that waits in a thing, ready to come out later, is called stored energy. Scientists also call it ____ energy.  
    **Answer:** ['potential']. *Why:* Potential means 'able to happen later'. William Rankine gave stored energy this name in 1853.
 3. (mcq) Remember the roll-back jar, with a rubber band and a padlock inside. Why does the padlock need to hang from the middle of the band?  
@@ -564,7 +564,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 5. (mcq) A dog is kept in a closed box for a day. Scientists measure all the heat the dog gives out, and all the energy in the food the dog uses. What would you expect them to find?  
    Options: The dog makes heat from nothing / The heat matches the energy in the food the dog used / The dog gives out more heat than their food holds  
    **Answer:** The heat matches the energy in the food the dog used. *Why:* Energy is never made from nothing. So the heat the dog gives out should match the energy in the food the dog used. When scientists did this, it matched almost exactly. Living bodies follow the same rule as everything else.
-6. (draw) Draw a comic strip in four boxes: energy going into a store, waiting, and coming out later. Use any store from this unit.  
+6. (draw) Draw a comic strip in four boxes: energy going into a store, waiting, and coming out later. Use any store from this lesson.  
    **Answer:** For example: 1. A child rolls the jar 3 turns. 2. The child holds it still and counts to 60. 3. The child lets go. 4. The jar rolls back. Each box has a label: in, waiting, out.. *Why:* A strong strip shows all three stages, including the waiting. The waiting is what makes it a store.
 7. (write) The Mettur dam on the Kaveri river holds a huge lake of water high up behind it. Explain how the dam stores energy, and how that energy reaches a fan in a home in Chennai.  
    **Answer:** The water behind the dam is high up, so energy waits in its height. When the gates open, the water falls through pipes and spins machines that make electricity. The electricity travels along wires to Chennai, where it turns a fan.. *Why:* A strong answer names the store (height), the release (the fall), and the journey of the energy.
@@ -588,7 +588,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
    **Answer:** False. *Why:* False. A store can give back at most what was put in, and a little always spreads out as warmth. Charging puts the energy in, and the day's use takes it out again.
 
 ## Videos
-- **Comeback Can** (Mad Science of London, 2 min) id `m8P4d1gebqg`: A short video of a roll-back can, like the jar in this unit, rolling away and coming back. Good to watch before building your own. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Comeback Can', channel Mad Science of London). Not watched from here, so the length is a guess: a parent should preview it.
+- **Comeback Can** (Mad Science of London, 2 min) id `m8P4d1gebqg`: A short video of a roll-back can, like the jar in this lesson, rolling away and coming back. Good to watch before building your own. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Comeback Can', channel Mad Science of London). Not watched from here, so the length is a guess: a parent should preview it.
 - **Mystery of how fleas jump resolved** (Cambridge University, 3 min) id `mcnoL1kJ4so`: High-speed film of fleas jumping, from the scientists who showed how fleas store energy in a springy pad and push off with their toes. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Mystery of how fleas jump resolved', channel Cambridge University). Not watched from here: a parent should preview it.
 - **Chapter 1 - How a Clock Works** (National Watch & Clock Museum, 5 min) id `lDZHlcjQnOo`: For the parent and older children: how a clock's stored energy is let out a little at a time, as in Ammamma's clock in the story. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'Chapter 1 - How a Clock Works', channel National Watch & Clock Museum). Not watched from here, so the length is a guess: a parent should preview it.
 
@@ -648,7 +648,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 - An inverter and its big battery, often kept in a corner or under the stairs.
 - A wind-up wall clock in an old home or a temple office.
 - A catapult at a village fair, or a bow and arrow at an archery club.
-- A dam on a river, such as Mettur on the Kaveri, Idukki in Kerala or Hirakud in Odisha, holding a huge lake high up.
+- A dam on a river, holding a huge lake high up.
 
 ## Open questions
 - **What is energy, really?** Scientists can measure it very exactly and the numbers always add up, but nobody can say what it is made of.
@@ -699,6 +699,16 @@ Where Did It Come From? (sci.energy.L3): Topic-level song for Energy L3
 ## Things to buy
 - [A small packet of rubber bands, thick and thin](https://www.amazon.in/s?k=rubber+bands+stationery) (material): The roll-back jar, the pop-up jumper and the challenge all need rubber bands. Most homes have some. A packet is cheap at any stationery shop. Used in e1, a2, c1. 
 - [A tailor's measuring tape, 150 cm](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): To measure how far the roll-back jar rolls. Many homes have one in the sewing box. A 30 cm ruler, moved along, also works. Used in e1, c1. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Slowest Marble. About ₹150 to ₹400. A phone stopwatch works well. Used in c2. Get it before The Slowest Marble.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Roll-Back Jar: do more turns make it roll back further?, The Pop-Up Jumper. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2. Get it before The Roll-Back Jar: do more turns make it roll back further?.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in The Battery Diary: five days of watching a phone's store. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in p1. Get it before The Battery Diary: five days of watching a phone's store.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Slowest Marble. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in c2. Get it before The Slowest Marble.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Roll-Back Jar: do more turns make it roll back further?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e1. Get it before The Roll-Back Jar: do more turns make it roll back further?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Twirling Button, The Slowest Marble. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5, c2. Get it before The Twirling Button.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Slowest Marble. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c2. Get it before The Slowest Marble.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Slowest Marble. About ₹10 to ₹40. Small round stones or dried chana. Used in c2. Get it before The Slowest Marble.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Roll-Back Jar: do more turns make it roll back further?, Three Holes in a Bottle: why the tank is on the roof. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1, a4. Get it before The Roll-Back Jar: do more turns make it roll back further?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do scientists call stored energy? → Potential energy.

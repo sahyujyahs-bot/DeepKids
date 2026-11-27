@@ -1,9 +1,9 @@
 # Where humans came from: many kinds of humans, and what old bones and DNA tell us
 `sci.evolution.human-origins.L5`
 
-**Summary.** Today there is only one kind of human on Earth. A hundred thousand years ago there were at least five, and they lived at the same time. Where did the others go? In this unit you will feel four clues on your own skull, and follow one ancestor's DNA down the generations with squared paper, a coin and number chits. You will see why most people alive today carry small pieces of Neanderthal DNA, and why your pieces differ from your neighbour's. You will also weigh a question that scientists still argue about: what, if anything, makes our kind different?
+**Summary.** Today there is only one kind of human on Earth. A hundred thousand years ago there were at least five, and they lived at the same time. Where did the others go? In this lesson you will feel four clues on your own skull, and follow one ancestor's DNA down the generations with squared paper, a coin and number chits. You will see why most people alive today carry small pieces of Neanderthal DNA, and why your pieces differ from your neighbour's. You will also weigh a question that scientists still argue about: what, if anything, makes our kind different?
 
-**Intro.** *If you had walked across Asia 100,000 years ago, you could have met at least five different kinds of humans. Today you would meet only one kind, us. What happened to the other four?* For a long time the answer seemed simple: they died out, and nothing of them was left. Then scientists learned to read DNA from bones tens of thousands of years old. The DNA showed something nobody could have seen in the bones alone. Our ancestors met some of these other humans and had children with them, and pieces of their DNA are still inside most people alive today. In this unit you will find out who the other humans were, how a bone or a speck of bone powder can tell us about them, and what is still unknown. India has a part in this story too, and a big gap in it.
+**Intro.** *If you had walked across Asia 100,000 years ago, you could have met at least five different kinds of humans. Today you would meet only one kind, us. What happened to the other four?* For a long time the answer seemed simple: they died out, and nothing of them was left. Then scientists learned to read DNA from bones tens of thousands of years old. The DNA showed something nobody could have seen in the bones alone. Our ancestors met some of these other humans and had children with them, and pieces of their DNA are still inside most people alive today. In this lesson you will find out who the other humans were, how a bone or a speck of bone powder can tell us about them, and what is still unknown. India has a part in this story too, and a big gap in it.
 
 ## Learning outcomes
 0. By the end I can name at least four other kinds of humans, say where and when they lived, and explain that several kinds lived at the same time.
@@ -609,7 +609,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 ## Videos
 - **When We Met Other Human Species** (PBS Eons, 11 min) id `jdYwMLSNHnU`: Tells how our ancestors met Neanderthals and Denisovans, and how DNA shows that they had children together. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. Not watched from here: a parent should preview it.
 - **The Ancient Human Species With A Missing Body** (PBS Eons, 10 min) id `Y20pXB20Mog`: Chosen for the Denisovans, the humans known from DNA and very few bones. A parent should preview it first to check that it fits. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The subject is judged from the title only, and the running time is an estimate. Not watched from here: a parent must preview it.
-- **What Happened Before History? Human Origins** (Kurzgesagt – In a Nutshell, 10 min) id `dGiQaabX3_o`: A fast animated overview of the human family, including the other kinds of humans who lived beside our ancestors. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. The video dates from 2016, so some dates in it are older than those in this unit. Not watched from here: a parent should preview it.
+- **What Happened Before History? Human Origins** (Kurzgesagt – In a Nutshell, 10 min) id `dGiQaabX3_o`: A fast animated overview of the human family, including the other kinds of humans who lived beside our ancestors. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. The running time is an estimate. The video dates from 2016, so some dates in it are older than those in this lesson. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Which statement about the human family is correct?  
@@ -659,13 +659,13 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 
 ## Spotted around us
 - Look in a mirror and press the bump of your chin. You are looking at the one bony feature that no other kind of human had.
-- At the Government Museum in Egmore, Chennai, look for stone hand axes. Robert Bruce Foote found the first one at Pallavaram in 1863.
-- Near Chennai, at Attirampakkam, people made hand axes about 1.5 million years ago. No bones were found, so nobody knows which kind of human they were.
-- On the bank of the Narmada at Hathnora in Madhya Pradesh, the top of an ancient human skull was found in 1982.
-- At Bhimbetka in Madhya Pradesh, people of our own species painted animals and dancers on rock walls thousands of years ago.
-- Food left out in a Chennai summer spoils in hours, and the same food lasts for days in the fridge. Cold slows chemical reactions, and that is also why DNA lasts in cold caves.
+- In a museum, look for stone hand axes made long ago.
+- A stone hand axe in a museum picture. People made hand axes about 1.5 million years ago. No bones were found with them, so nobody knows which kind of human made them.
+- The top of an ancient human skull, found in 1982 on a river bank, in a museum picture.
+- Paintings of animals and dancers on rock walls, painted by people of our own species thousands of years ago.
+- Food left out in a summer kitchen spoils in hours, and the same food lasts for days in the fridge. Cold slows chemical reactions, and that is also why DNA lasts in cold caves.
 - Watch a grandmother teach a kolam, or a mother teach how to pleat a sari. Notice how much is passed on by words, not only by showing.
-- Many Tibetan families live at Bylakuppe in Karnataka and in Ladakh. Many Tibetan people carry a gene version for thin mountain air that came from Denisovans.
+- Tibetan families living in the mountains. Many Tibetan people carry a gene version for thin mountain air that came from Denisovans.
 - In a family photograph, look for a feature that skipped a child. Each child gets a different half of each parent's DNA, which is the same chance you saw in the Shrinking Pieces Test.
 
 ## Open questions
@@ -709,20 +709,26 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 
 ## Links
-- [Smithsonian National Museum of Natural History: Human Origins](https://humanorigins.si.edu) · interactive: Pictures, three-dimensional skulls and short pages for each kind of human in this unit.
+- [Smithsonian National Museum of Natural History: Human Origins](https://humanorigins.si.edu) · interactive: Pictures, three-dimensional skulls and short pages for each kind of human in this lesson.
 - [eFossils](https://www.efossils.org) · interactive: Turn and compare fossil skulls and skeletons on screen. Good after Four Clues on Your Own Skull.
 - [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de) · interactive: For the parent: news from the laboratory in Leipzig that read the Neanderthal, Denisovan and Denny genomes.
 - [The Nobel Prize](https://www.nobelprize.org) · interactive: Search for the 2022 prize in Physiology or Medicine to read how Svante Pääbo's work is explained for the public.
 - [Natural History Museum, London](https://www.nhm.ac.uk) · interactive: Search the site for 'human evolution' for clear articles on Neanderthals and on why they disappeared.
-- [Government Museum, Egmore]() · place · Chennai: See stone hand axes from Tamil Nadu, including tools collected by Robert Bruce Foote.
-- [Indira Gandhi Rashtriya Manav Sangrahalaya]() · place · Bhopal: India's national museum of humankind, with galleries on human evolution and on how people have lived.
-- [Bhimbetka rock shelters]() · place · Raisen district, near Bhopal: Rock paintings made by people of our own species over thousands of years. A good place to talk about art and symbols.
-- [Indian Museum]() · place · Kolkata: The galleries on human evolution and prehistoric tools show casts of fossil skulls to compare with your own.
+- Government Museum, Egmore · place · Chennai: See stone hand axes from Tamil Nadu, including tools collected by Robert Bruce Foote.
+- Indira Gandhi Rashtriya Manav Sangrahalaya · place · Bhopal: India's national museum of humankind, with galleries on human evolution and on how people have lived.
+- Bhimbetka rock shelters · place · Raisen district, near Bhopal: Rock paintings made by people of our own species over thousands of years. A good place to talk about art and symbols.
+- Indian Museum · place · Kolkata: The galleries on human evolution and prehistoric tools show casts of fossil skulls to compare with your own.
 
 ## Things to buy
 - [A maths notebook with squared pages](https://www.amazon.in/s?k=square+ruled+maths+notebook) (material): The Shrinking Pieces Test needs rows of 20 squares. Any squared notebook from a stationery shop will do, or rule your own grid. Used in e1. 
 - [Fruit salt, such as ENO, or citric acid crystals and baking soda](https://www.amazon.in/s?k=fruit+salt) (material): Warm or Cold needs a powder that fizzes in water. Most kitchens and all chemists have one. Used in a4. 
 - [Early Indians: The Story of Our Ancestors and Where We Came From, by Tony Joseph](https://www.amazon.in/s?k=Early+Indians+Tony+Joseph) (book): For the parent. A clear account of how people came to India, told through stone tools, bones and DNA. Used in p1. Read the first chapter before day 3 of The Human Bush, and share one finding about India with your child.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?, The Shredded Message: read a sentence from short pieces, Who Lived When? Seven kinds of humans on one time line. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, a5. Get it before The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Four Clues on Your Own Skull. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Four Clues on Your Own Skull.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Human Bush: a poster of our family, with the mixing shown. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Human Bush: a poster of our family, with the mixing shown.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Teaching Test: is a skill learned better by watching, or by watching with words?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before The Teaching Test: is a skill learned better by watching, or by watching with words?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1. Get it before The Shrinking Pieces Test: what happens to one ancestor's DNA over the generations?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three kinds of humans other than our own. → Any three of Neanderthals, Denisovans, Homo floresiensis, Homo naledi, Homo luzonensis and Homo erectus.
@@ -743,7 +749,7 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - Curriculum entry sci.evolution.human-origins.L5: many human species (Neanderthals, Denisovans), what fossils and DNA tell us, and what makes us human.
 - The founder's notebook for this topic (ideas/by_topic/where-humans-came-from.md): evolution as a branching tree and not a straight line, every step still open to revision, and the note that intelligence is not unique to humans.
 - DeepKids Combined lesson sci-C5-where-humans-came-from: the other kinds of humans, Neanderthal DNA in living people, the 'human bush' poster (improved here as p1, with mixing arrows and an India box), the big questions on 'us' and 'them', and the archaeologist's point that India has old tools and almost no bones.
-- DeepKids Combined lesson sci-C4-where-humans-came-from, which covers the shared ancestor with chimpanzees, upright walking and the first tools. This unit builds on it and does not repeat its experiments or its story.
+- DeepKids Combined lesson sci-C4-where-humans-came-from, which covers the shared ancestor with chimpanzees, upright walking and the first tools. This lesson builds on it and does not repeat its experiments or its story.
 - The Level 5 units of the same topic (inheritance, natural selection, the story of life), for the shared song title and so that DNA, chromosomes and species are built on and not taught again.
 - Krings M. et al. (1997). Neandertal DNA sequences and the origin of modern humans. Cell 90, 19-30.
 - Green R.E. et al. (2010). A draft sequence of the Neandertal genome. Science 328, 710-722.

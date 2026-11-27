@@ -3558,6 +3558,90 @@
     "a2"
    ],
    "plan": "Read it together after The Scrap Price Chart. By then your child has seen what each material is worth to the person who collects it."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Crush Test: how much of our dry waste is air?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Crush Test: how much of our dry waste is air?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Crush Test: how much of our dry waste is air?, The Scrap Price Chart: what is each material worth?, The Seven-Day Waste Count: what is our family's waste made of?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Crush Test: how much of our dry waste is air?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Crush Test: how much of our dry waste is air?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Crush Test: how much of our dry waste is air?."
+  },
+  {
+   "id": "b-wooden-ice-cream-sticks--a-p",
+   "item": "Wooden ice-cream sticks (a pack)",
+   "kind": "material",
+   "why": "Used in Once Alive or Never Alive: sort twelve things. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in.",
+   "url": "https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Once Alive or Never Alive: sort twelve things."
+  },
+  {
+   "id": "b-butter-paper-or-tracing-pape",
+   "item": "Butter paper or tracing paper",
+   "kind": "material",
+   "why": "Used in The One-Material Pack: keep a snack crisp for two days. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper.",
+   "url": "https://www.amazon.in/s?k=butter+paper+roll",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The One-Material Pack: keep a snack crisp for two days."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Seven-Day Waste Count: what is our family's waste made of?, A Dump That Does Not Leak. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Seven-Day Waste Count: what is our family's waste made of?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3811,14 +3895,20 @@
     "source": "Bhagavad Gita 2.16",
     "teaching": "What is not real never comes to be, and what is real never stops being.",
     "link": "The Gita says this about the self, not about waste. Science found something like it about matter: the atoms in waste never stop existing. They only move and join in new ways.",
-    "verse": ["नासतो विद्यते भावो नाभावो विद्यते सतः।", "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"],
+    "verse": [
+     "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+     "उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Isha Upanishad, verse 1",
     "teaching": "Everything in this moving world belongs to the whole. Enjoy what you are given by letting go, and do not grab what is another's.",
     "link": "The first step of the waste hierarchy is to take less. The Earth's materials are shared with every other being, and what we take and throw stays in their world too.",
-    "verse": ["ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्", "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"],
+    "verse": [
+     "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत्",
+     "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्"
+    ],
     "verse_lang": "sa"
    }
   ],

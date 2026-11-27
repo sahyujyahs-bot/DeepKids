@@ -1,9 +1,9 @@
 # Carrying capacity: why no population grows for ever, and why hunters and hunted rise and fall
 `sci.ecology.populations.L5`
 
-**Summary.** One bacterium can split in two in about 20 minutes. If all her daughters kept splitting, they would soon outweigh the Earth. Yet that never happens. In this unit you will double rice grains square by square, grow a paper forest until it is full, and plot a real island's reindeer.
+**Summary.** One bacterium can split in two in about 20 minutes. If all her daughters kept splitting, they would soon outweigh the Earth. Yet that never happens. In this lesson you will double rice grains square by square, grow a paper forest until it is full, and plot a real island's reindeer.
 
-**Intro.** *Put one grain of rice on the table today. Tomorrow put two, the next day four, and double it every day. On which day would you need more rice than a whole one-kilogram packet holds? Guess the day, and say why you think so.* A one-kilogram packet holds roughly 50,000 grains. Most people guess a day far too late. In the first activity, Doubling Rice, you find the real day with real grains. Living beings multiply in the same doubling way. So here is the question for this unit. If every living being can double, why is the world not buried in bacteria, or rats, or deer? What stops them, and at what number?
+**Intro.** *Put one grain of rice on the table today. Tomorrow put two, the next day four, and double it every day. On which day would you need more rice than a whole one-kilogram packet holds? Guess the day, and say why you think so.* A one-kilogram packet holds roughly 50,000 grains. Most people guess a day far too late. In the first activity, Doubling Rice, you find the real day with real grains. Living beings multiply in the same doubling way. So here is the question for this lesson. If every living being can double, why is the world not buried in bacteria, or rats, or deer? What stops them, and at what number?
 
 ## Learning outcomes
 0. By the end I can say what a population is, and name the four things that change its number.
@@ -807,14 +807,14 @@ She wrote 'WHAT THE HILL CAN FEED'. Then she wrote this year's number under it, 
 - City planners find that the number of street dogs, rats and crows follows the amount of open rubbish.
 
 ## Spotted around us
-- Pigeons gathered where someone scatters grain each morning, at a temple tank in Chennai or a chowk in Jaipur. Food sets their number.
+- Pigeons gathered where someone scatters grain each morning, at a temple tank or a market square. Food sets their number.
 - A plant saucer or an old tyre with wriggling mosquito young in the water, in the first weeks of the monsoon.
-- Water hyacinth covering a lake from bank to bank, as on parts of Vembanad in Kerala or Ulsoor in Bengaluru. The surface is full.
+- Water hyacinth covering a lake from bank to bank. The surface is full.
 - Seedlings crowded thin and pale under a big neem or banyan, where almost none will grow up for want of light.
-- A signboard at a tiger reserve such as Nagarahole, Bandipur or Kanha, giving the estimated number of tigers and of deer.
+- A signboard at a wildlife park giving the estimated number of tigers and of deer.
 - Curd that set overnight and then stopped getting much more sour, because the bacteria had slowed down.
 - Crows and street dogs gathered at an open rubbish heap. Where the rubbish is cleared, there are fewer.
-- Fishing boats tied up at harbours on India's coasts during the yearly fishing ban in the monsoon, when many fish breed.
+- Fishing boats tied up at the harbour during the yearly fishing ban in the monsoon, when many fish breed.
 
 ## Open questions
 - **Why do snowshoe hares rise and fall across much of Canada at nearly the same time?** Predators and food explain one forest. Scientists still test what keeps forests thousands of kilometres apart in step. Weather and travelling predators are two ideas.
@@ -859,15 +859,20 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [PhET Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection) · simulation: A free online model of rabbits. Run it with no wolves and limited food, and watch the population graph level off. Add wolves and watch it change.
 - [Our World in Data: Population Growth](https://ourworldindata.org/population-growth) · interactive: For the parent and child together: graphs of the world's and India's population that you can move through year by year.
 - [The Wolves and Moose of Isle Royale](https://isleroyalewolf.org) · interactive: The website of the study that has counted wolves and moose on one island every winter since 1958, with the graph of both numbers.
-- [Eravikulam National Park]() · place · Near Munnar, Kerala: The hills of the story. Nilgiri tahr graze close to the path at Rajamala. The park closes in February and March, when the kids are born.
-- [Nagarahole Tiger Reserve]() · place · Kodagu and Mysuru districts, Karnataka: The forest where camera counting of tigers was worked out in India. Look at how many chital and gaur you see for each sign of a tiger.
-- [Kaziranga National Park]() · place · Near Bokakhat, Assam: Home to most of the world's one-horned rhinos, who grew from about a dozen in 1908 to 2,613 in the 2022 count.
-- [Guindy National Park and Children's Park]() · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Ask what limits their number in a park with a wall all round.
+- Eravikulam National Park · place · Near Munnar, Kerala: The hills of the story. Nilgiri tahr graze close to the path at Rajamala. The park closes in February and March, when the kids are born.
+- Nagarahole Tiger Reserve · place · Kodagu and Mysuru districts, Karnataka: The forest where camera counting of tigers was worked out in India. Look at how many chital and gaur you see for each sign of a tiger.
+- Kaziranga National Park · place · Near Bokakhat, Assam: Home to most of the world's one-horned rhinos, who grew from about a dozen in 1908 to 2,613 in the 2022 count.
+- Guindy National Park and Children's Park · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Ask what limits their number in a park with a wall all round.
 
 ## Things to buy
 - [A pair of dice in two colours](https://www.amazon.in/s?k=dice+set+two+colours) (tool): For the Full Island Test, where one die gives the column and the other gives the row, and for the Meadow Game. One die rolled twice also works. Used in e1, g1. 
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graphs in the Full Island Test, the Rats and Snakes Game, the Island Graph and the Human Curve. A squared maths notebook also works. Used in e1, e2, a3, a6. 
 - [The Serengeti Rules, by Sean B. Carroll (for the parent)](https://www.amazon.in/s?k=The+Serengeti+Rules+Sean+Carroll) (book): Tells the true stories of how scientists found the rules that hold the numbers of animals in check. Used in e2. For the parent to read alongside the unit. Read a chapter before the Rats and Snakes Game and tell one story from it at dinner.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Full Island Test: does a forest keep doubling for ever?, The Rats and Snakes Game: what happens to hunters and hunted over many rounds?, Doubling Rice: on which square does the rice run out?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a3, a6, p1. Get it before The Full Island Test: does a forest keep doubling for ever?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Rats and Snakes Game: what happens to hunters and hunted over many rounds?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before The Rats and Snakes Game: what happens to hunters and hunted over many rounds?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Full Island Test: does a forest keep doubling for ever?, The Rats and Snakes Game: what happens to hunters and hunted over many rounds?, Count Without Counting: how many beans are in the bowl?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a2, a5, p1, c1. Get it before The Full Island Test: does a forest keep doubling for ever?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Crowded Cups: does sowing more seeds give more methi?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in p1. Get it before Crowded Cups: does sowing more seeds give more methi?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call all the members of one species living in one place? → A population.
@@ -888,7 +893,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - Curriculum entry sci.ecology.populations.L5 (covers: carrying capacity, predator and prey numbers rising and falling together, simple population graphs) and its notebook items bio:198 (population dynamics: growth, regulation, carrying capacity), bio:221 (biomathematics) and bio:222 (population models: Lotka-Volterra, logistic growth)
 - ideas/by_topic/living-in-harmony.md: the notebook's line that harmony needs give and take and that imbalance brings instability, used for overshoot and for the Tao Te Ching teaching
 - Combined lesson sci-C5-living-in-harmony: 'The rats and snakes game' (experiment e2 there), reused here as the Rats and Snakes Game with a smaller field, beans for rats and a limit of 80 rats and 16 snakes, after computer trials of the rules
-- The Level 5 units of the same topic (food webs: the Leaky Bottle, Two Out of Thousands, the Ten-Year Wave; biodiversity: the Coin Years Test), so this unit leads on from them without repeating them
+- The Level 5 units of the same topic (food webs: the Leaky Bottle, Two Out of Thousands, the Ten-Year Wave; biodiversity: the Coin Years Test), so this lesson leads on from them without repeating them
 - Verhulst, P.-F., 1838, 'Notice sur la loi que la population suit dans son accroissement', Correspondance mathématique et physique 10 (the logistic curve)
 - Gause, G. F., 1934, The Struggle for Existence, Williams and Wilkins (yeast and Paramecium growth curves; Didinium and Paramecium)
 - Volterra, V., 1926, 'Fluctuations in the abundance of a species considered mathematically', Nature 118; Lotka, A. J., 1925, Elements of Physical Biology

@@ -3023,6 +3023,39 @@
     "e1"
    ],
    "plan": "Read about ramps and wheels together after the ramp experiment."
+  },
+  {
+   "id": "b-aa-batteries-or-torch-cells-",
+   "item": "AA batteries or torch cells (a few)",
+   "kind": "material",
+   "why": "Used in The Two-Metre Track: does a toy car keep one speed?. About ₹10 to ₹30 each. A used torch cell still works for many circuits.",
+   "url": "https://www.amazon.in/s?k=AA+battery+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Two-Metre Track: does a toy car keep one speed?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Two-Metre Track: does a toy car keep one speed?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Two-Metre Track: does a toy car keep one speed?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Two-Metre Track: does a toy car keep one speed?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Two-Metre Track: does a toy car keep one speed?."
   }
  ],
  "song": {

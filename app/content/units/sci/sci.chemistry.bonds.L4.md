@@ -1,9 +1,9 @@
 # Ionic, covalent and metallic bonds: why salt shatters, wax melts and metal bends
 `sci.chemistry.bonds.L4`
 
-**Summary.** A paper clip bends, but a salt crystal shatters. What is different inside them? In this unit you will test three solids by pressing, wetting and heating, build a row model to see why they behave differently, and check when salt carries electricity.
+**Summary.** A paper clip bends, but a salt crystal shatters. What is different inside them? In this lesson you will test three solids by pressing, wetting and heating, build a row model to see why they behave differently, and check when salt carries electricity.
 
-**Intro.** *Sodium is a soft metal that can catch fire in water. Chlorine is a poisonous green gas. Joined together, they are the salt in your sambar. How can joining change two things so much?* A bond is the way atoms hold on to each other. The kind of bond decides how a material behaves. In this unit you press a salt crystal and a ball of foil, and see one break and one bend. You heat salt, wax and foil over a candle with a grown-up. You build a tester from a battery and two pencils. With it you find out when salt carries electricity. By the end you can say what happened to the sodium and the chlorine.
+**Intro.** *Sodium is a soft metal that can catch fire in water. Chlorine is a poisonous green gas. Joined together, they are the salt in your sambar. How can joining change two things so much?* A bond is the way atoms hold on to each other. The kind of bond decides how a material behaves. In this lesson you press a salt crystal and a ball of foil, and see one break and one bend. You heat salt, wax and foil over a candle with a grown-up. You build a tester from a battery and two pencils. With it you find out when salt carries electricity. By the end you can say what happened to the sodium and the chlorine.
 
 ## Learning outcomes
 0. I can say what an ion is, and how an atom becomes one.
@@ -131,12 +131,12 @@ Nobody has ever picked up a bond. What exists for certain is the nuclei and the 
   Against: X-rays show that each ion has six equal neighbours and no partner of its own. The formula NaCl only tells us the ratio, which is one sodium ion for every chloride ion.
 - **Salt water has no ions until an electric current makes them.** (Michael Faraday and most chemists before the 1880s.; *rejected*)  
   For: Ions were first noticed only when a current was flowing.  
-  Against: Svante Arrhenius showed in the 1880s that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every unit of salt.
+  Against: Svante Arrhenius showed in the 1880s that dissolved salt is already split into ions. Salt lowers the freezing point of water about twice as much as the same number of sugar molecules. That fits two particles for every lesson of salt.
 - **Pure water carries electricity well.** (A common belief.; *rejected*)  
   For: People get electric shocks with wet hands, so water seems to carry electricity.  
   Against: Pure water carries very little. The salts dissolved in tap water, sweat and sea water carry it. Since nearly all water around us has salts, wet hands near a socket are truly dangerous.
 - **Ionic, covalent and metallic are three separate kinds of bond.** (Many school books.; *debated*)  
-  For: The three types explain the tests in this unit well.  
+  For: The three types explain the tests in this lesson well.  
   Against: Linus Pauling showed in 1932 that sharing shades into giving with no sharp line. Graphite is covalent and still carries electricity. The three types are corners, and most bonds lie between them.
 - **Every atom bonds until it has eight outer electrons.** (A rule of thumb from Gilbert Lewis and Irving Langmuir, used in most school books.; *debated*)  
   For: The rule gives the right formula for salt, water and many other compounds.  
@@ -146,7 +146,7 @@ Nobody has ever picked up a bond. What exists for certain is the nuclei and the 
   Against: Solid metallic hydrogen was reported in 2017, but other teams doubt it and it has not been confirmed. The pressure needed is very hard to reach and to measure.
 
 ## Roots
-In this unit you found three ways that atoms hold on to each other. Here we ask what salt, water and metal tell us about what a thing is.
+In this lesson you found three ways that atoms hold on to each other. Here we ask what salt, water and metal tell us about what a thing is.
 
 **Deep truth.** In Dry Salt, Wet Salt, dry salt carried no electricity. The same salt carried it once water was added, and water alone carried almost none. So the charged ions were in the dry salt all along, each held in place by its neighbours. Whether salt carries electricity depends on whether its ions are free to move.  
 *Habit it breaks:* We sort materials into conductors and insulators, as if each label were fixed inside the material. Salt is an insulator when dry and a conductor when wet. The label describes how the particles are held at that moment.  
@@ -156,7 +156,7 @@ In this unit you found three ways that atoms hold on to each other. Here we ask 
 - *what is life:* A living body uses covalent bonds and ionic bonds together. Long covalent chains make up its flesh. Ionic crystals make up bones and shells. Free ions carry messages along the nerves.
 - *what is this world:* A salt pan, a river and a copper mine are all built from atoms. Each atom has a plus centre with minus electrons around it. They are very different because the outer electrons sit in different places.
 
-Every bond in this unit is the same attraction, between plus charges and minus electrons. Salt, water and copper differ only in where the outer electrons end up. They are given, or shared by two atoms, or shared by all. From that one attraction come hardness, melting, shine and the signals in your nerves. Many sages taught that the many things of the world come from one source. The science here says something close and plain: thousands of materials come from one attraction, arranged in different ways.
+Every bond in this lesson is the same attraction, between plus charges and minus electrons. Salt, water and copper differ only in where the outer electrons end up. They are given, or shared by two atoms, or shared by all. From that one attraction come hardness, melting, shine and the signals in your nerves. Many sages taught that the many things of the world come from one source. The science here says something close and plain: thousands of materials come from one attraction, arranged in different ways.
 
 - **Chandogya Upanishad 6.13:** “लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति / तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति / तद्धावमृश्य न विवेद / मध्यादाचामेति । कथमिति । लवणमिति / तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति” Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning the salt cannot be found, yet every sip of the water is salty. (The salt has not gone. Its ions have left the lattice and spread through the water. The Upanishad uses this as a picture of the self present in everything, which science does not test.)
 - **Nagarjuna, Mulamadhyamakakarika 24.18:** “यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे / सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा” Whatever arises in dependence on other things has no fixed nature of its own. (Salt does not carry electricity by its own nature, and water hardly does. Together they do. What salt can do depends on what it is with.)
@@ -685,9 +685,9 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 - Dorothy Hodgkin used X-rays to find where every atom sits in penicillin and in insulin. Knowing the shape of a medicine's molecule helps chemists make it.
 
 ## Spotted around us
-- White heaps of salt beside the salt pans of Thoothukudi in Tamil Nadu, or the Rann of Kutch in Gujarat. The sun dries sea water, and the ions pack back into crystals.
+- White heaps of salt beside salt pans by the sea. The sun dries sea water, and the ions pack back into crystals.
 - Silver leaf on a kaju katli or a barfi. Silver is beaten so thin that a breath can lift it.
-- A bronze idol from Swamimalai or a bell-metal uruli from Kerala. Both are alloys of copper and tin.
+- A bronze idol or a bell-metal pot. Both are alloys of copper and tin.
 - The copper bottom of a steel cooking pot. The free electrons in copper spread heat quickly.
 - Table salt that has gone damp and lumpy in the monsoon. Sea salt takes in water from the air.
 - A crust of white on a tap or a steel bucket. These are ionic compounds left behind when hard water dries.
@@ -739,11 +739,16 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Metallic hydrogen (Wikipedia)](https://en.wikipedia.org/wiki/Metallic_hydrogen) · interactive: For the parent: the prediction, the experiments and the argument about hydrogen as a metal.
 - [Sugar and Salt Solutions (PhET, University of Colorado)](https://phet.colorado.edu/en/simulations/sugar-and-salt-solutions) · simulation: For the child with a parent: add salt or sugar to water and see how it changes the conductivity. It may need a computer, not a phone.
 - [Visvesvaraya Industrial and Technological Museum](https://vismuseum.gov.in/) · place · Bengaluru: It has hands-on science galleries, including one on electricity and a Fun Science gallery.
-- [Salt pans beside the coast road]() · place · Thoothukudi: From a safe spot on the road, you can see sea water drying in square pans. Workers rake the salt into heaps.
+- Salt pans beside the coast road · place · Thoothukudi: From a safe spot on the road, you can see sea water drying in square pans. Workers rake the salt into heaps.
 
 ## Things to buy
 - [A 9-volt battery with a snap clip that has two wires](https://www.amazon.in/s?k=9v+battery+with+snap+connector) (tool): For the bubble tester in Dry Salt, Wet Salt. Electrical and stationery shops sell both for a few tens of rupees. Used in e2, p1, c1. 
 - [Stuff Matters, a book by Mark Miodownik (2013)](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): For the parent or an older child: a materials scientist explains why steel bends, glass breaks and chocolate melts. Used in e1. After Three Solids, Three Tests, a parent can read aloud a few pages from the chapter on steel.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Dry Salt, Wet Salt: when does salt carry electricity?, Slide a Row: a salt model and a metal model. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a2. Get it before Dry Salt, Wet Salt: when does salt carry electricity?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Dry Salt, Wet Salt: when does salt carry electricity?, Tank-Full Alarm: make the tester bubble when the water reaches the line. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, c1. Get it before Dry Salt, Wet Salt: when does salt carry electricity?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Powder Detective: which kitchen things split into ions in water?. About ₹40 to ₹80. Lemon juice works for many tests. Used in p1. Get it before Powder Detective: which kitchen things split into ions in water?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Give, Share, Pool: move the electrons yourself. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Give, Share, Pool: move the electrons yourself.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an ion? → An atom with an electric charge, because it has lost or gained electrons.
@@ -764,7 +769,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Founder's notebook, chemistry pages: 'Chemical Bonding' and 'Ionic, covalent, metallic' (chem:12, chem:13). The items on orbital theory and on forces between molecules (chem:14, chem:15, chem:180 to chem:189, bio:34) are left for sci.chemistry.bonds.L5, as the curriculum says.
 - Curriculum entry sci.chemistry.bonds.L4: salt, water and metals hold together in different ways (ionic, covalent, metallic).
 - ideas/by_topic/matter-and-particles.md and the-very-small.md: 'Diversity arises from simple building blocks arranged in patterns', used in the roots.
-- sci.chemistry.bonds.L3 was read first. It splits water with two pencils and a 9-volt battery, heats wax and sugar, and compares plain, sugar and soda water. This unit reuses the pencil-and-battery setup only as a tester, and asks new questions: solid salt against wet salt, and salt against wax and metal.
+- sci.chemistry.bonds.L3 was read first. It splits water with two pencils and a 9-volt battery, heats wax and sugar, and compares plain, sugar and soda water. This lesson reuses the pencil-and-battery setup only as a tester, and asks new questions: solid salt against wet salt, and salt against wax and metal.
 - Other units were checked so that nothing repeats. Crack a Crystal and the crystal-growing tests are in sci.states.crystals.L3. The Full Glass Test is in sci.states.dissolving.L3. Bend Until It Snaps is in sci.materials.properties.L4. The rust and fizz tests are in sci.changes.chemical-reactions.L4 and sci.chemistry.reaction-speed.L4. The experiments, games and story here are new.
 - Davy H. (1808). The Bakerian Lecture: On some new phenomena of chemical changes produced by electricity. Philosophical Transactions of the Royal Society 98: 1-44.
 - Faraday M. (1834). Experimental researches in electricity, seventh series. Philosophical Transactions of the Royal Society 124: 77-122.

@@ -1,9 +1,9 @@
 # More than five senses: balance, body position, warmth, cold and pain
 `sci.senses.more-senses.L3`
 
-**Summary.** Why does a steel plate feel colder than a wooden board when both are the same temperature? In this unit you will race ice cubes on steel and wood, spin round to feel dizzy, and try tricks that show how your body senses position and cold.
+**Summary.** Why does a steel plate feel colder than a wooden board when both are the same temperature? In this lesson you will race ice cubes on steel and wood, spin round to feel dizzy, and try tricks that show how your body senses position and cold.
 
-**Intro.** *Spin round slowly five times, then sit down. The room seems to keep turning, though you and the room are both still. What is still spinning?* The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this unit you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, a mint sweet and a bowl of water. Then you meet animals with senses people do not have.
+**Intro.** *Spin round slowly five times, then sit down. The room seems to keep turning, though you and the room are both still. What is still spinning?* The answer is inside your ears. Deep in each ear are three tiny loops full of liquid. When you spin, the liquid starts to swirl. When you stop, it keeps swirling for a few seconds, so your brain thinks you are still turning. In this lesson you find this sense and four more that are not on the list of five: the sense of where your body parts are, the sense of warmth and cold, the sense of pain, and the senses inside you. You test them with ice, steel plates, a mint sweet and a bowl of water. Then you meet animals with senses people do not have.
 
 ## Learning outcomes
 0. I can name at least four senses that are not on the list of five, and say what each one tells me.
@@ -114,7 +114,7 @@ Scientists do not agree on one number. It depends on how you count. If you count
 
 ## Challenging perspectives
 - **People have exactly five senses.** (Aristotle, about 2,350 years ago, and many school books since; *rejected*)  
-  For: Each of the five senses has an organ you can point to, so the list is easy to teach.  
+  For: Each of the five best-known senses has an organ you can point to, so the list is easy to teach.  
   Against: Balance, body position, warmth, cold and pain each have their own receptors. Anyone can test them, as you did in Spin and Stop, Find the Dot and the Ice Race.
 - **Metal is colder than wood.** (A very common idea, because metal feels colder; *rejected*)  
   For: When you touch them, the steel really does feel colder than the wood.  
@@ -598,14 +598,14 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 10. (order) Put these in order: what happens in your ear when you start spinning, keep spinning, and stop?  
    **Answer:** ['the liquid lags behind and bends the hairs one way', 'the liquid catches up and turns with you', 'the liquid keeps swirling and bends the hairs the other way', 'the liquid slows and stops, and the dizziness ends']. *Why:* This is why you feel turning at the start, feel little while spinning steadily, and feel turning the other way after you stop.
 11. (match) Match each test to the sense it tested.  
-   **Answer:** Spin and Stop → balance; Find the Dot → body position; Cold Spot Map → cold receptors in the skin; Cool Breath → cold receptors fooled by menthol. *Why:* Each test in this unit picked out one hidden sense.
+   **Answer:** Spin and Stop → balance; Find the Dot → body position; Cold Spot Map → cold receptors in the skin; Cool Breath → cold receptors fooled by menthol. *Why:* Each test in this lesson picked out one hidden sense.
 12. (write) Some people say our senses show us the world exactly as it is. Steel feels colder than wood, but ice melts faster on steel. Do you agree? What does your sense of cold really show you?  
    **Answer:** Partly. The sense of cold does tell me about the world, but not the temperature. It shows how fast heat is leaving my hand, which depends on me and on what I touch.. *Why:* A strong answer uses the ice on steel and wood to say what the sense actually reports.
 13. (sort) Sort these senses: do people have them, or only some other animals?  
    **Answer:** balance → People have it; lateral line → Only some other animals; sensing heat with pits on the lips → Only some other animals; body position → People have it; sand grains in a balance pit → Only some other animals; warm and cold → People have it. *Why:* People share many senses with other animals, but fish, pythons and prawns have some we lack.
 14. (odd) Which one is the odd one out, and why? The lateral line of a fish, the whiskers of a cat, the eyes of an owl, the heat pits of a python.  
    **Answer:** the eyes of an owl. *Why:* Owls' eyes are very good, but people have eyes too. The others sense things people cannot: water flow, air movement through whiskers, and the heat of a body in the dark.
-15. (write) Make up a new test of a hidden sense, one that is not in this unit. Say what you would change, what you would keep the same, and what you would measure.  
+15. (write) Make up a new test of a hidden sense, one that is not in this lesson. Say what you would change, what you would keep the same, and what you would measure.  
    **Answer:** For example: does standing on one foot get easier after a week of practice? Change the day, keep the same foot, the same floor and eyes open, and measure seconds with a stopwatch.. *Why:* A strong answer changes one thing, keeps the rest the same, and measures a number.
 
 ## Videos
@@ -666,7 +666,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 - A giant wheel at a temple festival, a mela or a Durga Puja fair, and the wobbly feeling when you step off.
 - A Kathak or Bharatanatyam dancer spinning, with her eyes fixed on one spot.
 - A shoal of fish in a temple tank turning all at once.
-- Prawns at the fish market in Kochi, Chennai or Kolkata, with their long and short feelers.
+- Prawns at the fish market, with their long and short feelers.
 - A mosquito finding you in a dark bedroom, though you cannot see her.
 - The wooden or plastic handle on a steel kadai or a pressure cooker.
 
@@ -717,6 +717,14 @@ The World Comes In (sci.senses.L3): Topic-level song for Senses L3
 - [Science City](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with exhibits on the senses and the human body.
 
 ## Things to buy
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Dizzy Timer: does more spinning mean longer dizziness?. About ₹150 to ₹400. A phone stopwatch works well. Used in e3. Get it before The Dizzy Timer: does more spinning mean longer dizziness?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Find the Dot: how well do your hands know where they are?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Find the Dot: how well do your hands know where they are?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Guard the Feet: help someone who has lost the sense of pain in their feet. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c1. Get it before Guard the Feet: help someone who has lost the sense of pain in their feet.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Guard the Feet: help someone who has lost the sense of pain in their feet. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Guard the Feet: help someone who has lost the sense of pain in their feet.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Guard the Feet: help someone who has lost the sense of pain in their feet, Build a Prawn's Balance Pit: a tilt detector. About ₹20 to ₹50. Torn clean cloth works. Used in c1, c2. Get it before Guard the Feet: help someone who has lost the sense of pain in their feet.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Build a Prawn's Balance Pit: a tilt detector. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c2. Get it before Build a Prawn's Balance Pit: a tilt detector.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Build a Prawn's Balance Pit: a tilt detector. About ₹10 to ₹40. Small round stones or dried chana. Used in c2. Get it before Build a Prawn's Balance Pit: a tilt detector.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where is your balance sense? → Inside your inner ears.
@@ -737,7 +745,7 @@ The World Comes In (sci.senses.L3): Topic-level song for Senses L3
 
 ## Sources
 - ideas/by_topic/senses.md: the 'Reality' grade grid (Grade 3: perception constructs experience; what we don't see can still exist), the 'All Perception Is Subjective' week, and the SCI Card for Obaid Siddiqi (temperature-sensitive fly mutants, the genetics of sensing). Used as the background for the big questions and the deep truth about what the skin really reports.
-- Prerequisite unit sci.senses.five-senses.L3 was read so that this unit does not repeat its experiments (pinched-nose taste, two-point touch, three bowls of water, one-foot balance, nose touch), its Aristotle story or its deep truth.
+- Prerequisite unit sci.senses.five-senses.L3 was read so that this lesson does not repeat its experiments (pinched-nose taste, two-point touch, three bowls of water, one-foot balance, nose touch), its Aristotle story or its deep truth.
 - Magnus Blix, papers of 1882 to 1884 on separate cold and warm spots in the skin
 - Alfred Goldscheider, 1884, on temperature spots in the skin, found independently
 - Alois Kreidl, 1893, Vienna: moulted shrimps given iron filings in place of sand, oriented by a magnet

@@ -1,9 +1,9 @@
 # Alive, once alive, never alive: the signs of life
 `sci.what-is-life.signs-of-life.L1`
 
-**Summary.** Is a mint leaf still alive after it is picked? In this unit you will sort things in your kitchen into alive, once alive and never alive, watch a picked mint leaf for a day, breathe on a steel plate, and play a wiggle or statue game.
+**Summary.** Is a mint leaf still alive after it is picked? In this lesson you will sort things in your kitchen into alive, once alive and never alive, watch a picked mint leaf for a day, breathe on a steel plate, and play a wiggle or statue game.
 
-**Intro.** *Hold a fresh mint leaf in one hand and a steel spoon in the other. Both are cool. Both stay still. Which one is alive?* Most children say the mint leaf. But how can we tell? The spoon does not move, and the leaf does not move either. Scientists look for signs of life. A living thing eats, grows, moves, breathes and has young. A spoon does none of these. In this unit we test some of these signs at home, on mint leaves, on our breath and on ourselves.
+**Intro.** *Hold a fresh mint leaf in one hand and a steel spoon in the other. Both are cool. Both stay still. Which one is alive?* Most children say the mint leaf. But how can we tell? The spoon does not move, and the leaf does not move either. Scientists look for signs of life. A living thing eats, grows, moves, breathes and has young. A spoon does none of these. In this lesson we test some of these signs at home, on mint leaves, on our breath and on ourselves.
 
 ## Learning outcomes
 0. By the end I can say if a thing is alive, was once alive, or was never alive, and give one reason.
@@ -501,7 +501,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - A vegetable seller in the market sprinkling water on coriander and palak to keep them fresh.
 - A money plant growing in a bottle of water on a kitchen window, with long white roots.
 - A crow on the balcony rail, eating a bit of chapati, then flying away.
-- Snails on wet walls and pots during the monsoon in Mumbai, Kochi or Goa.
+- Snails on wet walls and pots during the monsoon.
 - A potato or an onion in the kitchen basket growing green shoots.
 
 ## Open questions
@@ -538,10 +538,13 @@ Eat, Grow, Move, Breathe (sci.what-is-life.L1): Topic-level song for What is lif
 ## Links
 - [Maria Sibylla Merian's book of insects and plants, scanned](https://www.biodiversitylibrary.org/search?searchTerm=Metamorphosis+insectorum+Surinamensium) · interactive: For the parent and child to look at together: Merian's real paintings of caterpillars, butterflies and the plants they eat, from 1705.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a snail, a bird or a plant from your window and find out who they are.
-- [Bombay Natural History Society, Hornbill House]() · place · Mumbai: Nature walks for families and children, where you can spot many living things.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with a children's section, good for a day out.
+- Bombay Natural History Society, Hornbill House · place · Mumbai: Nature walks for families and children, where you can spot many living things.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with a children's section, good for a day out.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Breath on a Steel Plate. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Breath on a Steel Plate.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Three Plates: sort the kitchen. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Three Plates: sort the kitchen.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one thing that is alive. → A crow, a tree, an ant, a plant or you.

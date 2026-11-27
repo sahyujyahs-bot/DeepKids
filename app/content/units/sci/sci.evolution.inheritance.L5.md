@@ -1,7 +1,7 @@
 # Alike and different: DNA, why sisters and brothers differ, and nature with nurture
 `sci.evolution.inheritance.L5`
 
-**Summary.** A sister and a brother have the same mother and the same father. So why are they not the same? In this unit you read a real gene from your own blood, three letters at a time. You make four paper children from two paper parents and count how much each pair shares. You also grow cloves from two garlic bulbs in a warm place and a cold place, to see what DNA alone does not settle.
+**Summary.** A sister and a brother have the same mother and the same father. So why are they not the same? In this lesson you read a real gene from your own blood, three letters at a time. You make four paper children from two paper parents and count how much each pair shares. You also grow cloves from two garlic bulbs in a warm place and a cold place, to see what DNA alone does not settle.
 
 **Intro.** *Your mother gave you half of her DNA. She gave your sister or brother half too. If you both got half from the same two parents, why are you two different people?* DNA is the long chemical message inside your cells that holds the instructions for building a body. In earlier units you learned that it is written in four letters. Here you find out how a cell reads those letters, and what one changed letter can do. You find out how much DNA two children of the same parents really share. The answer is not the same for every pair. Then you ask a harder question. If two living beings have exactly the same DNA, will they turn out the same? A garlic bulb, a queen bee and a pair of twins help you find the answer.
 
@@ -695,8 +695,8 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 - Every Banganapalli or Alphonso mango tree is a clone, made by grafting a twig onto a seedling. That is why the fruit of one variety tastes the same.
 - A litter of street puppies has pups of different colours from one mother. Each pup got a different mix, and a litter can even have more than one father.
 - Your blood group may be printed on your school identity card. It was settled by the two gene versions you got from your parents.
-- Bee boxes stand among coffee and pepper in Kodagu in Karnataka. In each box, the queen and the workers grew from the same kind of egg.
-- On the beaches of Odisha, olive ridley turtles bury their eggs in the sand. The warmth of each nest settles whether the hatchlings are female or male.
+- Bee boxes standing among coffee and pepper plants. In each box, the queen and the workers grew from the same kind of egg.
+- Sea turtles burying their eggs in beach sand, in a video or on a beach. The warmth of each nest settles whether the hatchlings are female or male.
 - A hibiscus or a money plant grown from a cutting is a clone of the parent plant. The two can still look different in sun and in shade.
 
 ## Open questions
@@ -745,12 +745,17 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - [yourgenome (Wellcome Genome Campus)](https://www.yourgenome.org/) · interactive: Plain explanations, short films and paper activities about DNA and genomes.
 - [DNA from the Beginning (Cold Spring Harbor Laboratory)](http://www.dnaftb.org/) · interactive: For the parent: the history of genetics in short illustrated steps, from Mendel's peas to the genetic code.
 - [National Human Genome Research Institute](https://www.genome.gov/) · interactive: For the parent: checked fact sheets and a glossary of every word in genetics.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: The Biotechnological Revolution gallery has exhibits on DNA, genes and the reading of the human genome.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: The Biotechnological Revolution gallery has exhibits on DNA, genes and the reading of the human genome.
 
 ## Things to buy
 - [A squared (graph paper) notebook](https://www.amazon.in/s?k=graph+paper+notebook) (material): Makes the chromosome strips in the Sibling Share Test and the rectangles in Length or Width quick to draw. Plain paper and a ruler also work. Used in e1, a4. 
 - [The DNA Book, by Alison Woollard and Sophie Gilbert, published by DK (2020)](https://www.amazon.in/s?k=The+DNA+Book+DK) (book): A picture-rich book for children of about 7 to 11 on what DNA is and how features are inherited. Used in a1. Read the pages on genes and proteins after One Changed Letter.
 - [The Gene: An Intimate History, a book by Siddhartha Mukherjee (2016)](https://www.amazon.in/s?k=The+Gene+An+Intimate+History+Siddhartha+Mukherjee) (book): For the parent: the story of genetics from Mendel to today, told through the author's own family in Bengal. Used in e1. Read the chapters on twins and on nature and nurture yourself, and tell your child what you found.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sibling Share Test: how much do two children of the same parents share?, The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?, Length or Width? The rectangle argument. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4. Get it before The Sibling Share Test: how much do two children of the same parents share?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e2. Get it before The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?, Me in Two Columns: a nature and nurture portrait. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, p1. Get it before The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which four letters is DNA written in? → A, T, C and G.

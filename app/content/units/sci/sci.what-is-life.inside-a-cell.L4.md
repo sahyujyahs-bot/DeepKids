@@ -1,9 +1,9 @@
 # Inside a cell: the power stations, the recipe book and the workshops
 `sci.what-is-life.inside-a-cell.L4`
 
-**Summary.** A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this unit you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.
+**Summary.** A cube of beetroot stays pale in cold water but spills red in hot water. What was keeping the red inside? In this lesson you will test beetroot, pull stringy DNA out of a banana, and walk through how a cell copies a recipe and builds a protein.
 
-**Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this unit you open the cell and look at the rooms, one by one.
+**Intro.** *Run on the spot for one minute, then put a hand on your chest. Your heart is thumping and you are breathing hard. You also feel warm.* Nothing in your body is on fire. Yet you got warm, and you needed more air. The reason is inside your cells. Each cell is full of small rooms, and some of them turn food and air into the energy you just used. In this lesson you open the cell and look at the rooms, one by one.
 
 ## Learning outcomes
 0. I can name the main rooms of a cell (organelles) and say what each one does.
@@ -679,14 +679,21 @@ Tiny Rooms, Big Life (sci.what-is-life.L4): Topic-level song
 - [Cell Size and Scale (Genetic Science Learning Center, University of Utah)](https://learn.genetics.utah.edu/) · interactive: A zoom from a grain of sand down to an atom, with cells and mitochondria on the way.
 - [Mitochondrion (Wikipedia)](https://en.wikipedia.org/wiki/Mitochondrion) · interactive: For the parent: a clear article on the structure, the DNA and how mitochondria began.
 - [Nobel Prize in Chemistry 2009: the ribosome](https://www.nobelprize.org/) · interactive: For the parent: the Nobel site has a plain summary of what Yonath, Ramakrishnan and Steitz found.
-- [Visvesvaraya Industrial and Technological Museum, Bengaluru]() · place · Bengaluru: A science museum with a human body section, to see cells and organs in larger models.
-- [Birla Industrial and Technological Museum, Kolkata]() · place · Kolkata: A science museum with models of the human body and of life.
+- Visvesvaraya Industrial and Technological Museum, Bengaluru · place · Bengaluru: A science museum with a human body section, to see cells and organs in larger models.
+- Birla Industrial and Technological Museum, Kolkata · place · Kolkata: A science museum with models of the human body and of life.
 
 ## Things to buy
 - [Fresh raw beetroot, one or two](https://www.amazon.in/s?k=beetroot) (material): For the beetroot test. Any vegetable seller or kirana has it. Fresh and firm works best. Cooked or tinned beetroot will not do. Used in e1. 
 - [A digital thermometer with a probe](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): For the sprout heat test, which needs to read a difference of half a degree. A digital probe thermometer costs a few hundred rupees. A glass lab thermometer from a stationery or science shop also works, but is harder to read to half a degree. A fever thermometer will not do, because it does not read room temperature. Used in e1, e3. 
 - [Isopropyl rubbing alcohol, 90 percent or stronger](https://www.amazon.in/s?k=isopropyl+alcohol+99) (material): For the DNA test. Ask a chemist or order online for isopropyl alcohol of 90 percent or more (often sold as IPA 99). The 70 percent rubbing alcohol gives few or no strands. About 100 millilitres is enough for each glass. A grown-up must handle it. Used in e2. 
 - [Coloured paper or beads in four colours](https://www.amazon.in/s?k=assorted+craft+beads) (material): For the Copy Walk, if you want colours instead of pulses. Used in a1, p1. 
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Banana DNA: can you pull the recipe book out of a cell?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e2. Get it before Banana DNA: can you pull the recipe book out of a cell?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Cell City on a Tray: build the rooms and walk a protein through. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before Cell City on a Tray: build the rooms and walk a protein through.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Cell City on a Tray: build the rooms and walk a protein through. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in p1. Get it before Cell City on a Tray: build the rooms and walk a protein through.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Copy Walk: from recipe book to bead necklace. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before The Copy Walk: from recipe book to bead necklace.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Warm Sprouts: do living seeds make heat?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before Warm Sprouts: do living seeds make heat?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Warm Sprouts: do living seeds make heat?, The Copy Walk: from recipe book to bead necklace, Cell City on a Tray: build the rooms and walk a protein through. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3, a1, p1. Get it before Warm Sprouts: do living seeds make heat?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the room that holds the DNA called? → The nucleus.

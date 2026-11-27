@@ -1,9 +1,9 @@
 # Moon phases and eclipses: how much of the Moon is lit, and where a shadow ends
 `sci.sky.moon-phases.L5`
 
-**Summary.** The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this unit you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.
+**Summary.** The Moon's dark shadow only just reaches the Earth, and in some months it falls short. So why are total solar eclipses rare? In this lesson you will measure how much of a sock Moon is lit at seven places, and find where the dark shadow of a seed ends.
 
-**Intro.** *The Sun is about 400 times as wide as the Moon. So how can the small Moon cover the whole Sun in a solar eclipse? And why does it sometimes leave a bright ring of Sun showing?* In this unit you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.
+**Intro.** *The Sun is about 400 times as wide as the Moon. So how can the small Moon cover the whole Sun in a solar eclipse? And why does it sometimes leave a bright ring of Sun showing?* In this lesson you answer both questions with a coin, a plate and a lamp. First you hide a steel plate behind a coin. Then you measure how much of a model Moon is lit at seven places on its path. You lift seeds under a lamp and find where each dark shadow ends. At the end you can say why eclipses are rare and why the eclipsed Moon turns red. You can also say how people measured the Earth with a shadow.
 
 ## Learning outcomes
 0. By the end I can explain the Moon's phases and the two pakshas, and say why phases are not the Earth's shadow.
@@ -783,7 +783,7 @@ Yazhini kept the coin. That night she held it up against the clock once more, at
 - The words grahanam or grahan on a wall calendar or in a panchangam. They mark the dates of eclipses, worked out long in advance.
 - The shadow of your hand on the floor. It is sharp when your hand is near the floor, and soft and pale when you lift your hand.
 - A kite or an eagle flying high on a sunny day. The dark middle of the bird's shadow ends high in the air, so no dark shadow reaches the ground.
-- The Kodaikanal Solar Observatory in Tamil Nadu, which has photographed the Sun on clear days for more than a hundred years.
+- A picture of the Sun taken from a solar observatory. Observatories have photographed the Sun on clear days for more than a hundred years.
 
 ## Open questions
 - **Why is the Sun's corona so much hotter than its surface?** The surface is about 5,500 degrees Celsius and the corona is over a million. Waves and tiny flares are the two main ideas. Aditya-L1 and other spacecraft are measuring which matters more.
@@ -836,6 +836,12 @@ Star, Planet, Moon (sci.sky.L5): Topic-level song
 ## Things to buy
 - [A protractor, or a school geometry box](https://www.amazon.in/s?k=geometry+box) (tool): For Aristarchus's Angle, where you set angles of 80 to 89 degrees. Most children in Class 5 already have one. Used in a4. 
 - [One sheet of matt black chart paper](https://www.amazon.in/s?k=black+chart+paper) (material): For A Black Card in the Dark. A stationery shop sells a sheet for a few rupees. The black cover of an old notebook also works, if it is not shiny. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Shadow That Runs Out: where does the dark shadow of a seed end?, The Coin Eclipse: can a coin hide a steel plate?, Aristarchus's Angle: how a small mistake moved the Sun. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, a1, a4. Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Much of the Moon Is Lit? Measure a sock Moon at seven places, The Shadow That Runs Out: where does the dark shadow of a seed end?, The Coin Eclipse: can a coin hide a steel plate?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a4, c1, c2. Get it before How Much of the Moon Is Lit? Measure a sock Moon at seven places.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Shadow That Runs Out: where does the dark shadow of a seed end?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e2. Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace). About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before A True-Scale Eclipse on a Stick (needs a sunny window, balcony or terrace).
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Shadow That Runs Out: where does the dark shadow of a seed end?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before The Shadow That Runs Out: where does the dark shadow of a seed end?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Moon make its own light? → No. Moonlight is sunlight reflected by the Moon.

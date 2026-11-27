@@ -1,9 +1,9 @@
 # Animal life cycles compared: how many young, how much care, how long a life
 `sci.animals.animal-life-cycles.L4`
 
-**Summary.** Do big animals really live longer than small ones, and do all animals begin life the same way? In this unit you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.
+**Summary.** Do big animals really live longer than small ones, and do all animals begin life the same way? In this lesson you will lay out a lifespan line in string, test whether many young or a few cared-for young survive better, and sort sixteen animals.
 
-**Intro.** *A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this unit you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
+**Intro.** *A grown mayfly may live for only a day. A hen lives for about eight years. A giant tortoise can live for more than a hundred years. They all began as an egg. Why do lives that start the same way end up so different in length?* Every animal goes round a life cycle, from egg or birth, to growing up, to having young of their own. In this lesson you compare the cycles of mammals, birds, insects and amphibians. You lay out how long animals live on a piece of string, you play a dice game to test whether many young or few cared-for young leave more survivors, and you meet animals that live for a day and animals that live for centuries.
 
 ## Learning outcomes
 0. I can compare how mammals, birds, insects and amphibians begin life, grow up and have young of their own.
@@ -737,6 +737,11 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [A ball of jute twine or cotton string](https://www.amazon.in/s?k=jute+twine+ball) (material): For the Lifespan Line, which needs about 9 metres. Used in a1. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For the Banana Jar Nursery and the Moult and Shell Hunt, to see maggots and empty skins. Used in p1, a4. 
 - [A picture book on animal life cycles](https://www.amazon.in/s?k=animal+life+cycles+book+for+kids) (book): To read together after the unit, for more life cycles from around the world. Used in a2. Read one life cycle each evening and add it to the table from the Four Life Cycles activity.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Lifespan Line: one centimetre of string for every year. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before The Lifespan Line: one centimetre of string for every year.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Lifespan Line: one centimetre of string for every year. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a1. Get it before The Lifespan Line: one centimetre of string for every year.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Save the Nests: protect 100 turtle eggs on a model beach. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Save the Nests: protect 100 turtle eggs on a model beach.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Survival Cup: many young, or a few cared-for young?, Save the Nests: protect 100 turtle eggs on a model beach. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, c1. Get it before The Survival Cup: many young, or a few cared-for young?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a mammal baby's time growing inside the mother? → Gestation.
@@ -754,7 +759,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/growing-up-and-having-young.md: the Nest Watch idea (looking at nests and discussing egg care), used in the Moult and Shell Hunt; the Lifecycle Board Game idea and the stage-matching cards, used in The Waiting Line; the Tree Rings Talk idea, used in the rings-and-age claim
-- The Class 3 unit on animal life cycles, which this unit builds on: egg, caterpillar, tadpole and chick cycles, and the two kinds of metamorphosis. This unit does not repeat its experiments or its story
+- The Class 3 unit on animal life cycles, which this lesson builds on: egg, caterpillar, tadpole and chick cycles, and the two kinds of metamorphosis. This lesson does not repeat its experiments or its story
 - The notebook entry for animal life cycles, which asks for a comparison of mammals, birds, insects and amphibians and of how long animals live
 - NCERT and Cambridge materials on animal life cycles, for coverage only. Their text is not copied
 - Levine, H. J., 'Rest heart rate and life expectancy', Journal of the American College of Cardiology 30, 1997 (the rough billion-heartbeats pattern in mammals)

@@ -1,9 +1,9 @@
 # Seasons: how plants, animals and people change through the year
 `sci.day-night-seasons.seasons.L3`
 
-**Summary.** Why is summer hotter than winter, and why do leaves turn yellow? In this unit you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.
+**Summary.** Why is summer hotter than winter, and why do leaves turn yellow? In this lesson you will shine a torch straight and slanting to see how far its light spreads, find the hidden yellow in a green leaf, and play a game matching living things to seasons.
 
-**Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this unit you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
+**Intro.** *A neem tree is dropping yellow leaves in March, the hottest, driest time of year. A week later, the same tree is covered in soft new leaves. Is the tree sick, or is she doing this on purpose?* The neem tree is not sick. She is changing with the season, the way you change into cotton clothes in summer. In this lesson you look out of your window for signs of the season. You find a colour hiding inside a green leaf. You use a torch to see why summer sunlight is stronger. And you meet the koel, the frog, the pintail duck, the farmer and the fisher, who all change what they do as the year turns.
 
 ## Learning outcomes
 0. I can name India's seasons, say which months they come in where I live, and give one clue for each.
@@ -119,7 +119,7 @@ Scientists agree that the Earth as a whole is getting warmer, mostly because peo
   Against: Plants feel the length of the night, remember it over many nights, and choose when to flower. Sensing, remembering and choosing are what knowing is.
 
 ## Roots
-In this unit you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.
+In this lesson you find a hidden yellow colour in a green leaf, see torchlight spread out when it shines at a slant, and read about the animals and people who change with the year. This part asks what the seasons tell us about ourselves and the world.
 
 **Deep truth.** In the Hidden Colours test, a paper strip shows a yellow band from a leaf that looked only green. The yellow was there all along, hidden under the green. In the dry season a tree breaks down the green in her leaves and takes back what is useful. Then the hidden yellow shows, and the leaf falls.  
 *Habit it breaks:* We say a leaf 'turns' yellow, as if a new colour is painted on as the leaf dies. And we read yellow leaves as a sign of a sick tree. But in the dry season, the yellow is a colour that was in the leaf all along. It shows once the tree has broken down the green.  
@@ -131,9 +131,9 @@ In this unit you find a hidden yellow colour in a green leaf, see torchlight spr
 
 There is one Sun, and one Earth going round it, tilted the same way all year. That tilt gives us summer, the rains and the cool months, and they are different in every place. Each living thing deals with the season in their own way: the neem drops her leaves, the koel calls, the frog sings in the puddle, the farmer sows rice, the duck flies south. The year is the same for all of them, but each one does something different.
 
-- **Ecclesiastes 3:1-2 (the Bible):** “לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם / עֵת לָלֶדֶת וְעֵת לָמוּת / עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ” There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted. (In this unit, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.)
+- **Ecclesiastes 3:1-2 (the Bible):** “לַכֹּל זְמָן וְעֵת לְכׇל־חֵפֶץ תַּחַת הַשָּׁמָיִם / עֵת לָלֶדֶת וְעֵת לָמוּת / עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ” There is a time for everything, and a season for every activity under the heavens. A time to be born and a time to die, a time to plant and a time to pull up what is planted. (In this lesson, every living thing has their time: the sevanthi flowers in the long nights, the frog lays eggs in the rains, and the farmer sows with the monsoon.)
 - **Tao Te Ching 16:** “夫物芸芸，各復歸其根。 / 歸根曰靜，是謂復命。” All things grow and flourish, and then each one goes back to their root. Going back to the root is stillness. (Before a tree drops a leaf, she takes the useful nutrients back into her branches. In the dry season, she goes quiet and holds on to what she needs, until it is time for new leaves.)
-- **Kalidasa, Ritusamhara (The Gathering of the Seasons):** The poet Kalidasa wrote a long poem about India's six seasons, from summer to spring. In each one, he describes the weather, the plants, the animals and how people live. (Kalidasa watched the same things this unit asks you to watch: what changes in the plants, the animals and the people as each season comes.)
+- **Kalidasa, Ritusamhara (The Gathering of the Seasons):** The poet Kalidasa wrote a long poem about India's six seasons, from summer to spring. In each one, he describes the weather, the plants, the animals and how people live. (Kalidasa watched the same things this lesson asks you to watch: what changes in the plants, the animals and the people as each season comes.)
 - Science (settled): Before dropping their leaves, many trees take back about half of the nitrogen in them, to use again.
 - Science (settled): Many plants sense the length of the night with light-sensing substances in their leaves, and flower when the nights reach a certain length.
 - Science (open): How exactly a plant combines night length, warmth and many other signals into one choice to flower is still being worked out.
@@ -665,7 +665,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - The koel's loud ku-oo from the trees on summer mornings.
 - Sweaters and blankets coming out of the cupboard in the cool months, and going back in March.
 - Pongal pots and sugarcane outside homes in mid-January.
-- Kites filling the sky over Gujarat on 14 January, for Uttarayan.
+- Kites filling the sky on 14 January, for Uttarayan.
 
 ## Open questions
 - **How exactly does a plant combine the length of the night, warmth and other signals into one choice to flower?** Scientists know many of the substances involved, but how they all work together is still being studied.
@@ -719,6 +719,11 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 ## Things to buy
 - [White blotting paper, a few sheets](https://www.amazon.in/s?k=white+blotting+paper+sheets) (material): Blotting paper soaks up the liquid evenly, so the leaf colours spread into clear bands. You can buy it at stationery shops. A white paper napkin folded in four can stand in. Used in e1. 
 - [A small bottle of nail polish remover with acetone](https://www.amazon.in/s?k=acetone+nail+polish+remover) (material): Acetone carries the leaf colours up the paper quickly and clearly. Many homes already have some. Rubbing alcohol or liquid hand sanitiser also works, more slowly. Used in e1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hidden Colours: is there yellow inside a green leaf?, Straight or Slanting: how far does the same torchlight spread?, The Season Wheel: India's year in one circle. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4. Get it before Hidden Colours: is there yellow inside a green leaf?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Water for the Birds in May. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Water for the Birds in May.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Sun Patch on the Floor (if sunlight comes in through a window). About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a3. Get it before Sun Patch on the Floor (if sunlight comes in through a window).
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Straight or Slanting: how far does the same torchlight spread?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2. Get it before Straight or Slanting: how far does the same torchlight spread?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name India's three main seasons. → Summer, the rainy season and winter.

@@ -630,6 +630,11 @@ There Is No Away (sci.waste.L3): Topic-level song for Waste L3
 
 ## Things to buy
 - [Compost Stew: An A to Z Recipe for the Earth by Mary McKenna Siddals](https://www.amazon.in/s?k=Compost+Stew) (book): A rhyming list of what can go into a compost pot, from apple cores to zucchini peels. It matches what the child puts in her own compost. Used in a1. Read it together when you start the compost pot.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Peels Alone or Peels with Paper: which jar smells of earth?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1. Get it before Peels Alone or Peels with Paper: which jar smells of earth?.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in Greens, Browns, or Not in the Pot?. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in a2. Get it before Greens, Browns, or Not in the Pot?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Greens, Browns, or Not in the Pot?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Greens, Browns, or Not in the Pot?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Our Balcony Compost Pot. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in p1. Get it before Our Balcony Compost Pot.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a banana peel a green or a brown? → A green. It is wet and fresh.

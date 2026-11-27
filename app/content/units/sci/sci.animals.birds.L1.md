@@ -493,6 +493,10 @@ Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
 - Keoladeo National Park · place · Bharatpur, Rajasthan: A famous wetland with hundreds of kinds of birds.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in A Feather Up Close: unzip it and zip it back. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before A Feather Up Close: unzip it and zip it back.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Bird Café: what is good for birds, and what is not?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Bird Café: what is good for birds, and what is not?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in A Bean for Every Call: when do birds call most?, Stitch a Cradle Like a Tailorbird. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, c1. Get it before A Bean for Every Call: when do birds call most?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does every bird have? → Feathers.

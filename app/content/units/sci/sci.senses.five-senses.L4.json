@@ -3016,6 +3016,66 @@
     "g1"
    ],
    "plan": "Read one animal chapter aloud over a week, after the unit."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in The Reaction Ruler: build a ruler that reads time, and hold a three-day family league. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Reaction Ruler: build a ruler that reads time, and hold a three-day family league."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Rubber Hand: can your eyes fool your skin?, The Reaction Ruler: build a ruler that reads time, and hold a three-day family league. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Rubber Hand: can your eyes fool your skin?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Rubber Hand: can your eyes fool your skin?, Pulse Talk: send a message using only touch. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before The Rubber Hand: can your eyes fool your skin?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Tired Nose: how fast does a smell fade, and how fast does the nose wake up?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before The Tired Nose: how fast does a smell fade, and how fast does the nose wake up?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

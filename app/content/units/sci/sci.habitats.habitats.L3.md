@@ -847,6 +847,12 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - [A measuring tape (at least 1.5 metres)](https://www.amazon.in/s?k=measuring+tape+1.5+metre) (tool): Marks out the 1 metre square in the Square Metre Safari. Used in a3. 
 - [A shallow clay water bowl for birds](https://www.amazon.in/s?k=clay+bird+water+bowl) (material): Makes the water part of the Habitat Corner. Clay keeps the water cooler in summer. Used in p1. 
 - [The Book of Indian Birds, by Salim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): The classic guide to Indian birds, for the parent. Helps you name the visitors to your habitat corner. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Square Metre Safari. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Square Metre Safari.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in Does a Tree Give Water to the Air?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e3. Get it before Does a Tree Give Water to the Air?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Keep It Cool in the Desert. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Keep It Cool in the Desert.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Keep It Cool in the Desert. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before Keep It Cool in the Desert.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in A Balcony Habitat for Butterflies. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c2. Get it before A Balcony Habitat for Butterflies.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A habitat gives food, water, air, shelter, space and the right ____. → Warmth.

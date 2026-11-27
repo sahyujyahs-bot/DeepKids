@@ -1,9 +1,9 @@
 # Life beyond Earth: where living things could survive
 `sci.sky.life-beyond-earth.L3`
 
-**Summary.** Why does very salty water stay liquid in cold that freezes plain water, and why does that matter for finding life in space? In this unit you will lift an ice cube with a thread, test salty water in a freezer, and play a card game about where life could live.
+**Summary.** Why does very salty water stay liquid in cold that freezes plain water, and why does that matter for finding life in space? In this lesson you will lift an ice cube with a thread, test salty water in a freezer, and play a card game about where life could live.
 
-**Intro.** *Lay a thread across an ice cube. Lift the thread, and the ice stays behind. Now sprinkle a pinch of salt on the ice and wait one minute. Lift again, and the ice cube comes up hanging on the thread. What did the salt do to the ice?* Salt makes ice melt, even in the cold, and that small trick matters a great deal for life. Every living thing needs liquid water. In this unit you find out which tiny living things survive in boiling water, in ice and in salt. You test, in your own freezer, how cold salty water can get before it freezes. Then you use what you found to ask the big question: could there be life on other worlds, and where should we look?
+**Intro.** *Lay a thread across an ice cube. Lift the thread, and the ice stays behind. Now sprinkle a pinch of salt on the ice and wait one minute. Lift again, and the ice cube comes up hanging on the thread. What did the salt do to the ice?* Salt makes ice melt, even in the cold, and that small trick matters a great deal for life. Every living thing needs liquid water. In this lesson you find out which tiny living things survive in boiling water, in ice and in salt. You test, in your own freezer, how cold salty water can get before it freezes. Then you use what you found to ask the big question: could there be life on other worlds, and where should we look?
 
 ## Learning outcomes
 0. I can say what every living thing needs: liquid water, a supply of energy, and the chemicals their body is made of.
@@ -119,7 +119,7 @@ Rovers on Mars drill into rocks and test them for the chemicals living things le
   Against: In 1977, scientists in the submarine Alvin found crabs, clams and tube worms by hot vents on the dark sea floor. Their food chain starts with microbes who take energy from chemicals in the vent water.
 
 ## Roots
-In this unit we froze salty water, tasted sea ice, and read about microbes who live in boiling springs and in Antarctic brine. Now we ask what this tells us about life, and whether Earth is the only world that has it.
+In this lesson we froze salty water, tasted sea ice, and read about microbes who live in boiling springs and in Antarctic brine. Now we ask what this tells us about life, and whether Earth is the only world that has it.
 
 **Deep truth.** In the freezer test, the plain water froze hard, but the very salty water stayed liquid. Salt keeps water liquid in cold that freezes plain water solid. Living things need liquid water, and microbes live in salty water trapped in Antarctic ice. So the salty oceans under the ice of moons like Europa could hold life too.  
 *Habit it breaks:* We think of icy places as dead, because cold feels deadly to us. But what life needs is liquid water, not warmth, and salt keeps water liquid far below zero.  
@@ -190,7 +190,7 @@ Arjun was thinking hard. "Are there penguins in it?"
 
 "So there could be microbes in it," said Kavya slowly. "Like in Lake Vida."
 
-"There could be," said Lakshmi Chithi. "Nobody knows yet. A spacecraft called Europa Clipper is on its way there now, to find out what the ice and the water are made of. Maybe when you are grown up, you will know the answer."
+"There could be," said Lakshmi Chithi. "Nobody knows yet. A spacecraft called Europa Clipper is on its way there now, to find out what the ice and the water are made of. Maybe you will help find the answer."
 
 After the call, Kavya took a clean katori from the kitchen. She filled it with water, and stirred in salt, spoon after spoon, until no more would dissolve. She put it in the freezer, right at the back where it was coldest.
 
@@ -664,8 +664,8 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 ## Spotted around us
 - A jar of mango or lime pickle in brine, which keeps for months because few microbes can grow in so much salt.
 - The frost on the inside of your freezer, which is water from the air turned straight to ice.
-- Salt pans along the coast near Thoothukudi in Tamil Nadu, where sea water dries in the sun and leaves salt.
-- Steam and hot water at hot springs in India, such as Manikaran in Himachal Pradesh or Bakreshwar in West Bengal.
+- Salt pans along the coast, where sea water dries in the sun and leaves salt.
+- Steam and hot water at a hot spring, in a picture or a video.
 - Jupiter, bright in the night sky for part of each year, with Europa too small to see without a telescope.
 
 ## Open questions
@@ -718,6 +718,11 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 
 ## Things to buy
 - [A digital kitchen thermometer with a probe (optional)](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): Optional. It reads how cold your freezer really is, so you can compare it with the freezing point of salty water. Sold in kitchen shops and online. Used in e1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Message for Anyone Out There. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before A Message for Anyone Out There.
+- [A glass or plastic prism](https://www.amazon.in/s?k=prism+science+kids) (tool): Used in Paint a Hot Spring's Rings. About ₹100 to ₹300. A glass of water in sunlight makes a weak rainbow. Used in a5. Get it before Paint a Hot Spring's Rings.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Sea Ice in a Cup: does freezing push the salt out?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e2. Get it before Sea Ice in a Cup: does freezing push the salt out?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Life Thermometer: a string from minus 20 to 120 degrees. About ₹100 to ₹200. A marble or a round torch cell works. Used in a2. Get it before The Life Thermometer: a string from minus 20 to 120 degrees.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - At what temperature does plain water freeze? → 0 degrees Celsius.

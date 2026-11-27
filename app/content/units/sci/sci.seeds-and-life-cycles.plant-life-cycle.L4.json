@@ -3755,6 +3755,55 @@
     "p1"
    ],
    "plan": "Read the chapter on how plants smell before the ripening bag test, and the chapter on how plants remember before the Pinch or Let Go project."
+  },
+  {
+   "id": "b-a-thermometer--for-water-or-",
+   "item": "A thermometer (for water or room, 0 to 110 °C)",
+   "kind": "tool",
+   "why": "Used in Shelf, Window or Fridge? Where does a green tomato ripen?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests.",
+   "url": "https://www.amazon.in/s?k=lab+thermometer+110+c",
+   "used_in": [
+    "e4"
+   ],
+   "plan": "Get it before Shelf, Window or Fridge? Where does a green tomato ripen?."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Lifespan Tape: plants on a very long strip of paper. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Lifespan Tape: plants on a very long strip of paper."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in What Makes a Leaf Turn Yellow? Darkness, or a ripe banana?, Ripe on Time: have a mango ready for a family dinner. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before What Makes a Leaf Turn Yellow? Darkness, or a ripe banana?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

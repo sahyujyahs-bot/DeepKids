@@ -1,9 +1,9 @@
 # The microbes who live on you and in you: many lands on one body
 `sci.microorganisms.microbes-everywhere.L5`
 
-**Summary.** The bacteria between your toes are different from the bacteria on your forearm, though both places are your own skin. Why? In this unit you swab three places on your skin and grow what you find on potato slices. You play a dice game that shows how the microbes who live in you keep harmful newcomers out. You also find out why the same microbe can help in one place and harm in another.
+**Summary.** The bacteria between your toes are different from the bacteria on your forearm, though both places are your own skin. Why? In this lesson you swab three places on your skin and grow what you find on potato slices. You play a dice game that shows how the microbes who live in you keep harmful newcomers out. You also find out why the same microbe can help in one place and harm in another.
 
-**Intro.** *Your forearm and the gap between your toes are less than a metre apart, and both are covered by your own skin. Yet different microbes live in each. How can one body be so many different homes?* A microbe is a living being too small to see without a microscope. Bacteria are the commonest microbes on you. About 38 trillion bacteria live on and in a grown-up, and nearly all of them are harmless or helpful. They do not live evenly spread. A dry forearm, an oily forehead, a damp toe gap, a mouth and a large intestine each give different food, water and air. So each holds a different community. In this unit you test that yourself. You rub clean cotton buds on three places on your skin and grow what they pick up. You play Hold the Space, a dice game about how the microbes who already live in a gut keep a harmful newcomer out. By the end you can explain why most microbes do you no harm. You can also explain when a harmless microbe becomes a harmful one.
+**Intro.** *Your forearm and the gap between your toes are less than a metre apart, and both are covered by your own skin. Yet different microbes live in each. How can one body be so many different homes?* A microbe is a living being too small to see without a microscope. Bacteria are the commonest microbes on you. About 38 trillion bacteria live on and in a grown-up, and nearly all of them are harmless or helpful. They do not live evenly spread. A dry forearm, an oily forehead, a damp toe gap, a mouth and a large intestine each give different food, water and air. So each holds a different community. In this lesson you test that yourself. You rub clean cotton buds on three places on your skin and grow what they pick up. You play Hold the Space, a dice game about how the microbes who already live in a gut keep a harmful newcomer out. By the end you can explain why most microbes do you no harm. You can also explain when a harmless microbe becomes a harmful one.
 
 ## Learning outcomes
 0. By the end I can say what residents and visitors are, and name the main places on and in a body where microbes live.
@@ -206,9 +206,9 @@ We have swabbed our own skin and learned who lives on and in a body. Now we ask 
 
 All life on Earth descends from the same first cells. Some of their descendants stayed as single cells. Others, much later, became bodies made of trillions of cells. Then the two came together again, because the single cells settled on the bodies. So when bacteria settle on a newborn, two branches of one very old family are meeting. The body gives land, and the bacteria become part of how the body lives.
 
-- **Bhagavad Gita 13.1 (numbered 13.2 in editions that count Arjuna's question as the first verse):** “इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते। / एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।” This body is called the field. The one who knows the field is called the knower of the field. (The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this unit found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.)
+- **Bhagavad Gita 13.1 (numbered 13.2 in editions that count Arjuna's question as the first verse):** “इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते। / एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।” This body is called the field. The one who knows the field is called the knower of the field. (The Gita means the field in which a person's actions and experiences take place, and it does not speak of microbes. The science in this lesson found that a body is also a field in a plain sense. It is ground on which many beings grow, each in the patch that suits them.)
 - **Thirukkural 322:** “பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் / தொகுத்தவற்றுள் எல்லாந் தலை.” To share your food and to care for the many living beings is the chief of all the teachings. (A body already does this. The fibre in your meal that you cannot digest feeds the bacteria of your large intestine. A mother's milk holds sugars that feed her baby's bacteria and that the baby cannot digest.)
-- **John Donne, Devotions upon Emergent Occasions (1624), Meditation 17:** No man is an island, entire of itself. Every man is a piece of the continent, a part of the main. (Donne meant that people's lives are joined to each other. The science in this unit found that bodies are joined too. People in one home share skin microbes with each other and with their dog.)
+- **John Donne, Devotions upon Emergent Occasions (1624), Meditation 17:** No man is an island, entire of itself. Every man is a piece of the continent, a part of the main. (Donne meant that people's lives are joined to each other. The science in this lesson found that bodies are joined too. People in one home share skin microbes with each other and with their dog.)
 - Science (settled): The place on a body decides which microbes live there more than the person does.
 - Science (debated): Whether a host and all their microbes should be counted as one unit that evolves together is argued about among biologists.
 - Science (open): Nobody knows what share of the microbes on a healthy body help, what share harm, and what share simply live there.
@@ -742,14 +742,14 @@ Her grandmother put the ball of rice into her mouth. 'Who do you think?' she sai
 - Police scientists are studying whether the microbes a person leaves on objects could show who touched them.
 
 ## Spotted around us
-- A cow chewing cud beside a road in Madurai. She is grinding grass for the microbes in her first stomach chamber.
+- A cow chewing cud beside a road. She is grinding grass for the microbes in her first stomach chamber.
 - Fresh elephant dung on a forest road in Mudumalai or Nagarahole. Calves eat such dung to gain gut microbes.
-- Shoes left outside a door in Kochi after a monsoon day. The smell is made by foot bacteria.
-- A baby's first rice, called choroonu in Kerala and annaprashan in Bengal. It is also the first rice for the baby's gut bacteria.
-- A 'clean your hands' sign beside a hospital bed in Bengaluru. It is aimed at the visitors on hands.
-- Curd rice in a steel tiffin box in Chennai. Every spoonful carries living bacteria, most of whom will pass through.
-- A box of antibiotic tablets at a chemist's counter in Kolkata. The box says the medicine is to be sold only on a doctor's prescription.
-- A street dog being patted by children on the steps of a building in Mumbai. Skin microbes pass both ways.
+- Shoes left outside a door after a monsoon day. The smell is made by foot bacteria.
+- A baby's first rice, the day a baby first eats rice. It is also the first rice for the baby's gut bacteria.
+- A 'clean your hands' sign beside a hospital bed. It is aimed at the visitors on hands.
+- Curd rice in a steel tiffin box. Every spoonful carries living bacteria, most of whom will pass through.
+- A box of antibiotic tablets at a chemist's counter. The box says the medicine is to be sold only on a doctor's prescription.
+- A street dog being patted by children on the steps of a building. Skin microbes pass both ways.
 
 ## Open questions
 - **Do the microbes we pick up from family, pets and furniture settle on us, or do they only pass through?** Studies can show that people in one home carry the same kinds. They cannot yet tell a microbe who has settled from one who landed an hour ago.
@@ -804,6 +804,10 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - [Small clear zip pouches](https://www.amazon.in/s?k=small+zip+lock+pouches) (material): For sealing the potato slices in the Three Lands Test, so that nothing can get in or out. Clean steel katoris covered with plates work too. Used in e1, c1. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the spots through the bag. The zoom on a phone camera does the same job. Used in e1. 
 - [I Contain Multitudes, by Ed Yong (2016)](https://www.amazon.in/s?k=I+Contain+Multitudes+Ed+Yong) (book): A book for grown-ups about the microbes who live with animals, including the bobtail squid and the story of mother's milk. Used in p1. A parent reads a chapter and retells one story from it while the child works on My Body Atlas.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hold the Space: can a newcomer settle in a full gut?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Hold the Space: can a newcomer settle in a full gut?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Hold the Space: can a newcomer settle in a full gut?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Hold the Space: can a newcomer settle in a full gut?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Count the Kinds: how many microbes are germs?. About ₹10 to ₹30. Draw squares on plain paper. Used in a1. Get it before Count the Kinds: how many microbes are germs?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a microbe who lives and multiplies on a body for years called? → A resident.
@@ -823,7 +827,7 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 
 ## Sources
 - ideas/by_topic/microorganisms.md: the founder's picture of single cells as whole individuals who sense, decide, signal to each other and form partnerships. It is used for the way microbes are written about as someones, for the explanation of quorum sensing, and for the Roots thread about single cells and bodies meeting again. Her SCI Cards for Lynn Margulis and Barry Marshall are used in the explanations.
-- combined/sci-C5-microorganisms.json: its subconcept 'where microbes live: air, soil, water, and on and inside us (the microbiome)' is the starting point of this unit. Its roti test, curd and yeast tests and its story are not reused.
+- combined/sci-C5-microorganisms.json: its subconcept 'where microbes live: air, soil, water, and on and inside us (the microbiome)' is the starting point of this lesson. Its roti test, curd and yeast tests and its story are not reused.
 - Other units were checked so that nothing repeats: the potato slices touched by fingers and soil (microbes everywhere L2), the bread test for washed hands (hygiene L3), the Morning Coat tooth film test, the tissue blot map of the skin and the story of the ten-to-one count (cells L5), gut microbes and fibre (digestion L5), fermented foods and probiotics (helpful microbes L5). The Three Lands Test compares body places, which none of them does, and Hold the Space is new.
 - This subtopic has no board chapter. NCERT Class 5 Chapter 3 (ncert/sci-L5-03.json) was read for coverage of 'good bacteria' only.
 - Grice E. A., Kong H. H., Conlan S. and others, Segre J. A. (2009). Topographical and temporal diversity of the human skin microbiome. Science 324: 1190-1192.

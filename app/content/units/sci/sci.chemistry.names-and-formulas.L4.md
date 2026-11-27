@@ -1,9 +1,9 @@
 # Chemical formulas: how H₂O, CO₂ and NaCl say which atoms and how many
 `sci.chemistry.names-and-formulas.L4`
 
-**Summary.** Salt, table salt and sodium chloride are one thing, and NaCl is a fourth way to write it. What does a formula tell you? In this unit you will collect the names of one substance, count drops of lemon juice, and build water, carbon dioxide and salt from dough.
+**Summary.** Salt, table salt and sodium chloride are one thing, and NaCl is a fourth way to write it. What does a formula tell you? In this lesson you will collect the names of one substance, count drops of lemon juice, and build water, carbon dioxide and salt from dough.
 
-**Intro.** *The symbol for hydrogen is H, and the symbol for oxygen is O. So why is the symbol for sodium Na? The word sodium has neither an N nor an A in it.* Chemists write every substance with a short code called a formula. Water is H₂O. Carbon dioxide, the gas you breathe out, is CO₂. Table salt is NaCl. The letters stand for kinds of atoms, and some of them come from old Latin names. Sodium was called natrium, so its symbol is Na. The small numbers say how many atoms there are. In this unit you collect the many names of one substance. You count drops of iodine to find out why the numbers are fixed. You also build molecules from dough and read the formulas of things in your kitchen.
+**Intro.** *The symbol for hydrogen is H, and the symbol for oxygen is O. So why is the symbol for sodium Na? The word sodium has neither an N nor an A in it.* Chemists write every substance with a short code called a formula. Water is H₂O. Carbon dioxide, the gas you breathe out, is CO₂. Table salt is NaCl. The letters stand for kinds of atoms, and some of them come from old Latin names. Sodium was called natrium, so its symbol is Na. The small numbers say how many atoms there are. In this lesson you collect the many names of one substance. You count drops of iodine to find out why the numbers are fixed. You also build molecules from dough and read the formulas of things in your kitchen.
 
 ## Learning outcomes
 0. I can read a chemical symbol and say which element it stands for.
@@ -152,7 +152,7 @@ A formula has two parts. The letters were chosen by people, and they could have 
   Against: Letters can be written and printed quickly by anyone. Chemists chose letters for everyday work. They do use pictures of molecules when the arrangement matters, so Dalton was partly right.
 
 ## Roots
-In this unit you read formulas such as H₂O and NaCl. You also counted drops to see why their numbers are fixed. Here we ask which part of a formula comes from people and which part comes from the substance.
+In this lesson you read formulas such as H₂O and NaCl. You also counted drops to see why their numbers are fixed. Here we ask which part of a formula comes from people and which part comes from the substance.
 
 **Deep truth.** In Count the Drops, twice as much lemon juice cleared about twice as many drops of iodine. Nobody chose that number, and you found it by counting. People chose the letters H and O for water, but they had to measure to find the 2. So the letters in a formula are an agreement, and the small numbers are discoveries.  
 *Habit it breaks:* We treat a formula as one thing, either as a fact of nature or as a label. It is two things written together. The symbols could have been different. The numbers could not.  
@@ -164,7 +164,7 @@ In this unit you read formulas such as H₂O and NaCl. You also counted drops to
 
 People have given salt hundreds of names, and each name belongs to one language. The formula NaCl belongs to no language, and a chemist anywhere can read it. With 118 symbols, people can write every substance yet found: a rock, a river, the air, a mango and a child. Many sages taught that the many things of the world come from one source. The science here says something close and plain. All the substances we know are built from about ninety kinds of atoms, joined in different numbers.
 
-- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. A pot and a lamp differ only in name, and the truth is that both are clay. (Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this unit tests.)
+- **Chandogya Upanishad 6.1.4:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, everything made of clay is known. A pot and a lamp differ only in name, and the truth is that both are clay. (Uppu, namak and nun differ only in name. What stays the same is sodium and chlorine, one for one. The Upanishad goes further than chemistry does. It says that all things are finally one, which no experiment in this lesson tests.)
 - **Tao Te Ching, chapter 1:** “道可道，非常道，名可名，非常名。” The name that can be spoken is not the lasting name. (No word for water is water. A formula is also a kind of name. H₂O is not wet, and it leaves out how the atoms are arranged. Lao Tzu was speaking of the Tao, the source of all things, and not of chemistry.)
 - **Confucius, Analects 13.3:** “名不正，則言不順。 / 言不順，則事不成。” If names are not right, what people say will not match how things are, and their work will not succeed. (This is the reason chemists agreed on names and formulas. Two powders both called soda can be mixed up. NaHCO₃ and Na₂CO₃ cannot.)
 - Science (settled): Water has been found on the Moon, in comets and in clouds between the stars. It has the same formula as water on the Earth.
@@ -754,6 +754,9 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [Povidone-iodine solution, a small bottle of the brown liquid for cuts](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For Count the Drops. Many homes already have a bottle, and any medical shop sells one. Buy the liquid. The ointment does not work for this. Used in e1. 
 - [Molecules: The Elements and the Architecture of Everything, a book by Theodore Gray (2014)](https://www.amazon.in/s?k=Molecules+Theodore+Gray) (book): For the family shelf: large photographs of everyday substances beside drawings of their molecules. Used in a2. After Dough Atoms, look up water, sugar and salt in the book. Compare its pictures with your dough models.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Water from a Dry Powder: which white powder can give off water?, The Name Collector: how many names does one substance have?. About ₹20 to ₹40. Check the kitchen first. Used in e2, a1. Get it before Water from a Dry Powder: which white powder can give off water?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Formula Trail: hide eight formulas around your home. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before The Formula Trail: hide eight formulas around your home.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a chemical formula tell you? → Which atoms are in a substance and how many of each.

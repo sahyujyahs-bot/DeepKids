@@ -753,6 +753,8 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 ## Things to buy
 - [A tailor's measuring tape, 150 centimetres](https://www.amazon.in/s?k=tailor+measuring+tape+150+cm) (tool): To read the place of the box in the Sticking Box test. Many homes have one, and a strip of newspaper marked with a ruler works as well. It costs about Rs 30 to 60. Used in e1. 
 - [A school atlas](https://www.amazon.in/s?k=school+atlas+india) (book): To find the volcanoes and earthquakes for the map and the diary. An old one from a relative or a second-hand shop is fine. A new one costs about Rs 150 to 300. Used in a3, p1. Keep it open beside the map in Dots That Make Lines, and use it each day of the earthquake diary to find the places.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sticking Box: can you tell when it will jump?, Runny or sticky: which one traps the bubbles?, How thin is the ground? Draw the Earth to scale. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, c1. Get it before The Sticking Box: can you tell when it will jump?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the layers of the Earth from the outside in. → Crust, mantle, outer core, inner core.

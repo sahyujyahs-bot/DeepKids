@@ -1,9 +1,9 @@
 # Rolling, sliding, spinning, swinging and bouncing: five ways things move
 `sci.motion.kinds-of-motion.L1`
 
-**Summary.** Give a steel dabba the same push twice, once rolling and once sliding. Which goes further? In this unit you will move in five ways with your body, test the dabba, hunt for things that move in each way, and test which balls bounce back up.
+**Summary.** Give a steel dabba the same push twice, once rolling and once sliding. Which goes further? In this lesson you will move in five ways with your body, test the dabba, hunt for things that move in each way, and test which balls bounce back up.
 
-**Intro.** *Can you move your body in five different ways? Try to roll, slide, spin, swing and bounce.* Things move in different ways. A ball rolls. A chappal slides on a wet floor. A fan spins. A swing swings. A ball bounces. In this unit you move in all five ways, find them at home, and push one dabba two ways: does it go further when it rolls or when it slides?
+**Intro.** *Can you move your body in five different ways? Try to roll, slide, spin, swing and bounce.* Things move in different ways. A ball rolls. A chappal slides on a wet floor. A fan spins. A swing swings. A ball bounces. In this lesson you move in all five ways, find them at home, and push one dabba two ways: does it go further when it rolls or when it slides?
 
 ## Learning outcomes
 0. By the end I can say the five ways things move: roll, slide, spin, swing and bounce.
@@ -29,6 +29,8 @@ A ball can roll, spin and bounce. A steel plate can slide, spin and roll. How a 
 - e.g. A ball rolls on the floor, spins on a finger and bounces off a wall.
 - e.g. Your body can roll on a mat, slide in socks, spin round, swing your arms and bounce on the spot.
 - e.g. A steel plate slides on the table, spins when you twist it and rolls when you stand it on its edge.
+- **Everyday view:** There are five ways to move: roll, slide, spin, swing and bounce.
+- **Physics:** Every motion is made of two basic ones: moving along a path, and turning round. Rolling is both at once.
 ### Rolling goes further than sliding · *defined*
 **Definition:** With the same push, a thing that rolls goes much further than the same thing sliding, because rolling rubs the floor far less.
 
@@ -36,6 +38,8 @@ In the Roll or Slide Test, when the dabba slid standing flat, its whole flat bot
 - e.g. In the Roll or Slide Test, the dabba on its side rolled many tiles. Standing flat, it slid only one or two.
 - e.g. A suitcase with wheels is easy to pull. Without wheels, it scrapes and is hard to drag.
 - e.g. Gas cylinders are tipped onto their round edge and rolled, not dragged.
+- **Egyptian builders:** A wall painting from about 1900 BCE shows a man pouring water on sand in front of a huge statue on a sledge. Modern tests found that wet sand makes sliding much easier.
+- **Leonardo da Vinci:** Studied friction around 1500 and noticed that rollers and wheels needed much less force than dragging. He wrote and drew machines using rolling parts.
 ### Bouncing is squashing and springing back · *defined*
 **Definition:** A thing bounces when it squashes as it hits the floor and then springs back to its shape, pushing itself up.
 
@@ -43,6 +47,8 @@ A rubber ball squashes a tiny bit when it hits the floor. Then it springs back t
 - e.g. In the Bounce Test, the rubber ball bounced high and the dough ball went splat.
 - e.g. A crumpled paper ball bounced a little, because the paper springs back only a little.
 - e.g. Your knees bend and straighten when you bounce on the spot.
+- **The ancient Maya and Aztec:** Played a ball game with balls of rubber made from the latex of trees, more than 3,000 years ago. Their balls were far bouncier than anything in Europe.
+- **Kangaroos:** Hop by storing energy in the springy tendons of their legs, as in a bouncing ball. Much of each hop's energy is given back by the squashed tendon.
 ### Spinning and swinging go round a still point · *defined*
 **Definition:** A spinning thing turns round its middle, which stays in one place. A swinging thing hangs from one point and moves back and forth below it.
 
@@ -50,6 +56,8 @@ When a fan spins, the middle of the fan stays put while the blades go round it. 
 - e.g. A ceiling fan spins round its middle.
 - e.g. A bag on a door handle swings back and forth under the handle.
 - e.g. The whole Earth spins round once every day, carrying us with it.
+- **Everyday view:** A swing's hook or a top's point seems to stay still.
+- **Leon Foucault:** In 1851 he hung a long pendulum in Paris and showed that its swing slowly turned round. The floor was turning beneath it: the Earth spins, so no pivot is truly still.
 
 ## Mostly agreed
 - With the same push, rolling things go further than sliding things. *How we know:* A dabba on its side rolls across a room. The same dabba standing flat slides a short way and stops. Wheels make carts, cycles and suitcases easy to move.
@@ -500,12 +508,12 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 - Swings, cradles and the oonjal in many Indian homes swing back and forth from a hook.
 
 ## Spotted around us
-- Gas cylinder delivery workers in Chennai tipping a cylinder on its edge and rolling it into a flat.
-- A potter in a Khurja or Kutch workshop spinning a wheel to shape a pot.
-- A wooden oonjal swinging in a home in Kerala, Tamil Nadu or Gujarat.
-- Kites spinning and swooping at Makar Sankranti in Hyderabad and Ahmedabad.
+- Gas cylinder delivery workers tipping a cylinder on its edge and rolling it into a flat.
+- A potter in a workshop spinning a wheel to shape a pot.
+- A wooden oonjal swinging in a home.
+- Kites spinning and swooping at Makar Sankranti.
 - A child sliding down a smooth slide in a park in any Indian city.
-- A tennis ball bouncing on a gully cricket pitch in a lane in Kolkata.
+- A tennis ball bouncing on a gully cricket pitch in a lane.
 
 ## Open questions
 - **Why does a rolling thing stop in the end?** We know rolling hardly rubs. But a rolling ball still slows down and stops. Scientists know some reasons: the ball and the floor squash a tiny bit, and air pushes against it. Working out exactly how much each reason matters, for every kind of ball and floor, is still being studied.
@@ -539,10 +547,14 @@ Roll, Slide, Spin, Swing and Bounce (sci.motion.L1): Topic-level song for Motion
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about wheels, balls and swings.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on exhibits about wheels and moving machines, good for a family day out.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with exhibits on machines and motion, good for a family day out.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on exhibits about wheels and moving machines, good for a family day out.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with exhibits on machines and motion, good for a family day out.
 
 ## Things to buy
+- [Tennis ball or rubber ball, one](https://www.amazon.in/s?k=tennis+ball) (material): The ball is dropped in the Bounce Test to see which things bounce back up. About ₹40 to ₹100 for a tennis ball at a sports or toy shop. Any old rubber ball from home works as well. Used in e2. Buy it before the Bounce Test.
+- [Spinning top, such as a bambaram](https://www.amazon.in/s?k=spinning+top) (material): The top shows that a thing can spin around a middle point in the Spin It activity. About ₹20 to ₹80 at a toy shop. A steel plate or a bottle cap spun on a table works as a stand-in. Used in a4. Buy it only if you want it, since the activity works without it.
+- [Measuring tape, 3 metres or longer](https://www.amazon.in/s?k=measuring+tape) (tool): It measures how far the dabba rolls or slides in centimetres, so the results can be compared. About ₹50 to ₹150 at a stationery or tailoring shop. Counting big steps along the floor is the household alternative. Used in e1. Get it before the Roll or Slide Test.
+- [Printed pages for the game cards, mats and worksheets, about 25 pages]() (material): The two games use printed cards, mats and slips, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the whole set costs about ₹25 to ₹50. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print these before the first game.
 
 ## Warm-up
 - Name the five ways things move. → Roll, slide, spin, swing and bounce.
@@ -559,7 +571,7 @@ Roll, Slide, Spin, Swing and Bounce (sci.motion.L1): Topic-level song for Motion
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md: 'compare rolling vs sliding friction using toy cars' became the Roll or Slide Test with a steel dabba, 'use a rolling pin' joined the Kitchen Motion Hunt, 'spin a coin' became Spin It, and 'mime of a bouncing ball' joined Five Ways With My Body.
-- The Level 1 unit on how toys move uses a slope test, a drop-height bounce test and a colour top. This unit uses a flat-floor push test with one dabba two ways, a bounce test of five materials from one height, a swinging bag and a toy swing instead.
+- The Level 1 unit on how toys move uses a slope test, a drop-height bounce test and a colour top. This lesson uses a flat-floor push test with one dabba two ways, a bounce test of five materials from one height, a swinging bag and a toy swing instead.
 - Rolling resistance is far smaller than sliding friction for hard wheels on hard floors. Any introductory physics text.
 - Ball deformation during a bounce: slow-motion studies of tennis and rubber balls on hard surfaces.
 - Earth's rotation speed at the latitudes of India, about 1,400 to 1,650 kilometres an hour, against airliner cruising speeds of about 900 kilometres an hour.

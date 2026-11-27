@@ -3579,6 +3579,113 @@
    "used_in": [
     "e3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Sun Leaf and Shade Leaf: same plant, two kinds of leaf, The Pond's Day on Paper: draw a line graph of oxygen, Sealed Jar Garden: a garden that recycles its own air. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Sun Leaf and Shade Leaf: same plant, two kinds of leaf."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in From Air to Lamp Black: the carbon in a flame. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before From Air to Lamp Black: the carbon in a flame."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Breath Colours: does a leaf use up the breath you blow into water?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Breath Colours: does a leaf use up the breath you blow into water?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Breath Colours: does a leaf use up the breath you blow into water?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Breath Colours: does a leaf use up the breath you blow into water?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Stomata Prints: see the tiny doors in a leaf, Greenhouse Budget: spend 100 coins to grow the most tomatoes. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before Stomata Prints: see the tiny doors in a leaf."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Sun Leaf and Shade Leaf: same plant, two kinds of leaf, The Pond's Day on Paper: draw a line graph of oxygen. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2",
+    "a5"
+   ],
+   "plan": "Get it before Sun Leaf and Shade Leaf: same plant, two kinds of leaf."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Greenhouse Budget: spend 100 coins to grow the most tomatoes. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Greenhouse Budget: spend 100 coins to grow the most tomatoes."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Stomata Prints: see the tiny doors in a leaf. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Stomata Prints: see the tiny doors in a leaf."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

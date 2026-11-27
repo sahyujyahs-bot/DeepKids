@@ -3636,6 +3636,88 @@
     "p1"
    ],
    "plan": "Read the chapter on the placebo before the Claim Collector. Then help your child put the four questions to one claim from the book."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Worst Day: read the chart of a cold. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Worst Day: read the chart of a cold."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Half-Glass Test: does a medicine keep building up when dose follows dose?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Half-Glass Test: does a medicine keep building up when dose follows dose?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Claim Collector: eight health claims and four questions. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Claim Collector: eight health claims and four questions."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Wilted Stems Trial: does sugar in the water revive limp coriander?, The Lid a Toddler Cannot Open. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Wilted Stems Trial: does sugar in the water revive limp coriander?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Worst Day: read the chart of a cold. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Worst Day: read the chart of a cold."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Potato's New Skin: can a living thing close a wound with no medicine?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before The Potato's New Skin: can a living thing close a wound with no medicine?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3891,7 +3973,10 @@
     "source": "Tirukkural 948, by Thiruvalluvar, in the chapter on medicine",
     "teaching": "Find out the disease. Find out its root cause. Find out the way to remove it. Then act in the way that fits.",
     "link": "This couplet is the first rule of this lesson, written in Tamil more than 1,500 years ago. Five tired people had five causes, and each needed a different answer.",
-    "verse": ["நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்", "வாய்நாடி வாய்ப்பச் செயல்."],
+    "verse": [
+     "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்",
+     "வாய்நாடி வாய்ப்பச் செயல்."
+    ],
     "verse_lang": "ta"
    },
    {

@@ -2910,6 +2910,45 @@
     "a3"
    ],
    "plan": "For the parent to read alongside the unit. The chapter on lichens goes well with Lichen from the Spice Box and the Lichen Walk."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Crowded Cup Test: does a seedling grow better with 3 neighbours or with 63?, The Trade Table: what does each partner give?, Two Kinds in One Cup: do methi and mustard share better than methi and methi?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before The Crowded Cup Test: does a seedling grow better with 3 neighbours or with 63?."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Lichen from the Spice Box: which takes up water faster, a dry lichen or a dry leaf?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Lichen from the Spice Box: which takes up water faster, a dry lichen or a dry leaf?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

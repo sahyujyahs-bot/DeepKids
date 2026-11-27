@@ -1,7 +1,7 @@
 # Plant parts we eat, and how a cactus, a lotus and a banyan use theirs
 `sci.plants.plant-parts.L2`
 
-**Summary.** A piece of brinjal floats in water, but a piece of potato sinks. Why? In this unit you will sort the vegetables in your kitchen by the plant part you eat, test which plant parts float and which sink, and compare the parts of a cactus, a lotus and a banyan.
+**Summary.** A piece of brinjal floats in water, but a piece of potato sinks. Why? In this lesson you will sort the vegetables in your kitchen by the plant part you eat, test which plant parts float and which sink, and compare the parts of a cactus, a lotus and a banyan.
 
 **Intro.** *Next time someone washes vegetables, watch the bowl. Some pieces float on top. Some pieces go to the bottom. Which ones float in your home?* Every vegetable we eat is one part of a plant. A carrot is a root. Palak is a leaf. A brinjal is a fruit, and chana is a seed. These parts are not all made the same way inside. Some are packed tight with food. Some have tiny spaces full of air. Before you read on, make a guess. Will a piece of potato float or sink? You are going to find out.
 
@@ -489,7 +489,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 
 ## Spotted around us
 - A banyan with hanging roots at a temple, a school or a bus stop. In many villages, people meet in her shade.
-- Lotus leaves and flowers in a temple tank or a pond, from Kerala to Manipur.
+- Lotus leaves and flowers in a temple tank or a pond.
 - Prickly pear cactus with flat green pads on a dry roadside.
 - A vegetable cart with roots, stems, leaves, flowers and fruits side by side.
 - Banana flower and raw banana for sale in a South Indian market.
@@ -526,12 +526,17 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): A song about the six plant parts.
 
 ## Links
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden (The Great Banyan)]() · place · Howrah, near Kolkata: Home of the Great Banyan, a single tree with thousands of prop roots, which looks like a forest.
-- [Thimmamma Marrimanu]() · place · Near Kadiri, Andhra Pradesh: One of the largest banyan trees in the world by the area under her branches.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A big garden with a glasshouse and ponds, where you can look at many kinds of plants.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden (The Great Banyan) · place · Howrah, near Kolkata: Home of the Great Banyan, a single tree with thousands of prop roots, which looks like a forest.
+- Thimmamma Marrimanu · place · Near Kadiri, Andhra Pradesh: One of the largest banyan trees in the world by the area under her branches.
+- Lalbagh Botanical Garden · place · Bengaluru: A big garden with a glasshouse and ponds, where you can look at many kinds of plants.
 - [Plants of the World Online, Kew](https://powo.science.kew.org) · interactive: For the parent: look up any plant, such as Nelumbo nucifera (lotus) or Ficus benghalensis (banyan), and see where in the world it grows.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Hold Up a Long Branch, the Banyan Way. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before Hold Up a Long Branch, the Banyan Way.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Do Seeds Drink? Ten chana in water overnight, Hold Up a Long Branch, the Banyan Way. About ₹10 to ₹30. Any school ruler is fine. Used in e2, c1. Get it before Do Seeds Drink? Ten chana in water overnight.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Three Plants, Three Homes: a cactus, a lotus and a banyan. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Three Plants, Three Homes: a cactus, a lotus and a banyan.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Float Test: which plant parts float, and which sink?, Do Seeds Drink? Ten chana in water overnight. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2. Get it before The Float Test: which plant parts float, and which sink?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which part of the plant is palak? → A leaf.
@@ -548,7 +553,7 @@ Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): A song about the six p
 - Core: a1, e1, a3, g1, ws-core
 
 ## Sources
-- ideas/by_topic/plants.md: read for this unit. Its SCI cards (Janaki Ammal, Kamala Sohonie and others) suit higher levels and were not used here. The topic's plant-part activities guided the kitchen sort.
+- ideas/by_topic/plants.md: read for this lesson. Its SCI cards (Janaki Ammal, Kamala Sohonie and others) suit higher levels and were not used here. The idea's plant-part activities guided the kitchen sort.
 - Dacey, J. W. H. (1980). Internal winds in water lilies: an adaptation for life in anaerobic sediments. Science 210: 1017-1019.
 - Mevi-Schütz, J. and Grosse, W. (1988). A two-way gas transport system in Nelumbo nucifera. Plant, Cell and Environment 11: 27-34.
 - Matthews, P. G. D. and Seymour, R. S. (2006). Anatomy of the gas canal system of Nelumbo nucifera. Aquatic Botany 85: 147-154.

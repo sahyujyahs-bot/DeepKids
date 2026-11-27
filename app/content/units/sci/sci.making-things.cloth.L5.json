@@ -3445,6 +3445,119 @@
     "a2"
    ],
    "plan": "After Take a Thread Apart, read the chapter called 'The String Revolution'. Tell your child one thing from it that surprised you."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Thread Paths: three cloths under the phone camera, Take a Thread Apart: plies, twist and fibres. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a1",
+    "a2"
+   ],
+   "plan": "Get it before Thread Paths: three cloths under the phone camera."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Woven or Knitted: which cloth stretches more, and where does the stretch come from?, The Leaky Seam Test: how small must a stitch be to hold mustard seeds?, The Fray Test: which cut edge loses the fewest threads?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a3",
+    "a6",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Woven or Knitted: which cloth stretches more, and where does the stretch come from?."
+  },
+  {
+   "id": "b-a-set-of-lenses--convex-and-",
+   "item": "A set of lenses (convex and concave)",
+   "kind": "tool",
+   "why": "Used in Thread Paths: three cloths under the phone camera, Take a Thread Apart: plies, twist and fibres. About ₹80 to ₹250. A magnifying glass is one convex lens.",
+   "url": "https://www.amazon.in/s?k=convex+concave+lens+set",
+   "used_in": [
+    "a1",
+    "a2"
+   ],
+   "plan": "Get it before Thread Paths: three cloths under the phone camera."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Wear It Uncut: dress in one cloth with no scissors and no pins. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Wear It Uncut: dress in one cloth with no scissors and no pins."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Chindi Coaster: weave old cloth on a card loom. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Chindi Coaster: weave old cloth on a card loom."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Take a Thread Apart: plies, twist and fibres. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Take a Thread Apart: plies, twist and fibres."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Leaky Seam Test: how small must a stitch be to hold mustard seeds?, The No-Leak Seam: hold the mustard seeds with the least sewing. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Leaky Seam Test: how small must a stitch be to hold mustard seeds?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Chindi Coaster: weave old cloth on a card loom. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Chindi Coaster: weave old cloth on a card loom."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3695,14 +3808,25 @@
     "source": "Brihadaranyaka Upanishad 3.6 and 3.8",
     "teaching": "The philosopher Gargi Vachaknavi asks the sage Yajnavalkya a weaver's question. If all this world is woven, like warp and weft, on water, then on what is water woven? She asks again and again, down to the last thing on which everything is woven.",
     "link": "Gargi used the picture of a loom to ask what holds the world together. In this lesson your child asks the same kind of question of a cloth, and finds threads, then plies, then fibres, then long molecules.",
-    "verse": ["यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति", "वायौ गार्गीति", "कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति", "अन्तरिक्षलोकेषु गार्गीति", "कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति"],
+    "verse": [
+     "यदिदं सर्वमप्स्वोतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्चेति",
+     "वायौ गार्गीति",
+     "कस्मिन्नु खलु वायुरोतश्च प्रोतश्चेति",
+     "अन्तरिक्षलोकेषु गार्गीति",
+     "कस्मिन्नु खल्वाकाश ओतश्च प्रोतश्चेति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Kabir, the song 'Jhini jhini bini chadariya'",
     "teaching": "Kabir was a weaver of Varanasi. In this song, sung in his name, he calls the body a finely woven cloth and asks what its warp and weft are. He says he wore the cloth with care and gave it back as he received it.",
     "link": "A weaver saw his own life in his work. The song treats a cloth as something lent, to be looked after and returned, which is how this lesson treats old cloth.",
-    "verse": ["झीनी झीनी बीनी चदरिया", "काहे कै ताना काहे कै भरनी", "दास कबीर जतन करि ओढी", "ज्यों कीं त्यों धर दीनी चदरिया"],
+    "verse": [
+     "झीनी झीनी बीनी चदरिया",
+     "काहे कै ताना काहे कै भरनी",
+     "दास कबीर जतन करि ओढी",
+     "ज्यों कीं त्यों धर दीनी चदरिया"
+    ],
     "verse_lang": "hi"
    },
    {

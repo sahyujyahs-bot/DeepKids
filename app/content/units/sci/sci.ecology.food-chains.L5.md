@@ -1,9 +1,9 @@
 # Food webs: what happens when one link disappears
 `sci.ecology.food-chains.L5`
 
-**Summary.** When hunters killed the sea otters of the North Pacific, the tall seaweed forests there vanished too, though nobody cut any seaweed. How? In this unit you will turn food chains into a web, test which kind of web loses more when beings go, and find what keeps numbers steady.
+**Summary.** When hunters killed the sea otters of the North Pacific, the tall seaweed forests there vanished too, though nobody cut any seaweed. How? In this lesson you will turn food chains into a web, test which kind of web loses more when beings go, and find what keeps numbers steady.
 
-**Intro.** *A farmer finds a rat snake in her paddy field. Her neighbours tell her to kill him. The snake has never eaten one grain of paddy. Would her harvest be bigger or smaller without him?* A rat snake eats rats, and rats eat paddy. So the snake and the paddy are joined, though the snake never touches a grain. A food web is a map of all such links in one place. In this unit you learn to read that map. You find out what happens to a web when one being disappears, and why some webs cope better than others. You also find out what keeps the numbers of plants and animals steady from year to year.
+**Intro.** *A farmer finds a rat snake in her paddy field. Her neighbours tell her to kill him. The snake has never eaten one grain of paddy. Would her harvest be bigger or smaller without him?* A rat snake eats rats, and rats eat paddy. So the snake and the paddy are joined, though the snake never touches a grain. A food web is a map of all such links in one place. In this lesson you learn to read that map. You find out what happens to a web when one being disappears, and why some webs cope better than others. You also find out what keeps the numbers of plants and animals steady from year to year.
 
 ## Learning outcomes
 0. By the end I can draw a food web for a real place, count the links and say what the arrows mean.
@@ -682,7 +682,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 
 ## Videos
 - **Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades** (biointeractive, 19 min) id `hRGg5it5FMI`: Robert Paine and James Estes tell how they found keystone species and trophic cascades, on the real shores and islands. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first. It is long, so the first 10 minutes are enough.
-- **The desperate battle of Mizoram's farmers with rats** (Mongabay India, 7 min) id `YmMpEzfbwG8`: Shows farmers in Mizoram facing rats after bamboo flowering, the event behind this unit's story. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first, and check which year's flowering it covers.
+- **The desperate battle of Mizoram's farmers with rats** (Mongabay India, 7 min) id `YmMpEzfbwG8`: Shows farmers in Mizoram facing rats after bamboo flowering, the event behind this lesson's story. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first, and check which year's flowering it covers.
 - **The threat of invasive species - Jennifer Klos** (TED-Ed, 5 min) id `spTWwqVP_2s`: An animated explanation of why some beings brought to new places spread so fast. *Check:* The address and title were confirmed on YouTube. Not yet watched by a person: watch it first.
 
 ## Quiz
@@ -731,9 +731,9 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 ## Spotted around us
 - A house gecko waiting near a tube light for the insects who come to the light.
 - A cattle egret walking beside a grazing buffalo, catching the insects her hooves stir up.
-- A black kite circling over a market or a rubbish heap in Chennai, Mumbai or Delhi, looking for scraps.
-- A T-shaped perch or a scarecrow standing in a paddy field near Thanjavur or in the Godavari delta.
-- Water hyacinth covering a lake or a canal, as in the backwaters of Kerala or the lakes of Bengaluru.
+- A black kite circling over a market or a rubbish heap, looking for scraps.
+- A T-shaped perch or a scarecrow standing in a paddy field.
+- Water hyacinth covering a lake or a canal.
 - Lantana bushes with small pink, orange and yellow flowers along a roadside or a forest edge.
 - A spider's web in a window corner with small insects caught in it.
 - A fig tree in fruit, such as a banyan or a peepal, noisy with mynas, barbets and squirrels.
@@ -782,13 +782,18 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: For the parent: free films and click-through lessons on keystone species and trophic cascades. Search the site for 'trophic cascades'.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a plant or an animal near you and find out who they are. Useful for the project My Place, My Web.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent: look up what an Indian animal eats and where they live.
-- [Mudumalai Tiger Reserve]() · place · The Nilgiris, Tamil Nadu: The forest of the Two Webs Test. Chital, langurs, peafowl and sometimes dholes can be seen from the road and on safari.
-- [Chilika Lake]() · place · Near Puri and Balugaon, Odisha: A huge lagoon where you can see fishing boats, water birds and Irrawaddy dolphins sharing one food web.
-- [Guindy National Park and Children's Park]() · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Look at how much grass and shrub the deer need.
+- Mudumalai Tiger Reserve · place · The Nilgiris, Tamil Nadu: The forest of the Two Webs Test. Chital, langurs, peafowl and sometimes dholes can be seen from the road and on safari.
+- Chilika Lake · place · Near Puri and Balugaon, Odisha: A huge lagoon where you can see fishing boats, water birds and Irrawaddy dolphins sharing one food web.
+- Guindy National Park and Children's Park · place · Chennai, Tamil Nadu: A small forest inside a city, with chital and blackbuck. Look at how much grass and shrub the deer need.
 
 ## Things to buy
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graphs in Ants and the Sugar Drop, the Leaky Bottle and the Ten-Year Wave. A squared maths notebook also works. Used in e2, e3, a4. 
 - [The Serengeti Rules, by Sean B. Carroll (for the parent)](https://www.amazon.in/s?k=The+Serengeti+Rules+Sean+Carroll) (book): Tells the true stories of Robert Paine's starfish, the sea otters and other discoveries about what regulates numbers in nature. Used in a2. For the parent to read alongside the unit. The chapter on Robert Paine goes well with Take the Snakes Away and the card on how we found out.
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in The Leaky Bottle: what keeps a level steady?. About ₹30 to ₹150. A phone compass app also works. Used in e2. Get it before The Leaky Bottle: what keeps a level steady?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two Webs Test: which web loses more when three beings go?, The Leaky Bottle: what keeps a level steady?, Two Out of Thousands: why prey animals have many young. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, a4, c2. Get it before The Two Webs Test: which web loses more when three beings go?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Two Webs Test: which web loses more when three beings go?, Two Out of Thousands: why prey animals have many young. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a3. Get it before The Two Webs Test: which web loses more when three beings go?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Leaky Bottle: what keeps a level steady?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2. Get it before The Leaky Bottle: what keeps a level steady?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does an arrow in a food web point to? → The eater.
@@ -808,7 +813,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - ideas/by_topic/living-in-harmony.md: the notebook's line for this topic that harmony needs give and take and that imbalance brings instability, used for the natural balance explanation and the Leaky Bottle
 - Notebook items bio:193 (Ecology) and bio:196 (Energy flow: food chains, webs, pyramids), from the curriculum entry
 - NIOS Open Basic Education, Environmental Studies Level B, Lesson 7 'Life of Plants and Animals', for coverage only: food chains and webs, the five feeding groups, natural balance, why prey have many young, forest cutting and protection
-- The Level 3 and Level 4 units of this subtopic (wool web, Hungry Web, Deer and Tiger Toss, the vultures, the sparrows of 1958, energy pyramids), so this unit leads on from them without repeating
+- The Level 3 and Level 4 units of this subtopic (wool web, Hungry Web, Deer and Tiger Toss, the vultures, the sparrows of 1958, energy pyramids), so this lesson leads on from them without repeating
 - Paine, American Naturalist 1966, 'Food web complexity and species diversity', and Paine, American Naturalist 1969, where 'keystone species' is named
 - Estes and Palmisano, Science 1974, 'Sea otters: their role in structuring nearshore communities'
 - Dunne, Williams and Martinez, Ecology Letters 2002, 'Network structure and biodiversity loss in food webs: robustness increases with connectance'

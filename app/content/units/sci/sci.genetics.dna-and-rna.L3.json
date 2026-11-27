@@ -1896,7 +1896,14 @@
      "a": "Mustard: two tiny heart-shaped leaves, each with a notch at the top. Methi: two small, smooth, oval leaves.",
      "why": "A strong drawing shows a clear difference in shape, from looking closely at real seedlings.",
      "art": "Two empty boxes, labelled mustard and methi.",
-     "chart": {"type": "frame", "shape": "boxes", "labels": ["mustard", "methi"]}
+     "chart": {
+      "type": "frame",
+      "shape": "boxes",
+      "labels": [
+       "mustard",
+       "methi"
+      ]
+     }
     },
     {
      "t": "truefalse",
@@ -2145,7 +2152,10 @@
      "a": "A big circle with a smaller circle inside. In the small circle, a long twisted line labelled DNA. A short line labelled RNA crossing out of the nucleus. A small round ribosome with a chain of beads, labelled protein.",
      "why": "A strong drawing shows the DNA staying inside and the copy going out, in the right order.",
      "art": "A large empty circle.",
-     "chart": {"type": "frame", "shape": "circle"}
+     "chart": {
+      "type": "frame",
+      "shape": "circle"
+     }
     },
     {
      "t": "fill",
@@ -2240,7 +2250,11 @@
      "a": "Six rungs, each with one of the pairs A and T, T and A, C and G, or G and C. For example A-T, C-G, G-C, T-A, A-T, G-C.",
      "why": "A strong drawing never pairs A with C or G, or T with C or G. The pairing rule is how a cell can copy DNA exactly.",
      "art": "Two long wavy lines twisting around each other, with six empty rungs.",
-     "chart": {"type": "frame", "shape": "ladder", "rungs": 6}
+     "chart": {
+      "type": "frame",
+      "shape": "ladder",
+      "rungs": 6
+     }
     },
     {
      "t": "mcq",
@@ -2566,6 +2580,106 @@
     "e2",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Two Metres in a Speck: how much DNA is in one cell?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Two Metres in a Speck: how much DNA is in one cell?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Three Seeds, One Cotton: where does a plant's shape come from?, Big Seed, Small Seed: does a bigger seed grow a bigger seedling?, Two Metres in a Speck: how much DNA is in one cell?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before Three Seeds, One Cotton: where does a plant's shape come from?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in Who Gave Me What? A family look-alike hunt. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Who Gave Me What? A family look-alike hunt."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Three Seeds, One Cotton: where does a plant's shape come from?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Three Seeds, One Cotton: where does a plant's shape come from?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Three Seeds, One Cotton: where does a plant's shape come from?, Big Seed, Small Seed: does a bigger seed grow a bigger seedling?, Seed Faces: what is hiding in a seed?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before Three Seeds, One Cotton: where does a plant's shape come from?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Same Letters, New Picture: the four-letter code, Code a Kolam: instructions in four letters. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Same Letters, New Picture: the four-letter code."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Three Seeds, One Cotton: where does a plant's shape come from?, Big Seed, Small Seed: does a bigger seed grow a bigger seedling?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before Three Seeds, One Cotton: where does a plant's shape come from?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Heat and temperature: why the same heat warms oil faster than water
 `sci.energy.heat.L4`
 
-**Summary.** Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this unit you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.
+**Summary.** Stand oil and water in the same hot bath, and the oil warms about twice as fast. Why? In this lesson you will test both with thermometers, see whether a small katori of hot water or a big bowl of warmer water melts more ice, and watch a thermometer stay still while ice melts.
 
-**Intro.** *Two steel tumblers stand in the same pan of hot water. One holds a katori of cooking oil and the other a katori of water. Both started at room temperature. After ten minutes, one of them has warmed far more than the other. Which one, do you think? And why?* The pan gives the same heat to both tumblers, yet they do not end up the same. In this unit you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.
+**Intro.** *Two steel tumblers stand in the same pan of hot water. One holds a katori of cooking oil and the other a katori of water. Both started at room temperature. After ten minutes, one of them has warmed far more than the other. Which one, do you think? And why?* The pan gives the same heat to both tumblers, yet they do not end up the same. In this lesson you test this with two thermometers. You find out why a small cup of hot water can melt less ice than a big bowl of warm water. You watch a thermometer stay still while ice melts, though heat keeps going in. You blow up a balloon with warm air, cool a thermometer with a wet cloth, and measure the heat in a groundnut.
 
 ## Learning outcomes
 0. I can explain that temperature tells how hot a thing is, while the heat it can give depends on how much of it there is and what it is made of.
@@ -644,7 +644,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
    Options: 5,000 calories / 500 calories / 50 calories  
    **Answer:** 5,000 calories. *Why:* The rise is 50 degrees. 100 grams times 50 degrees times 1 calorie is 5,000 calories. Picking 500 means using 10 degrees instead of 50.
 10. (match) Match each thing to the best reason for it.  
-   **Answer:** The sea warms slowly → Water needs a lot of heat for each degree; A steel spoon warms fast → Steel needs little heat for each degree; Ice cools a drink well → Melting ice takes in a lot of heat; A wet cloth cools a bottle → Evaporating water takes heat away; A bridge has gaps in it → Steel grows longer when it warms. *Why:* Each of these comes from one idea in this unit. The first two are about specific heat. The third is hidden heat. The fourth is evaporation, and the last is expansion.
+   **Answer:** The sea warms slowly → Water needs a lot of heat for each degree; A steel spoon warms fast → Steel needs little heat for each degree; Ice cools a drink well → Melting ice takes in a lot of heat; A wet cloth cools a bottle → Evaporating water takes heat away; A bridge has gaps in it → Steel grows longer when it warms. *Why:* Each of these comes from one idea in this lesson. The first two are about specific heat. The third is hidden heat. The fourth is evaporation, and the last is expansion.
 11. (mcq) Why does steam at 100 °C burn your skin worse than water at 100 °C?  
    Options: When steam turns back to water it gives out a lot of hidden heat / Steam is hotter than water at the same temperature / Steam is heavier than water  
    **Answer:** When steam turns back to water it gives out a lot of hidden heat. *Why:* Each gram of steam gives out about 540 calories when it turns back into water, as well as the heat that the water then gives as it cools. This is the hidden heat of boiling.
@@ -764,7 +764,7 @@ Sreedevi, listening from the door, added a warning. 'Three drums can keep a smal
 - A clay matka on a stand, with a damp outside and a cool inside.
 - Small gaps between the sections of a bridge, or between railway rails.
 - Steam rising from a hot pressure cooker or idli steamer.
-- Hot sand and cool sea at a beach at noon, such as Marina in Chennai or Kovalam in Kerala.
+- Hot sand and cool sea at a beach at noon.
 - Wet clothes drying on a line, faster on a dry sunny day than on a rainy day.
 - The coconut water in a coconut, staying cool even on a hot afternoon.
 - A thermometer in a clinic, and the hot-water bottle for a stomach ache.
@@ -822,8 +822,16 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 - [B. M. Birla Science Centre](https://www.birlasciencecentre.org/) · place · Hyderabad: A science centre and planetarium with hands-on exhibits, with a collection about the physics of everyday life.
 
 ## Things to buy
-- [Two laboratory thermometers, minus 10 to 110 °C, with red liquid (not mercury). Or two digital kitchen probe thermometers.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every test in this unit reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other. Used in e1, e2, e3, a1, a3, a4, p1, c1. 
+- [Two laboratory thermometers, minus 10 to 110 °C, with red liquid (not mercury). Or two digital kitchen probe thermometers.](https://www.amazon.in/s?k=laboratory+thermometer+-10+to+110) (tool): Every test in this lesson reads a temperature. Two thermometers let you read both liquids at once. A fever thermometer reads only from about 32 to 42 °C, so it will not work. A digital probe is harder to break and settles faster. Cost: about Rs 60 to 150 each from a school-lab or science-kit shop, or online. Kirana and medical shops usually have only fever thermometers, so buy ahead. One thermometer is enough for every test if you read the two things one after the other. Used in e1, e2, e3, a1, a3, a4, p1, c1. 
 - [A small digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+weighing+scale+1g) (tool): For the groundnut test, to find how much of the nut burned. It is optional. Most kitchens that bake already have one. Used in a4. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Balloon on the Bottle: does warm air take up more room?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1. Get it before The Balloon on the Bottle: does warm air take up more room?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Balloon on the Bottle: does warm air take up more room?. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before The Balloon on the Bottle: does warm air take up more room?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in The Warm Night Box: keep a box warm with one litre of hot water. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before The Warm Night Box: keep a box warm with one litre of hot water.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in The Balloon on the Bottle: does warm air take up more room?. About ₹20 to ₹60. Used in a1. Get it before The Balloon on the Bottle: does warm air take up more room?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Warm Night Box: keep a box warm with one litre of hot water. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Warm Night Box: keep a box warm with one litre of hot water.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Sand and Water in the Sun: two plates, two days. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Sand and Water in the Sun: two plates, two days.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Katori and the Bowl: which melts more ice?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before The Katori and the Bowl: which melts more ice?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does one calorie measure? → Heat: the heat that warms 1 gram of water by 1 degree Celsius.
@@ -844,7 +852,7 @@ Where Did It Come From? (sci.energy.L4): Topic-level song
 ## Sources
 - ideas/by_topic/energy.md: the grade 2 and grade 3 concept rows (friction and 'perpetual' toys convert movement to heat; thermal energy; energy as a measurable capacity to transfer heat), used for the heat-from-movement activity and the calorie units
 - ideas/by_topic/energy.md: the Heat Flow and Heat transfer rows (hot-and-cold race ideas, wrapped bottles, sea breeze), used for the sea and sand explanation and the wet-and-dry activity
-- The Class 3 unit on heat and temperature (sci.energy.heat.L3), which this unit builds on: the idea that heat moves from warmer to cooler and that temperature is how fast particles jiggle, now extended to the amount of heat, specific heat, melting and boiling
+- The Class 3 unit on heat and temperature (sci.energy.heat.L3), which this lesson builds on: the idea that heat moves from warmer to cooler and that temperature is how fast particles jiggle, now extended to the amount of heat, specific heat, melting and boiling
 - The Combined lesson sci-C4-energy: the fair-test habit and the idea that energy is moved and spread out, used in the structure of the experiments
 - Black, J., lectures on heat in Glasgow in the 1760s, published after his death as Lectures on the Elements of Chemistry, edited by John Robison, 1803 (specific heat and latent heat)
 - Boerhaave, H., Elementa Chemiae, 1732 (reports Fahrenheit's mixing experiments with water and mercury)

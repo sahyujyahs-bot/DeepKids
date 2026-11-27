@@ -531,6 +531,10 @@ Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos
 - DakshinaChitra heritage museum · place · Chennai: A museum of South Indian homes, crafts and arts.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Splash Test: is any splash the same as another?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Splash Test: is any splash the same as another?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in The Splash Test: is any splash the same as another?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e2. Get it before The Splash Test: is any splash the same as another?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Shake and Tip: can the beans land the same way twice?, Draw a Kolam: a pattern with a rule. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, a2. Get it before Shake and Tip: can the beans land the same way twice?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call things arranged by a rule? → Order.

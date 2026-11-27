@@ -1,9 +1,9 @@
 # Animal body plans: rings, two halves, spirals and segments
 `sci.animals.body-plans.L4`
 
-**Summary.** A starfish has five arms in a ring, while a cat has two matching sides. Why do animals have such different body shapes? In this unit you will test whether matching sides help a roller go straight, collect animals with the same plan, and find four tissues in your hand.
+**Summary.** A starfish has five arms in a ring, while a cat has two matching sides. Why do animals have such different body shapes? In this lesson you will test whether matching sides help a roller go straight, collect animals with the same plan, and find four tissues in your hand.
 
-**Intro.** *A starfish has five arms and no head. So which way is forwards for a starfish?* Any way is forwards for a starfish. She can walk with any arm in front. You are built differently. Your eyes, nose and mouth are all at one end, and you walk that end first. Your left side matches your right, but your front does not match your back. Animal bodies are laid out in a few ways: in rings, in two halves, in spirals and in rows of repeated parts. In this unit you find out what each layout is good for. You roll a lopsided roller made of dough and a pencil. You tilt a tall dough shell and a coiled one. You also find four kinds of tissue in your own hand.
+**Intro.** *A starfish has five arms and no head. So which way is forwards for a starfish?* Any way is forwards for a starfish. She can walk with any arm in front. You are built differently. Your eyes, nose and mouth are all at one end, and you walk that end first. Your left side matches your right, but your front does not match your back. Animal bodies are laid out in a few ways: in rings, in two halves, in spirals and in rows of repeated parts. In this lesson you find out what each layout is good for. You roll a lopsided roller made of dough and a pencil. You tilt a tall dough shell and a coiled one. You also find four kinds of tissue in your own hand.
 
 ## Learning outcomes
 0. I can say what a body plan is, and name four plans: rings, two halves, spirals and segments.
@@ -34,7 +34,7 @@
 ### A body plan is the basic layout of a body · *defined*
 **Definition:** A body plan is the basic layout of an animal's body: which parts there are, and how they are arranged.
 
-Scientists have named more than a million kinds of animals. Yet almost all of them are built on a few layouts. Three questions sort most animals. Does the body have a front end? Do the left and right sides match? Are there parts that repeat in a row? A jellyfish has no front end, and her parts are arranged in a ring. A fish has a front end and two matching sides. An earthworm has a front end, matching sides and about a hundred repeated rings. A snail has a front end and matching sides, and she carries a shell that coils in a spiral. Humans are animals too. We have a front end, matching sides and a row of repeated bones down the back. This unit takes the plans one at a time. It also looks inside, at the tissues that every plan is built from.
+Scientists have named more than a million kinds of animals. Yet almost all of them are built on a few layouts. Three questions sort most animals. Does the body have a front end? Do the left and right sides match? Are there parts that repeat in a row? A jellyfish has no front end, and her parts are arranged in a ring. A fish has a front end and two matching sides. An earthworm has a front end, matching sides and about a hundred repeated rings. A snail has a front end and matching sides, and she carries a shell that coils in a spiral. Humans are animals too. We have a front end, matching sides and a row of repeated bones down the back. This lesson takes the plans one at a time. It also looks inside, at the tissues that every plan is built from.
 - e.g. Rings: a sea anemone on a rock at Rameswaram.
 - e.g. Two halves: a crow, a rohu fish, a house gecko and you.
 - e.g. Segments: an earthworm, a centipede and a prawn.
@@ -138,7 +138,7 @@ Rocks about 540 million years old hold the first clear fossils of most animal gr
   Against: In 2023 Laurent Formery and his team mapped the genes at work in a young starfish. Genes that mark the head in other animals were switched on along every arm. Genes that mark the trunk were mostly missing.
 
 ## Roots
-In this unit you rolled a lopsided roller, tilted dough shells and found four tissues in your hand. Here we ask what the shape of a body tells us about the life that body leads.
+In this lesson you rolled a lopsided roller, tilted dough shells and found four tissues in your hand. Here we ask what the shape of a body tells us about the life that body leads.
 
 **Deep truth.** In the Lopsided Roller test, the roller with unequal balls curved the same way on every roll. An animal who travels needs equal pushes on her left and right, so those two sides match. Her top and bottom differ, and her front and back differ, because gravity and travel treat them differently. So the layout of a body shows which directions matter in that animal's life.  
 *Habit it breaks:* We treat an animal's shape as a fact about the animal alone, like a name. The shape also describes the animal's world: where food comes from, which way gravity pulls, and which way she travels.  
@@ -657,10 +657,10 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 ## Spotted around us
 - A house gecko on the wall near a tube light, running head first on four matching feet.
 - The coil of a chank shell, or sangu, kept in a pooja room or blown at a temple.
-- The six rings on the tail part of a prawn at a fish market in Kochi, Chennai or Kolkata.
+- The six rings on the tail part of a prawn at a fish market.
 - A millipede crossing a path in the monsoon, with a wave of legs passing along the many segments.
 - The flakes of a cooked fish in a fish curry. Each flake is one block of muscle, repeated from head to tail.
-- Sea anemones and starfish in rock pools at low tide, at Rameswaram, Kovalam or the rocky shores of Mumbai.
+- Sea anemones and starfish in rock pools at low tide.
 
 ## Open questions
 - **Why do most starfish have five arms?** Five-part bodies are very rare outside the starfish and sea urchin group. Nobody knows what first fixed the number at five, or whether five has any special use.
@@ -714,6 +714,9 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Things to buy
 - [A box of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): It holds its shape better than dough in the Lopsided Roller test and in Tall Cone or Coil. Stiff atta dough also works, so buy it only if you want to. Used in e1, e2. 
 - [Your Inner Fish, a book by Neil Shubin (2008)](https://www.amazon.in/s?k=Your+Inner+Fish+Neil+Shubin) (book): For the parent or an older child: how the human body plan, with its head, backbone and limbs, can be traced back to fish and worms. Used in a1. After Three Pairs of Sides, a parent can read aloud a few pages from the chapter on heads.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Four Tissues in Your Hand. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before Four Tissues in Your Hand.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Lopsided Roller: do matching sides help a body go straight?, Tall Cone or Coil: which shell is easier to carry as it grows?, One Segment, Many Times: a paper chain animal. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, p1, c1. Get it before The Lopsided Roller: do matching sides help a body go straight?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name four animal body plans. → Rings, two matching halves, spirals and rows of segments.

@@ -1,9 +1,9 @@
 # Life in water: lakes, rivers and the deep sea, and where their light and food come from
 `sci.habitats.water-habitats.L5`
 
-**Summary.** Sunlight reaches only the top 200 metres of the sea, yet fish live more than 8,000 metres down. How do they find food in the dark? In this unit you will lower a white disc into cloudy water to see how fast light fades, and follow the Kaveri from the hills to the sea.
+**Summary.** Sunlight reaches only the top 200 metres of the sea, yet fish live more than 8,000 metres down. How do they find food in the dark? In this lesson you will lower a white disc into cloudy water to see how fast light fades, and follow the Kaveri from the hills to the sea.
 
-**Intro.** *The Ganga river dolphin's eyes have no lens. She can tell light from dark, and that is all. Yet she catches fast fish every day in water as brown as tea. How does she find them?* She uses sound. She makes quick clicks and listens for the echoes that come back from fish, sandbanks and boats. Her river is full of fine mud, and light cannot pass far through muddy water. Eyes are of little use there, so her kind came to depend on ears. Light fades in clear water too, only more slowly. Even in the clearest sea, the water below about 200 metres is too dim for any plant to grow. Most of the sea is much deeper than that. In this unit you measure how light fades in water. Then you find out what that means for everyone who lives in a lake, a river or the deep sea.
+**Intro.** *The Ganga river dolphin's eyes have no lens. She can tell light from dark, and that is all. Yet she catches fast fish every day in water as brown as tea. How does she find them?* She uses sound. She makes quick clicks and listens for the echoes that come back from fish, sandbanks and boats. Her river is full of fine mud, and light cannot pass far through muddy water. Eyes are of little use there, so her kind came to depend on ears. Light fades in clear water too, only more slowly. Even in the clearest sea, the water below about 200 metres is too dim for any plant to grow. Most of the sea is much deeper than that. In this lesson you measure how light fades in water. Then you find out what that means for everyone who lives in a lake, a river or the deep sea.
 
 ## Learning outcomes
 0. I can name the main freshwater habitats, and say how still water and flowing water differ as homes.
@@ -172,7 +172,7 @@ Nobody has seen a fish deeper than 8,336 metres, though the sea goes down to alm
   Against: A Ganga river dolphin catches fast fish in muddy water at night. She does it by echolocation, which tells her the distance, size and movement of things around her. Her knowledge of the river is detailed. It is built from sound.
 
 ## Roots
-In this unit you watched light fade in cloudy water, and you followed food from the top of the sea to the bottom. Here we ask what that says about where any home ends.
+In this lesson you watched light fade in cloudy water, and you followed food from the top of the sea to the bottom. Here we ask what that says about where any home ends.
 
 **Deep truth.** In the Vanishing Disc Test, a few spoons of milk hid the disc one hand's depth down. Light fades fast in water, so food can be made only near the top. Yet fish live at the bottom of the deepest lake and sea. They eat food that was made far above and sank to them. So most of a water home is fed from somewhere else.  
 *Habit it breaks:* We think of a habitat as a place with edges that looks after itself: this pond, this river, the deep sea. But the deep sea eats what the surface made, and a hill stream eats leaves from the forest. A habitat's food and oxygen often come from outside its edges.  
@@ -184,7 +184,7 @@ In this unit you watched light fade in cloudy water, and you followed food from 
 
 All the water on Earth is one water, moving. It rises from the sea, falls on the hills, and runs back as rivers. On the way it becomes many homes: a stream, a tank, a flooded field, a delta, a dark sea floor. Each home looks separate, and each has its own living beings. But the Vanishing Disc Test and the Falling Meal show that they feed each other. The Chandogya Upanishad says something close to this about rivers. Once they reach the sea, they are simply the sea.
 
-- **Chandogya Upanishad 6.10:** “इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः / ताः समुद्रात्समुद्रमेवापियन्ति / स समुद्र एव भवति / ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति” The teacher Uddalaka tells his son that the rivers of the east flow east and the rivers of the west flow west. They rise from the sea and go back to the sea, and become the sea. There, they do not know 'I am this river' or 'I am that river'. (This is the water cycle, seen more than 2,500 years ago. Uddalaka uses it to say that separate things share one source. In this unit the science is plainer. The mud, the food and the fish of a river really do become part of the sea.)
+- **Chandogya Upanishad 6.10:** “इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः / ताः समुद्रात्समुद्रमेवापियन्ति / स समुद्र एव भवति / ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति” The teacher Uddalaka tells his son that the rivers of the east flow east and the rivers of the west flow west. They rise from the sea and go back to the sea, and become the sea. There, they do not know 'I am this river' or 'I am that river'. (This is the water cycle, seen more than 2,500 years ago. Uddalaka uses it to say that separate things share one source. In this lesson the science is plainer. The mud, the food and the fish of a river really do become part of the sea.)
 - **Tao Te Ching 66:** “江海所以能為百谷王者，以其善下之，故能為百谷王。” The rivers and the seas can be kings of all the valley streams because they are good at staying low. That is why the streams all flow to them. (Water runs downhill, so the lowest place gathers what every higher place gives up. The deep sea floor is the lowest place of all. Everything that falls, from silt to marine snow, ends there, and feeds those who live there.)
 - **Heraclitus, fragment B12 (Diels-Kranz numbering):** “ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ” On those who step into the same rivers, different and again different waters flow. (Heraclitus, a Greek thinker of about 500 BCE, noticed that a river stays the same river while its water is always new. A river is water passing through, with mud and food and fish. The habitat is the flow.)
 - Science (settled): Deep-sea animals depend on the sunlit surface. Sediment traps show that only 1 to 3 parts in 100 of surface food reach the deep floor, and that deep-sea life rises and falls with the supply.
@@ -557,7 +557,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   - Wait: Carry on tomorrow
 - **s3 (15 min)**  
   *Parent does:* On page 3 your child writes six living beings of the place on small slips of paper, from yesterday's notes. They lay the slips on the floor so that each food sits next to the one who eats it. They stick them on the page, or take a photo. Then they circle any food that comes from outside the water.  
-  *Parent says:* Who lives here? Who eats whom? Now think of this unit. Does any of the food come from outside the water: leaves from trees on the bank, insects from the land, waste from a drain?  
+  *Parent says:* Who lives here? Who eats whom? Now think of this lesson. Does any of the food come from outside the water: leaves from trees on the bank, insects from the land, waste from a drain?  
   *Child mode:* Write six living beings of your place on slips. Lay each food next to who eats it. Circle the food that comes from outside.
   - Ask: What food comes into the water from outside? (good: Leaves that fall in.; Insects that land on the water.; Plant food washed in by rain or drains.)
   - Note: Algae and green water count as living beings. So do the birds, even though they fly off at night.
@@ -790,7 +790,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 ## Spotted around us
 - A tank or lake after heavy rain. The water turns brown, and you cannot see the steps under the surface. Mud has made the water turbid.
 - A green pond in summer. The colour is phytoplankton. Your hand vanishes just below the surface, so the sunlit zone there is very thin.
-- Paddle wheels on a prawn or fish pond in Andhra Pradesh or Kerala. They splash water into the air to stir oxygen in.
+- Paddle wheels on a prawn or fish pond. They splash water into the air to stir oxygen in.
 - Lotus and water lily at the edge of a tank, and none in the middle. The middle is too deep for a stalk to reach the light.
 - A river in the monsoon and the same river in April. In flood it is wide, fast and brown. In summer it is a clear thin stream among sand.
 - Dried fish, prawns and fresh sardines in a coastal market. All of them fed in the sunlit zone, close to where plankton grow.
@@ -850,6 +850,8 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 - [Plasticine or modelling clay, one small pack](https://www.amazon.in/s?k=plasticine+modelling+clay) (material): For the walls of the fish pass and the plug of the water sampler. Stiff atta dough works too. Used in c1, c2. 
 - [A medicine dropper or a 10 millilitre syringe without a needle](https://www.amazon.in/s?k=medicine+dropper) (tool): One way to draw up bottom water in Bring Up the Deep. A drinking straw also works. Used in c1. 
 - [The Brilliant Abyss, by Helen Scales](https://www.amazon.in/s?k=The+Brilliant+Abyss+Helen+Scales) (book): For the parent: a clear, recent book on deep-sea life, marine snow, vents and the argument about mining the sea floor. Used in a4. Read the chapters on marine snow before the Falling Meal. They give real examples to tell while the rice grains are moved.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Vanishing Disc Test: how fast does light fade in cloudy water?, A Way Round the Wall: build a fish pass. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c2. Get it before The Vanishing Disc Test: how fast does light fade in cloudy water?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How deep is the sunlit zone of the open sea? → About 200 metres.

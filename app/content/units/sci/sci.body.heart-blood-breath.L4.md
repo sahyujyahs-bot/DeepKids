@@ -1,7 +1,7 @@
 # Why you pant when you run: how blood and breath deliver oxygen to every cell
 `sci.body.heart-blood-breath.L4`
 
-**Summary.** Why do you pant and feel your heart pound when you run? In this unit you will find your pulse and count your breaths, test what changes them, and watch how fast the pink comes back to cold fingers. You will also play a card game on pulse and breathing.
+**Summary.** Why do you pant and feel your heart pound when you run? In this lesson you will find your pulse and count your breaths, test what changes them, and watch how fast the pink comes back to cold fingers. You will also play a card game on pulse and breathing.
 
 **Intro.** *Sit still and count how many times you breathe in one minute. Then count how many times your heart beats. Which number is bigger, and by how much?* Most people find that their heart beats about four times for every breath. Now jump on the spot for one minute and count both again. Both numbers go up, and both go up together. Why would a heart and a pair of lungs, so far apart, speed up at the same moment?
 
@@ -768,6 +768,11 @@ Beat and Breath (sci.body.L4): Topic-level song
 - [A simple sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): To count 15 seconds without holding a phone. Any phone or kitchen clock with a stopwatch also works. Used in e1, e2, e3, a1, a2, a5, a6, p1. 
 - [A small box of plain white sugar cubes](https://www.amazon.in/s?k=sugar+cubes) (material): For the Big Surface test. Sugar cubes are sold at most grocery shops for about Rs 40 to 80. Rock sugar (mishri) also works but dissolves much more slowly, so the times are longer. Used in e3. 
 - [A strong magnet, such as a ceramic or neodymium block](https://www.amazon.in/s?k=strong+neodymium+magnet) (tool): For the iron-in-cereal activity. A fridge magnet is too weak, so the magnet must be a strong one, such as a neodymium magnet, which is sold at hardware and electronics shops and online, or one taken from an old loudspeaker. Keep strong magnets away from small children and from phones and cards. If you cannot find one, skip the activity. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Family Pulse Study: a pulse for every age, The Tummy Lever: count breaths without anyone noticing. About ₹10 to ₹30. Any school ruler is fine. Used in p1, c1. Get it before The Family Pulse Study: a pulse for every age.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Tummy Lever: count breaths without anyone noticing. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before The Tummy Lever: count breaths without anyone noticing.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Big Surface, Fast Swap: why are lungs so wide?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Big Surface, Fast Swap: why are lungs so wide?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Family Pulse Study: a pulse for every age. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before The Family Pulse Study: a pulse for every age.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How do you find your pulse? → Rest two fingers, not the thumb, on the inside of the wrist and count the pushes.
@@ -788,7 +793,7 @@ Beat and Breath (sci.body.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/body-parts-and-skeleton.md: the Pulse Party idea (dance for 30 seconds, check the pulse, breathe down) and the Cooling Cloud breathing, used for the Pulse Detective test and the calm and scary story activity
 - DeepKids notebook items bio:21 and bio:22 (the heart, blood and breathing)
-- The Class 3 unit on the heart, blood and breath, which this unit builds on. Pulse counting goes further here, and the experiments are new
+- The Class 3 unit on the heart, blood and breath, which this lesson builds on. Pulse counting goes further here, and the experiments are new
 - Fleming, S. and others, Normal ranges of heart rate and respiratory rate in children from birth to 18 years, The Lancet 377, 2011
 - Lavoisier, A. and Laplace, P., Memoire sur la chaleur, 1783 (the guinea pig and ice experiment)
 - Lavoisier, A. and Seguin, A., experiments on the respiration of a man at rest and at work, 1789 to 1790

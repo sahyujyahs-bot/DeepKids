@@ -1,9 +1,9 @@
 # Evaporation and condensation: why some liquids leave fast, where the heat goes, and what salt does to the air
 `sci.states.evaporation-and-condensation.L4`
 
-**Summary.** A drop of sanitiser leaves your hand in seconds and feels cold, but a drop of coconut oil never leaves. Why? In this unit you will race six liquids across a steel plate, boil water with the lid on and off, and find which kitchen things pull water from the air.
+**Summary.** A drop of sanitiser leaves your hand in seconds and feels cold, but a drop of coconut oil never leaves. Why? In this lesson you will race six liquids across a steel plate, boil water with the lid on and off, and find which kitchen things pull water from the air.
 
-**Intro.** *Put one drop of water and one drop of hand sanitiser on the back of your hand. The sanitiser is gone in seconds, and your skin feels much colder where it was. The water takes minutes and feels only a little cool. Both are at room warmth. So why do they leave at such different speeds, and where does the cold come from?* Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this unit you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.
+**Intro.** *Put one drop of water and one drop of hand sanitiser on the back of your hand. The sanitiser is gone in seconds, and your skin feels much colder where it was. The water takes minutes and feels only a little cool. Both are at room warmth. So why do they leave at such different speeds, and where does the cold come from?* Water is always leaving wet things as vapour and coming back as drops. A damp cloth dries only when more water leaves it than comes back. In this lesson you ask harder questions. Which liquids leave fastest, and why? Where does the heat go when a liquid leaves, and where does it go when the vapour turns back into drops? And why does a spoon of salt turn damp in a monsoon room when nothing cold has touched it? You answer these questions with a steel plate, two pans and a humid box.
 
 ## Learning outcomes
 0. I can explain that different liquids evaporate at different speeds, and that how fast a liquid leaves depends on how tightly its own particles hold each other.
@@ -799,7 +799,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 - [PhET States of Matter](https://phet.colorado.edu/en/simulations/states-of-matter) · simulation: A free simulation. Heat and cool particles of different substances and watch them evaporate, condense and freeze.
 - [India Meteorological Department: weather and humidity](https://mausam.imd.gov.in) · interactive: Look up the temperature and humidity in your city, then use the Will It Mist? chart to guess the dew point.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for evaporation, condensation and clouds.
-- [Sohra and Mawsynram, among the wettest places on Earth]() · place · Meghalaya: Where moist monsoon air from the Bay of Bengal rises over the hills and drops huge amounts of rain.
+- Sohra and Mawsynram, among the wettest places on Earth · place · Meghalaya: Where moist monsoon air from the Bay of Bengal rises over the hills and drops huge amounts of rain.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on exhibits about matter and everyday science.
 
@@ -807,6 +807,14 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 - [A silica gel sachet (optional)](https://www.amazon.in/s?k=silica+gel+packets) (material): Optional for the Thirsty Things test. Many shoe boxes and medicine bottles already have one. Put it in its own saucer next to the others and weigh it before and after if your scale reads to 0.1 gram. Used in e2. 
 - [A digital kitchen scale that reads in grams (optional)](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Optional, for weighing a silica gel sachet or the saucers in the Thirsty Things test. Not needed for the test to work. Used in e2. 
 - [Camphor tablets for pooja](https://www.amazon.in/s?k=camphor+tablets+pooja) (material): For the Vanishing Kapoor activity. A small pack from a pooja shop is enough. Used in a5. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Vanishing Kapoor: a solid that evaporates, Evaporation Pan: how many millimetres does the Sun take each day?. About ₹10 to ₹30. Any school ruler is fine. Used in a5, p1. Get it before The Vanishing Kapoor: a solid that evaporates.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Drop Race: which liquid leaves first, and which feels coldest?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before Drop Race: which liquid leaves first, and which feels coldest?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Thirsty Things: which kitchen things pull water out of the air?. About ₹20 to ₹40. Check the kitchen first. Used in e2. Get it before Thirsty Things: which kitchen things pull water out of the air?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Drop Race: which liquid leaves first, and which feels coldest?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1. Get it before Drop Race: which liquid leaves first, and which feels coldest?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Lid On or Lid Off: how much water leaves a boiling pan?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before Lid On or Lid Off: how much water leaves a boiling pan?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Evaporation Pan: how many millimetres does the Sun take each day?. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before Evaporation Pan: how many millimetres does the Sun take each day?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Keep the Salt Free-Flowing: design a salt box for the monsoon. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Keep the Salt Free-Flowing: design a salt box for the monsoon.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which leaves a plate first, sanitiser or water? → Sanitiser, because its particles hold each other weakly.
@@ -828,7 +836,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 ## Sources
 - ideas/by_topic/gases-evaporation-condensation-solutions.md: the Temperature, Humidity, Pressure rows (a homemade humidity check and the idea of balance between unseen forces), which led to the Thirsty Things test and the salt box story
 - The combined lesson sci-C5-gases-evaporation-condensation-solutions: its parts The cool wrist, The cooker and the hills and Condensation hunt informed the feel test in the Drop Race and the boiling and pressure card. Its story and worksheets were not reused
-- The Class 3 unit on evaporation and condensation, which this unit builds on: leaving and landing back, and damp air. None of its tests, activities or its story are repeated
+- The Class 3 unit on evaporation and condensation, which this lesson builds on: leaving and landing back, and damp air. None of its tests, activities or its story are repeated
 - Nearby units read so as not to repeat them: the Class 4 unit on heat and temperature (its wet thermometer and clay matka test), the Class 3 unit on the water cycle, and the Class 4 unit on reaction speed (its pressure cooker activity)
 - PHILOSOPHY.md library: Bhagavad Gita 9.19 and Tirukkural 20
 - Cullen, W., essay on the cold produced by evaporating fluids, read in Edinburgh in 1755 and printed later, with a first demonstration of artificial cooling at the University of Glasgow reported for about 1748

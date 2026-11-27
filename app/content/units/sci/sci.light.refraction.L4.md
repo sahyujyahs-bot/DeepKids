@@ -1,7 +1,7 @@
 # Refraction: the rule of the bend, and how light gets trapped
 `sci.light.refraction.L4`
 
-**Summary.** A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this unit you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.
+**Summary.** A beam of light bends when it goes into water, and sometimes it cannot get out at all. Why? In this lesson you will measure the bend with a protractor, make a glowing water jet, build an eye that needs spectacles, and make a telescope from two lenses.
 
 **Intro.** *A fish looks up at you from under the water. Above her, the whole sky, from one edge to the other, is squeezed into one round window. Outside that window, the underside of the water looks like a silver mirror. Why does the whole sky fit into a round window, and why is the rest silver?* You already know that light bends when it goes from air into water. Now we ask by how much, and what happens when you push the bend as far as it will go. You will measure the bend with a torch and a protractor. Then you will find out how the same rule makes a silver mirror under the water, a glowing stream of water, a sparkling diamond and the cables that carry phone calls under the sea.
 
@@ -755,6 +755,15 @@ Follow the Light (sci.light.L4): Topic-level song
 - [A plastic protractor (a school geometry box has one)](https://www.amazon.in/s?k=protractor+15+cm+transparent) (tool): For Measure the Bend. Most school bags already have one. A transparent 15 centimetre protractor is best. Used in e1. 
 - [A hand magnifying glass, and a stronger 5 times or 10 times reading magnifier](https://www.amazon.in/s?k=magnifying+glass+hand+held+kids) (tool): For the model eye and the Two-Lens Telescope. A stationery shop or an optician's shop sells them for Rs 50 to 200. Used in e2, p1. 
 - [A pair of cheap reading spectacles, plus 2 or plus 2.5](https://www.amazon.in/s?k=reading+glasses+plus+2.0+men+women) (tool): For the model eye and the Two-Lens Telescope, if nobody at home has a pair to lend. A pavement or pharmacy pair costs about Rs 100 to 200. This is the one item many families will not have; ask a grandparent or neighbour first. Used in e2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, p1. Get it before Build an Eye That Needs Spectacles.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Measure the Bend: how much does water turn a beam?, The Glowing Water Jet. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e1, a3. Get it before Measure the Bend: how much does water turn a beam?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e2, p1. Get it before Build an Eye That Needs Spectacles.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, e2, p1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Measure the Bend: how much does water turn a beam?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Measure the Bend: how much does water turn a beam?, Build an Eye That Needs Spectacles, Two-Lens Telescope: see faraway things upside down. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e2, p1. Get it before Measure the Bend: how much does water turn a beam?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Glowing Water Jet. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a3. Get it before The Glowing Water Jet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the normal in a bend diagram? → An imaginary line at a right angle to the surface. We measure every angle from it.
@@ -774,8 +783,8 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Light, seeing and shadows: the experiment to refract light through a water-filled glass, and the activity to make rainbow patterns, used in the bend test and the rainbow card
-- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light bends and how lenses work, which this unit extends to measuring the bend, total internal reflection and telescopes
-- The Class 3 refraction unit, which this unit builds on: the idea that light bends and slows in water and glass, now taken on to the rule, the critical angle, fibres, mirages and eyes
+- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light bends and how lenses work, which this lesson extends to measuring the bend, total internal reflection and telescopes
+- The Class 3 refraction unit, which this lesson builds on: the idea that light bends and slows in water and glass, now taken on to the rule, the critical angle, fibres, mirages and eyes
 - Ibn al-Haytham, Kitab al-Manazir (Book of Optics), about 1011 to 1021, on refraction and the eye
 - Willebrord Snell, about 1621, and Rene Descartes, La Dioptrique, 1637, on the law of refraction
 - Johannes Kepler, Ad Vitellionem Paralipomena, 1604, on the picture in the eye and how spectacles work

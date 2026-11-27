@@ -1,7 +1,7 @@
 # Microbes: tiny living beings on your hands, in soil and in curd
 `sci.microorganisms.microbes-everywhere.L2`
 
-**Summary.** Three potato slices look clean, but touch one with your fingers and one with soil and spots grow in a few days. Where do the spots come from? In this unit you will grow them and count them, smell what soil microbes make, and find out how a spoon of curd sets milk.
+**Summary.** Three potato slices look clean, but touch one with your fingers and one with soil and spots grow in a few days. Where do the spots come from? In this lesson you will grow them and count them, smell what soil microbes make, and find out how a spoon of curd sets milk.
 
 **Intro.** *Look closely at your palm. You can see skin and lines, and nothing else. Yet thousands of tiny living beings are on it right now. How could we find out if that is true?* Some living beings are far too small to see with our eyes alone. They are called microbes. One microbe is too small to see, but a microbe can split into two, and two into four. On food, in a warm place, a few microbes can become millions in a day or two. Millions together make a spot we can see. So if we give the microbes on our hands some food, we can watch them grow.
 
@@ -598,6 +598,9 @@ Too Small to See (sci.microorganisms.L2): Topic-level song for Microorganisms L2
 - [Bonnie Bassler, on Wikipedia](https://en.wikipedia.org/wiki/Bonnie_Bassler) · interactive: For the parent: the scientist who studies how bacteria use chemicals to sense each other and act together.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Three Potato Slices: where do the spots come from?, How Small? Microbes in a full stop. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1, a3. Get it before Three Potato Slices: where do the spots come from?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in How Small? Microbes in a full stop. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before How Small? Microbes in a full stop.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a microbe? → A living being too small to see with our eyes alone.

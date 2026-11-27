@@ -3522,6 +3522,69 @@
     "a2"
    ],
    "plan": "After One Bottle, Three Forms, look at the photographs of frost, drops and steam together. Ask which of the three forms each picture shows."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Roof and the Tap: how much water falls on our own home?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Roof and the Tap: how much water falls on our own home?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Potato Test: what does salty water do to living cells?, Ice on Land, Ice on Sea: which melting ice raises the water?, One Bottle, Three Forms: freeze it, melt it and find the same water. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "e3",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Potato Test: what does salty water do to living cells?."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Island Well: take water from a jar of two layers. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Island Well: take water from a jar of two layers."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Ice on Land, Ice on Sea: which melting ice raises the water?, The Island Well: take water from a jar of two layers. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e3",
+    "a3"
+   ],
+   "plan": "Get it before Ice on Land, Ice on Sea: which melting ice raises the water?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

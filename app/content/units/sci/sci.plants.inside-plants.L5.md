@@ -1,7 +1,7 @@
 # Inside a stem: two sets of pipes, growth rings and tissues
 `sci.plants.inside-plants.L5`
 
-**Summary.** Cut a thin strip of bark all the way round a trunk and the whole tree slowly dies, though most of the trunk is dead. Why? In this unit you will map the water and food pipes in a stem, test which part of a twig carries water, and read a tree's rings.
+**Summary.** Cut a thin strip of bark all the way round a trunk and the whole tree slowly dies, though most of the trunk is dead. Why? In this lesson you will map the water and food pipes in a stem, test which part of a twig carries water, and read a tree's rings.
 
 **Intro.** *Peel a banana slowly. Long pale strings stay stuck to the fruit. They run from the stalk end to the tip. What are these strings for?* Look for the same kind of string in a leaf stalk and on a peeled orange. In the first activity, String Hunt, you pull them out and compare them. Then, in Pipe Maps, you use coloured water to test what at least some of the strings do.
 
@@ -59,7 +59,7 @@ In the Pipe Maps test, the dye showed up as dots. Each dot is a vascular bundle.
 ### Xylem: pipes made of dead cells · *defined*
 **Definition:** Xylem pipes are built from cells that have died and emptied. Their walls are hardened with lignin. Water is pulled up through them from the roots to the leaves.
 
-A young xylem cell is alive. First the cell grows long. Then the cell builds a thick wall and stiffens the wall with lignin, often in rings or spirals. Then the cell breaks down everything inside, and dies. In a vessel, the end walls dissolve too, so a column of dead cells becomes one open tube. This death is not an accident. The cell's own genes switch it on at the right time. Why must the cell die? Because a living cell is full of jelly-like contents that would block the flow. Only an empty tube lets water through easily. The hard walls matter too. Water in the xylem is pulled from above, as you learned in the unit on how water climbs. A soft tube would be squashed flat by that pull, the way a paper straw flattens when you suck too hard. Lignin keeps the pipe open. The same hard walls hold the plant up, so xylem does two jobs: carrying and supporting.
+A young xylem cell is alive. First the cell grows long. Then the cell builds a thick wall and stiffens the wall with lignin, often in rings or spirals. Then the cell breaks down everything inside, and dies. In a vessel, the end walls dissolve too, so a column of dead cells becomes one open tube. This death is not an accident. The cell's own genes switch it on at the right time. Why must the cell die? Because a living cell is full of jelly-like contents that would block the flow. Only an empty tube lets water through easily. The hard walls matter too. Water in the xylem is pulled from above, as you learned in the lesson on how water climbs. A soft tube would be squashed flat by that pull, the way a paper straw flattens when you suck too hard. Lignin keeps the pipe open. The same hard walls hold the plant up, so xylem does two jobs: carrying and supporting.
 - e.g. A wooden rolling pin is made of millions of dead xylem cells. They carried water once, and now they give the wood its strength.
 - e.g. Conifers such as deodar have narrower xylem cells, called tracheids, which pass water to each other through small pits in their side walls.
 - e.g. The spiral threads you sometimes see when you snap a lotus stem gently and pull the pieces apart are the wall thickenings of xylem cells.
@@ -191,7 +191,7 @@ We have learned that a plant has dead pipes for water and living pipes for food,
 
 A whole tree grows from one cell, the fertilised egg cell inside a seed. That cell divides, and all the cells that follow carry the same instructions. Yet some become skin, some become packing, some become living phloem, and some die to become xylem. In the cambium, a single thin layer makes wood on one side and bark on the other. So one cell becomes the many tissues of a tree, and the many tissues work as one body.
 
-- **Chandogya Upanishad 6.11:** “अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत् / स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति” Uddalaka shows his son a great tree. If someone cuts the tree at the root, in the middle or at the top, sap runs out, yet the tree lives. But if life leaves one branch, that branch dries up. If life leaves the whole tree, the whole tree dries up. (Uddalaka saw what this unit shows: sap runs through every part of a tree, and one part can die while the rest lives. He used the tree to ask what it is that leaves when a living being dies. Science can describe the pipes and the cells. That question is still open.)
+- **Chandogya Upanishad 6.11:** “अस्य सोम्य महतो वृक्षस्य यो मूलेऽभ्याहन्याज्जीवन्स्रवेद्यो मध्येऽभ्याहन्याज्जीवन्स्रवेद्योऽग्रेऽभ्याहन्याज्जीवन्स्रवेत् / स एष जीवेनात्मनानुप्रभूतः पेपीयमानो मोदमानस्तिष्ठति” Uddalaka shows his son a great tree. If someone cuts the tree at the root, in the middle or at the top, sap runs out, yet the tree lives. But if life leaves one branch, that branch dries up. If life leaves the whole tree, the whole tree dries up. (Uddalaka saw what this lesson shows: sap runs through every part of a tree, and one part can die while the rest lives. He used the tree to ask what it is that leaves when a living being dies. Science can describe the pipes and the cells. That question is still open.)
 - **Tao Te Ching, chapter 11:** “三十輻共一轂，當其無，有車之用。 / 埏埴以為器，當其無，有器之用。” Clay is shaped into a pot, but the empty space inside is what makes the pot useful. Doors and windows are cut into a wall, and the empty space is what makes the room useful. (A xylem pipe is useful to the tree because the pipe is empty. The cell had to clear out everything inside before water could pass.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply into a sheet of paper and you can see the cloud, the rain and the tree in it. Without them the paper could not be here. (Paper is made from wood, and wood is xylem cells. The page really is made of the pipes that once carried rain water up a tree.)
 - Science (settled): The death of a xylem cell is switched on by the cell's own genes, at a set stage of growth. Biologists call this programmed cell death.
@@ -739,13 +739,13 @@ The rains came in June. One wet afternoon Ammu went out under an umbrella and lo
 
 ## Spotted around us
 - Strings on a peeled banana and white threads on a peeled orange, in any fruit bowl.
-- Flower sellers in Madurai and Chennai tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.
-- Sloping cuts and hanging cups on rubber trees along the roads of Kottayam and Kanyakumari.
+- Flower sellers tying jasmine with strips of banana fibre, which is the strong tissue of the banana plant's leaf stalks.
+- Sloping cuts and hanging cups on rubber trees along a road.
 - Dark dots scattered over the cut end of a piece of sugarcane at a juice stall.
 - A tree in a city park with an old wire, cable or tree guard sunk into the bark, and the trunk bulging above it.
 - Rings on a cut log at a timber yard, or on a tree stump after road widening.
 - An old banyan or tamarind with a hollow trunk, still green, in a temple yard or village square.
-- Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants grown in Bengal and Assam.
+- Jute sacks of rice and potatoes in a market, woven from the stem fibres of jute plants.
 - Ants walking up and down a hibiscus or bean shoot to drink honeydew from aphids.
 
 ## Open questions
@@ -794,16 +794,19 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - [Dendrochronology (Wikipedia)](https://en.wikipedia.org/wiki/Dendrochronology) · interactive: For the parent: how ring dating works, with photographs of cores and matched patterns.
 - [Phloem (Wikipedia)](https://en.wikipedia.org/wiki/Phloem) · interactive: For the parent: diagrams of sieve tubes and companion cells, and the girdling experiment.
 - [BBC Bitesize](https://www.bbc.co.uk/bitesize) · interactive: Search for 'xylem and phloem' for short, clear revision pages with diagrams.
-- [National Fossil Wood Park, Tiruvakkarai]() · place · near Villupuram, Tamil Nadu: Tree trunks about 20 million years old, turned to stone, lying in the open. In some you can still see the grain of the wood.
-- [Forest Research Institute museums]() · place · Dehradun, Uttarakhand: The timber museum shows a slice of a deodar tree that lived for about 700 years, with dates marked on the rings.
-- [Lalbagh Botanical Garden]() · place · Bengaluru, Karnataka: Very old, wide trees to walk round, and a fossil tree trunk on display.
+- National Fossil Wood Park, Tiruvakkarai · place · near Villupuram, Tamil Nadu: Tree trunks about 20 million years old, turned to stone, lying in the open. In some you can still see the grain of the wood.
+- Forest Research Institute museums · place · Dehradun, Uttarakhand: The timber museum shows a slice of a deodar tree that lived for about 700 years, with dates marked on the rings.
+- Lalbagh Botanical Garden · place · Bengaluru, Karnataka: Very old, wide trees to walk round, and a fossil tree trunk on display.
 - [Birbal Sahni Institute of Palaeosciences](https://www.bsip.res.in) · place · Lucknow, Uttar Pradesh: Scientists here read the rings of Himalayan trees. The museum shows plant fossils.
-- [A timber yard, a carpenter's shop or a fresh tree stump near you]() · place · your own town: Ask to look at the cut ends of logs. Count rings and look for the darker heartwood.
+- A timber yard, a carpenter's shop or a fresh tree stump near you · place · your own town: Ask to look at the cut ends of logs. Count rings and look for the darker heartwood.
 
 ## Things to buy
 - [Food colour, dark blue or red (liquid or powder)](https://www.amazon.in/s?k=liquid+food+colour+blue+red) (material): For the dye tests. Any grocery or baking shop sells it. Dark blue shows best. Used in e1, e2, a3, c2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the coloured dots on a cut stem and the rings on wood. A phone camera zoomed in also works. Used in e1, e2, a3, a5. 
 - [Coco peat (a small block)](https://www.amazon.in/s?k=coco+peat+block) (material): For wrapping the branch in the Gootee project. Nurseries sell it. Damp soil mixed with compost also works. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Pipe Maps: where are the pipes in a root, a stem and a leaf stalk?, Bark or Wood: which part of a twig carries the water?, Read a Tree's Diary: twelve rings and an old beam. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, c1, c2. Get it before Pipe Maps: where are the pipes in a root, a stem and a leaf stalk?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Build a Working Stem. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c2. Get it before Build a Working Stem.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which pipes carry water up a plant? → Xylem.
@@ -823,7 +826,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 ## Sources
 - ideas/by_topic/plants.md: the SCI Cards for Jagadish Chandra Bose (plant signals) and Kamala Sohonie (neera), used in the explanation on messages in the phloem, the challenging views and the applications
 - ideas/by_topic/plants.md: the evolution notes on plants taking root and forming forests, used in the explanation on how pipes let plants grow tall
-- The Level 3 and Level 4 units on how water climbs a plant (xylem, transpiration, osmosis, Malpighi's ring, a first look at phloem), so that this unit builds on them without repeating them
+- The Level 3 and Level 4 units on how water climbs a plant (xylem, transpiration, osmosis, Malpighi's ring, a first look at phloem), so that this lesson builds on them without repeating them
 - knowledge/by_subtopic.json, sci.plants.inside-plants: OpenStax Biology 2e, 'The Plant Body', 'Stems' and 'Transport of Water and Solutes in Plants', for facts only
 - Malpighi, M., Anatome Plantarum, 1675 and 1679 (the ring of bark)
 - Hales, S., Vegetable Staticks, 1727 (against a circulation of sap)

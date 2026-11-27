@@ -1,9 +1,9 @@
 # Hearing: how two ears find where a sound is, and why noise can hide a voice
 `sci.sound.hearing.L4`
 
-**Summary.** Cover one ear and point at a clinking spoon, and your finger goes wrong, though the sound has not changed. Why? In this unit you will draw a map of sounds with your eyes shut, test hearing with one ear, and see how far a whisper reaches in noise.
+**Summary.** Cover one ear and point at a clinking spoon, and your finger goes wrong, though the sound has not changed. Why? In this lesson you will draw a map of sounds with your eyes shut, test hearing with one ear, and see how far a whisper reaches in noise.
 
-**Intro.** *Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now cover one ear with a cap or your hand and try again. Which time do you point better, and why?* With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this unit you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.
+**Intro.** *Close your eyes. A friend claps somewhere in the room. Without peeking, point to where the clap came from. Now cover one ear with a cap or your hand and try again. Which time do you point better, and why?* With two ears open, you point well. With one ear covered, you miss by a lot. A sound is just a wave in the air, and it carries no label that says where it came from. Your brain works out the place by comparing what the two ears hear. In this lesson you test that yourself. You also find out why a loud sound can hide a quiet one, how the inner ear sorts high and low notes, how hearing aids and signing help people who hear less, and how other animals hear with their knees, their antennae and their jaws.
 
 ## Learning outcomes
 0. I can explain how two ears tell where a sound is, using the tiny differences in time and loudness between them.
@@ -705,7 +705,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 
 ## Videos
 - **How to truly listen** (TED (Evelyn Glennie), 34 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body, and explains what it means to listen. *Check:* Title and channel confirmed. The full talk is about 34 minutes. Preview it first and pick a section to watch with a young child.
-- **Auditory Transduction (2002)** (Brandon Pletsch, 7 min) id `PeTriGTENoc`: For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches. *Check:* Title and channel confirmed. Preview it first. It goes into more detail than this unit.
+- **Auditory Transduction (2002)** (Brandon Pletsch, 7 min) id `PeTriGTENoc`: For the parent and curious older children: a detailed animation of the cochlea, showing how a wave travels along the membrane and how different hair cells pick up high and low pitches. *Check:* Title and channel confirmed. Preview it first. It goes into more detail than this lesson.
 - **How do cochlear implants work? | Boston Children's Hospital** (Boston Children's Hospital, 4 min) id `UpPdqxbkaiU`: To see how a microphone, a processor and a coil of tiny wires send signals straight to the hearing nerve. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
@@ -823,6 +823,12 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 - [Children's ear defenders (earmuffs)](https://www.amazon.in/s?k=kids+ear+defenders+earmuffs) (tool): Optional. For the Sound Clock and the Doorbell Without Sound challenge, and for protecting ears at fireworks or near loud machines. A thick woollen cap or a folded towel also works for the Sound Clock. Used in e1, c1. 
 - [A pack of round balloons](https://www.amazon.in/s?k=balloons+pack+round) (material): For Feel the Music. Any plain round balloon will do, and a small pack is cheap at a stationery shop. Used in a3. 
 - [A cheap digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch+sports) (tool): For Stand Like a Flamingo. A phone stopwatch works too, but a separate stopwatch is easier for a child to press. Used in a4. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Doubling the Distance: how fast does a sound fade as you move away?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before Doubling the Distance: how fast does a sound fade as you move away?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paper Snail: build a model of the cochlea, Ear Trumpets: does a bigger mouth hear more?. About ₹10 to ₹30. Any school ruler is fine. Used in a2, p1. Get it before The Paper Snail: build a model of the cochlea.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in A Doorbell Without Sound: tell someone who cannot hear that a visitor has come. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in c1. Get it before A Doorbell Without Sound: tell someone who cannot hear that a visitor has come.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in A Doorbell Without Sound: tell someone who cannot hear that a visitor has come. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before A Doorbell Without Sound: tell someone who cannot hear that a visitor has come.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Paper Snail: build a model of the cochlea, Ear Trumpets: does a bigger mouth hear more?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2, p1. Get it before The Paper Snail: build a model of the cochlea.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which ear hears a sound from your right first? → The right ear, and a little louder too.
@@ -845,7 +851,7 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 - ideas/by_topic/sound.md: 'Sound waves' and 'Underwater sound' rows (sound crossing from air to water, a tuning fork heard in water, a simple stethoscope). Used in the explanation of why the middle ear is needed.
 - ideas/by_topic/sound.md: 'Materials and sound' row (using a smartphone decibel app and covering a ticking clock). Used in Doubling the Distance and Hiding a Whisper.
 - ideas/by_topic/sound.md: 'Sound and vibration' row (feeling vibration, humming to feel the skull, a drum circle). Used in Feel the Music.
-- The Class 3 unit on hearing, which this unit builds on: the idea that the ear turns a wave into signals, now extended to finding direction, loudness and safe listening, pitch sorting, and hearing loss and help.
+- The Class 3 unit on hearing, which this lesson builds on: the idea that the ear turns a wave into signals, now extended to finding direction, loudness and safe listening, pitch sorting, and hearing loss and help.
 - Georg von Békésy, Experiments in Hearing, 1960 (the travelling wave in the cochlea, Nobel Prize in Physiology or Medicine 1961)
 - Hermann von Helmholtz, Die Lehre von den Tonempfindungen, 1863 (On the Sensations of Tone, the resonance theory of hearing)
 - Supa, M., Cotzin, M. and Dallenbach, K.M., Facial vision: the perception of obstacles by the blind, American Journal of Psychology 57, 133 to 183, 1944

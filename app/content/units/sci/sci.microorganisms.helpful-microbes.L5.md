@@ -1,9 +1,9 @@
 # Why food spoils, and how drying, salt, sugar and cold keep it
 `sci.microorganisms.helpful-microbes.L5`
 
-**Summary.** Honey keeps for years on a shelf, but cooked dal spoils in a day. Why? In this unit you will test how much salt stops dal water from spoiling, find out whether jaggery water can be too sweet to spoil, and play a card game on the ways families keep food.
+**Summary.** Honey keeps for years on a shelf, but cooked dal spoils in a day. Why? In this lesson you will test how much salt stops dal water from spoiling, find out whether jaggery water can be too sweet to spoil, and play a card game on the ways families keep food.
 
-**Intro.** *A jar of honey can sit on a shelf for years and never spoil. A bowl of cooked dal spoils in one day. Both are wet. So why does one keep and the other spoil?* Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this unit you find out what stops them. You set up five glasses of dal water with more and more salt in each, which we call the Salt Ladder. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.
+**Intro.** *A jar of honey can sit on a shelf for years and never spoil. A bowl of cooked dal spoils in one day. Both are wet. So why does one keep and the other spoil?* Food spoils because microbes eat the food before we do. Microbes are living beings too small to see, such as bacteria, yeasts and moulds. They are in the air, on our hands and on every food. They grow fast in cooked dal, because dal gives them food, water and warmth. In this lesson you find out what stops them. You set up five glasses of dal water with more and more salt in each, which we call the Salt Ladder. You keep thin jaggery water beside thick jaggery syrup. You dry tomato slices and weigh the water that leaves. By the end you can explain why honey keeps. You can also explain why a wet spoon must never go into the pickle.
 
 ## Learning outcomes
 0. By the end I can explain that microbes spoil food, and say what bacteria, yeasts and moulds need to grow.
@@ -184,7 +184,7 @@ We have tested how salt and sugar stop microbes, and learned how people keep foo
 
 Every living being, from a yeast cell to you, is mostly water and must take in free water to grow. All life shares this need, because all life descends from the same first cells, who lived in water. So one rule explains many kitchens. Avakaya in Andhra Pradesh, dried fish in Kerala and murabba in Uttar Pradesh all keep free water from microbes. People who never met each other found the same answer. They were all dealing with the same living beings and the same need.
 
-- **Taittiriya Upanishad 2.2:** “अन्नाद्वै प्रजाः प्रजायन्ते / याः काश्च पृथिवीँ श्रिताः / अथो अन्नेनैव जीवन्ति / अथैनदपि यन्त्यन्ततः” From food all beings are born. By food they live, and into food they pass when they die. (A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this unit's science too, everything alive is food for someone.)
+- **Taittiriya Upanishad 2.2:** “अन्नाद्वै प्रजाः प्रजायन्ते / याः काश्च पृथिवीँ श्रिताः / अथो अन्नेनैव जीवन्ति / अथैनदपि यन्त्यन्ततः” From food all beings are born. By food they live, and into food they pass when they die. (A mango that we do not eat is eaten by moulds and bacteria. The mango returns to the soil as food for plants. In this lesson's science too, everything alive is food for someone.)
 - **Digha Nikaya 16, the Mahaparinibbana Sutta (the Buddha's last words):** “handa dāni, bhikkhave, āmantayāmi vo, / vayadhammā saṅkhārā appamādena sampādethā.” All things that have been put together come apart. Carry on your work with care. (Preserving slows spoiling but never ends it. Honey keeps for years, yet spoils once water gets in. A cook who keeps food well is working carefully with that fact.)
 - Science (settled): All known life needs liquid water to grow. No living being has been found growing where the measure of free water is below about 0.6.
 - Science (debated): Whether the living bacteria in fermented foods settle in a person's gut for long is still being tested.
@@ -773,14 +773,14 @@ Washed is not the same as dry.
 - Food for astronauts and for soldiers on mountains is dried, or heated in sealed pouches. It keeps for a year or more without a fridge.
 
 ## Spotted around us
-- White vadam and vathal drying on cloths on terraces in Tamil Nadu in March and April.
-- Red chillies spread to dry across open ground near Guntur in Andhra Pradesh and Byadgi in Karnataka.
-- Fish drying on racks and on the sand along the beaches of Kerala, Konkan and Odisha.
+- White vadam and vathal drying on cloths on terraces in March and April.
+- Red chillies spread to dry across open ground.
+- Fish drying on racks and on the sand along a beach.
 - Tall ceramic pickle jars with cloth tied over their mouths, standing in the sun on a balcony.
 - The words 'pasteurised' on a milk packet and 'best before' on almost every food packet.
 - A small white sachet marked 'do not eat' inside a packet of snacks or a new pair of shoes.
 - Strings of dried brinjal, gourd and turnip hanging from windows in Kashmir in autumn.
-- Racks of meat and fish above the kitchen fire in homes in Nagaland.
+- Racks of meat and fish drying above a kitchen fire.
 
 ## Open questions
 - **Do the living bacteria in fermented foods settle in our gut, and does that change our health?** The studies so far are small and short. In some people swallowed bacteria settle, and in others they pass straight through, and nobody yet knows why.
@@ -831,6 +831,12 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 
 ## Things to buy
 - [A small digital kitchen scale](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): For weighing the tomato slices in Sun-Dried Tomato. It is not needed: a hanger balance and a 5 ml medicine spoon do the same job. Used in e3. 
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in The Fly-Proof Dryer: dry faster than an open plate. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c2. Get it before The Fly-Proof Dryer: dry faster than an open plate.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Fly-Proof Dryer: dry faster than an open plate. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before The Fly-Proof Dryer: dry faster than an open plate.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in My Own Keeping Trial: design a test and write a report. About ₹40 to ₹80. Lemon juice works for many tests. Used in p1. Get it before My Own Keeping Trial: design a test and write a report.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Salt Ladder: how much salt stops dal water from spoiling?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Salt Ladder: how much salt stops dal water from spoiling?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Salt Ladder: how much salt stops dal water from spoiling?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Salt Ladder: how much salt stops dal water from spoiling?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three kinds of microbes that spoil food. → Bacteria, yeasts and moulds.

@@ -1,7 +1,7 @@
 # Animals around us: their daily habits and their homes
 `sci.animals.animals-around-us.L3`
 
-**Summary.** Which animals near your home are awake at night, and which sleep then? In this unit you will watch your window for ten minutes, follow one animal for a week and look for a pattern, test how ants keep to the same path, and count birds at a water bowl.
+**Summary.** Which animals near your home are awake at night, and which sleep then? In this lesson you will watch your window for ten minutes, follow one animal for a week and look for a pattern, test how ants keep to the same path, and count birds at a water bowl.
 
 **Intro.** *Stand at a window or a door for one minute, very still. Count every animal you can see or hear. Do not forget the tiny ones. How many did you find?* Most people say 'two or three'. Then they look again and find more: a crow on the wire, ants on the wall, a pigeon on the ledge above, a spider in the corner, a gecko asleep behind the calendar. We think animals live far away, in forests and zoos. But some of them live in our walls, our trees and our kitchens. Each one has their own day. They wake, eat, rest and hide at their own times. You can find those patterns by watching the same animal again and again.
 
@@ -108,7 +108,7 @@ Some animals live in two homes, far apart. Each winter, bar-headed geese fly fro
 ### Watching kindly · *defined*
 **Definition:** Watching kindly means we look without harming, chasing, catching or scaring the animal, and without touching their home.
 
-An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In the tests in this unit we only watch animals. We do not pick them up.
+An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In the tests in this lesson we only watch animals. We do not pick them up.
 - e.g. Use binoculars, or sit at a window, to watch a nest.
 - e.g. If a bird keeps calling and diving at you, walk away. You are too close to a nest.
 - e.g. Watch from behind a window or a curtain, so the animal does not see you.
@@ -227,7 +227,7 @@ Tara looked at the big black chick, their beak wide open, and at Nail pushing fo
 
 In July the cardboard sign came down, and the nest stood empty, as nests do when their work is done. But every evening Tara still watched the crows fly off to the temple tree. The next summer, early one morning, she heard a koel calling ku-oo from somewhere she could not see. She wrote it in her notebook. Time: 5:40 am. What I heard: a koel. Maybe one of ours.
 
-**For the parent:** For the parent: the crows were not attacking at random. Tara found their habit only by watching for several days and writing down the time and the place of every dive. The pattern showed that the crows were guarding a nest, and it also showed a simple way for people and crows to share the yard. That is the heart of this unit: habits are patterns, and patterns only appear when we watch over time.
+**For the parent:** For the parent: the crows were not attacking at random. Tara found their habit only by watching for several days and writing down the time and the place of every dive. The pattern showed that the crows were guarding a nest, and it also showed a simple way for people and crows to share the yard. That is the heart of this lesson: habits are patterns, and patterns only appear when we watch over time.
 
 - Ask: Why did Murugan think the crows were mad? What did Tara find out instead?
 - Ask: How did writing down the times help Tara? Could she have found the pattern in one day?
@@ -821,6 +821,12 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Digital thermometer with a probe](https://www.amazon.in/s?k=digital+probe+thermometer) (tool): Measures the temperature in the sun, the shade and a burrow in the Cool Home Test. Used in e2. 
 - [The Book of Indian Birds by Salim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): India's classic bird guide, first published in 1941. Helps you name the birds you watch. Used in a1, p1, e1. 
 - [Wooden sparrow nest box](https://www.amazon.in/s?k=sparrow+nest+box) (material): A ready-made option for the Sparrow Home challenge, if you cannot make one. Used in c1. 
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Design a Sparrow Home. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before Design a Sparrow Home.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Busy Times: when do birds visit a water bowl?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before Busy Times: when do birds visit a water bowl?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Design a Sparrow Home. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Design a Sparrow Home.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Ant Trail Test: how do ants keep to the same path?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3. Get it before Ant Trail Test: how do ants keep to the same path?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Build a Nest with a Beak. About ₹10 to ₹40. Small round stones or dried chana. Used in a4. Get it before Build a Nest with a Beak.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is an owl busy in the day or at night? → At night. Owls are nocturnal.

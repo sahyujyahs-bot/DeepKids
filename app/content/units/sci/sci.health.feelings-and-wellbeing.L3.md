@@ -1,9 +1,9 @@
 # Feelings: how they show in your body, and how we read them in others
 `sci.health.feelings-and-wellbeing.L3`
 
-**Summary.** When you feel scared, your heart beats faster before you have even thought about it. Why? In this unit you will name feelings and find where you feel them in your body, test which feelings can be read from faces, and play a feelings charades game.
+**Summary.** When you feel scared, your heart beats faster before you have even thought about it. Why? In this lesson you will name feelings and find where you feel them in your body, test which feelings can be read from faces, and play a feelings charades game.
 
-**Intro.** *Try this with someone at home. Make the most scared face you can, with your mouth closed. Then make a surprised face, mouth closed. Can they tell which is which? Most people find these two faces very hard to tell apart. So how do we ever know what someone else is feeling?* Every day you read faces without thinking about it. You can tell when a parent is tired, or when a friend is upset. In this unit you test how good you really are at it. You play a face game, find out which feelings are easy to read and which get mixed up, and learn what a feeling does inside your body. You also find out what keeps your body and your feelings well, and why kindness and friendship matter to the body as well as the heart.
+**Intro.** *Try this with someone at home. Make the most scared face you can, with your mouth closed. Then make a surprised face, mouth closed. Can they tell which is which? Most people find these two faces very hard to tell apart. So how do we ever know what someone else is feeling?* Every day you read faces without thinking about it. You can tell when a parent is tired, or when a friend is upset. In this lesson you test how good you really are at it. You play a face game, find out which feelings are easy to read and which get mixed up, and learn what a feeling does inside your body. You also find out what keeps your body and your feelings well, and why kindness and friendship matter to the body as well as the heart.
 
 ## Learning outcomes
 0. I can name at least 10 feelings and say where I feel some of them in my body.
@@ -116,7 +116,7 @@ We have learned how feelings change the body and show on the face, and how hard 
 A feeling starts in one person, but it does not stay there. It shows on their face, and a friend who sees it often copies that face a little without noticing. A yawn or a laugh can spread round a room until many people are doing the same thing. In this small way people share a feeling, and that sharing is called empathy.
 
 - **Tirukkural 706 (chapter 71, 'Reading signs'), by Thiruvalluvar:** “அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம் / கடுத்தது காட்டும் முகம்.” As a crystal shows the colour of what is next to it, the face shows what is strongly felt in the heart. (Thiruvalluvar saw that strong feelings show on the face. The Face Test found that too, and also that some faces are hard to read.)
-- **Natya Shastra, chapter 6 (on rasa):** “तत्र विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः” A feeling in a play is shown through outward signs, such as the face, the eyes and the body, and the audience comes to taste that feeling themselves. (The outward signs are the same face and body changes this unit studied. The audience tasting the feeling is a kind of empathy.)
+- **Natya Shastra, chapter 6 (on rasa):** “तत्र विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः” A feeling in a play is shown through outward signs, such as the face, the eyes and the body, and the audience comes to taste that feeling themselves. (The outward signs are the same face and body changes this lesson studied. The audience tasting the feeling is a kind of empathy.)
 - **Mencius, Book 2A, chapter 6:** “今人乍見孺子將入於井，皆有怵惕惻隱之心。 / 非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。” Anyone who suddenly sees a small child about to fall into a well feels alarm and pity at once, before thinking of any reward. (The feeling comes before the thought, just as you jump at a cooker whistle before you know what the noise was. Caring for others starts as a feeling in the body.)
 - Science (settled): People often copy each other's faces very slightly without noticing, for example smiling a little when they see a smile.
 - Science (debated): Whether a few feelings have the same face in every person everywhere is still argued about.
@@ -611,7 +611,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - Some companies make computers that try to read feelings from faces. Many scientists warn these often get it wrong, for the same reasons people do.
 
 ## Spotted around us
-- A Kathakali performance in Kochi, where dancers show fear, anger and love with painted faces and moving eyes.
+- A Kathakali performance, where dancers show fear, anger and love with painted faces and moving eyes.
 - Cricket fans on television: leaping with joy, holding their heads in despair, all in the same over.
 - Emoji on a phone: tiny faces that copy the eyebrows, eyes and mouth of real feelings.
 - A baby on a train smiling back when someone smiles at her.
@@ -658,6 +658,10 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song
 - [Kerala Kalamandalam](https://www.kalamandalam.ac.in/) · place · Cheruthuruthy, near Thrissur: A school for Kathakali and other Kerala arts. Kathakali dancers train their eyes for years to show feelings.
 
 ## Things to buy
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Stop, Name, Choose: what to do with a big feeling. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in a5. Get it before Stop, Name, Choose: what to do with a big feeling.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Stop, Name, Choose: what to do with a big feeling. About ₹10 to ₹30. Any school ruler is fine. Used in a5. Get it before Stop, Name, Choose: what to do with a big feeling.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Navarasa: nine feelings in Indian dance. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a4. Get it before Navarasa: nine feelings in Indian dance.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name two feelings that are easy to mix up on a face. → Scared and surprised. Both lift the eyebrows and open the eyes wide.

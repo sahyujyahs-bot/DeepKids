@@ -1,7 +1,7 @@
 # Homeostasis: how your body keeps its warmth and water steady
 `sci.body.keeping-balance.L3`
 
-**Summary.** Why do you sweat when you are hot and shiver when you are cold? In this unit you will jump and notice what your body does, test a sweaty tumbler with a thermometer, see whether a matka pot can sweat, and hunt for thermostats at home.
+**Summary.** Why do you sweat when you are hot and shiver when you are cold? In this lesson you will jump and notice what your body does, test a sweaty tumbler with a thermometer, see whether a matka pot can sweat, and hunt for thermostats at home.
 
 **Intro.** *Put the back of your hand on your cheek. Your cheek feels warm, because your body is warm inside. Now put the back of your hand on a steel plate or a tile floor. It usually feels cooler than your cheek. Now think about a hot summer day and a cold winter day. On both days the inside of your body stays at about the same warmth. How does it do that?* Think about the hottest day you remember, maybe in May. Now think about a cold winter morning, when you wanted to stay under the blanket. The air around you changed a lot between those two days. But the inside of your body stayed almost exactly the same warmth, about 37 degrees. A steel plate left in the sun gets hot. Left outside on a winter night, it gets cold. You are not like the plate. Something inside you keeps checking your warmth and fixing it. That checking and fixing has a name: homeostasis.
 
@@ -783,6 +783,10 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): To take your own temperature. Every home should have one anyway. Used in e2. 
 - [Small clay matka or surahi](https://www.amazon.in/s?k=clay+matka+water+pot) (material): Keeps drinking water cool all summer. A local potter or market often has them more cheaply. Used in e3. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To watch goosebumps up close. You can also look with your eyes alone. Used in a5. 
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Jump and Notice: what does my body do?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Jump and Notice: what does my body do?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Thermostat Hunt. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a3. Get it before Thermostat Hunt.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Design a Suit for Another World. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before Design a Suit for Another World.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how warm is the inside of your body? → About 37 degrees.

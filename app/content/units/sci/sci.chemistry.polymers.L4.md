@@ -1,9 +1,9 @@
 # Polymers: how lined-up chains, twists and ties decide whether a material bends, stretches or snaps
 `sci.chemistry.polymers.L4`
 
-**Summary.** A sheet of newspaper tears straight one way and crooked the other. Why? In this unit you will tear newspaper both ways, make a cornflour film with and without glycerine to see what changes, and twist cotton wisps into a thread that holds.
+**Summary.** A sheet of newspaper tears straight one way and crooked the other. Why? In this lesson you will tear newspaper both ways, make a cornflour film with and without glycerine to see what changes, and twist cotton wisps into a thread that holds.
 
-**Intro.** *Take a sheet of newspaper. Tear it from top to bottom. Now tear another sheet from side to side. One tear runs as straight as a ruler. The other wanders about. It is the same kind of paper, and you tore it the same way. So what is different?* Paper is a mat of tiny plant fibres. When it is made, most of the fibres end up lying in one direction. A tear finds it easy to go between lined-up fibres, so it runs straight. Across them, the tear has to break fibres and wanders. In this unit you find out why lined-up fibres matter, and what the fibres are made of. You twist cotton into thread, cook a plastic-like film from cornflour, and heat plastic strips in hot water. You meet the chemist who found a fibre stronger than steel in a bowl of cloudy liquid.
+**Intro.** *Take a sheet of newspaper. Tear it from top to bottom. Now tear another sheet from side to side. One tear runs as straight as a ruler. The other wanders about. It is the same kind of paper, and you tore it the same way. So what is different?* Paper is a mat of tiny plant fibres. When it is made, most of the fibres end up lying in one direction. A tear finds it easy to go between lined-up fibres, so it runs straight. Across them, the tear has to break fibres and wanders. In this lesson you find out why lined-up fibres matter, and what the fibres are made of. You twist cotton into thread, cook a plastic-like film from cornflour, and heat plastic strips in hot water. You meet the chemist who found a fibre stronger than steel in a bowl of cloudy liquid.
 
 ## Learning outcomes
 0. I can explain that a polymer is a long chain of small pieces called monomers, and give examples that living things make and examples that people make.
@@ -726,6 +726,10 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [A small bottle of glycerine](https://www.amazon.in/s?k=glycerine+pure+100ml) (material): For the Cornflour Film test and the Better Film challenge. Chemist shops sell small bottles cheaply. Used in e1, c2. 
 - [A roll of cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): For the Wisp and Thread activity and the Takli project. Chemist shops sell it. Used in a2, p1. 
 - [A ready-made takli spindle](https://www.amazon.in/s?k=takli+spindle+cotton+spinning) (tool): If you would like a proper spindle after making your own for the Takli project. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Cornflour Film: what does glycerine do?, Hot Water Plastics: what does heat do to different plastics?, Tear the Newspaper: which way does it tear straight?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, p1, c1, c2. Get it before Cornflour Film: what does glycerine do?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Newspaper Tower: hold the most books with four sheets of paper. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Newspaper Tower: hold the most books with four sheets of paper.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Cornflour Film: what does glycerine do?, Better Film: bendy but not sticky. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1, c2. Get it before Cornflour Film: what does glycerine do?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a polymer? → A very long molecule made of many small pieces joined in a chain.

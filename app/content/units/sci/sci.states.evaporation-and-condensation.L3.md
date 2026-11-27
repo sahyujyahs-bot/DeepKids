@@ -1,9 +1,9 @@
 # Evaporation and condensation: where water goes when things dry
 `sci.states.evaporation-and-condensation.L3`
 
-**Summary.** A puddle on the balcony is gone by the afternoon. Where did the water go? In this unit you will find where the drops under a pot lid come from, test whether a wet cloth can dry inside a closed box, and hunt for the dampest air in your home.
+**Summary.** A puddle on the balcony is gone by the afternoon. Where did the water go? In this lesson you will find where the drops under a pot lid come from, test whether a wet cloth can dry inside a closed box, and hunt for the dampest air in your home.
 
-**Intro.** *In Chennai in November, a washed school uniform can stay damp on the line for two days. In May, the same uniform dries in about an hour. The cloth is the same, and so is the water in it. So what is different?* The answer is in the air around the cloth. In this unit you find out where water goes when something dries, and how it comes back as drops on cold things. You test it yourself with two wet cloths, one in an open box and one in a closed box. By the end you can say why a monsoon day dries clothes so slowly.
+**Intro.** *In Chennai in November, a washed school uniform can stay damp on the line for two days. In May, the same uniform dries in about an hour. The cloth is the same, and so is the water in it. So what is different?* The answer is in the air around the cloth. In this lesson you find out where water goes when something dries, and how it comes back as drops on cold things. You test it yourself with two wet cloths, one in an open box and one in a closed box. By the end you can say why a monsoon day dries clothes so slowly.
 
 ## Learning outcomes
 0. I can say what evaporation is: liquid water turning into water vapour, a gas we cannot see, even when the water is not boiling.
@@ -35,12 +35,16 @@ Water is made of tiny particles that are always moving and bumping into each oth
 - e.g. A mopped floor dries without anyone heating it.
 - e.g. Sweat on your skin evaporates, and that cools you down.
 - e.g. Vadams and papads dry on a sunny terrace because the water in them evaporates.
+- **Aristotle:** In his Meteorologica he taught that the Sun draws up a moist 'exhalation' from water and the earth, which makes clouds and rain.
+- **Modern physicists:** Explain that water molecules at the surface move fast enough to escape as a gas. No exhalation is needed, only motion.
 ### Where the water goes · *defined*
 **Definition:** When water evaporates, it is not destroyed. The same water particles are in the air as water vapour.
 
 Water vapour is invisible, so it looks as if the water has vanished. But the particles are still there, spread out among the particles of the air. The air in every room holds some water vapour. You can get it back as drops by cooling it, for example on a cold bottle or a cold lid. In the Closed Box Test you trap the vapour and see it come back.
 - e.g. Breathe on a cold mirror. The water vapour in your breath turns back into a mist of drops.
 - e.g. Water evaporated from the Bay of Bengal falls again as rain.
+- **Old Indian writers such as Kalidasa:** Described the Sun's rays drawing up water, which clouds return as rain.
+- **Modern science:** Evaporated water becomes vapour in the air, which stays water and comes back down as rain.
 ### What condensation is · *defined*
 **Definition:** Condensation is water vapour turning back into liquid water. It happens when water vapour touches something colder than the air.
 
@@ -48,12 +52,16 @@ A cold surface takes warmth from the water particles that hit it. They slow down
 - e.g. Drops collect under the lid of a pot of cooking dal.
 - e.g. Spectacles mist up when you step out of an air-conditioned room into a hot, damp street.
 - e.g. A bathroom mirror mists over during a hot bath.
+- **Old belief:** Many people thought dew fell from the sky or rose from the ground.
+- **William Charles Wells:** In 1814 he showed that dew forms when objects cool at night and water vapour in the air touches them. He used careful tests with wool and the cold of clear nights.
 ### Leaving and landing back, at the same time · *defined*
 **Definition:** At every wet surface, water particles evaporate and condense at the same time. A wet thing dries only when more particles leave than land back.
 
 Water vapour particles in the air fly about in every direction. Some hit the wet cloth and stick, so they condense back into it. In open air, the vapour from the cloth drifts away, so far fewer particles land back than leave. The cloth dries. In a closed box, the vapour cannot get away. Soon as many particles land back each second as leave. The air in the box is then saturated, and the cloth stays wet, even though water is still leaving it.
 - e.g. A wet cloth in a closed box stays wet for days.
 - e.g. A towel left folded in a heap stays damp inside, where the air cannot move.
+- **Everyday view:** A wet cloth dries and gives water to the air. Nothing seems to come back.
+- **Physicists:** Explain that molecules leave and return all the time. A cloth dries when more leave than return, and a bathroom mirror mists when more return than leave.
 ### What makes things dry faster · *defined*
 **Definition:** Things dry faster when they are warm, when the air around them moves, when they are spread out, and when the air is dry.
 
@@ -61,24 +69,32 @@ Warmth makes water particles move faster, so more escape. Moving air carries the
 - e.g. A uniform dries faster under a fan than on a chair in a still room.
 - e.g. A sari dries faster spread along the line than bunched up.
 - e.g. Clothes dry fast in hot, dry May and slowly in the damp of the northeast monsoon.
+- **Physicists:** Name warmth, moving air, a spread surface and dry air as the helpers of drying.
+- **Indian potters and households:** Use the matka, an unglazed clay pot. Water seeps to the outside and evaporates, taking heat from the water inside, so the water in it stays cool.
 ### Boiling, and the white cloud above a pan · *defined*
 **Definition:** Boiling is evaporation so fast that bubbles of water vapour form inside the water. The white cloud above a boiling pan is tiny drops of water, not water vapour.
 
 At sea level, water boils at 100 degrees Celsius. Then water vapour forms inside the water, not only at the top, and rises as bubbles. Just above the pan, the water vapour is invisible. Look closely and there is a clear gap just above the spout of a kettle. A little higher, the vapour meets cooler air and condenses into tiny drops. These drops are the white cloud people call steam. Higher still, the drops evaporate again and the cloud vanishes.
 - e.g. Watch a kettle spout: there is a clear gap, then a white cloud, then nothing.
 - e.g. On top of Mount Everest, water boils at only about 70 degrees Celsius, because the air presses on it less.
+- **Cooks:** Call the white cloud above a pan steam.
+- **Physicists:** Say true steam is a clear gas that cannot be seen. The white cloud is tiny drops of water formed as the steam cools. Denis Papin showed in 1679 that raising the pressure raises the boiling point, as in a pressure cooker.
 ### Dew and fog · *defined*
 **Definition:** Dew is water vapour that condenses on surfaces that have cooled down at night. Fog is water vapour that condenses into tiny drops floating in the air near the ground.
 
 On a clear night, grass, leaves and car roofs give off their warmth to the open sky and cool down. When they become cold enough, water vapour from the air condenses on them as dew. Clouds act like a blanket, so on cloudy nights things cool less and less dew forms. Wind mixes in warmer air, which also means less dew. When the air near the ground itself cools enough, its vapour condenses into tiny floating drops. That is fog, a cloud at ground level.
 - e.g. Dew on a car windscreen on a clear winter morning.
 - e.g. Morning mist in Ooty and Kodaikanal that lifts as the Sun warms the air.
+- **Aristotle:** Taught that dew falls from the sky.
+- **William Wells (1814):** Showed dew forms from vapour in the air, on surfaces that have cooled at night.
 ### Living things that drink the fog · *defined*
 **Definition:** Some living things get water by letting water vapour or fog condense on their bodies.
 
 In the Namib Desert in Africa, it almost never rains. Many beetles there need water to stay alive, and there are no puddles to drink from. On some mornings, fog rolls in from the sea. Then one kind of beetle climbs to the top of a sand dune. They tip their body forward, with their head down and their back raised into the fog. Fog drops collect on their back, join into bigger drops and run down to their mouth. Scientists first described this fog-basking in 1976.
 - e.g. Fog-basking beetles in the Namib Desert.
 - e.g. People in some dry, foggy places hang large nets that catch fog drops and drip them into tanks.
+- **The Namib beetle:** This beetle stands on a dune with its back to the foggy wind, and drops form on its bumpy shell and roll to its mouth.
+- **Coast redwood trees:** Trees in California take in water through their leaves from fog. Researchers found in 2004 that fog can give a redwood a good share of its water in summer.
 
 ## Mostly agreed
 - When water evaporates, it becomes water vapour, an invisible gas. The water is not destroyed. *How we know:* Water vapour can be turned back into the same amount of liquid water by cooling it. Scientists have weighed this carefully.
@@ -463,7 +479,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 7. (fill) A wet cloth dries only when more water ____ it than lands back on it.  
    **Answer:** ['leaves']. *Why:* Water leaves and lands back all the time. The cloth dries when the leaving is greater than the landing back.
 8. (match) Match each word to what it means.  
-   **Answer:** Evaporation → water turning into a gas; Condensation → water vapour turning back into drops; Water vapour → water as an invisible gas; Dew → drops that form on cool things on clear nights. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about drying.
+   **Answer:** Evaporation → water turning into a gas; Condensation → water vapour turning back into drops; Water vapour → water as an invisible gas; Dew → drops that form on cool things on clear nights. *Why:* Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about drying.
 9. (sort) Sort these. Is each one evaporation or condensation?  
    **Answer:** wet clothes drying on a line → Evaporation; drops under the lid of a rice pot → Condensation; a puddle shrinking in the sun → Evaporation; spectacles misting when you step out of an AC room → Condensation; a wet kolam drawing drying on the doorstep → Evaporation; dew on a scooter seat in the morning → Condensation. *Why:* In evaporation, water leaves something wet and goes into the air. In condensation, water comes out of the air onto something cold.
 10. (mcq) In the Closed Box Test, the cloth in the open box dried, but the cloth in the closed box stayed wet. What was different for the cloth in the closed box?  
@@ -610,7 +626,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 - Spectacles misting up as you step out of an air-conditioned bus or shop into a humid street.
 - A bathroom mirror misted over after a hot bath.
 - Dew on a parked scooter seat or a car windscreen in the morning.
-- Winter fog in Delhi, and morning mist in Ooty and Kodaikanal.
+- Winter fog in the city, and morning mist in the hills.
 - Vadams and papads drying on a terrace in the summer sun.
 - An AC drain pipe dripping onto a balcony.
 
@@ -655,12 +671,17 @@ Up as Vapour, Down as Drops (sci.states.L3): Topic-level song for Solids, liquid
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free simulation. Heat and cool water and watch its particles change from solid to liquid to gas.
 - [India Meteorological Department: weather and humidity](https://mausam.imd.gov.in) · interactive: Look up today's humidity in your city. Compare a humid day with a dry day in your Drying Diary.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for clouds and condensation.
-- [The salt pans near Thoothukudi]() · place · Thoothukudi, Tamil Nadu: Wide, shallow ponds where the sun and wind evaporate sea water, leaving heaps of white salt. You can often see them from the road.
+- The salt pans near Thoothukudi · place · Thoothukudi, Tamil Nadu: Wide, shallow ponds where the sun and wind evaporate sea water, leaving heaps of white salt. You can often see them from the road.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries on matter, heat and water.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about heat, air and water.
-- [The hills at Ooty or Kodaikanal on a misty morning]() · place · Nilgiris and Dindigul districts, Tamil Nadu: Watch morning mist lie in the valleys and lift as the Sun warms the air.
+- The hills at Ooty or Kodaikanal on a misty morning · place · Nilgiris and Dindigul districts, Tamil Nadu: Watch morning mist lie in the valleys and lift as the Sun warms the air.
 
 ## Things to buy
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Damp Air Hunt: which room has the dampest air?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before The Damp Air Hunt: which room has the dampest air?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Keep the Mirror Clear. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c2. Get it before Keep the Mirror Clear.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The AC Pipe Mystery (if your home or a neighbour's has an AC). About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in a4. Get it before The AC Pipe Mystery (if your home or a neighbour's has an AC).
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Keep the Mirror Clear. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c2. Get it before Keep the Mirror Clear.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call water turning into water vapour? → Evaporation.

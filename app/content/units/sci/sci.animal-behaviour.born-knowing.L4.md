@@ -1,9 +1,9 @@
 # Reflexes, instincts and imprinting: what animals can do without lessons
 `sci.animal-behaviour.born-knowing.L4`
 
-**Summary.** A newly hatched duckling follows the first moving thing it sees, with no lessons. How can an animal know things it was never taught? In this unit you will find three reflexes in yourself, test what cold water on the face does to your heartbeat, and judge which drawn face is cuter.
+**Summary.** A newly hatched duckling follows the first moving thing it sees, with no lessons. How can an animal know things it was never taught? In this lesson you will find three reflexes in yourself, test what cold water on the face does to your heartbeat, and judge which drawn face is cuter.
 
-**Intro.** *A goose is rolling a stray egg back to her nest with her beak. A scientist takes the egg away halfway. The goose goes on with the rolling movement, all the way to the nest, with no egg under her beak. Why did she not stop?* The goose was born able to make this rolling movement. A round thing lying near her nest sets the movement off. Once the movement starts, it runs to the end. Your body has patterns like this too. A blink, a swallow and a yawn each wait for a trigger. In this unit you find the triggers for three of your own reflexes. You test whether cold water on your face changes your heartbeat. You also meet the ducklings who follow the first moving thing they see.
+**Intro.** *A goose is rolling a stray egg back to her nest with her beak. A scientist takes the egg away halfway. The goose goes on with the rolling movement, all the way to the nest, with no egg under her beak. Why did she not stop?* The goose was born able to make this rolling movement. A round thing lying near her nest sets the movement off. Once the movement starts, it runs to the end. Your body has patterns like this too. A blink, a swallow and a yawn each wait for a trigger. In this lesson you find the triggers for three of your own reflexes. You test whether cold water on your face changes your heartbeat. You also meet the ducklings who follow the first moving thing they see.
 
 ## Learning outcomes
 0. I can say what a reflex is, and name the stimulus and the response of three reflexes.
@@ -18,7 +18,7 @@
 ## Terms
 - **Ethology**: The science of how animals behave, studied by watching them and testing them. *e.g.* Konrad Lorenz and Niko Tinbergen were ethologists. They watched geese, gulls and fish for years.
 - **Innate**: Present from birth or hatching, without being taught. Another word for it is inborn. *e.g.* A duckling's urge to follow is innate. Nobody teaches it.
-- **Stimulus**: The thing that sets off a response. In this unit we also call it the trigger. *e.g.* A drop of lemon juice on your tongue is a stimulus. It makes your mouth water.
+- **Stimulus**: The thing that sets off a response. In this lesson we also call it the trigger. *e.g.* A drop of lemon juice on your tongue is a stimulus. It makes your mouth water.
 - **Response**: What the body or the animal does after the stimulus. *e.g.* When something flies at your eye, the blink is the response.
 - **Reflex**: A fast, automatic response of the body to one particular stimulus. Nobody has to learn it. *e.g.* Your hand pulls away from a hot tumbler before you feel the pain.
 - **Diving reflex**: The slowing of the heart when the face is in cold water and the breath is held. *e.g.* A seal's heart slows as soon as she dives. Yours slows a little too.
@@ -155,7 +155,7 @@ In the Cold Face Test, cold water on your face slowed your heart. You also met d
 
 The diving reflex is in the seal, the duck, the dolphin and you. These are separate bodies, and they carry the same piece of know-how, because they grew from the same ancestors. A gosling is handed the urge to follow, and the world around her supplies the rest. The Upanishads teach that one life looks out through many bodies. Biology does not say that, but it says something close. All animals are one family, and much of what each one can do was inherited from that family.
 
-- **Yoga Sutras of Patanjali 2.9, with the old commentary of Vyasa:** “स्वरसवाही विदुषोऽपि तथारूढोऽभिनिवेशः” The sutra says that the will to go on living flows by itself, even in the wise. Vyasa adds that even a newborn worm shrinks from danger, though nothing in this life has taught them to. (These thinkers noticed what this unit tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same.)
+- **Yoga Sutras of Patanjali 2.9, with the old commentary of Vyasa:** “स्वरसवाही विदुषोऽपि तथारूढोऽभिनिवेशः” The sutra says that the will to go on living flows by itself, even in the wise. Vyasa adds that even a newborn worm shrinks from danger, though nothing in this life has taught them to. (These thinkers noticed what this lesson tests: a newborn animal acts rightly with no lesson. They explained it by earlier lives of the same being. Biology explains it by the lives of ancestors, passed on through DNA. The two answers differ, but the question is the same.)
 - **Mencius 2A:6:** “今人乍見孺子將入於井，皆有怵惕惻隱之心。 / 非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。” Mencius says that anyone who sees a small child about to fall into a well feels alarm at once. They feel alarm and pity before any thought of praise or reward. (Mencius was arguing that goodness starts from something inborn, and he was not doing biology. Yet he describes a response in every person that one particular sight sets off. Lorenz's idea about baby faces is a later version of the same thought.)
 - **Bhagavad Gita 3.33:** “सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि। / प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति।।” The verse says that even a wise person acts according to their own nature. All beings follow their nature, and forcing alone achieves little. (In Find the Trigger you knew the sock ball could not hit you, and you blinked anyway. The next verse of the Gita adds that a person need not be ruled by every pull. Humans can notice an urge and still choose what to do after it.)
 - Science (settled): All animals with backbones share ancestors and inherit their bodies through DNA. The diving reflex has been found in every air-breathing kind that has been tested.
@@ -593,7 +593,7 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 ## Videos
 - **Konrad Lorenz walking and swimming with his greylag goslings** (, 4 min) id `2tsR77Mb9qk`: To see imprinted goslings following a person on land and in water. *Check:* Found by YouTube search: Why Did Baby Geese Follow An Old Man | What Goslings Taught Us About Humans | Science made Simple, Science Easy Peasy Title checked automatically; a parent may still preview it.
 - **Crane chicks raised by keepers in costumes, with a crane-head puppet** (, 4 min) id `8WRKBaDVHLc`: To see how keepers stop crane chicks from imprinting on humans, as in the Crane Puppet challenge. *Check:* Found by YouTube search: Audubon Staff Costume rear Endangered Chicks By Dressing Up As Whooping Cranes, ZooBorns Title checked automatically; a parent may still preview it.
-- **A greylag goose rolling an egg back to her nest** (, 3 min) id `7PcteKRA3zs`: To see the fixed action pattern from the start of this unit on a real goose. *Check:* Found by YouTube search: Goose egg-rolling, Rachel Doyle Title checked automatically; a parent may still preview it.
+- **A greylag goose rolling an egg back to her nest** (, 3 min) id `7PcteKRA3zs`: To see the fixed action pattern from the start of this lesson on a real goose. *Check:* Found by YouTube search: Goose egg-rolling, Rachel Doyle Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) Which of these is a reflex?  
@@ -641,12 +641,12 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 - A shepherd sometimes needs a ewe to accept an orphan lamb. The shepherd brings them together soon after the ewe has given birth. She is still learning her own lamb's smell then.
 
 ## Spotted around us
-- A line of ducklings hurrying after a mother duck in the paddy fields of Kuttanad in Kerala.
+- A line of ducklings hurrying after a mother duck beside a pond or a paddy field.
 - Chicks following a hen across a yard. When she stops, they stop.
 - A koel calling 'ku-oo' from a neem or mango tree. That koel was raised by foster parents, most often crows.
 - A newborn calf or kid getting up on shaky legs and pushing their nose under the mother to find milk.
 - People on a morning bus or metro yawning one after another.
-- Greylag geese and bar-headed geese who spend the winter at Keoladeo in Rajasthan and Chilika Lake in Odisha. Greylag geese are the geese that Lorenz studied.
+- Geese on a lake or in a park, following a person or their mother in a line. Lorenz studied how baby geese follow the first moving thing they see.
 
 ## Open questions
 - **How does DNA build the wiring for a whole behaviour, such as digging a burrow with an escape tunnel?** Scientists have linked a few regions of DNA to parts of some behaviours. Nobody can yet follow every step from a gene to a movement.
@@ -700,6 +700,11 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 
 ## Things to buy
 - [King Solomon's Ring, a book by Konrad Lorenz (first published in English in 1952)](https://www.amazon.in/s?k=King+Solomon%27s+Ring+Konrad+Lorenz) (book): For the parent or an older child: Lorenz's own stories of living with geese, ducklings and jackdaws. Used in a3. After the activity When Does the Window Close, a parent can read one part aloud. In it, Lorenz squats and quacks to lead his mallard ducklings.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Big Eyes Test: which drawn face do people find cuter?, When Does the Window Close? Draw the ducklings' graph. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a3. Get it before The Big Eyes Test: which drawn face do people find cuter?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Crane Puppet: feed a chick who must never see a human. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Crane Puppet: feed a chick who must never see a human.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Crane Puppet: feed a chick who must never see a human. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c1. Get it before The Crane Puppet: feed a chick who must never see a human.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in When Does the Window Close? Draw the ducklings' graph. About ₹10 to ₹30. Draw squares on plain paper. Used in a3. Get it before When Does the Window Close? Draw the ducklings' graph.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a reflex? → A fast, automatic response of the body to one stimulus, which nobody has to learn.
@@ -717,9 +722,9 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 - Core: a1, e1, a2, g1, e2, ws-core
 
 ## Sources
-- Founder's notebook, Biology list, items 92 to 98: behavioural biology and ethology, innate and learned behaviours, fixed action patterns, imprinting, reflexes and instincts, habituation. The items are titles only. This unit takes fixed action patterns, imprinting, reflexes and instincts. Habituation is left for level 5, and it is taught in sci.animal-behaviour.animal-learning.L4.
+- Founder's notebook, Biology list, items 92 to 98: behavioural biology and ethology, innate and learned behaviours, fixed action patterns, imprinting, reflexes and instincts, habituation. The items are titles only. This lesson takes fixed action patterns, imprinting, reflexes and instincts. Habituation is left for level 5, and it is taught in sci.animal-behaviour.animal-learning.L4.
 - Curriculum entry sci.animal-behaviour.born-knowing.L4: 'Instincts, reflexes and fixed patterns; ducklings that follow the first thing they see (imprinting, Konrad Lorenz).' No board chapters are mapped, and there is no ideas/by_topic file for animal behaviour.
-- The Class 2 unit sci.animal-behaviour.born-knowing.L2 was read so that nothing repeats. It has the knee kick Stop Test, the spider web, the newborn grip, turtle hatchlings, the baya weaver and the story The Grip and the Web. This unit goes on to stimulus and response, the diving reflex, fixed action patterns, sign stimuli, supernormal stimuli and imprinting.
+- The Class 2 unit sci.animal-behaviour.born-knowing.L2 was read so that nothing repeats. It has the knee kick Stop Test, the spider web, the newborn grip, turtle hatchlings, the baya weaver and the story The Grip and the Web. This lesson goes on to stimulus and response, the diving reflex, fixed action patterns, sign stimuli, supernormal stimuli and imprinting.
 - Other units were checked for overlap: sci.animal-behaviour.animal-learning.L3 and L4 (copying, habituation, the Spoon Test), sci.body.keeping-balance.L4 (the pupil test), sci.gravity.falling.L3 (the falling ruler) and sci.body.heart-blood-breath.L4 (pulse tests, which mention the diving reflex but do not test it).
 - Spalding D. A. (1873). Instinct, with original observations on young animals. Macmillan's Magazine 27: 282-293. Reprinted in the British Journal of Animal Behaviour in 1954, with an introduction by J. B. S. Haldane.
 - Heinroth O. (1911). Beiträge zur Biologie, namentlich Ethologie und Psychologie der Anatiden. Proceedings of the 5th International Ornithological Congress, Berlin.

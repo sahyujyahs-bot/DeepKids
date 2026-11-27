@@ -1,7 +1,7 @@
 # Symmetry in nature and art: moves that change nothing, and how nature breaks them
 `sci.patterns-symmetry.symmetry-in-nature.L4`
 
-**Summary.** A square card fits back into its own outline in eight ways, but a triangle with three different sides fits in only one. In this unit you will count the fits of different shapes, see a pushed strip bend one way or the other, and use two mirrors to count the copies you see.
+**Summary.** A square card fits back into its own outline in eight ways, but a triangle with three different sides fits in only one. In this lesson you will count the fits of different shapes, see a pushed strip bend one way or the other, and use two mirrors to count the copies you see.
 
 **Intro.** *Hold up your left hand, then your right. They are the same size, with the same fingers in the same order. Now try to lay your left hand exactly on top of your right, both palms down. You cannot, however you turn it. What is different between two things that match in every measurement?* In Class 3 you found lines of symmetry by folding and rotational symmetry by turning. Now we go one step deeper. A symmetry is any move that leaves a shape looking the same. You will count all the moves a shape allows and see why borders on sarees come in exactly seven kinds. You will find out why hands, screws and shells are 'handed': each has a mirror twin that no turning can match. Then you will push a strip and watch a perfectly even push make a lopsided bend.
 
@@ -737,7 +737,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - A pair of chappals, shoes or gloves in the shoe rack, each left one the mirror twin of a right one.
 - A kolam or rangoli border around a doorstep, with shapes that flip or repeat along the edge.
 - A snail shell on a garden wall or a shankha at a temple, coiled one way.
-- A crab with one big claw, or a flatfish with both eyes on one side, at a fish market in Kochi or Chennai.
+- A crab with one big claw, or a flatfish with both eyes on one side, at a fish market.
 - Your own heartbeat, felt on the left side of your chest, though your body looks even outside.
 
 ## Open questions
@@ -795,6 +795,11 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 - [Two small flat mirror tiles or compact mirrors](https://www.amazon.in/s?k=small+mirror+tiles+craft) (material): For the Two Mirrors activity. Two small mirror tiles or plastic mirror sheets from a hardware, craft or general store cost about Rs 20 to 50 each. A pair of compact mirrors from a stationery shop works too. Used in a2. 
 - [A geometry box with a protractor and a compass](https://www.amazon.in/s?k=geometry+box+protractor+compass) (tool): For making the equal-sided triangle in the Fit-Back Count, for drawing angles and for the Badge Designer challenge. Most children already have one. Used in e1, a2, c1. 
 - [A pack of thin card sheets](https://www.amazon.in/s?k=thin+card+sheets+craft+a4) (material): For the shapes in the Fit-Back Count and the strips in the Pushed Strip test. A cereal box also works. Used in e1, e2, a1, a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Fit-Back Count: how many ways does each shape fit its outline?, The Pushed Strip: which way does it bend?, Stamp a Border: five moves, five borders. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, p1, c1. Get it before Fit-Back Count: how many ways does each shape fit its outline?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Two Mirrors: how many copies do you see?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2. Get it before Two Mirrors: how many copies do you see?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Left, Right or Both? A handedness hunt, The Symmetry Notebook: four days of finding, Badge Designer: exactly the number of symmetries you are asked for. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a3, p1, c1. Get it before Left, Right or Both? A handedness hunt.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Left, Right or Both? A handedness hunt. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a3. Get it before Left, Right or Both? A handedness hunt.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four moves that can leave a shape looking the same. → A flip, a turn, a slide and a glide.
@@ -815,7 +820,7 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 ## Sources
 - ideas/by_topic/patterns-and-symmetry.md: Grade 4 symmetry row (broken symmetry creates diversity, snail shell chirality, a pencil choosing a direction as it falls, imperfection as a generator of form), used for the symmetry breaking and handedness parts
 - ideas/by_topic/patterns-and-symmetry.md: SCI Cards for Emmy Noether, Chien-Shiung Wu and Dan Shechtman, used for the Noether, Wu and quasicrystal explanations and the how-we-found-out story
-- The Class 3 symmetry unit, which this unit builds on: it covered line and rotational symmetry, so Level 4 extends to all moves, counting and handedness. Its experiments and story are not reused
+- The Class 3 symmetry unit, which this lesson builds on: it covered line and rotational symmetry, so Level 4 extends to all moves, counting and handedness. Its experiments and story are not reused
 - Fedorov, E. S., 1891, proof that there are 17 plane symmetry groups; Polya, G., Zeitschrift fur Kristallographie 60, 1924
 - Noether, E., 'Invariante Variationsprobleme', Nachrichten von der Gesellschaft der Wissenschaften zu Goettingen, 1918
 - Lee, T. D. and Yang, C. N., 'Question of parity conservation in weak interactions', Physical Review 104, 1956

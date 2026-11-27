@@ -1,9 +1,9 @@
 # Why life lives where it does: moving continents, islands and invasive species
 `sci.habitats.where-life-lives.L5`
 
-**Summary.** Both polar seas are freezing and full of fish, yet penguins live only in the south and polar bears only in the north. Why? In this unit you will place eight animals on a world map, test whether two families of copies that never mix stay alike, and line up fossils on the Gondwana jigsaw.
+**Summary.** Both polar seas are freezing and full of fish, yet penguins live only in the south and polar bears only in the north. Why? In this lesson you will place eight animals on a world map, test whether two families of copies that never mix stay alike, and line up fossils on the Gondwana jigsaw.
 
-**Intro.** *Penguins swim in icy seas and eat fish. The Arctic, at the top of the world, is an icy sea full of fish. So why does no penguin live in the Arctic?* The Arctic would probably suit a penguin. But penguins first lived in the far south, and nearly all of them still do. Between the south and the Arctic lie thousands of kilometres of warm sea, and penguins need cold water. Polar bears have the same problem the other way round. Their ancestors were bears of the north, and no bear ever walked to Antarctica. So there are two questions to ask about any living being. Does this place suit her? And could her ancestors get here? The study of where living beings are found, and why, is called biogeography. In this unit you find the barriers that keep living beings apart. You learn that the continents themselves move. And you test what happens when one family is split in two.
+**Intro.** *Penguins swim in icy seas and eat fish. The Arctic, at the top of the world, is an icy sea full of fish. So why does no penguin live in the Arctic?* The Arctic would probably suit a penguin. But penguins first lived in the far south, and nearly all of them still do. Between the south and the Arctic lie thousands of kilometres of warm sea, and penguins need cold water. Polar bears have the same problem the other way round. Their ancestors were bears of the north, and no bear ever walked to Antarctica. So there are two questions to ask about any living being. Does this place suit her? And could her ancestors get here? The study of where living beings are found, and why, is called biogeography. In this lesson you find the barriers that keep living beings apart. You learn that the continents themselves move. And you test what happens when one family is split in two.
 
 ## Learning outcomes
 0. By the end I can give three reasons why a living being is found in one place and not in another.
@@ -187,7 +187,7 @@ Follow the chain from the smallest thing to the largest. Deep in the Earth, atom
   Against: DNA family trees show that many of India's mammals, birds and reptiles have their nearest relatives in the rest of Asia. Their ancestors probably arrived after India joined Asia.
 
 ## Roots
-In this unit you copied lines, fitted continents together and met plants that crossed an ocean with people. Here we ask what it means that living beings become different when they are kept apart.
+In this lesson you copied lines, fitted continents together and met plants that crossed an ocean with people. Here we ask what it means that living beings become different when they are kept apart.
 
 **Deep truth.** In the Separated Lines Test, four families of lines began as copies of one 100 millimetre line. You copied every line as carefully as you could. The two families kept apart still ended at different lengths, and the two that mixed stayed close. So living beings who are kept apart become different, and those who keep mixing stay alike. A sea between them is enough, given a very long time.  
 *Habit it breaks:* When the animals of an island differ from those of the mainland, we ask what the island did to them. The test points another way. The separated copies became different with nothing done to them. They were only kept apart. So the first thing to look for is the barrier.  
@@ -197,9 +197,9 @@ In this unit you copied lines, fitted continents together and met plants that cr
 - *what is life:* Life copies itself, and no copy is perfect. So wherever a barrier holds two groups apart, life becomes two kinds.
 - *what is this world:* The ground is not fixed. The land you live on has crossed an ocean, and it still moves about 5 centimetres every year.
 
-All living beings on Earth share one ancestor. From that one beginning came millions of kinds. This unit shows one way it happened. Moving plates, rising seas and rare journeys kept splitting groups apart, and each separated group went on changing by itself. So the many kinds of life are one family that has been divided again and again. When people carry a plant across an ocean, they undo in a few weeks a separation that lasted millions of years.
+All living beings on Earth share one ancestor. From that one beginning came millions of kinds. This lesson shows one way it happened. Moving plates, rising seas and rare journeys kept splitting groups apart, and each separated group went on changing by itself. So the many kinds of life are one family that has been divided again and again. When people carry a plant across an ocean, they undo in a few weeks a separation that lasted millions of years.
 
-- **Purananuru 192, by Kaniyan Pungundranar (Tamil, about 2,000 years old):** “யாதும் ஊரே; யாவரும் கேளிர்” The poet says that every town is his town and every person is his kin. He says life makes its way like a raft on a great river in flood, carried where the water takes it. (The poet was speaking of people. It meets this unit's science in two plain ways. Many living beings are where they are because a current, a wind or a moving land carried their ancestors there. And all living beings are one family, so each one is kin to the rest.)
+- **Purananuru 192, by Kaniyan Pungundranar (Tamil, about 2,000 years old):** “யாதும் ஊரே; யாவரும் கேளிர்” The poet says that every town is his town and every person is his kin. He says life makes its way like a raft on a great river in flood, carried where the water takes it. (The poet was speaking of people. It meets this lesson's science in two plain ways. Many living beings are where they are because a current, a wind or a moving land carried their ancestors there. And all living beings are one family, so each one is kin to the rest.)
 - **Dhammapada 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” The Buddha says that all things that are put together pass away, and that seeing this clearly leads to peace. (A continent seems the most lasting thing there is. Yet Gondwana broke into pieces, and the sea between India and Sri Lanka was dry land 7,000 years ago. Here the science agrees with the verse: lands, seas and kinds of living beings all change.)
 - Science (settled): All living beings on Earth share one ancestor. Every one of them uses the same DNA code.
 - Science (settled): The Earth's plates are moving now. Satellites measure the movement, which is a few centimetres a year.
@@ -689,7 +689,7 @@ She set the plant back on the water, and Unni pushed off for school.
 
 ## Videos
 - **The Scientist Who Mapped the Seafloor: Marie Tharp | Great Minds** (SciShow, 5 min) id `-mOjsn5UrWM`: To see how Marie Tharp drew the floor of the Atlantic Ocean, and found the valley that helped to show the continents move. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **The Birth of the Himalayas: A Geological Journey | How the Himalayas formed** (The Infinite Madness, 4 min) id `QLmiNnbETqE`: To watch India leave Gondwana, cross the sea and push into Asia, as a computer animation. *Check:* Id, title and channel confirmed through YouTube's public lookup. It is a computer animation and was not watched from here: a parent should preview it and check the dates against this unit.
+- **The Birth of the Himalayas: A Geological Journey | How the Himalayas formed** (The Infinite Madness, 4 min) id `QLmiNnbETqE`: To watch India leave Gondwana, cross the sea and push into Asia, as a computer animation. *Check:* Id, title and channel confirmed through YouTube's public lookup. It is a computer animation and was not watched from here: a parent should preview it and check the dates against this lesson.
 - **The threat of invasive species - Jennifer Klos** (TED-Ed, 5 min) id `spTWwqVP_2s`: To see how people carry species round the world, and why a few of them spread out of control. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
@@ -742,10 +742,10 @@ She set the plant back on the water, and Unni pushed off for school.
 - Lantana bushes on a roadside or the edge of a forest, with small pink, orange and yellow flowers in tight bunches.
 - A pond, lake or canal covered from bank to bank with water hyacinth, in almost any Indian city.
 - Parthenium on an empty plot or beside a railway line: a knee-high weed with tiny white flowers. Look, but do not touch.
-- Giant African snails on a garden wall after rain, in Kerala, Bengaluru, Chennai and many other places.
+- Giant African snails on a garden wall after rain.
 - A gulmohar tree with red flowers in May, or a wide rain tree shading a road. The gulmohar came from Madagascar and the rain tree from tropical America.
-- The dark, layered rock of the Western Ghats in Maharashtra, seen from the train between Mumbai and Pune. It is lava that flowed while India was crossing the sea.
-- The Himalaya on a clear day from Darjeeling, Shimla or Kausani. They are still rising, because India is still pushing north.
+- Dark, layered rock on a hillside, seen from a train. It is lava that flowed long ago, while our land was crossing the sea.
+- A tall mountain range on a clear day, or in a picture. Mountains like the Himalaya are still rising, because our land is still pushing north.
 - A house gecko on the wall at night. Geckos and their eggs travel easily in boats and cargo, so the same kinds live in ports all round the warm seas.
 
 ## Open questions
@@ -795,12 +795,20 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Maps and photographs of India's plants and animals, with notes on which are native.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a plant and get help with the name, for Count the Bites.
 - [Birbal Sahni Institute of Palaeosciences](https://en.wikipedia.org/wiki/Birbal_Sahni_Institute_of_Palaeosciences) · place · Lucknow, Uttar Pradesh: An institute for the study of fossil plants, with Gondwana fossils in its collection. Ask about visiting hours before you go.
-- [Regional Museum of Natural History]() · place · Mysuru, Karnataka: Galleries on the plants and animals of South India and the Western Ghats.
-- [Indian Museum]() · place · Kolkata, West Bengal: Fossil galleries with plants and animals from the rocks of Gondwana age in India.
+- Regional Museum of Natural History · place · Mysuru, Karnataka: Galleries on the plants and animals of South India and the Western Ghats.
+- Indian Museum · place · Kolkata, West Bengal: Fossil galleries with plants and animals from the rocks of Gondwana age in India.
 
 ## Things to buy
 - [A school atlas with a world map](https://www.amazon.in/s?k=school+atlas) (tool): For drawing the world map, tracing the continents and marking a newcomer's journey. A world map on a phone or a calendar also works. Used in a1, a2, p1. 
 - [Ocean Speaks: How Marie Tharp Revealed the Ocean's Biggest Secret, a picture book by Jess Keating (2020)](https://www.amazon.in/s?k=Ocean+Speaks+Marie+Tharp+Jess+Keating) (book): The true story of the woman whose map of the sea floor helped to show that continents move. Used in a2. Read it aloud after the Gondwana Jigsaw, before the card on how people found out that continents move.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Far Island Test: do fewer travellers reach a far island than a near one?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Far Island Test: do fewer travellers reach a far island than a near one?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Separated Lines Test: do two families of copies stay alike if they never mix?, The Far Island Test: do fewer travellers reach a far island than a near one?, Land Bridge in a Tray: which island could animals walk to?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, a4, c1. Get it before The Separated Lines Test: do two families of copies stay alike if they never mix?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Land Bridge in a Tray: which island could animals walk to?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Land Bridge in a Tray: which island could animals walk to?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in The Gondwana Jigsaw: do the fossils line up?. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a2. Get it before The Gondwana Jigsaw: do the fossils line up?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Stowaway Check: find every seed before the ship unloads. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c2. Get it before The Stowaway Check: find every seed before the ship unloads.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Clear the Tank: beat a water weed that doubles, The Stowaway Check: find every seed before the ship unloads. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c1, c2. Get it before Clear the Tank: beat a water weed that doubles.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Your Nail and India: how slow is a moving continent?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a4. Get it before Your Nail and India: how slow is a moving continent?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does biogeography study? → Where living beings are found, and why.

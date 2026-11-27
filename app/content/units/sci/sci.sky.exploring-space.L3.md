@@ -1,9 +1,9 @@
 # Exploring space: why rockets and astronauts must carry their own air
 `sci.sky.exploring-space.L3`
 
-**Summary.** Why must a rocket carry its own oxygen? In this unit you will put a candle under a jar to see how long a flame can burn on the air it has, make a lime-sized Earth to see how far space is, and pack a bag for an astronaut's day.
+**Summary.** Why must a rocket carry its own oxygen? In this lesson you will put a candle under a jar to see how long a flame can burn on the air it has, make a lime-sized Earth to see how far space is, and pack a bag for an astronaut's day.
 
-**Intro.** *A rocket's engine burns fuel, and burning needs air. There is no air in space. So how does a rocket's fire keep burning up there?* In this unit you cover a candle with jars of different sizes and time how long the flame lasts. You make a lime-sized Earth and find how close space really is. You cover half a magnifying glass to find out what a big telescope is for. And you meet the people and machines that India has sent beyond the air: rockets from Thumba and Sriharikota, Chandrayaan on the Moon, Mangalyaan at Mars, and Indian astronauts.
+**Intro.** *A rocket's engine burns fuel, and burning needs air. There is no air in space. So how does a rocket's fire keep burning up there?* In this lesson you cover a candle with jars of different sizes and time how long the flame lasts. You make a lime-sized Earth and find how close space really is. You cover half a magnifying glass to find out what a big telescope is for. And you meet the people and machines that India has sent beyond the air: rockets from Thumba and Sriharikota, Chandrayaan on the Moon, Mangalyaan at Mars, and Indian astronauts.
 
 ## Learning outcomes
 0. I can say what space is, and that the air we breathe is a thin layer close to the Earth.
@@ -261,12 +261,12 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
   *Child mode:* Hold up REAL or MYTH. Ready?
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. Ask for a reason after each.  
-  *Parent says:* How do you know? Which test or story in this unit tells you?  
+  *Parent says:* How do you know? Which test or story in this lesson tells you?  
   *Child mode:* Say why you chose it.
-  - Note: The best reasons point to an experiment in this unit: The Jar and the Flame, or Half a Lens.
+  - Note: The best reasons point to an experiment in this lesson: The Jar and the Flame, or Half a Lens.
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk about the trickiest card.  
-  *Parent says:* Pick one myth card. What is the true idea? Which test or fact in this unit shows it?  
+  *Parent says:* Pick one myth card. What is the true idea? Which test or fact in this lesson shows it?  
   *Child mode:* Count your points. Then pick one myth card.
   - Note: For example, 'a telescope makes things look bigger' is a myth. A telescope mainly collects light, as Half a Lens showed.
   - Check: Why can't you hear a rocket roaring in space? → **Sound needs air to travel, and space has almost none**
@@ -678,10 +678,10 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 
 ## Spotted around us
 - A dish antenna on a rooftop, pointing at a TV satellite high above the equator.
-- The cyclone pictures on the TV news, taken by India's weather satellites.
+- The cyclone pictures on the TV news, taken by weather satellites.
 - A Diwali rocket shooting up with a jet of sparks out of its tail.
 - The space station gliding over your city as a bright, steady dot after sunset.
-- The Space Museum at Thumba, near Thiruvananthapuram, in the old church where India's rocket story began.
+- A space museum, or a picture of a first small rocket launch.
 
 ## Open questions
 - **How much water is there on the Moon, and could people use it?** We know there is ice in dark polar craters, but not how much or how easy it would be to dig out.
@@ -725,13 +725,23 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 - [ISRO: Indian Space Research Organisation](https://www.isro.gov.in) · interactive: Pictures, videos and news of India's rockets and missions, from Chandrayaan-3 to Aditya-L1.
 - [Spot the Station](https://spotthestation.nasa.gov) · interactive: Tells you when the International Space Station will pass over your city, and where to look.
 - [Space Museum, Vikram Sarabhai Space Centre](https://www.vssc.gov.in) · place · Thumba, Thiruvananthapuram: The museum in the old church where India's first rocket team worked in 1963.
-- [B.M. Birla Planetarium, Periyar Science and Technology Centre]() · place · Chennai: A planetarium with shows about the sky and space travel, and science galleries.
+- B.M. Birla Planetarium, Periyar Science and Technology Centre · place · Chennai: A planetarium with shows about the sky and space travel, and science galleries.
 - [Jawaharlal Nehru Planetarium](https://www.taralaya.org) · place · Bengaluru: Sky shows and talks about space exploration.
 - [Nehru Planetarium, Nehru Centre](https://www.nehru-centre.org) · place · Mumbai: Sky shows about the solar system, rockets and astronauts.
 
 ## Things to buy
 - [A magnifying glass, about 5 to 7 cm across](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Needed for the half-lens test. Reading glasses for long sight can stand in. Used in e2. 
 - [A packet of tealight candles](https://www.amazon.in/s?k=tealight+candles) (material): Tealights sit steady in their metal cups and fit under a small glass. Many homes already have them. A short candle stuck on with atta dough also works. Used in e1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in How Far Is Space? A lime-sized Earth. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1. Get it before How Far Is Space? A lime-sized Earth.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Jar and the Flame: how long can a candle burn on the air it has?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before The Jar and the Flame: how long can a candle burn on the air it has?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Far Is Space? A lime-sized Earth. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before How Far Is Space? A lime-sized Earth.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Design a Moon Home that keeps its air in. About ₹20 to ₹60. Used in c2. Get it before Design a Moon Home that keeps its air in.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Drop the Empty Tanks: a rocket in stages (act it out), Build Vikram and Pragyan: a Moon lander and rover from boxes, Design a Moon Home that keeps its air in. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5, p1, c2. Get it before Drop the Empty Tanks: a rocket in stages (act it out).
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Build Vikram and Pragyan: a Moon lander and rover from boxes. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in p1. Get it before Build Vikram and Pragyan: a Moon lander and rover from boxes.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Build Vikram and Pragyan: a Moon lander and rover from boxes. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Build Vikram and Pragyan: a Moon lander and rover from boxes.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in How Far Is Space? A lime-sized Earth. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before How Far Is Space? A lime-sized Earth.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Half a Lens: does covering half a magnifying glass cut the picture in half?. About ₹5 to ₹20. Cut card from a cereal box. Used in e2. Get it before Half a Lens: does covering half a magnifying glass cut the picture in half?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does space begin? → About 100 km up.
@@ -749,9 +759,9 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 - Core: a1, e1, e2, a3, g2, ws-core
 
 ## Sources
-- ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Galileo (telescope, Jupiter's moons, the Moon's craters) and Katherine Johnson (orbit calculations for crewed flights); the topic's emphasis on credit to women, used in naming the women who led India's missions.
+- ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Galileo (telescope, Jupiter's moons, the Moon's craters) and Katherine Johnson (orbit calculations for crewed flights); the idea's emphasis on credit to women, used in naming the women who led India's missions.
 - curriculum/sci.json entry sci.sky.exploring-space.L3 (covers: telescopes, rockets and astronauts; India's space missions). No board chapter is mapped to this subtopic, so no board pack was used.
-- Checked against the nearby units so nothing repeats: the balloon rocket and the Goddard story are in sci.forces.push-and-pull.L3; the leaking bottle and weightlessness tests are in sci.gravity.weight-and-mass.L3 and sci.gravity.falling.L3; the lens picture of a window is in sci.light.refraction.L3 (this unit adds covering the lens); the scale of Sun, Earth and Moon is in sci.sky.sun-moon-stars.L3 (this unit's lime model is about the thin air and the height of space).
+- Checked against the nearby units so nothing repeats: the balloon rocket and the Goddard story are in sci.forces.push-and-pull.L3; the leaking bottle and weightlessness tests are in sci.gravity.weight-and-mass.L3 and sci.gravity.falling.L3; the lens picture of a window is in sci.light.refraction.L3 (this lesson adds covering the lens); the scale of Sun, Earth and Moon is in sci.sky.sun-moon-stars.L3 (this lesson's lime model is about the thin air and the height of space).
 - Pieters and others, 'Character and spatial distribution of OH/H2O on the surface of the Moon seen by M3 on Chandrayaan-1', Science 326, 2009
 - Saal and others, 'Volatile content of lunar volcanic glasses and the presence of water in the Moon's interior', Nature 454, 2008
 - Li and others, 'Direct evidence of surface exposed water ice in the lunar polar regions', PNAS 115, 2018

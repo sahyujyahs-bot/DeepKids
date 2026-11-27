@@ -1,9 +1,9 @@
 # Hot and cold: what makes warmth, and what only keeps it in
 `sci.energy.heat.L2`
 
-**Summary.** Does a sweater make any warmth? In this unit you will wrap one of two katoris of cold coconut oil in a sweater and see which melts first, hunt around the house for things that really make warmth, and play a card game sorting things that make warmth from things that keep it in.
+**Summary.** Does a sweater make any warmth? In this lesson you will wrap one of two katoris of cold coconut oil in a sweater and see which melts first, hunt around the house for things that really make warmth, and play a card game sorting things that make warmth from things that keep it in.
 
-**Intro.** *Hold a sweater, a shawl or a blanket against your cheek. Is it warm?* Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this unit you find out which things make warmth and which only keep it in.
+**Intro.** *Hold a sweater, a shawl or a blanket against your cheek. Is it warm?* Most people say yes, because we call these warm clothes. But a sweater lying on a chair feels only as warm as the chair. Put it on, and in a minute or two it feels warm. So where did that warmth come from? In this lesson you find out which things make warmth and which only keep it in.
 
 ## Learning outcomes
 0. By the end I can say whether things are hot, warm, cool or cold, and that temperature is how hot or cold something is.
@@ -511,10 +511,10 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 
 ## Spotted around us
 - In winter in Kashmir, people wear a long woollen cloak called a pheran, and some carry a small clay pot of hot coals, called a kangri, under it.
-- In Kerala and Tamil Nadu, cooked rice and curry are often kept warm in a heavy pot with its lid on.
-- On winter mornings in Assam and Meghalaya, families sit around a small fire or in the sunshine, wrapped in shawls.
+- Cooked rice and curry kept warm in a heavy pot with its lid on.
+- On winter mornings, families sit around a small fire or in the sunshine, wrapped in shawls.
 - Street dogs in Indian cities curl up tight on cold nights, and find warm spots like the bonnet of a car that was just parked.
-- In Rajasthan and Gujarat, people wear loose white or light cotton clothes and turbans in the summer heat, which keep the Sun off them.
+- People wear loose white or light cotton clothes and turbans in the summer heat, which keep the Sun off them.
 - In a cowshed in winter, calves lie close to their mothers and to each other.
 
 ## Open questions
@@ -551,10 +551,11 @@ I Make My Own Warm (sci.energy.L2): Topic-level song for Energy L2
 ## Links
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online game from the University of Colorado. Heat a block of iron or a beaker of water and watch the warmth move. Best played with a grown-up.
 - [Kangaroo care, on Wikipedia](https://en.wikipedia.org/wiki/Kangaroo_care) · interactive: For the parent: how parents keep small babies warm skin to skin, and how it began in Colombia.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries about energy and heat, good for a family day out.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A large science museum with hands-on exhibits about heat and energy.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries about energy and heat, good for a family day out.
+- Birla Industrial and Technological Museum · place · Kolkata: A large science museum with hands-on exhibits about heat and energy.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does a sweater make warmth? → No. It keeps your own warmth in.
@@ -572,7 +573,7 @@ I Make My Own Warm (sci.energy.L2): Topic-level song for Energy L2
 
 ## Sources
 - ideas/by_topic/energy.md, Heat Flow and Heat transfer: 'wrap bottles with different materials to test insulation' became the Sweater and Coconut Oil test (e1), changed to coconut oil so a child of 7 can see the result without a thermometer. 'Yoga poses to generate warmth' and 'meditate on inner warmth' became the roots practice. 'Game of matching objects to hot/cold categories' became the Makes It, Keeps It or Cools It card game (g1). 'Rub hands to feel warmth' is one idea in the cold hands challenge (c2).
-- Level 3 (sci.energy.heat.L3) has the two-hands bowl, the hot and cold tumbler test with a thermometer, the straw thermometer and the temperature diary, so this unit uses no thermometer and none of those activities. It leads on to Level 3 by noticing that hot things cool and cold things warm up.
+- Level 3 (sci.energy.heat.L3) has the two-hands bowl, the hot and cold tumbler test with a thermometer, the straw thermometer and the temperature diary, so this lesson uses no thermometer and none of those activities. It leads on to Level 3 by noticing that hot things cool and cold things warm up.
 - Pretorius T and others, 'Thermal effects of whole head submersion in cold water on nonshivering humans', Journal of Applied Physiology, 2006, and Vreeman R and Carroll A, 'Festive medical myths', BMJ, 2008, on heat lost through the head.
 - Johnson C and Eccles R, 'Acute cooling of the feet and the onset of common cold symptoms', Family Practice, 2005. Foxman E F, Iwasaki A and others, 'Temperature-dependent innate defense against the common cold virus limits viral replication at warm temperature in mouse airway cells', PNAS, 2015.
 - Mazumder S, Taneja S, Bhandari N and others, 'Effect of community-initiated kangaroo mother care on survival of infants with low birthweight: a randomised controlled trial', The Lancet, 2019. On the start of kangaroo mother care in Bogotá in 1978 under Edgar Rey Sanabria, see the World Health Organization's guide Kangaroo Mother Care: a practical guide (2003).

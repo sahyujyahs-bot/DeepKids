@@ -1,9 +1,9 @@
 # Magnetic metals: why a magnet attracts one coin and not another
 `sci.magnets.magnets-and-materials.L5`
 
-**Summary.** A magnet lifts a one-rupee coin and a two-rupee coin, but leaves a five-rupee coin and a ten-rupee coin on the table. All four are metal, so why? In this unit you will test every coin in the house, and check whether colour or shine can tell you which metals are magnetic.
+**Summary.** A magnet lifts a one-rupee coin and a two-rupee coin, but leaves a five-rupee coin and a ten-rupee coin on the table. All four are metal, so why? In this lesson you will test every coin in the house, and check whether colour or shine can tell you which metals are magnetic.
 
-**Intro.** *Put a one-rupee coin and a golden five-rupee coin on the table. Now think about a magnet. Which coin will the magnet lift: both, one, or neither? Say what you think, and why.* Many people expect a magnet to attract every metal. Others expect it to attract every coin, or none. In the first activity, Four Coins and a Magnet, you test four coins and see. Then you test every coin in the house. In this unit you find out which metals are magnetic, and how to test them fairly. You also find out why two things made mostly of iron can give a magnet two different answers.
+**Intro.** *Put a one-rupee coin and a golden five-rupee coin on the table. Now think about a magnet. Which coin will the magnet lift: both, one, or neither? Say what you think, and why.* Many people expect a magnet to attract every metal. Others expect it to attract every coin, or none. In the first activity, Four Coins and a Magnet, you test four coins and see. Then you test every coin in the house. In this lesson you find out which metals are magnetic, and how to test them fairly. You also find out why two things made mostly of iron can give a magnet two different answers.
 
 ## Learning outcomes
 0. By the end I can say how a magnet differs from a magnetic material, and find the magnet with the T test.
@@ -42,6 +42,8 @@ A magnet attracts a steel nail, and it can attract or repel another magnet. A st
 - e.g. In Two Nails, Then the T Test, two nails lay side by side and did not attract each other.
 - e.g. A fridge door is a magnetic material. It attracts no pins, but a magnet sticks to it.
 - e.g. Two fridge magnets can push each other apart. A magnet and a nail never push apart.
+- **Everyday view:** A magnet attracts steel and ignores wood, so materials are magnetic or not.
+- **Michael Faraday:** In 1845 he showed that all materials react to a strong magnet, though most do so very weakly. Some are pushed away a little, which is called diamagnetism.
 ### Only a few metals are magnetic · *defined*
 **Definition:** At room temperature, only three pure metals are strongly magnetic: iron, nickel and cobalt.
 
@@ -49,6 +51,8 @@ There are about ninety metals among the elements. A magnet strongly attracts onl
 - e.g. A magnet attracts an iron tawa and a steel nail. It does not attract copper wire or aluminium foil.
 - e.g. Gold and silver jewellery is not attracted. A steel spring inside a clasp is.
 - e.g. Gadolinium is magnetic on a cool morning and not on a hot afternoon.
+- **Everyday view:** Iron, nickel and cobalt are the magnetic metals, and everything else is not magnetic.
+- **Closer look:** Gadolinium is magnetic when cold. Every material reacts a little to a strong magnet: most are pushed away very weakly, and some are pulled very weakly. Strong magnetism is only the loudest kind.
 ### An alloy is a mixture of metals · *defined*
 **Definition:** An alloy is a metal melted and mixed with one or more other elements. When it cools, the atoms of the different elements are mixed together in one solid.
 
@@ -56,6 +60,8 @@ Very few metal things at home are one pure metal. Steel is iron with a little ca
 - e.g. A brass lamp from Nachiarkoil in Tamil Nadu is copper and zinc.
 - e.g. Gold stamped 916 is 91.6 parts gold in every 100. The rest is mostly copper and silver.
 - e.g. The golden five-rupee coin is nickel-brass: copper, zinc and a little nickel.
+- **Indian metalworkers:** Made wootz, a steel with carbon mixed into iron in clay crucibles, from about 2,000 years ago. Swords made from it were prized across Asia and Europe.
+- **Modern metallurgists:** Find that some alloys are not a loose mixture but have a fixed pattern of atoms, like a compound. Both mixing and compounds are found in alloys.
 ### Indian coins are made of four different alloys · *defined*
 **Definition:** The coins in use today are made of stainless steel, nickel-brass, aluminium-bronze and cupronickel. A magnet attracts only the stainless steel.
 
@@ -63,6 +69,8 @@ One-rupee coins have been made of a stainless steel since 1992. Two-rupee coins 
 - e.g. In the Coin Year Test, the magnet lifted the one-rupee and two-rupee coins.
 - e.g. The magnet left the golden five-rupee coin and the ten-rupee coin on the table.
 - e.g. An eleven-sided two-rupee coin from the 1990s is not attracted, though it is worth the same.
+- **Rulers of old:** Wanted coins to be worth their metal, so Sher Shah Suri's rupee of 1540 was made of silver. The value was in the metal itself.
+- **Today's mints:** Make coins from cheap alloys because the value is set by law, not by the metal. They choose alloys that wear slowly and are hard to copy.
 ### The list of metals in an alloy does not tell you whether it is magnetic · *defined*
 **Definition:** An alloy can be non-magnetic though it holds a magnetic metal. An alloy can be magnetic though none of its metals is.
 
@@ -70,6 +78,8 @@ Nickel is a magnetic metal. The centre of a ten-rupee coin is one quarter nickel
 - e.g. The centre of a ten-rupee coin is cupronickel. It is about one quarter nickel, yet a magnet does not attract it.
 - e.g. Kitchen stainless steel is mostly iron. Even so, a magnet does not attract it, or attracts it only faintly.
 - e.g. Heusler's alloy is made only of copper, manganese and aluminium. None of them is magnetic, and a magnet still attracts the alloy strongly.
+- **Fritz Heusler:** In 1903 he made an alloy of copper, manganese and aluminium that is magnetic, though none of the three metals is magnetic alone. These are now called Heusler alloys.
+- **Steel makers:** Know that stainless steels with nickel and chromium may be non-magnetic even though iron is the main metal, because nickel changes the pattern of the atoms.
 ### Every iron atom is a tiny magnet · *defined*
 **Definition:** Each iron atom has a very small magnetic field of its own, which comes from its electrons. So does each nickel atom and each cobalt atom.
 
@@ -77,6 +87,8 @@ An electron is one of the tiny particles in every atom, and every electron is a 
 - e.g. A one-rupee coin holds more than ten thousand billion billion iron atoms.
 - e.g. In a steel nail, groups of atoms called domains each point one way. A magnet nearby turns them to face it.
 - e.g. Your blood holds iron, but the iron atoms are spread far apart. Because they are not packed together in a crowd, a magnet does not attract blood.
+- **André-Marie Ampère (1820s):** Thought tiny loops of electric current inside matter make it magnetic.
+- **Quantum physics (1900s):** The magnetism of an atom comes from its electrons, which behave like tiny magnets through a property called spin, and not from any little loops of current.
 ### Why a magnet attracts coin steel and not kitchen steel · *idea*
 A one-rupee coin and a steel plate are both mostly iron, with chromium to stop rust. The plate also holds nickel or manganese. These extra metals make the iron atoms pack in a different pattern. In coin steel, each iron atom has 8 nearest neighbours, as in plain iron. Scientists call this steel ferritic. In kitchen steel, each atom has 12 nearest neighbours, packed more tightly. Scientists call this steel austenitic. In the first pattern, the tiny magnets of neighbouring atoms line up with each other. In the second pattern, they do not line up, so their fields cancel. This account is simplified. The full reason why one packing lines up and the other does not needs quantum physics, and it is still hard to calculate. What X-ray pictures show for certain is that the two steels are packed differently.
 - e.g. In Same Coins, Two Patterns, the same coins touched 4 neighbours in one pattern and 6 in the other.
@@ -89,6 +101,8 @@ We say 'iron is magnetic', as if each iron atom carried the property inside. But
 - e.g. Pierre Curie showed in 1895 that iron stops being attracted above a fixed temperature, and is attracted again when it cools.
 - e.g. Kitchen steel and coin steel hold the same kind of iron atoms, in different packings.
 - e.g. The nickel atoms in cupronickel sit among copper atoms, and their tiny magnets do not line up.
+- **Pierre Weiss (1907):** Said iron is made of small regions, called domains, in which all the atom magnets point the same way.
+- **Heisenberg and quantum physics:** Explained why neighbouring atoms line up: a rule about electrons makes it cost less energy to point the same way. Both views are used today.
 ### No clue you can see tells you whether a metal is magnetic · *defined*
 **Definition:** Colour, shine and the name 'steel' do not tell you whether a magnet will attract a metal thing. Only a test with a magnet does.
 
@@ -96,6 +110,8 @@ Many people use a quick rule, such as 'silver-coloured metals are magnetic'. A r
 - e.g. In Can You Tell by Looking?, a one-rupee coin and a steel plate looked alike and gave different answers.
 - e.g. A black tawa and a shiny safety pin look different and both are attracted.
 - e.g. The cap of a glass soda bottle looks painted, but it is thin steel, and a magnet lifts it.
+- **Thales, as told by Aristotle:** Said that the lodestone has a soul because it moves iron. He judged by what he saw, and looked for a cause in life.
+- **William Gilbert:** In 1600 he tested many materials with lodestones, wrote down the results and argued that you must test to find out. His book De Magnete began the study of magnetism.
 ### A fair test of metals · *defined*
 **Definition:** A fair test of metals uses the same magnet, held the same way, on one thing at a time, with a prediction first and every result written down.
 
@@ -103,6 +119,8 @@ The thing you change is the metal thing being tested. The thing you watch is whe
 - e.g. In the Coin Year Test, every coin lay flat on the table and met the same face of the same magnet.
 - e.g. A pressure cooker can be aluminium with a steel plate in its base, so its side and its base answer differently.
 - e.g. A result of 'weak' on a steel tumbler is still a result. Write it down.
+- **Ibn al-Haytham:** In the 1000s he wrote that a careful scientist tests ideas under controlled conditions, and repeats them, before believing them.
+- **Francis Bacon:** In the early 1600s he argued for experiments that change one thing at a time, written down and shared. Both ideas shaped how scientists work now.
 ### What a magnet test can and cannot tell you · *defined*
 **Definition:** A 'yes' shows that something magnetic is within reach of the magnet. A 'no' shows that nothing magnetic enough is within reach. Neither tells you the whole recipe.
 
@@ -110,6 +128,8 @@ A magnet test answers one small question about one spot. It can be fooled in two
 - e.g. In Fool the Magnet Test, a ball of foil with a coin inside clung to the magnet.
 - e.g. A magnet sticks to a 'brass' sheet that is really steel with a thin brass coat.
 - e.g. A magnet does not stick to a steel plate, and the plate is still mostly iron.
+- **Karl Popper:** Wrote that a test can show that an idea fails, but never prove it forever. A 'no' from a magnet only says 'not found here'.
+- **Physicists with sensitive instruments:** Use devices called SQUID magnetometers, which sense magnetism millions of times weaker than a hand magnet can. Many things that a magnet ignores still have a faint magnetism.
 ### Choosing an alloy for the job: bone pins and scanners · *defined*
 **Definition:** Engineers choose an alloy partly by how it answers a magnet. Some jobs need a magnetic alloy, and some need one that a magnet does not attract.
 
@@ -117,6 +137,8 @@ A hospital MRI scanner takes pictures of the inside of a body with a very strong
 - e.g. Before an MRI scan, people are asked to take off keys, hairpins and belts.
 - e.g. A ship built to find sea mines has a hull that magnets do not attract.
 - e.g. A fridge door seal holds because the fridge door is a magnetic steel.
+- **Engineers:** Pick magnetic alloys for motors and non-magnetic ones for tools used near an MRI scanner, whose magnet is strong enough to pull steel into it.
+- **Magnet-sensing animals:** Some bacteria, bees and birds have tiny crystals of magnetite in their bodies, an iron mineral, and use them to sense the Earth's magnetism. Living things choose magnetic materials too.
 ### The same carbon atoms give two answers to a magnet · *defined*
 **Definition:** Graphite and diamond are both made only of carbon atoms. A strong magnet pushes graphite away far more than it pushes diamond.
 
@@ -124,6 +146,8 @@ A very strong magnet pushes weakly on materials we call non-magnetic. The push o
 - e.g. A thin pencil lead can be pushed aside by a very strong magnet.
 - e.g. Lonsdale and Krishnan published their measurements together in 1936.
 - e.g. Coin steel and kitchen steel show the same idea with iron. The atoms are the same, and the pattern decides how a magnet answers.
+- **Everyday view:** Magnets only pull. Anything that is not pulled is simply not magnetic.
+- **Michael Berry and Andre Geim:** In 1997 they made a living frog float in the air with a very strong magnet. Water in the frog is slightly pushed away by magnets, so a strong enough field can balance its weight.
 ### Iron and nickel from space, and a magnet nobody could make · *idea*
 Iron meteorites are pieces of metal that fall from space. They are an alloy of iron and nickel, from the middle of small worlds that broke apart long ago. A magnet attracts them. In some meteorites that cooled over millions of years, the iron and nickel atoms sorted themselves into neat layers, one layer of each. This layered alloy is called tetrataenite. It is a strong permanent magnet, though it holds only iron and nickel. For a long time nobody could make it, because the atoms sort themselves far too slowly. In 2022 a team in Cambridge reported that adding phosphorus lets the layers form in seconds. Other scientists are still checking how well this works. If it does, strong magnets could be made from two common metals.
 - e.g. The Earth's core is also an iron and nickel alloy, but it is too hot to be a permanent magnet.
@@ -163,7 +187,7 @@ Iron meteorites are pieces of metal that fall from space. They are an alloy of i
   Against: Brass, copper and many other cheap alloys are not attracted either. The clasp of a real gold chain can stick, because it has a steel spring. A 'no' rules out steel and nothing more.
 
 ## Roots
-In this unit you laid the same coins in two patterns. You found that a rule that works in one pattern can fail in the other. Here we ask what that says about the iron in a coin, and about you.
+In this lesson you laid the same coins in two patterns. You found that a rule that works in one pattern can fail in the other. Here we ask what that says about the iron in a coin, and about you.
 
 **Deep truth.** In Same Coins, Two Patterns, one rule worked for coins in rows and failed for coins in a triangle. In the same way, the iron atoms in a coin and in a plate are alike, yet only the coin answers a magnet. Each atom is a tiny magnet, but a coin's answer comes from how the whole crowd of atoms sits together. So that answer belongs to the group, and you cannot find it by looking at one atom.  
 *Habit it breaks:* We think that a thing's properties are inside its smallest parts. So we say 'iron is magnetic', as if each atom carried it alone, and we expect a thing with iron to be attracted.  
@@ -175,7 +199,7 @@ In this unit you laid the same coins in two patterns. You found that a rule that
 
 A one-rupee coin and a steel plate hold iron atoms that are alike. In the coin the tiny magnets line up with their neighbours, and the magnet attracts it. In the plate the packing is different, and the magnet does not. Many teachers have said that the truth of a thing is found by looking at it as it is, and not by its name. A coin's name says one rupee. Only the test shows what the crowd inside does.
 
-- **Chandogya Upanishad 6.1.4, the teaching of Uddalaka to his son:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” By knowing one lump of clay, you know all things made of clay. The differences are only names for the same clay. (The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This unit adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests.)
+- **Chandogya Upanishad 6.1.4, the teaching of Uddalaka to his son:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्” By knowing one lump of clay, you know all things made of clay. The differences are only names for the same clay. (The teaching sees one stuff under many names. A coin and a plate are both mostly iron. This lesson adds that the same stuff can answer differently when it sits in a different pattern. The Upanishad gives a way of seeing, which the science neither proves nor tests.)
 - **Tirukkural 355, by Thiruvalluvar:** “எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள் / மெய்ப்பொருள் காண்பது அறிவு.” Whatever the thing, and whatever its kind, wisdom is to see the real truth in it. (The couplet asks us to look at what a thing is, and not at its kind or its name. A magnet test does this for a coin. It ignores the stamped value and asks what the metal does.)
 - **Kalama Sutta, Anguttara Nikaya 3.65:** “Etha tumhe, kālāmā, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. / Yadā tumhe, kālāmā, attanāva jāneyyātha: / ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṁvattantī, atha tumhe, kālāmā, upasampajja vihareyyātha.” Do not believe a thing because it is written, or handed down, or said by a teacher. When you know for yourselves what is good, then follow it. (The Buddha invites a test, and not an inherited rule. Sravani changes her sign after one coin breaks it. A rule that nothing can break is a belief. A rule that is tested can grow.)
 - Science (settled): Each iron, nickel and cobalt atom is a tiny magnet. A magnet attracts a piece of metal strongly only when the tiny magnets of many neighbours line up.
@@ -825,17 +849,22 @@ Tiny Magnets, All in Line (sci.magnets.L5): Topic-level song
 
 ## Links
 - [Coins of the Indian rupee (Wikipedia)](https://en.wikipedia.org/wiki/Coins_of_the_Indian_rupee) · interactive: For the parent: the metals, sizes and years of Indian coins, with photographs. Check the details against the mint's own notices.
-- [Ferromagnetism (Wikipedia)](https://en.wikipedia.org/wiki/Ferromagnetism) · interactive: For the parent: the lining up of atoms, domains and the Curie temperature, in more detail than this unit.
+- [Ferromagnetism (Wikipedia)](https://en.wikipedia.org/wiki/Ferromagnetism) · interactive: For the parent: the lining up of atoms, domains and the Curie temperature, in more detail than this lesson.
 - [Heusler compound (Wikipedia)](https://en.wikipedia.org/wiki/Heusler_compound) · interactive: For the parent: how an alloy of non-magnetic metals can be magnetic.
-- [Magnets and Electromagnets (PhET simulation)](https://phet.colorado.edu/en/simulations/magnets-and-electromagnets) · simulation: To move a magnet around and watch how a compass needle answers. It shows the field that this unit talks about.
+- [Magnets and Electromagnets (PhET simulation)](https://phet.colorado.edu/en/simulations/magnets-and-electromagnets) · simulation: To move a magnet around and watch how a compass needle answers. It shows the field that this lesson talks about.
 - [Stainless steel (Wikipedia)](https://en.wikipedia.org/wiki/Stainless_steel) · interactive: For the parent: ferritic and austenitic steels, and the numbers such as 304 and 430.
 - [Curie temperature (Wikipedia)](https://en.wikipedia.org/wiki/Curie_temperature) · interactive: For the parent: the temperature above which a magnetic material stops being attracted, with a table of values.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with galleries on metals and magnets. Check its opening times before you go.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with galleries on metals and magnets. Check its opening times before you go.
 
 ## Things to buy
 - [A magnet set with a round magnet and a bar magnet, for school science](https://www.amazon.in/s?k=magnet+set+science+kit+bar+magnet) (tool): For the coin tests, the T test and the sorter. Choose a magnet that can lift a steel spoon by its handle. Keep small magnets away from children under three. Used in a1, a2, a4, a5, e1, e2, e3, p1, c2, g2. 
 - [A small magnifying glass with 5 times zoom](https://www.amazon.in/s?k=magnifying+glass+5x) (tool): For reading the years on coins and the stamps on steel vessels. Used in e1, a5. 
 - [Steel washers and flat nuts in a mixed pack, from a hardware shop](https://www.amazon.in/s?k=steel+washers+assorted) (material): For Beat the Cheat, which uses a steel washer of coin size. A hardware shop sells them for a few rupees. Used in c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Coin Year Test: which coins does a magnet attract?, Same Coins, Two Patterns, Fool the Magnet Test. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, a4, c1. Get it before The Coin Year Test: which coins does a magnet attract?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Can You Tell by Looking? Three clues against the magnet, Four Jobs, Four Metals: choose the right metal for each job. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in e2, c2. Get it before Can You Tell by Looking? Three clues against the magnet.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Coin Sorter: build a machine that sorts by metal, Beat the Cheat: catch a steel washer that looks like a coin. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c1. Get it before The Coin Sorter: build a machine that sorts by metal.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Can You Tell by Looking? Three clues against the magnet, Two Nails, Then the T Test, Four Jobs, Four Metals: choose the right metal for each job. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2, a2, c2. Get it before Can You Tell by Looking? Three clues against the magnet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an alloy? → A mixture of a metal with one or more other elements, melted together.
@@ -855,7 +884,7 @@ Tiny Magnets, All in Line (sci.magnets.L5): Topic-level song
 ## Sources
 - Founder's notebook, magnets page: the idea that a magnet attracts only some metals, and the sorting of mixed metals. It is used in the coin tests and in the sorter.
 - Curriculum entry sci.magnets.magnets-and-materials.L5: magnets and magnetic materials, and testing which metals are magnetic. Board chapters Cambridge Stage 5 5.5 and the NIOS Class 5 chapter listed for it.
-- Other units were checked so that nothing repeats. The Floating Needle Compass, the Great Magnet Test, Steel Detectives, the Can That Follows and the Mystery Bag are in the lower levels of this topic and of materials. This unit's coin tests, the T test, the foil balls, the stamps and the bent spoon are new.
+- Other units were checked so that nothing repeats. The Floating Needle Compass, the Great Magnet Test, Steel Detectives, the Can That Follows and the Mystery Bag are in the lower levels of this topic and of materials. This lesson's coin tests, the T test, the foil balls, the stamps and the bent spoon are new.
 - Heusler F. (1903). Über magnetische Manganlegierungen. Verhandlungen der Deutschen Physikalischen Gesellschaft, p. 219.
 - Bradley A. J., Rodgers J. W. (1934). The crystal structure of the Heusler alloys. Proceedings of the Royal Society A 144.
 - Curie P. (1895). Propriétés magnétiques des corps à diverses températures. Annales de chimie et de physique, 7th series, vol. 5, p. 289.

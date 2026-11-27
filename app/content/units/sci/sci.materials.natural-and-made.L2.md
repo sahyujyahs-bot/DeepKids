@@ -513,6 +513,11 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 - Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries on materials and engineering.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Grains Up Close: is one grain white?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before Grains Up Close: is one grain white?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Changing Line: how much did people change it?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before The Changing Line: how much did people change it?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in A Window for a Shoebox House. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in c1. Get it before A Window for a Shoebox House.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Water Shake: paper or plastic?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a3. Get it before The Water Shake: paper or plastic?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one natural material. → Wood, cotton, wool, clay, sand or stone.

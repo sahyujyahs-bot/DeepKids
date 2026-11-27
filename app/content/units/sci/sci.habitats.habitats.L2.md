@@ -486,6 +486,11 @@ Every Home Is Somebody's (sci.habitats.L2): Topic-level song for Habitats L2
 
 ## Things to buy
 - [Island: A Story of the Galápagos by Jason Chin](https://www.amazon.in/s?k=Island) (book): An island rises from the sea, and plants and animals arrive and change to fit it. It gives the child a first look at how living things and their homes fit together. Used in a1. Read it together after the habitat walk.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Diya and the Stone: can a seed live on a rock?, A Shoebox Home for a Frog. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, c1. Get it before The Diya and the Stone: can a seed live on a rock?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Shoebox Home for a Frog. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Shoebox Home for a Frog.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Diya and the Stone: can a seed live on a rock?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Diya and the Stone: can a seed live on a rock?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Diya and the Stone: can a seed live on a rock?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Diya and the Stone: can a seed live on a rock?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name something a living being needs from their home. → Water, food, air, shelter or the right warmth.

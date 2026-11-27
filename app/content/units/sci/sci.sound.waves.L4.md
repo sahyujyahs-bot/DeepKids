@@ -1,9 +1,9 @@
 # Waves: why shaking faster makes the waves closer together
 `sci.sound.waves.L4`
 
-**Summary.** Tap a tray of water faster and the ripples sit closer together, yet they travel just as fast. Why? In this unit you will count the swings of a pendulum, tap ripples at different speeds, and work out the rule that links how often, how fast and how far apart.
+**Summary.** Tap a tray of water faster and the ripples sit closer together, yet they travel just as fast. Why? In this lesson you will count the swings of a pendulum, tap ripples at different speeds, and work out the rule that links how often, how fast and how far apart.
 
-**Intro.** *Tie a washer to a thread and let it swing. Now pull it back much further and let it swing again. Does the wide swing take longer, or the same time? Most people say longer. Count the swings and find out.* The wide swing takes the same time as the narrow one. A pendulum keeps its own beat, and only its length changes it. The same idea sits inside every wave. Whatever starts a wave sets how often the waves come. What the wave travels through sets how fast it goes. Put the two together and you can predict how far apart the crests will be. In this unit you count swings, tap ripples in a tray, and follow the rule from a bucket of water all the way out to radio, light and the stars.
+**Intro.** *Tie a washer to a thread and let it swing. Now pull it back much further and let it swing again. Does the wide swing take longer, or the same time? Most people say longer. Count the swings and find out.* The wide swing takes the same time as the narrow one. A pendulum keeps its own beat, and only its length changes it. The same idea sits inside every wave. Whatever starts a wave sets how often the waves come. What the wave travels through sets how fast it goes. Put the two together and you can predict how far apart the crests will be. In this lesson you count swings, tap ripples in a tray, and follow the rule from a bucket of water all the way out to radio, light and the stars.
 
 ## Learning outcomes
 0. I can say what frequency is, count it in swings, taps or beats each second, and name the unit, hertz.
@@ -673,7 +673,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 
 ## Videos
 - **LIGO's first gravitational wave, as sound** (LIGO Lab Caltech, 3 min) id `6zisf2xKvjA`: The first ripple in space that scientists caught, in 2015, played as a short rising chirp. You hear a frequency climbing from about 35 to about 250 hertz. *Check:* Title and channel confirmed. Preview it first. It explains the idea at a level above Class 4, so pause to say it in your own words.
-- **Waves** (Bozeman Science, 8 min) id `JppViHtLNlc`: For the parent: a teacher explains wavelength, frequency and amplitude, and the difference between push waves and shake waves, to help you answer your child's questions. *Check:* Title and channel confirmed. Preview it first, because it goes further than this unit.
+- **Waves** (Bozeman Science, 8 min) id `JppViHtLNlc`: For the parent: a teacher explains wavelength, frequency and amplitude, and the difference between push waves and shake waves, to help you answer your child's questions. *Check:* Title and channel confirmed. Preview it first, because it goes further than this lesson.
 - **Jocelyn Bell Burnell describes how she discovered pulsars - Beautiful Minds_Ep1 Preview_BBC Four** (BBC, 3 min) id `PKtnaTxLARc`: Jocelyn Bell Burnell tells her own story of the scruff on the chart paper, the steady beat and the little green men joke. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
 ## Quiz
@@ -728,7 +728,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 - A child's swing in a park, with a parent pushing at the same moment each time it returns.
 - A hanging lamp or a temple bell swaying slowly in a draught, each swing taking about the same time.
 - A Wi-Fi box, an FM radio dial and a phone, all using waves with different frequencies.
-- Sea waves arriving one after another at Marina Beach in Chennai, Kovalam in Kerala or Puri in Odisha. Count the seconds between two waves.
+- Sea waves arriving one after another on a beach. Count the seconds between two waves.
 - A footbridge, a metro platform or a flyover that gives a tiny shake when many people walk or a vehicle passes.
 - A tanpura, a veena or a guitar, where the longer strings make lower notes and the shorter strings make higher ones.
 - A crowd at a cricket match clapping in time, or a Mexican wave moving round the stand, each person doing it at their own moment.
@@ -789,6 +789,12 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 ## Things to buy
 - [A cheap digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch+sports) (tool): Optional. A phone stopwatch works for Counting Swings, Hertz Hunt and Tiny Taps, Big Swing. A separate one is only easier for a child to press. Used in e1, a1, a6. 
 - [A clear glass or plastic tray or baking dish, 35 centimetres or longer](https://www.amazon.in/s?k=glass+baking+dish+rectangular) (material): For Tap Faster and the Ripple Speed Machine. Most homes already have a big flat tray, a steel parat or a plastic storage box; buy one only if you have none. A clear or white one shows the ripples best, and it must be 35 centimetres or longer with a flat bottom. Used in e2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Counting Swings: what decides how often a pendulum swings?, The Thirty-Second Pendulum: build a timer from a thread. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, c1. Get it before Counting Swings: what decides how often a pendulum swings?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Counting Swings: what decides how often a pendulum swings?, Tap Faster: what happens to the ripples?, The Wave Grid: shift and colour. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a2, a5, a6, p1, c1. Get it before Counting Swings: what decides how often a pendulum swings?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Counting Swings: what decides how often a pendulum swings?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Counting Swings: what decides how often a pendulum swings?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Wave Grid: shift and colour, Ripple Speed Machine: work out how fast ripples travel. About ₹10 to ₹30. Draw squares on plain paper. Used in a2, p1. Get it before The Wave Grid: shift and colour.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Spreading Rings: where does the energy go?. About ₹10 to ₹40. Small round stones or dried chana. Used in a5. Get it before Spreading Rings: where does the energy go?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does frequency tell you? → How many times something repeats each second.
@@ -810,7 +816,7 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 ## Sources
 - ideas/by_topic/sound.md: 'Waves and oscillation' row (a pendulum experiment timing swings, a metronome to explore frequency, a resonance relay). Used in Counting Swings, Hertz Hunt and Tiny Taps, Big Swing.
 - ideas/by_topic/sound.md: 'Wave basics' and 'Sound waves' rows (crest, trough, wavelength, amplitude, the water ripple tank, a stadium wave). Used in Tap Faster and the Wave Grid.
-- The Class 3 unit on waves, which this unit builds on: the idea that the material sets the wave speed, now extended to frequency, wavelength and the full family of waves.
+- The Class 3 unit on waves, which this lesson builds on: the idea that the material sets the wave speed, now extended to frequency, wavelength and the full family of waves.
 - Galileo Galilei, Discorsi e dimostrazioni matematiche intorno a due nuove scienze, 1638 (pendulums of lead and cork that swing together)
 - Vincenzo Viviani, Racconto istorico della vita di Galileo, written 1654 (the story of the swinging lamp, told many years after the event, and doubted by some historians)
 - Christiaan Huygens, Horologium Oscillatorium, 1673 (the pendulum clock)

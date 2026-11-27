@@ -1,9 +1,9 @@
 # Forces change shape, speed and direction
 `sci.forces.changing-motion.L3`
 
-**Summary.** Press dough and it stays flat, squeeze a sponge and it springs back, press a biscuit and it breaks. Why? In this unit you will drop clay from different heights, catch a bouncing ball in a wet print, and build a paper bridge that holds weight.
+**Summary.** Press dough and it stays flat, squeeze a sponge and it springs back, press a biscuit and it breaks. Why? In this lesson you will drop clay from different heights, catch a bouncing ball in a wet print, and build a paper bridge that holds weight.
 
-**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it. They lay a mirror on the table and bounce a laser beam off it onto a far wall. When the table bends, the mirror tilts a tiny bit, and the dot of light on the wall moves.* Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this unit you find out why, and how even hard things change shape when they are pushed.
+**Intro.** *Press your thumb on a table. Did the table change shape? You can't see any change. But it did bend, a tiny bit. Scientists can show it. They lay a mirror on the table and bounce a laser beam off it onto a far wall. When the table bends, the mirror tilts a tiny bit, and the dot of light on the wall moves.* Get a ball of chapati dough. Squash it, stretch it, twist it and bend it. Each push or pull changes its shape, and the new shape stays. Now squeeze a sponge and let go. It springs back. Now press a biscuit. It cracks. The same push did three different things. In this lesson you find out why, and how even hard things change shape when they are pushed.
 
 ## Learning outcomes
 0. I can say that a force can change a thing's shape, and show four ways: squashing, stretching, twisting and bending.
@@ -50,14 +50,14 @@ When you push or pull something, it does not just move. It also changes shape, a
 ### Keep it, spring back, or break · *defined*
 **Definition:** After a force stops, some things keep their new shape. Scientists call this a plastic change. Some spring back to their old shape. These are elastic. Some crack and break. These are brittle.
 
-Clay and dough stay squashed, so they are good for making pots and chapatis. Sponges, rubber bands and balls spring back. A biscuit, a papad or glass cracks instead. The same thing can do all three. Bend a steel paper clip a little and it springs back. Bend it more and it stays bent. Bend it back and forth many times and it snaps. Springs and rubber bands are explored more in the unit 'Stretching and springs'.
+Clay and dough stay squashed, so they are good for making pots and chapatis. Sponges, rubber bands and balls spring back. A biscuit, a papad or glass cracks instead. The same thing can do all three. Bend a steel paper clip a little and it springs back. Bend it more and it stays bent. Bend it back and forth many times and it snaps. Springs and rubber bands are explored more in the lesson 'Stretching and springs'.
 - e.g. A thumbprint stays in clay. That is a plastic change.
 - e.g. A squeezed sponge springs back. It is elastic.
 - e.g. A papad snaps. It is brittle.
 ### A bigger force makes a bigger change · *defined*
 **Definition:** The bigger the force, the bigger the change of shape, until the thing breaks.
 
-Drop a clay ball onto a plate from higher up, and it hits the plate faster. The plate has to push harder to stop it. That bigger push squashes it more. So the flat patch on the bottom gets wider. Engineers use this rule all the time. They push and pull on materials with machines, and measure exactly how much they change. The chart shows made-up results from the clay drop test in this unit.
+Drop a clay ball onto a plate from higher up, and it hits the plate faster. The plate has to push harder to stop it. That bigger push squashes it more. So the flat patch on the bottom gets wider. Engineers use this rule all the time. They push and pull on materials with machines, and measure exactly how much they change. The chart shows made-up results from the clay drop test in this lesson.
 - e.g. A gentle press makes a small dent in dough. A hard press makes a deep one.
 - e.g. A light child sitting on a cushion squashes it a little. A heavy grown-up squashes it more.
 ### Inside a bend: squashed and stretched at once · *defined*
@@ -70,21 +70,21 @@ Draw lines across a long sponge, then bend it. On the inside of the curve, the l
 ### Shape can make things strong · *defined*
 **Definition:** Changing the shape of a material can make it much stronger, without adding any more material. Folds, tubes and arches are the main tricks.
 
-A flat sheet of paper sags under one coin. Fold the same sheet like a fan, and it can hold many coins. Each fold is a little stiff wall standing on its edge. Rolled tubes are strong too. Galileo, the Italian scientist, wrote about this in 1638. He noticed that hollow bones and hollow reeds are strong for how light they are. An arch carries a push along its curve, down to its two feet. The chart shows made-up results from the paper bridge challenge in this unit.
+A flat sheet of paper sags under one coin. Fold the same sheet like a fan, and it can hold many coins. Each fold is a little stiff wall standing on its edge. Rolled tubes are strong too. Galileo, the Italian scientist, wrote about this in 1638. He noticed that hollow bones and hollow reeds are strong for how light they are. An arch carries a push along its curve, down to its two feet. The chart shows made-up results from the paper bridge challenge in this lesson.
 - e.g. Wavy tin roof sheets are much stiffer than flat ones.
 - e.g. The wavy layer inside cardboard boxes makes them strong.
 - e.g. An eggshell is a dome, a curved shell. It is very hard to crush by squeezing its two ends.
 ### Twisting, and how twists make rope · *defined*
 **Definition:** A twist turns one end of a thing one way, while the other end turns the other way or stays still.
 
-When you wring a wet towel, the twist squeezes the cloth tighter and tighter, and the water is pushed out. Thread and rope are made with twists too. Cotton wool is made of short fibres, each only about 2 to 4 centimetres long. Pull a loose strand of cotton wool, and the fibres slide apart. Twist the same cotton into a wick, and the twist squeezes the fibres against each other. Friction, the grip between touching things, then stops them sliding. So the twisted wick is far stronger. Every cotton thread is spun this way, on a charkha or in a mill. In Kerala, coir rope has been twisted from coconut husk fibres for centuries. You can read more about grip in the unit 'Friction'.
+When you wring a wet towel, the twist squeezes the cloth tighter and tighter, and the water is pushed out. Thread and rope are made with twists too. Cotton wool is made of short fibres, each only about 2 to 4 centimetres long. Pull a loose strand of cotton wool, and the fibres slide apart. Twist the same cotton into a wick, and the twist squeezes the fibres against each other. Friction, the grip between touching things, then stops them sliding. So the twisted wick is far stronger. Every cotton thread is spun this way, on a charkha or in a mill. In Kerala, coir rope has been twisted from coconut husk fibres for centuries. You can read more about grip in the lesson 'Friction'.
 - e.g. Wringing out clothes on washing day.
 - e.g. A diya wick, twisted from cotton wool.
 - e.g. Coir rope, twisted from coconut fibres.
 ### Forces change speed and direction · *defined*
 **Definition:** A force can start a thing moving, stop it, speed it up, slow it down, or turn it in a new direction.
 
-Think of one cricket ball. The bowler's push starts it and speeds it up. The bat's push turns the ball the other way. The grass slows it down. A fielder's hands stop it. Every one of these changes needs a force. The more mass a thing has, the bigger the force needed to change its speed or direction by the same amount. That is why a full trolley is harder to start and stop than an empty one. If no force acts, a moving thing keeps going at the same speed in a straight line. On Earth, friction and air usually slow things down, so we hardly ever see that. When two forces on a thing are equal and opposite, they cancel out, and its movement does not change. You can read about that in the unit 'Pushes and pulls'.
+Think of one cricket ball. The bowler's push starts it and speeds it up. The bat's push turns the ball the other way. The grass slows it down. A fielder's hands stop it. Every one of these changes needs a force. The more mass a thing has, the bigger the force needed to change its speed or direction by the same amount. That is why a full trolley is harder to start and stop than an empty one. If no force acts, a moving thing keeps going at the same speed in a straight line. On Earth, friction and air usually slow things down, so we hardly ever see that. When two forces on a thing are equal and opposite, they cancel out, and its movement does not change. You can read about that in the lesson 'Pushes and pulls'.
 - e.g. A carrom striker hits a coin. The coin starts moving, and the striker slows and turns.
 - e.g. A kite string's tug turns the kite.
 - e.g. Brakes slow a bicycle.
@@ -98,7 +98,7 @@ A ball hits the floor going down. The floor pushes up on it and squashes it a li
 ### Going round needs a pull inwards · *defined*
 **Definition:** To move in a circle, a thing needs a force that keeps pulling it towards the middle. That force keeps changing its direction.
 
-Put a ball in a sock, tie a string to it, and swing it in a circle beside you. Your hand keeps pulling it inwards through the string, so it keeps turning. Let go, and it flies off in a straight line. The Moon goes round the Earth in the same way. The Earth's gravity keeps pulling it inwards. Isaac Newton, an English scientist, explained this in 1687. Without that pull, the Moon would fly off in a straight line into space. You can read more in the units about gravity.
+Put a ball in a sock, tie a string to it, and swing it in a circle beside you. Your hand keeps pulling it inwards through the string, so it keeps turning. Let go, and it flies off in a straight line. The Moon goes round the Earth in the same way. The Earth's gravity keeps pulling it inwards. Isaac Newton, an English scientist, explained this in 1687. Without that pull, the Moon would fly off in a straight line into space. You can read more in the lessons about gravity.
 - e.g. A merry-go-round pulls you inwards through the bar you hold.
 - e.g. A cyclist leans into a turn, so the road can push them round.
 - e.g. In a spinning washing machine, the drum pushes the clothes inwards, so they go round. The water goes straight on, out through the holes.
@@ -188,7 +188,7 @@ We have been learning how forces squash, stretch, bend and turn things. Now we a
 
 When you press a table, your thumb squashes a little, and so does the table. The push comes from both of them changing shape together. It is always shared: the table pushes your thumb exactly as hard as your thumb pushes the table. This means nothing can push on another thing without being pushed back. Both of them change shape a little. Each thing is partly shaped by everything that presses on it.
 
-- **Tao Te Ching 76:** “萬物草木之生也柔脆，其死也枯槁。 / 故堅強者死之徒，柔弱者生之徒。” A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last. (In this unit, a bamboo bends in the wind and springs back, but a dry stick or a papad snaps. Things that can give a little under a force often last longer than things that cannot.)
+- **Tao Te Ching 76:** “萬物草木之生也柔脆，其死也枯槁。 / 故堅強者死之徒，柔弱者生之徒。” A living plant is soft and bendy. A dead one is dry and snaps. So the stiff and hard break, and the soft and bending last. (In this lesson, a bamboo bends in the wind and springs back, but a dry stick or a papad snaps. Things that can give a little under a force often last longer than things that cannot.)
 - **Heraclitus, fragment DK B91:** “ποταμῷ γὰρ οὐκ ἔστιν ἐμβῆναι δὶς τῷ αὐτῷ” You cannot step into the same river twice, because new water is always flowing past. (A steel table, a mountain and your bones all change shape under every push, mostly too slowly or too little to see. Heraclitus saw change even in things that look fixed.)
 - Science (settled): A thing changes shape because its atoms are pushed closer together or pulled further apart.
 - Science (settled): When two things push on each other, the two pushes are always equal and opposite. Isaac Newton wrote this down in 1687 as his third law of motion.
@@ -692,7 +692,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 8. (mcq) A ball is swung round on a string. The string breaks. Which way does the ball go?  
    Options: Straight on, in the direction it was moving / It keeps going round in a circle / Straight back to the middle / Straight down  
    **Answer:** Straight on, in the direction it was moving. *Why:* With no string pulling it inwards, nothing turns it any more. So it flies off in a straight line. Picking 'keeps going round' is a very common idea. But going round needs a pull inwards all the time.
-9. (write) Someone says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell them? Use evidence from this unit.  
+9. (write) Someone says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell them? Use evidence from this lesson.  
    **Answer:** A strong answer says that every push changes a thing's shape a little, even steel. It gives evidence from the unit, for example the wet ball print (the ball squashed against a hard floor), bridges that sag under trucks, or, if the extra laser and mirror activity was done, the dot that moves when the table is pressed. It says the bend is too small to see with our eyes.. *Why:* Hard things change shape too, only by tiny amounts.
 10. (write) You drop a clay ball and a rubber ball from the same height onto the floor. Both squash when they land. Only the rubber ball comes back up. Explain why.  
    **Answer:** A strong answer says that both balls squash, but the rubber ball is elastic. It springs back into shape, and that pushes on the floor, so the floor pushes it back up. The clay is plastic. It stays squashed, so nothing pushes it up again.. *Why:* A bounce is a squash and a spring back. Without the spring back, there is no bounce.
@@ -875,7 +875,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: Galleries about machines, metals and engines.
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: Hands-on galleries, including exhibits on the Earth and how it changes.
 - [Wadia Institute of Himalayan Geology](https://www.wihg.res.in) · place · Dehradun: A research institute about the Himalayas, with a museum of rocks and fossils. Check visiting times before you go.
-- [Living root bridges of Meghalaya](https://www.meghalayatourism.in) · place · Sohra (Cherrapunji), Meghalaya: The real root bridges from this unit's story. The walk down to the double-decker bridge at Nongriat is steep, and best for older children with grown-ups.
+- [Living root bridges of Meghalaya](https://www.meghalayatourism.in) · place · Sohra (Cherrapunji), Meghalaya: The real root bridges from this lesson's story. The walk down to the double-decker bridge at Nongriat is steep, and best for older children with grown-ups.
 
 ## Things to buy
 - [Modelling clay or play dough](https://www.amazon.in/s?k=modelling+clay+kids) (material): Keeps its shape after a squash, so you can measure it. Chapati dough works too. Used in e1, a1. 
@@ -883,6 +883,10 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Tennis ball (or a rubber ball)](https://www.amazon.in/s?k=tennis+ball) (tool): Bounces and leaves a wet print. A tennis ball's fuzz holds water, so its print is clearest. Used in e3, g2. 
 - [Long kitchen sponges](https://www.amazon.in/s?k=kitchen+sponge) (material): Draw lines on one and bend it to see inside a bend. It also springs back when squeezed. Used in a1, a2. 
 - [Low-power red laser pointer, the kind used for talks](https://www.amazon.in/s?k=red+laser+pointer) (tool): Only for the table-bending extra, and only a grown-up uses it. It turns a tiny bend in the table into a dot moving on the wall. Used in a5. 
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Is the Table Bending? (a laser and a mirror). About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a5. Get it before Is the Table Bending? (a laser and a mirror).
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Am I Taller in the Morning?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before Am I Taller in the Morning?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Wring It, Twist It, Make a Rope. About ₹20 to ₹50. Torn clean cloth works. Used in a3. Get it before Wring It, Twist It, Make a Rope.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four ways a force can change shape. → Squash, stretch, twist and bend.

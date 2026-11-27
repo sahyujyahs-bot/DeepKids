@@ -1,9 +1,9 @@
 # The solar system: eight planets, one Sun, and Earth is one of them
 `sci.sky.solar-system.L3`
 
-**Summary.** Neptune goes round the same Sun as the Earth, so why is it so cold and dim there? In this unit you will test how light spreads out with distance, line up the planets in a 3-metre model, and roll a marble to see what keeps a planet going round.
+**Summary.** Neptune goes round the same Sun as the Earth, so why is it so cold and dim there? In this lesson you will test how light spreads out with distance, line up the planets in a 3-metre model, and roll a marble to see what keeps a planet going round.
 
-**Intro.** *Stand in a sunny patch by a window and hold out your hand. Feel the warmth. That warmth came from the Sun. The same Sun is shining on seven other planets right now. Do they all feel the same warmth as your hand?* In this unit you find out whether all the planets get the same warmth from the Sun. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.
+**Intro.** *Stand in a sunny patch by a window and hold out your hand. Feel the warmth. That warmth came from the Sun. The same Sun is shining on seven other planets right now. Do they all feel the same warmth as your hand?* In this lesson you find out whether all the planets get the same warmth from the Sun. You meet the eight planets and learn that the Earth is one of them. With a phone torch and a sheet of squared paper, you measure how light spreads out as it travels. That test shows why Mercury is scorching and Neptune is freezing and dark. You also hear how Galileo looked at Venus through a telescope and found that not everything goes round the Earth.
 
 ## Learning outcomes
 0. I can name the eight planets in order from the Sun, and say that the Earth is the third planet.
@@ -709,13 +709,19 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 - [Stellarium Web](https://stellarium-web.org/) · interactive: A free sky map. It shows which planets are up tonight from where you are.
 - [PhET Gravity and Orbits](https://phet.colorado.edu/en/simulations/gravity-and-orbits) · simulation: Switch the Sun's gravity off and watch the Earth fly off in a straight line, like the marble at the gap.
 - [NASA Space Place: Planets](https://spaceplace.nasa.gov/menu/solar-system/) · interactive: Short, clear pages and games about each planet, written for children.
-- [B.M. Birla Planetarium, Periyar Science and Technology Centre]() · place · Chennai: Planetarium shows of the night sky and the planets, and a science centre next door.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows and a science park. Check show times and languages before you go.
-- [Priyadarshini Planetarium, Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Planetarium shows about the solar system, next to a science museum.
-- [Nehru Planetarium, Nehru Centre]() · place · Mumbai: Sky shows about the Sun, planets and stars.
+- B.M. Birla Planetarium, Periyar Science and Technology Centre · place · Chennai: Planetarium shows of the night sky and the planets, and a science centre next door.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows and a science park. Check show times and languages before you go.
+- Priyadarshini Planetarium, Kerala State Science and Technology Museum · place · Thiruvananthapuram: Planetarium shows about the solar system, next to a science museum.
+- Nehru Planetarium, Nehru Centre · place · Mumbai: Sky shows about the Sun, planets and stars.
 
 ## Things to buy
 - [The Planets, by Gail Gibbons (choose an edition from 2008 or later, which calls Pluto a dwarf planet)](https://www.amazon.in/s?k=The+Planets+Gail+Gibbons) (book): A clear picture book for ages 5 to 9, with one or two pages on each planet. A library copy works just as well. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The 3-Metre Solar System. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a4. Get it before The 3-Metre Solar System.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Light Through a Window: how does light spread out with distance?, Planet Line-up: how big is the Earth next to the others?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1. Get it before Light Through a Window: how does light spread out with distance?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Light Through a Window: how does light spread out with distance?, Planet Line-up: how big is the Earth next to the others?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, a1. Get it before Light Through a Window: how does light spread out with distance?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Sunlight for a Spacecraft Going to Jupiter. About ₹10 to ₹30. Draw squares on plain paper. Used in c1. Get it before Sunlight for a Spacecraft Going to Jupiter.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Marble and the Missing Rim: what keeps a planet going round?. About ₹10 to ₹40. Small round stones or dried chana. Used in e2. Get it before The Marble and the Missing Rim: what keeps a planet going round?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the planet we live on. → The Earth, the third planet from the Sun.

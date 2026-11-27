@@ -1,9 +1,9 @@
 # Fertilisers, medicines, fuels and paints: how chemistry makes them, and why the amount matters
 `sci.chemistry.chemistry-in-industry.L4`
 
-**Summary.** A tablet that cures a grown-up can harm a small child. Why does the amount matter so much? In this unit you will find a fuel, a medicine, a paint and a plant food at home, test three paints, and compare one dose in two bodies.
+**Summary.** A tablet that cures a grown-up can harm a small child. Why does the amount matter so much? In this lesson you will find a fuel, a medicine, a paint and a plant food at home, test three paints, and compare one dose in two bodies.
 
-**Intro.** *A farmer's urea, a paracetamol tablet, the gas in a cylinder and the paint on a wall look nothing alike. Where does each of them come from?* None of the four is dug up or picked ready to use. People make each one by chemical reactions, starting from air, rock, crude oil or a plant. In this unit you find a fuel, a medicine, a paint and a plant food in your own home. You mix three paints and test which one stays on. You line up things made from crude oil, from cooking gas to candle wax. You also test why the same dose is weak in a big body and strong in a small one.
+**Intro.** *A farmer's urea, a paracetamol tablet, the gas in a cylinder and the paint on a wall look nothing alike. Where does each of them come from?* None of the four is dug up or picked ready to use. People make each one by chemical reactions, starting from air, rock, crude oil or a plant. In this lesson you find a fuel, a medicine, a paint and a plant food in your own home. You mix three paints and test which one stays on. You line up things made from crude oil, from cooking gas to candle wax. You also test why the same dose is weak in a big body and strong in a small one.
 
 ## Learning outcomes
 0. I can say where fertilisers, medicines, fuels and paints come from: raw materials changed by chemical reactions.
@@ -37,7 +37,7 @@
 ### Where fertilisers, medicines, fuels and paints come from · *defined*
 **Definition:** The chemical industry takes a few raw materials from nature. It changes them, by chemical reactions, into substances that people use.
 
-A chemical reaction changes substances into new substances. The atoms stay the same, and they join up in a new way. A chemical factory does this in very large amounts. It starts with raw materials. There are only a few kinds: air, water, rocks and salts, crude oil and natural gas, and living beings such as plants and moulds. The substance the factory sets out to make is its product. Most reactions also make other substances, called by-products. A factory needs energy too, and most of that energy still comes from burning fuel. Four families of products are in this unit. Fertilisers feed crops. Medicines treat illness. Fuels give energy. Paints colour and protect surfaces. Each one reaches your home after many steps. The paracetamol in a tablet is made in a few reactions from a substance called phenol. Phenol itself is made from crude oil.
+A chemical reaction changes substances into new substances. The atoms stay the same, and they join up in a new way. A chemical factory does this in very large amounts. It starts with raw materials. There are only a few kinds: air, water, rocks and salts, crude oil and natural gas, and living beings such as plants and moulds. The substance the factory sets out to make is its product. Most reactions also make other substances, called by-products. A factory needs energy too, and most of that energy still comes from burning fuel. Four families of products are in this lesson. Fertilisers feed crops. Medicines treat illness. Fuels give energy. Paints colour and protect surfaces. Each one reaches your home after many steps. The paracetamol in a tablet is made in a few reactions from a substance called phenol. Phenol itself is made from crude oil.
 - e.g. The nitrogen in urea comes from the air.
 - e.g. The white pigment in wall paint is made from a black beach sand.
 - e.g. LPG is separated from crude oil and natural gas.
@@ -146,7 +146,7 @@ Before 1913, all the nitrogen in crops came from dung, compost, bean crops, ligh
   Against: Arthur Eichengrün, his senior at Bayer, later wrote that the work was done under his direction. Eichengrün was Jewish, and his name was left out during Nazi rule. In 2000 the historian Walter Sneader judged his claim likely to be true.
 
 ## Roots
-In this unit you saw how chemistry makes fertilisers, medicines, fuels and paints. Here we ask what makes one substance a help at one time and a harm at another.
+In this lesson you saw how chemistry makes fertilisers, medicines, fuels and paints. Here we ask what makes one substance a help at one time and a harm at another.
 
 **Deep truth.** In One Dose, Two Bodies, two drops made the small glass dark and left the big pot pale. The drops were the same, and only the amount of water around them changed. A medicine spreads through a body in the same way, and plant food through the water in soil. So a substance helps or harms depending on its amount and on the size of the body.  
 *Habit it breaks:* We sort substances into good ones and bad ones: medicine and poison, plant food and pollution. The sorting leaves out the amount. Urea feeds a paddy field and kills the fish in the pond below.  
@@ -658,7 +658,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 - Three numbers, such as 19:19:19, on a packet of plant food at a nursery. They show how rich it is in nitrogen, phosphorus and potassium.
 - A strip of tablets with the dose printed on the back. Look for the letters 'mg', which stand for milligrams.
 - A lime-washed wall that leaves white powder on your sleeve, next to a painted door that leaves none. The door's paint has a stronger binder.
-- Black sand on a beach in Kerala or Tamil Nadu. Some of it is the mineral from which the white pigment of paint is made.
+- Black sand on a beach. Some of it is the mineral from which the white pigment of paint is made.
 
 ## Open questions
 - **Can ammonia be made from air without high heat, high pressure and natural gas?** Some bacteria make ammonia at the temperature of the soil, using an enzyme. Chemists have not yet matched this in a factory.
@@ -712,6 +712,8 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [Liquid food colour, one small bottle with a dropper top](https://www.amazon.in/s?k=liquid+food+colour) (material): For One Dose, Two Bodies. Any grocery shop sells it for a few rupees. Ink works in its place. Used in e2. 
 - [White craft glue, one small bottle](https://www.amazon.in/s?k=white+craft+glue) (material): For Three Paints. Most homes with a school child have it. Liquid office gum works in its place. Used in e1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Paints: what keeps the colour on the card?, The Crude Oil Ladder: from cooking gas to candle wax. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2. Get it before Three Paints: what keeps the colour on the card?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does the nitrogen in urea come from? → It comes from the air.
@@ -732,7 +734,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Founder's notebook, chemistry pages: 'Industrial Chemistry: petrochemicals, fertilizers, pharmaceuticals' (chem:63), 'Fertilizer chemistry: Haber-Bosch' (chem:104), 'Medicinal Chemistry' (chem:69, chem:98) and 'Green Chemistry' (chem:96). These gave the four families and the section on by-products and waste. 'High-Energy Chemistry: explosives' (chem:111) is left for Level 5.
 - Curriculum entry sci.chemistry.chemistry-in-industry.L4: fertilisers, medicines, fuels and paints all come from chemistry. The Haber-Bosch process in detail, petrochemicals, medicines by design, explosives and green chemistry in depth are left for sci.chemistry.chemistry-in-industry.L5, as the curriculum says.
 - The founder's SCI Card list: Asima Chatterjee is among the scientists whose facts were checked.
-- Other units were checked so that nothing repeats. Rust tests are in sci.changes.chemical-reactions.L4 and sci.chemistry.reaction-speed.L4. The dilution ladder is in sci.chemistry.acids-and-bases.L4. A fertiliser test on seedlings is in sci.plants.what-plants-need.L4, so this unit uses a game for fertiliser. Milk plastic is in sci.materials.what-is-it-made-of.L3. Flame and soot tests are in sci.changes.fire.L4. The experiments, games and story here are new.
+- Other units were checked so that nothing repeats. Rust tests are in sci.changes.chemical-reactions.L4 and sci.chemistry.reaction-speed.L4. The dilution ladder is in sci.chemistry.acids-and-bases.L4. A fertiliser test on seedlings is in sci.plants.what-plants-need.L4, so this lesson uses a game for fertiliser. Milk plastic is in sci.materials.what-is-it-made-of.L3. Flame and soot tests are in sci.changes.fire.L4. The experiments, games and story here are new.
 - Wöhler F. (1828). Ueber künstliche Bildung des Harnstoffs. Annalen der Physik und Chemie 88: 253-256.
 - Paracelsus (written 1538, printed 1564). Septem Defensiones, third defence.
 - Foote E. (1856). Circumstances affecting the heat of the sun's rays. American Journal of Science and Arts 22: 382-383.

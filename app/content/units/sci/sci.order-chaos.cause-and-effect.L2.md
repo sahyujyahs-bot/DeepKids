@@ -1,9 +1,9 @@
 # Cause and effect: how one push knocks down a whole line
 `sci.order-chaos.cause-and-effect.L2`
 
-**Summary.** You push only the first domino in a line, yet the last one falls. How does your push get all the way along? In this unit you will build domino lines and test how far apart they can stand, push a chain of coins, and play detective to find what caused things.
+**Summary.** You push only the first domino in a line, yet the last one falls. How does your push get all the way along? In this lesson you will build domino lines and test how far apart they can stand, push a chain of coins, and play detective to find what caused things.
 
-**Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this unit you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
+**Intro.** *Stand five books, matchboxes or dominoes on their ends in a row, a little apart. Push only the first one. What happens to the last one? You did not touch it. So what made it fall?* Things around us happen because of something. A push makes a domino fall. Rain makes a puddle. Heat makes ice melt. In this lesson you test how far apart dominoes can be and still knock each other down. You send a push through a line of coins and watch only the last coin move. You also find out how people learned that flies come from eggs, and not from rotting meat.
 
 ## Learning outcomes
 0. By the end I can say what a cause and an effect are, and give examples from my home.
@@ -505,9 +505,9 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 - Farmers know that what they do now, such as adding compost to the soil, has effects on the crop months later.
 
 ## Spotted around us
-- Traffic on a busy road in Bengaluru or Kolkata: when the front car stops, each car behind it stops one after another, like dominoes.
+- Traffic on a busy road: when the front car stops, each car behind it stops one after another, like dominoes.
 - A carrom board: the striker hits one coin, which hits another, which goes into the pocket. A chain of causes in one shot.
-- The monsoon reaching Kerala in early June: warm sea, then winds, then clouds, then rain, then full rivers and green fields.
+- The monsoon arriving in early June: warm sea, then winds, then clouds, then rain, then full rivers and green fields.
 - A line of ants on the kitchen wall, following a smell trail one ant left on the way back from food.
 - Soaking rice and urad dal for idli and dosa batter in the evening, so it is ready to grind the next day.
 
@@ -544,12 +544,18 @@ Meenu looked down at the road below. A gust of wind was shaking the coconut tree
 Never the Same Way Twice (sci.order-chaos.L2): Topic-level song for Order, chaos and chance L2
 
 ## Links
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on displays about motion, machines and energy, where you can see how one part moves the next.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with a park of hands-on science displays about pushes, pulls and motion.
-- [Regional Science Centre and Planetarium]() · place · Kozhikode: A science centre in Kerala with hands-on displays about forces and how things move.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on displays about motion, machines and energy, where you can see how one part moves the next.
+- Nehru Science Centre · place · Mumbai: A large science centre with a park of hands-on science displays about pushes, pulls and motion.
+- Regional Science Centre and Planetarium · place · Kozhikode: A science centre in Kerala with hands-on displays about forces and how things move.
 
 ## Things to buy
 - [A set of wooden or plastic dominoes, about 28 pieces](https://www.amazon.in/s?k=dominoes+set) (game): Dominoes stand well and fall evenly, so the gap test gives a clear result. Empty matchboxes or wooden blocks of the same size work too, so buy this only if you have neither. Used in e1, c1. Used in the domino gap test and the Chain Reaction Machine. Afterwards, dominoes can be played as a number-matching game, which joins the maths plan for adding small numbers.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Coin Chain: which coin moves?, Tonight's Cause, Tomorrow's Effect: soaking chana, The Chain Reaction Machine: ring a bell with one push. About ₹10 to ₹30. Any school ruler is fine. Used in e2, p1, c1. Get it before The Coin Chain: which coin moves?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Do It and See: six actions, six effects. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before Do It and See: six actions, six effects.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Chain Reaction Machine: ring a bell with one push. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Chain Reaction Machine: ring a bell with one push.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Tonight's Cause, Tomorrow's Effect: soaking chana. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Tonight's Cause, Tomorrow's Effect: soaking chana.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Chain Reaction Machine: ring a bell with one push. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before The Chain Reaction Machine: ring a bell with one push.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call what makes something happen? → The cause.

@@ -1,9 +1,9 @@
 # Sorting materials: where to draw the line, and what a map of two numbers can show
 `sci.materials.sorting-materials.L4`
 
-**Summary.** Ten kitchen foods line up from lightest to heaviest with no clear gap, so where do you draw the line between heavy and light? In this unit you will weigh a katori of each food, plot two numbers on a map, sort dal quickly and carefully, and count your mistakes.
+**Summary.** Ten kitchen foods line up from lightest to heaviest with no clear gap, so where do you draw the line between heavy and light? In this lesson you will weigh a katori of each food, plot two numbers on a map, sort dal quickly and carefully, and count your mistakes.
 
-**Intro.** *Ten kitchen foods stand in a row: salt, sugar, rice, toor dal, mustard seeds, atta, maida, poha, ragi flour and sooji. Weigh one katori of each, and the weights make a ladder from the lightest food to the heaviest. There is no clear gap in the middle of it. Now, which of these foods are heavy foods, and which are light? Where does the line go?* Nobody can say, because the ladder has no gap to show where to cut. You have to choose a line, and a friend can choose a different one. In this unit you find out how a line changes the groups, how a second number can show clumps that one number hides, and what happens when a sorter is hurried or strict. You also meet the astronomers who found the families of stars by doing exactly this.
+**Intro.** *Ten kitchen foods stand in a row: salt, sugar, rice, toor dal, mustard seeds, atta, maida, poha, ragi flour and sooji. Weigh one katori of each, and the weights make a ladder from the lightest food to the heaviest. There is no clear gap in the middle of it. Now, which of these foods are heavy foods, and which are light? Where does the line go?* Nobody can say, because the ladder has no gap to show where to cut. You have to choose a line, and a friend can choose a different one. In this lesson you find out how a line changes the groups, how a second number can show clumps that one number hides, and what happens when a sorter is hurried or strict. You also meet the astronomers who found the families of stars by doing exactly this.
 
 ## Learning outcomes
 0. I can put things in order by a number, draw a cut-off to make two groups, and say that the cut-off was my choice.
@@ -628,8 +628,8 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 1. (mcq) A mill's strict setting throws out 30 good grains in every 1000 and lets 0 stones through. Its loose setting throws out 2 good grains and lets 1 stone through. A stone costs 10 points and a thrown-out grain costs 1 point. Which setting costs less?  
    Options: Neither, because both make mistakes / They cost the same / The strict setting, with 30 points / The loose setting, with 12 points  
    **Answer:** The loose setting, with 12 points. *Why:* The strict setting costs 30 times 1, which is 30 points. The loose setting costs 2 times 1 plus 1 times 10, which is 12 points. So the loose setting costs less, though it lets a stone through. The cost of each kind of mistake decides.
-2. (write) A school sets a pass mark of 35 out of 100. Explain, using ideas from this unit, what the cut-off does to one child who scores 34 and another who scores 35.  
-   **Answer:** A strong answer says that the pass mark is a cut-off chosen by people. The two children are almost the same on the ladder of marks, but the line puts them in different groups. Children far from the line, such as 10 or 90, would stay in the same group whatever sensible pass mark was chosen. It may add that the pass mark does not show whether either child understood the topic.. *Why:* A cut-off puts nearly identical things in different groups. Those near the line are the ones whose group is a result of the choice.
+2. (write) A school sets a pass mark of 35 out of 100. Explain, using ideas from this lesson, what the cut-off does to one child who scores 34 and another who scores 35.  
+   **Answer:** A strong answer says that the pass mark is a cut-off chosen by people. The two children are almost the same on the ladder of marks, but the line puts them in different groups. Children far from the line, such as 10 or 90, would stay in the same group whatever sensible pass mark was chosen. It may add that the pass mark does not show whether either child understood the idea.. *Why:* A cut-off puts nearly identical things in different groups. Those near the line are the ones whose group is a result of the choice.
 3. (perspective) Three scientists talk about the groups we find in nature.  
    **Answer:** A strong answer may take either side or the middle, and gives a reason from the unit, such as the gap in the star map, the dependence of clumps on the numbers plotted, or the pass mark as a chosen line. It then admits a fair point from another person.. *Why:* Some groups are likely real and some are made by us. Which is which depends on whether the group stays when we change what we measure.
 4. (mcq) A computer system sorts photographs of people. A researcher wants to know if it is fair. What is the best thing to do?  
@@ -780,8 +780,8 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [Annie Jump Cannon (Wikipedia)](https://en.wikipedia.org/wiki/Annie_Jump_Cannon) · interactive: For the parent: the astronomer who sorted hundreds of thousands of stars by their light.
 - [Resin identification code (Wikipedia)](https://en.wikipedia.org/wiki/Resin_identification_code) · interactive: For the parent: what each number from 1 to 7 in the triangle on plastic means.
 - [Iris flower data set (Wikipedia)](https://en.wikipedia.org/wiki/Iris_flower_data_set) · interactive: For the parent: the famous set of flower measurements that Ronald Fisher used, with pictures of the three kinds of iris.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: A planetarium in Bengaluru with shows about stars and the sky. Check show times before you go.
-- [Nehru Science Centre]() · place · Mumbai: A hands-on science centre in Mumbai with many exhibits about materials, patterns and measuring. Check opening times before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: A planetarium in Bengaluru with shows about stars and the sky. Check show times before you go.
+- Nehru Science Centre · place · Mumbai: A hands-on science centre in Mumbai with many exhibits about materials, patterns and measuring. Check opening times before you go.
 
 ## Things to buy
 - [A small digital kitchen scale](https://www.amazon.in/s?k=digital+kitchen+scale+grams) (tool): For the Katori Map and the project that follows it. A scale that shows grams is enough, and many kitchens already have one. Used in e1, p1. 
@@ -789,6 +789,12 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [A small bag each of toor dal and chana dal](https://www.amazon.in/s?k=toor+dal+chana+dal+1kg) (material): For the Strict or Relaxed test and the Slot Sorter. Most kitchens have them already. Used in e2, c1. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the pieces of dal, the foods in the heaps and the plastic marks. Used in a1, e2. 
 - [The Glass Universe by Dava Sobel](https://www.amazon.in/s?k=the+glass+universe+dava+sobel) (book): For older readers and parents: the story of the women at the Harvard Observatory, including Annie Jump Cannon, Antonia Maury and Cecilia Payne, who sorted the stars. Used in a3. Read a chapter on a weekend after the Star Map activity.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Strict or Relaxed? Two ways to sort, two kinds of mistake, Soft or Hard? Five voters, one ladder. About ₹150 to ₹400. A phone stopwatch works well. Used in e2, e3. Get it before Strict or Relaxed? Two ways to sort, two kinds of mistake.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Katori Map: two numbers for ten kitchen foods, Predict Where It Lands: add new foods to the Katori Map, The Slot Sorter: separate toor dal from chana dal with a gap. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1, c1. Get it before The Katori Map: two numbers for ten kitchen foods.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Soft or Hard? Five voters, one ladder. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e3. Get it before Soft or Hard? Five voters, one ladder.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Plastic Code Hunt: the number in the triangle. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before Plastic Code Hunt: the number in the triangle.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Soft or Hard? Five voters, one ladder. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before Soft or Hard? Five voters, one ladder.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a cut-off? → A number you choose to split a ladder into two groups.
@@ -807,9 +813,9 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - Core: g1, ws-core, e1, e2, e3, a2, a3
 
 ## Sources
-- The Level 3 unit on sorting materials, which this unit goes beyond: it does not repeat sorting by yes or no questions, Venn and Carroll tables, branching keys, the scratch ladder, the recycling line or the star colour sort, and instead looks at cut-offs, maps of two numbers, counting mistakes and levels.
+- The Level 3 unit on sorting materials, which this lesson goes beyond: it does not repeat sorting by yes or no questions, Venn and Carroll tables, branching keys, the scratch ladder, the recycling line or the star colour sort, and instead looks at cut-offs, maps of two numbers, counting mistakes and levels.
 - Founder's topic notes on Transparent, Translucent and Opaque (arranging household materials into categories and comparing the results), which led to the voting test in Soft or Hard and the idea of a ladder of materials.
-- The Level 3 unit on star types and the periodic table, which this unit builds on: the star map goes one step further by putting brightness next to type. The Combined lessons for this topic were not reopened. The experiments here are new.
+- The Level 3 unit on star types and the periodic table, which this lesson builds on: the star map goes one step further by putting brightness next to type. The Combined lessons for this topic were not reopened. The experiments here are new.
 - Hertzsprung, E., 'Zur Strahlung der Sterne', Zeitschrift fuer wissenschaftliche Photographie, 1905 and 1907 (giants and dwarfs among red stars)
 - Russell, H.N., 'Relations between the spectra and other characteristics of the stars', Popular Astronomy, 1914 (the star map)
 - Cannon, A.J. and Pickering, E.C., The Henry Draper Catalogue, 1918 to 1924 (the sorting of stars into types)

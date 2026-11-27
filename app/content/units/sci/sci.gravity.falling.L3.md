@@ -1,7 +1,7 @@
 # Falling: why heavy and light things land together
 `sci.gravity.falling.L3`
 
-**Summary.** Drop a full bottle of water and a nearly empty one together, and they land with one thud. Why does the heavy one not win? In this unit you will race falling things, make paper fall like a stone, test parachutes, and catch a falling ruler.
+**Summary.** Drop a full bottle of water and a nearly empty one together, and they land with one thud. Why does the heavy one not win? In this lesson you will race falling things, make paper fall like a stone, test parachutes, and catch a falling ruler.
 
 **Intro.** *Hold a big potato in one hand and a small lemon in the other. Hold them at the same height. If you let go together, which will hit the floor first? Make your guess, and say why, before you try.* In 1971, an astronaut called David Scott stood on the Moon. He held a hammer in one hand and a falcon feather in the other. A camera was filming. Millions of people on Earth were watching. He let go of both at the same moment. On Earth, the feather would float down slowly and the hammer would thud down. On the Moon, there is no air. What do you think happened?
 
@@ -806,8 +806,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    Options: The Moon going round the Earth / A stone dropping into a well / A balloon floating away / A rocket taking off  
    **Answer:** The Moon going round the Earth. *Why:* The Moon is always falling towards the Earth. But it moves sideways so fast that it keeps missing. Scientists call this an orbit. The marble only stops because the sheet rubs it and slows it down.
 11. (sort) Sort these. Is each one a true fact about falling, or a myth?  
-   **Answer:** Without air, a feather and a coin fall together → True fact; Astronauts float because space has no gravity → Myth; A heavier stone is pulled harder by the Earth → True fact; Crumpled paper falls faster because it is heavier → Myth; A falling ball keeps speeding up → True fact; A parachute switches gravity off → Myth. *Why:* The myths are common, even in some books. The facts have been tested, many of them in this unit.
-12. (write) A friend says, 'Heavy things fall faster. I dropped a stone and a leaf, and the stone won.' Which test from this unit would you show your friend? Say what it proves.  
+   **Answer:** Without air, a feather and a coin fall together → True fact; Astronauts float because space has no gravity → Myth; A heavier stone is pulled harder by the Earth → True fact; Crumpled paper falls faster because it is heavier → Myth; A falling ball keeps speeding up → True fact; A parachute switches gravity off → Myth. *Why:* The myths are common, even in some books. The facts have been tested, many of them in this lesson.
+12. (write) A friend says, 'Heavy things fall faster. I dropped a stone and a leaf, and the stone won.' Which test from this lesson would you show your friend? Say what it proves.  
    **Answer:** A strong answer picks a test that changes only one thing. For example, a flat and a crumpled sheet weigh the same, but the crumpled one wins, so shape and air matter, not weight. Or two bottles of different weight but the same shape land together.. *Why:* The friend's test changed two things at once: the weight and the shape. A good test changes only one.
 13. (perspective) In the Egg Lander challenge, an egg in a lander is dropped from about 2 metres. Three friends each have a plan to keep the egg safe.  
    **Answer:** A strong answer picks a plan and gives a reason: a big parachute makes the air push up more, so the lander hits the ground slower, and padding makes the stop gentler. It answers back fairly, for example that padding adds weight, or that a big parachute can drift or tip.. *Why:* Real landers for Mars and the Moon use both: parachutes or rockets to slow down, and legs or airbags to soften the bump. There is no one best plan.
@@ -816,7 +816,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 15. (fill) A stone is dropped from a high cliff, with little air in the way. After 1 second it has fallen about 5 metres. After 2 seconds it has fallen about ____ metres.  
    **Answer:** ['20', 'twenty']. *Why:* It is not 10 metres, because the stone keeps speeding up. The pattern is like Galileo's Ramp: 1, 4, 9 times as far. 4 times 5 metres is 20 metres.
 16. (match) Match each word to its meaning.  
-   **Answer:** vacuum → a space with no air in it; free fall → falling with nothing holding you up; orbit → falling round something and always missing; terminal speed → the steady speed when the air's push matches gravity. *Why:* These are four key words from this unit.
+   **Answer:** vacuum → a space with no air in it; free fall → falling with nothing holding you up; orbit → falling round something and always missing; terminal speed → the steady speed when the air's push matches gravity. *Why:* These are four key words from this lesson.
 ### Gravity Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) The Earth pulls a full bottle of water twice as hard as a half-full one. So why doesn't the full bottle fall faster?  
    Options: The full bottle also has twice the mass, so it is twice as hard to speed up / Gravity pulls everything with the same force / The air always balances it out / The full bottle does fall twice as fast  
@@ -857,7 +857,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** A sloping ramp with four marks. The gap from the start to the first mark is small, and each gap after that is bigger than the one before.. *Why:* The marble speeds up, so it covers more ground in each beat.
 
 ## Videos
-- **Brian Cox visits the world's biggest vacuum chamber (Human Universe)** (BBC, 5 min) id `E43-CfukEgs`: A bowling ball and a bunch of feathers are dropped in NASA's huge vacuum chamber in Ohio. All the air has been pumped out. They land together. Children gasp. It is the clearest proof in this unit. *Check:* Plays on YouTube; the title matches.
+- **Brian Cox visits the world's biggest vacuum chamber (Human Universe)** (BBC, 5 min) id `E43-CfukEgs`: A bowling ball and a bunch of feathers are dropped in NASA's huge vacuum chamber in Ohio. All the air has been pumped out. They land together. Children gasp. It is the clearest proof in this lesson. *Check:* Plays on YouTube; the title matches.
 - **Apollo 15 hammer and feather drop on the Moon (1971)** (NASA, 1 min) id `oYEgdZ3iEKA`: The real film of David Scott dropping a hammer and a falcon feather on the Moon. They land together. It is short, real and historic. *Check:* Plays on YouTube; the title matches.
 - **The slinky drop, in slow motion** (Veritasium, 3 min) id `wGIZKETKKdw`: A stretched slinky toy is held from the top and let go. In slow motion, the bottom of the slinky hangs still for a moment. Meanwhile the top falls down to meet it. It is puzzling and beautiful to watch, and a good question to argue about. *Check:* Plays on YouTube; the title matches.
 
@@ -930,9 +930,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - A black plastic water tank on a rooftop, sending water down to the taps below.
 - Ripe mangoes falling in summer, and the thud when they land.
 - Fluffy semal and kapok seeds drifting through the air, and spinning mahogany seeds falling from the tree.
-- Waterfalls like Jog Falls in Karnataka and Dudhsagar in Goa, where water falls and speeds up.
+- Waterfalls, where water falls and speeds up.
 - Rivers flowing downhill from the Himalayas, all the way to the sea.
-- Monsoon rain falling straight down when there is no wind, as in Cherrapunji or Kochi.
+- Monsoon rain falling straight down when there is no wind.
 - A rocket launch from Sriharikota on television, fighting gravity to reach space.
 
 ## Open questions
@@ -992,6 +992,13 @@ Gravity (sci.gravity.L3):
 - [Glass marbles](https://www.amazon.in/s?k=glass+marbles+kids) (material): Small glass marbles, easy to find in toy and stationery shops. A steel ball works too. Used in a2, p1. 
 - [Gravity, by Jason Chin](https://www.amazon.in/s?k=Gravity+Jason+Chin) (book): A beautiful picture book. It asks what would happen if gravity stopped, and shows everything it holds together. Used in a2. 
 - [Starry Messenger, by Peter Sís](https://www.amazon.in/s?k=Starry+Messenger+Peter+Sis) (book): A picture-book life of Galileo. He asked the falling question, and was punished for his ideas about the sky. Used in e1, p1. 
+- [A bar magnet or two, and a few small magnets](https://www.amazon.in/s?k=bar+magnet+school) (tool): Used in A Magnet Beats the Whole Earth. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests. Used in a8. Get it before A Magnet Beats the Whole Earth.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in How High Can You Jump? Can You Jump into Space?, Galileo's Ramp: catching a fall in slow motion. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1, p1. Get it before How High Can You Jump? Can You Jump into Space?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Parachute Test, The Falling Seeds Walk (if you have a park nearby), The Slowest Fall. About ₹150 to ₹400. A phone stopwatch works well. Used in e3, a6, c2. Get it before The Parachute Test.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Parachute Test, The Falling Ruler: catch it if you can, How High Can You Jump? Can You Jump into Space?. About ₹10 to ₹30. Any school ruler is fine. Used in e3, e4, a1, p1. Get it before The Parachute Test.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Galileo's Ramp: catching a fall in slow motion. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in p1. Get it before Galileo's Ramp: catching a fall in slow motion.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Galileo's Ramp: catching a fall in slow motion. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Galileo's Ramp: catching a fall in slow motion.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which way is 'down'? → Towards the middle of the Earth.

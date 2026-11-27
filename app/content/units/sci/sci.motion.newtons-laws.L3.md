@@ -1,9 +1,9 @@
 # Inertia: why moving things keep moving and still things stay still
 `sci.motion.newtons-laws.L3`
 
-**Summary.** Why do rolled socks dropped while you walk land past the plate instead of on it? In this unit you will drop socks while walking at different speeds, roll a ball over a towel, a doormat and a bare floor, and play a game of keep going or change.
+**Summary.** Why do rolled socks dropped while you walk land past the plate instead of on it? In this lesson you will drop socks while walking at different speeds, roll a ball over a towel, a doormat and a bare floor, and play a game of keep going or change.
 
-**Intro.** *Try this. Put a card on top of a steel tumbler and a coin on the card. Pull the card away slowly. Now set it up again and flick the card away hard and fast with your finger. Where did the coin go each time? Nothing pushed the coin down into the tumbler. So why did it end up inside?* The coin was sitting still, and it went on sitting still while the card shot out from under it. Then gravity pulled it straight down into the tumbler. This is inertia: things keep doing what they are already doing until a force changes it. In this unit you test it with your own body, with socks, eggs, water and marbles. You find out why a rolling ball on Earth always stops, why a ball on ice slides so far, and why a spacecraft launched in 1977 is still travelling today.
+**Intro.** *Try this. Put a card on top of a steel tumbler and a coin on the card. Pull the card away slowly. Now set it up again and flick the card away hard and fast with your finger. Where did the coin go each time? Nothing pushed the coin down into the tumbler. So why did it end up inside?* The coin was sitting still, and it went on sitting still while the card shot out from under it. Then gravity pulled it straight down into the tumbler. This is inertia: things keep doing what they are already doing until a force changes it. In this lesson you test it with your own body, with socks, eggs, water and marbles. You find out why a rolling ball on Earth always stops, why a ball on ice slides so far, and why a spacecraft launched in 1977 is still travelling today.
 
 ## Learning outcomes
 0. I can say Newton's first law in my own words: a thing keeps still, or keeps moving in a straight line at the same speed, until a force changes it.
@@ -88,7 +88,7 @@ Put a small atta-dough person on a toy car and roll it into a book. The car stop
 ### Newton's three laws of motion · *defined*
 **Definition:** Newton wrote three laws of motion in his book Principia in 1687. The first is inertia. The second says a bigger force changes motion more, and more mass needs more force. The third says forces come in pairs: when you push something, it pushes back on you just as hard.
 
-This unit is mostly about the first law, because the other two build on it. You can feel the second law when you push an empty trolley and a full one with the same push: the empty one speeds up much more. You can feel the third law when you push a wall: the wall pushes you back. Newton built on the work of many others, including Galileo Galilei in Italy and Pierre Gassendi and René Descartes in France. In 1749, the French scientist Emilie du Chatelet finished translating the Principia into French, with her own notes, so that many more people could read it.
+This lesson is mostly about the first law, because the other two build on it. You can feel the second law when you push an empty trolley and a full one with the same push: the empty one speeds up much more. You can feel the third law when you push a wall: the wall pushes you back. Newton built on the work of many others, including Galileo Galilei in Italy and Pierre Gassendi and René Descartes in France. In 1749, the French scientist Emilie du Chatelet finished translating the Principia into French, with her own notes, so that many more people could read it.
 - e.g. First law: a coin stays still when a card is flicked from under it.
 - e.g. Second law: the same push speeds up an empty trolley more than a full one.
 - e.g. Third law: a balloon pushes air out of the back, and the air pushes the balloon forward.
@@ -679,7 +679,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 
 ## Videos
 - **STEMonstrations: Newton's First Law of Motion** (NASA Johnson, 4 min) id `-luKN6mad5w`: Astronauts on the International Space Station show that, with almost nothing to slow them, still things stay still and moving things keep moving. *Check:* Preview it first and check its length.
-- **Egg Experiment to Demonstrate Inertia** (Veritasium, 3 min) id `7LGi-Dlb8Vs`: The raw egg and boiled egg spin test, filmed close up, the same test as the egg experiment in this unit. *Check:* Preview it first and check its length.
+- **Egg Experiment to Demonstrate Inertia** (Veritasium, 3 min) id `7LGi-Dlb8Vs`: The raw egg and boiled egg spin test, filmed close up, the same test as the egg experiment in this lesson. *Check:* Preview it first and check its length.
 - **Can You Drop A Ball From A Moving Vehicle And Have It Land Straight Down?** (MythBusters, 4 min) id `xb_kS5pRv-0`: A football fired backwards from a fast truck at exactly the truck's speed drops almost straight down. It is the walking drop turned the other way round. *Check:* Preview it first and check its length. Stunts with vehicles are for trained teams only: never copy them.
 
 ## Quiz
@@ -788,6 +788,14 @@ Keep On Going (sci.motion.L3): Topic-level song for Motion L3
 ## Things to buy
 - [A small bag of glass marbles (goli)](https://www.amazon.in/s?k=glass+marbles+goli) (material): Marbles roll well and the same way every time, so the rolling test is fair. Sold cheaply in toy and stationery shops. A small hard rubber ball works too. Used in e3. 
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): One balloon gives the air for the hover puck. Keep a spare, because they burst. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Walking Drop: where will it land?, How Far Will It Roll? Towel, doormat and bare floor, Build a Balloon Hover Puck. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, e3, p1. Get it before The Walking Drop: where will it land?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Walking Drop: where will it land?, How Far Will It Roll? Towel, doormat and bare floor, The Carrom Tower. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a3. Get it before The Walking Drop: where will it land?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Dough Passenger. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a6. Get it before The Dough Passenger.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Save the Dough Passenger, The Longest Glide. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1, c2. Get it before Save the Dough Passenger.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Save the Dough Passenger. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Save the Dough Passenger.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Water That Keeps Turning. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before The Water That Keeps Turning.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Dough Passenger, Save the Dough Passenger. About ₹100 to ₹200. A marble or a round torch cell works. Used in a6, c1. Get it before The Dough Passenger.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a force? → A push or a pull.
@@ -807,7 +815,7 @@ Keep On Going (sci.motion.L3): Topic-level song for Motion L3
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md: 'Concept activities: Newton's Laws of Motion' (slide a book to show inertia, push a chair and feel resistance, watch cars start and stop, balloon rocket; 'motion obeys universal order'; meditative walking feeling inertia, used in the Roots practice); notebook item phy:186
-- Prerequisite unit sci.forces.changing-motion.L3 (built on, not repeated: its Galileo ramp story is not retold here; this unit uses Aryabhata and Gassendi instead)
+- Prerequisite unit sci.forces.changing-motion.L3 (built on, not repeated: its Galileo ramp story is not retold here; this lesson uses Aryabhata and Gassendi instead)
 - Nearby units checked so experiments are new: sci.forces.push-and-pull.L3 (third law, balloon rocket), sci.forces.friction.L3 (slope test), sci.sound.sources-of-sound.L3 (line of coins), sci.gravity.falling.L3 (drop race)
 - Newton, Philosophiae Naturalis Principia Mathematica, 1687 (the three laws of motion)
 - Aryabhata, Aryabhatiya, about 499 CE, Golapada section (the moving boat and the apparent westward motion of the stars)

@@ -2968,6 +2968,78 @@
    "used_in": [
     "a3"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Measure the Sun Catcher: how much leaf does one plant hold out?, A Photon's Journey: draw the comic strip, The Leaf Tower: fix 12 leaves on one stem so that none is in the shade. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a5",
+    "a6",
+    "c1"
+   ],
+   "plan": "Get it before Measure the Sun Catcher: how much leaf does one plant hold out?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Red Glow: what chlorophyll does with light in a jar. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Red Glow: what chlorophyll does with light in a jar."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Red Glow: what chlorophyll does with light in a jar. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before The Red Glow: what chlorophyll does with light in a jar."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Leaf Prints That Fade: what light does to chlorophyll outside a leaf. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Leaf Prints That Fade: what light does to chlorophyll outside a leaf."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Measure the Sun Catcher: how much leaf does one plant hold out?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Measure the Sun Catcher: how much leaf does one plant hold out?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3228,14 +3300,23 @@
     "source": "Chandogya Upanishad 6.7",
     "teaching": "Uddalaka asks his son Shvetaketu to eat nothing for fifteen days and only drink water. Afterwards the boy has forgotten the verses he knew well. He eats, and his memory returns. His father tells him that the mind is made of food.",
     "link": "Thinking and remembering run on the energy in food, and that energy was sunlight caught by chlorophyll. So energy from light that a leaf caught is at work in a child's memory.",
-    "verse": ["अन्नमयं हि सोम्य मनः", "आपोमयः प्राणः", "तेजोमयी वागिति"],
+    "verse": [
+     "अन्नमयं हि सोम्य मनः",
+     "आपोमयः प्राणः",
+     "तेजोमयी वागिति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Bhagavad Gita 15.12 to 15.13",
     "teaching": "The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source.",
     "link": "The science in this lesson finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.",
-    "verse": ["यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।", "यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।", "गामाविश्य च भूतानि धारयाम्यहमोजसा।", "पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।"],
+    "verse": [
+     "यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।",
+     "यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।",
+     "गामाविश्य च भूतानि धारयाम्यहमोजसा।",
+     "पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।"
+    ],
     "verse_lang": "sa"
    },
    {

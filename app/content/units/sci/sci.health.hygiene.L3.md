@@ -1,7 +1,7 @@
 # Hygiene: how soap lifts germs off your hands
 `sci.health.hygiene.L3`
 
-**Summary.** Plain water runs off an oily hand and leaves the dirt behind, but soap does not. Why? In this unit you will test water against soap on a turmeric-covered hand, shake oil, water and soap in a jar, and play a game that follows a germ from hand to hand.
+**Summary.** Plain water runs off an oily hand and leaves the dirt behind, but soap does not. Why? In this lesson you will test water against soap on a turmeric-covered hand, shake oil, water and soap in a jar, and play a game that follows a germ from hand to hand.
 
 **Intro.** *Rub a drop of cooking oil on your palm. Rinse it with plain water, then press your palm on a sheet of paper. Is there an oily mark? Now wash with soap, and press again.* Your hands touch hundreds of things every day, such as door handles, coins and your own face. Tiny living things called microbes ride along on every touch. Most are harmless. A few, called germs, can give you a tummy upset or a cold. They are far too small to see. So how can we know they are on our hands? And why does soap get them off when water alone does not?
 
@@ -39,7 +39,7 @@
 ### How germs travel from one person to another · *defined*
 **Definition:** Germs are the microbes and viruses that can make us ill. They travel from person to person on hands, in water and food, in the drops of a sneeze or cough, and on flies and mosquitoes.
 
-Many bacteria can swim through water, but each second they cover less than the width of a hair. To get from one person to another, a germ needs a ride. Most often the ride is a hand. A hand touches a dirty surface, then touches the eyes, nose or mouth. Those soft, wet linings are the easiest way into the body. A sneeze sprays tiny drops across a room. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish and then on food. Mosquitoes carry the germs of malaria and dengue from one person's blood to another's. Hygiene means breaking these paths at the right moments. The hand is the path that is easiest to break, with soap and water. How the body fights germs that do get in is in the unit on the immune system.
+Many bacteria can swim through water, but each second they cover less than the width of a hair. To get from one person to another, a germ needs a ride. Most often the ride is a hand. A hand touches a dirty surface, then touches the eyes, nose or mouth. Those soft, wet linings are the easiest way into the body. A sneeze sprays tiny drops across a room. Dirty water and uncovered food carry germs into the stomach. Flies walk on rubbish and then on food. Mosquitoes carry the germs of malaria and dengue from one person's blood to another's. Hygiene means breaking these paths at the right moments. The hand is the path that is easiest to break, with soap and water. How the body fights germs that do get in is in the lesson on the immune system.
 - e.g. A child plays with a ball outside, then eats a vada without washing. Germs ride from the ball, to the hand, to the mouth.
 - e.g. A sneeze into the air can spray drops more than a metre. A sneeze into your elbow keeps most of them on your sleeve.
 - e.g. Flies on an open rubbish heap can carry germs on their feet to uncovered food.
@@ -777,6 +777,14 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song
 - [Dried reetha (soapnuts)](https://www.amazon.in/s?k=reetha+soapnut+dried) (material): Shows that a plant makes their own soap-like molecules. Used in a2. 
 - [Plant spray bottle (or a washed empty cleaner spray bottle from home)](https://www.amazon.in/s?k=plant+spray+bottle) (tool): Makes the pretend sneeze in the Sneeze Catcher challenge. Used in c1. 
 - [Germs Make Me Sick!, by Melvin Berger (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Germs+Make+Me+Sick+Melvin+Berger) (book): A clear picture book about germs and how to stay healthy, for ages 5 to 8. Used in g1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Sneeze Catcher. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c1. Get it before The Sneeze Catcher.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sneeze Catcher. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before The Sneeze Catcher.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Sneeze Catcher. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in c1. Get it before The Sneeze Catcher.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in My Body Care Map. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5. Get it before My Body Care Map.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Build a Tippy-Tap Hand-Washing Station. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in p1. Get it before Build a Tippy-Tap Hand-Washing Station.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Reetha Foam: a plant that makes soap, The Sneeze Catcher. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2, c1. Get it before Reetha Foam: a plant that makes soap.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Build a Tippy-Tap Hand-Washing Station, Soap for Everyone. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in p1, c2. Get it before Build a Tippy-Tap Hand-Washing Station.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A soap molecule has a head that sticks to ____ and a tail that sticks to oil. → water

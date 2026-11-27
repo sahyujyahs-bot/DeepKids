@@ -1,9 +1,9 @@
 # Polymers: the very long molecules in plastic, rubber, silk and wool
 `sci.chemistry.polymers.L3`
 
-**Summary.** White glue pours like a liquid, yet a little borax water turns it into slime you can stretch. Why? In this unit you will make slime, test how much borax gives the firmest slime, and stretch a plastic milk packet strip to see whether every part stretches the same.
+**Summary.** White glue pours like a liquid, yet a little borax water turns it into slime you can stretch. Why? In this lesson you will make slime, test how much borax gives the firmest slime, and stretch a plastic milk packet strip to see whether every part stretches the same.
 
-**Intro.** *Hold a spoonful of white glue over a plate and tip it slowly. Watch it drip. Glue flows like a liquid. Today the same glue will become something you can pick up and roll into a ball. What could change inside it?* Water and glue are both liquids, but glue drips slowly and makes threads. That is a clue about what glue is made of. Its molecules are not small and round like water molecules. They are very long chains. In this unit you find out what happens when long chains tangle, and when they are tied to each other.
+**Intro.** *Hold a spoonful of white glue over a plate and tip it slowly. Watch it drip. Glue flows like a liquid. Today the same glue will become something you can pick up and roll into a ball. What could change inside it?* Water and glue are both liquids, but glue drips slowly and makes threads. That is a clue about what glue is made of. Its molecules are not small and round like water molecules. They are very long chains. In this lesson you find out what happens when long chains tangle, and when they are tied to each other.
 
 ## Learning outcomes
 0. I can say what a polymer is: a very long molecule made of many small pieces joined in a chain.
@@ -37,18 +37,24 @@ Most molecules are tiny and short. A water molecule has just 3 atoms. A polymer 
 - e.g. The plastic in a milk packet, called polythene, is long chains of carbon atoms with hydrogen atoms along their sides.
 - e.g. Starch in rice and atta is long chains of glucose, a sugar.
 - e.g. Silk, wool and your hair are proteins, long chains of amino acids.
+- **Many chemists before the 1920s:** Believed rubber and starch were small molecules clumped together.
+- **Hermann Staudinger (1920s):** Said they are truly very long molecules. Many chemists opposed him for years until the evidence won.
 ### Why long chains tangle · *defined*
 **Definition:** Long chain molecules wind around each other and tangle. A pull on one chain drags its neighbours along.
 
 Small molecules, like water or sugar, slide past each other easily. That is why water pours fast. Long chains cannot slide past each other easily. They are wound together like cooked noodles in a bowl. So a liquid made of long chains, like glue, flows slowly and makes threads. A solid made of long chains, like a plastic bag, can stretch instead of breaking at once.
 - e.g. Lift a forkful of rice and the grains fall off. Lift a forkful of noodles, or idiyappam, and a whole clump hangs down.
 - e.g. Honey flows slowly too, but it breaks into drops. Glue makes long threads because its molecules are long chains.
+- **Early chemists:** Many thought rubber and similar stuff were clumps of small molecules held by loose forces. They doubted that molecules could be so long.
+- **Hermann Staudinger:** In the 1920s he argued that they are truly giant molecules with strong bonds along the whole chain. He was doubted at first and won the Nobel Prize in 1953.
 ### How borax turns glue into slime · *defined*
 **Definition:** Borax in water makes cross-links: ties that join the glue's long molecules to each other. Many tied chains make one stretchy net, which is slime.
 
 In glue, the long chains are loose. They tangle, but they can slowly slide apart, so glue flows. Borax ties one chain to another at a few places along its length. Soon every chain is tied to others, and the whole cup becomes one net. That is why the glue suddenly clumped. More borax makes more ties, so the slime is firmer and spreads less. The ties in slime keep breaking and joining again. Pull slowly, and the ties have time to let go and re-join, so slime stretches. Pull fast, and they break before they can re-join, so slime snaps.
 - e.g. In the borax test, the cup with the most borax water gave the firmest slime, which spread least on the plate.
 - e.g. Slime pulled slowly made a long thread. Pulled with a quick tug, it snapped with a clean edge.
+- **Borax slime chemists:** Say the borate links are weak and come apart again. That is why slime flows slowly yet stretches and snaps.
+- **Charles Goodyear:** In 1839 he found that heating rubber with sulphur makes strong, lasting links between chains. His rubber does not flow, unlike slime.
 ### Polymers that living beings make · *defined*
 **Definition:** Living beings make many polymers in their bodies: proteins, starch, cellulose and DNA.
 
@@ -56,18 +62,24 @@ A silkworm caterpillar must keep safe while their body changes into a moth. So t
 - e.g. Cotton and paper are cellulose, the polymer that makes plant walls stiff.
 - e.g. A sheep's wool and your hair are keratin, a protein.
 - e.g. A spider's web is silk, a protein. Weight for weight, spider silk is stronger than steel wire.
+- **Silk-makers and lac farmers:** In India, people have for centuries used the silk of silkworms and the lac made by lac insects, for cloth and bangles. Living beings made these polymers long before chemistry named them.
+- **Biochemists:** Find that proteins, cellulose, starch and DNA are all polymers. Life is built from chains, and the order of links carries the information.
 ### Plastics: polymers people make · *defined*
 **Definition:** Plastics are polymers made in factories, mostly from oil and natural gas. Small molecules from the oil are joined into long chains.
 
 Different small molecules make different plastics. A milk packet is polythene. A water bottle is usually PET. A bucket is often polypropylene. All of them are long chains, so they bend and stretch instead of shattering. Plastic is cheap, light and waterproof, and it lasts a very long time. That is also its problem. Very few living beings can yet break plastic chains, so thrown-away plastic stays in soil, rivers and the sea.
 - e.g. Look for a small triangle with a number from 1 to 7 on plastic things. The number says which plastic it is.
 - e.g. Nylon was the first fibre made entirely in a factory. It was made in 1935. It is used for toothbrush bristles and ropes.
+- **Leo Baekeland:** Made Bakelite in 1907, the first fully man-made plastic. It was hailed as the material of a thousand uses.
+- **Environmental scientists:** Today find plastic waste in oceans and even tiny bits of plastic inside living beings. The same long chains that make plastic strong make it slow to break down.
 ### Tying rubber's chains: vulcanised rubber · *defined*
 **Definition:** Vulcanising means heating rubber with sulfur. The sulfur makes cross-links between the rubber chains, much as borax ties the chains in slime.
 
 Raw rubber from latex gets soft and sticky on a hot day and stiff on a cold one. Its chains slide past each other too easily. In 1839, in the United States, Charles Goodyear found that heating rubber with sulfur fixed this. Sulfur ties the chains together. The ties let the rubber stretch, then pull it back to its shape. Unlike the ties in slime, these ties do not keep breaking, so a tyre does not slowly flow flat.
 - e.g. A rubber band springs back. A blob of slime slowly spreads out. Both are tied chains, but the rubber band's ties are permanent.
 - e.g. Tyres, chappal soles and rubber gloves are made of vulcanised rubber.
+- **Charles Goodyear (1839):** Found that heating rubber with sulfur makes it strong and springy.
+- **Peoples of Mexico and Central America:** Mixed rubber latex with the juice of morning glory vines centuries earlier to make strong rubber for balls and shoes.
 
 ## Mostly agreed
 - Plastic, rubber, silk, wool, cotton, starch and DNA are polymers: very long molecules made of small pieces joined by chemical bonds. *How we know:* Chemists can build polymers from small molecules on purpose, measure how heavy single polymer molecules are, and even see long chains under special microscopes.
@@ -571,7 +583,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 
 ## Videos
 - **From DNA to Silly Putty: The diverse world of polymers - Jan Mattingly** (TED-Ed, 5 min) id `UwRVj9rz2QQ`: A short cartoon about what polymers are, from DNA and rubber to plastic, with clear pictures of chains. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. Length is approximate.
-- **Science Max | SLIME | Polymer** (Science Max - Scholastic, 10 min) id `yZBh_h894IA`: A lively show about making slime and why it is a polymer. Watch for the recipe ideas, but use the safety steps in this unit. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so a parent should check the recipe used before copying it. Length not checked.
+- **Science Max | SLIME | Polymer** (Science Max - Scholastic, 10 min) id `yZBh_h894IA`: A lively show about making slime and why it is a polymer. Watch for the recipe ideas, but use the safety steps in this lesson. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so a parent should check the recipe used before copying it. Length not checked.
 - **How natural Rubber is Made from Trees | Rubber Harvesting and Processing | Rubber Tapping Method** (Discover Agriculture, 10 min) id `1Nd41-plHnk`: Shows rubber tapping, latex dripping into cups, and how latex is set and pressed into sheets, as in the story. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here; which country it was filmed in is not checked. Length not checked.
 
 ## Quiz
@@ -623,8 +635,8 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - Ropes, fishing nets and racket strings are made of polymer fibres.
 
 ## Spotted around us
-- A rubber estate in Kerala, with a cup tied to each tree to catch latex.
-- Silk sarees in a silk shop: Kanchipuram, Banaras or Assam silk.
+- A rubber tree with a cup tied to its trunk to catch latex.
+- Silk sarees in a silk shop.
 - The small number in a triangle on the bottom of a plastic bottle.
 - Rice water thickening in the pot as starch comes out of the grains.
 - A spider's web on a balcony grill, catching the morning light.
@@ -668,14 +680,17 @@ Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3
 ## Links
 - [TED-Ed lesson: From DNA to Silly Putty](https://ed.ted.com/lessons/from-dna-to-silly-putty-the-diverse-world-of-polymers-jan-mattingly) · interactive: The video with short questions to answer and ideas to dig deeper. Best for the parent or an older child.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum with galleries on materials and science you can touch.
-- [Silk weavers of Kanchipuram]() · place · Kanchipuram, Tamil Nadu: Many weaving families work at their looms at home. Ask a shop to show you raw silk thread and a loom.
-- [A rubber estate]() · place · Kottayam and nearby districts, Kerala: Visit early in the morning to see tapping and latex dripping into cups. Many homestays arrange this.
+- Silk weavers of Kanchipuram · place · Kanchipuram, Tamil Nadu: Many weaving families work at their looms at home. Ask a shop to show you raw silk thread and a loom.
+- A rubber estate · place · Kottayam and nearby districts, Kerala: Visit early in the morning to see tapping and latex dripping into cups. Many homestays arrange this.
 
 ## Things to buy
 - [White PVA craft glue, a 100 to 200 gram bottle](https://www.amazon.in/s?k=white+pva+craft+glue) (material): The glue for slime. It must be the runny white glue sold for school projects, not a glue stick. Many homes already have it. Used in e1, c1. 
 - [Borax powder (suhaga), a small pack](https://www.amazon.in/s?k=borax+powder+suhaga) (material): Turns glue into slime. Sold at ayurvedic and pansari shops and online. Keep it out of reach of small children. If you cannot get it, a contact lens solution whose label lists boric acid or sodium borate, with a pinch of baking soda, also works. Used in e1, c1. 
 - [Round rubber balloons](https://www.amazon.in/s?k=round+latex+balloons) (material): For the skewer test. Sold at any stationery or party shop. Used in e2. 
 - [Isabgol (psyllium husk), a small pack](https://www.amazon.in/s?k=isabgol+psyllium+husk) (material): For the plant slime. Sold at chemists and grocery shops, and many homes have it. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Borax Test: how much borax makes the firmest slime?, The Milk Packet Stretch: does every part of a plastic strip stretch the same?, The Slime Diary: what happens to slime left in the air?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, p1, c1, c2. Get it before The Borax Test: how much borax makes the firmest slime?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Borax Test: how much borax makes the firmest slime?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before The Borax Test: how much borax makes the firmest slime?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a polymer? → A very long molecule made of many small pieces joined in a chain.

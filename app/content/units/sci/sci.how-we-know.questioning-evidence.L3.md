@@ -686,6 +686,11 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [Birla Science Centre](https://www.birlasciencecentre.org) · place · Hyderabad: A science museum and planetarium, with exhibits that let children see evidence with their own eyes.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in One True, One Made Up, The Shelf for Everyone. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1, c1. Get it before One True, One Made Up.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sure or Right? The Family Check, The Shelf for Everyone. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c1. Get it before Sure or Right? The Family Check.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Shelf for Everyone. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in c1. Get it before The Shelf for Everyone.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Top-Spoon Test: does one spoonful tell you about the whole jar?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before The Top-Spoon Test: does one spoonful tell you about the whole jar?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is evidence? → Something you can see, count or measure that shows whether a claim is true.

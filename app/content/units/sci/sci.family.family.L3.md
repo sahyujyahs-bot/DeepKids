@@ -648,6 +648,12 @@ Many Hands at Home (sci.family.L3): Topic-level song for Family and friends L3
 
 ## Things to buy
 - [A Chair for My Mother by Vera B. Williams](https://www.amazon.in/s?k=A+Chair+for+My+Mother) (book): A girl, her mother and her grandmother save coins in a jar for a new chair after a fire, helped by their neighbours. It shows how a family looks after each other. Used in a1. Read it together at the start of the family lesson.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Family Handprints: what each pair of hands does. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Family Handprints: what each pair of hands does.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Many Hands: do two people fold clothes twice as fast?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before Many Hands: do two people fold clothes twice as fast?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Family Handprints: what each pair of hands does. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Family Handprints: what each pair of hands does.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Family Job Wheel: share the home work for a week, A Steady Tray for Shaky Hands. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c2. Get it before The Family Job Wheel: share the home work for a week.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Home Work Count: who keeps our home running in one evening?, Games Our Grandparents Played. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a4. Get it before The Home Work Count: who keeps our home running in one evening?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does English call your mother's brother? → Uncle.

@@ -1,9 +1,9 @@
 # Parasite life cycles: the long journey from one host to the next
 `sci.microorganisms.parasites.L4`
 
-**Summary.** A worm as long as an arm once pushed out through the foot of people who drank from step wells. How did it get in? In this unit you will test how many layers of cloth catch pretend water animals, put parasite journeys in order, and work out why parasites lay so many eggs.
+**Summary.** A worm as long as an arm once pushed out through the foot of people who drank from step wells. How did it get in? In this lesson you will test how many layers of cloth catch pretend water animals, put parasite journeys in order, and work out why parasites lay so many eggs.
 
-**Intro.** *Pour a glass of water through a folded cloth. The water looks the same before and after. Yet in India, a folded cloth over a pot helped to stop an illness that had lasted for thousands of years. What was the cloth catching?* In this unit you find out what the cloth caught, and why one cloth could end a whole illness. You test cloths of your own with pretend water animals. You follow a parasite from an egg, through a tiny animal, into a person, and out again. You find out why a parasite lays thousands of eggs, and why cutting the journey at one weak link can stop it for good.
+**Intro.** *Pour a glass of water through a folded cloth. The water looks the same before and after. Yet in India, a folded cloth over a pot helped to stop an illness that had lasted for thousands of years. What was the cloth catching?* In this lesson you find out what the cloth caught, and why one cloth could end a whole illness. You test cloths of your own with pretend water animals. You follow a parasite from an egg, through a tiny animal, into a person, and out again. You find out why a parasite lays thousands of eggs, and why cutting the journey at one weak link can stop it for good.
 
 ## Learning outcomes
 0. I can describe a life cycle, and say what a final host, an intermediate host and a vector are.
@@ -117,7 +117,7 @@ A female mosquito follows the carbon dioxide in your breath from far away. When 
 ### Breaking a life cycle: find the weakest link · *defined*
 **Definition:** A life cycle is only as hard to break as its weakest link. Breaking that one link ends the journey.
 
-Every journey in this unit has a link that is cheap and easy to cut. Guinea worm: a cloth over the water pot, and keeping an infected foot out of the water. Filaria: filling blocked drains, mosquito nets, and a yearly tablet for everyone. Malaria: nets, covering water, and testing and treating every case. Liver fluke: keeping dung out of ponds, and cooking water plants. Tapeworm: soap after the toilet, washed vegetables, cooked meat, and a toilet. Scabies: treating the whole household on the same day. Notice that some of these protect one person, and others protect the whole village. A cloth over your own pot protects your own family. A yearly tablet for every person in a district protects everyone, because the cycle cannot start again. A good plan breaks the journey at more than one link, because a parasite that survives at one link can still be stopped at the next.
+Every journey in this lesson has a link that is cheap and easy to cut. Guinea worm: a cloth over the water pot, and keeping an infected foot out of the water. Filaria: filling blocked drains, mosquito nets, and a yearly tablet for everyone. Malaria: nets, covering water, and testing and treating every case. Liver fluke: keeping dung out of ponds, and cooking water plants. Tapeworm: soap after the toilet, washed vegetables, cooked meat, and a toilet. Scabies: treating the whole household on the same day. Notice that some of these protect one person, and others protect the whole village. A cloth over your own pot protects your own family. A yearly tablet for every person in a district protects everyone, because the cycle cannot start again. A good plan breaks the journey at more than one link, because a parasite that survives at one link can still be stopped at the next.
 - e.g. In the Guinea worm campaign, filters and keeping feet out of the water were used together.
 - e.g. A yearly tablet for everyone in a district stops filaria from restarting, because no mosquito picks up baby worms.
 - e.g. Cooking water plants breaks the liver fluke's journey, while treating the herd breaks it at a second place.
@@ -173,7 +173,7 @@ Mosquitoes carry malaria, filaria and dengue, and mosquito-borne illnesses kill 
   Against: A parasite that kills her host too soon dies with the host, unless she has already spread to a new host. Many parasites do best when the host lives long enough to spread them, which is why most parasites harm their host only a little.
 
 ## Roots
-This unit followed the Guinea worm through a person and a copepod, and showed how a cloth over the pot cut her journey. Now we ask what a journey through many bodies tells us about what a living being is.
+This lesson followed the Guinea worm through a person and a copepod, and showed how a cloth over the pot cut her journey. Now we ask what a journey through many bodies tells us about what a living being is.
 
 **Deep truth.** A Guinea worm begins as a speck in a tiny water animal. She ends as a worm as long as your arm, inside a person. Her shape, size and home all change, but she is one life from start to finish. A parasite is not one body but a journey through several bodies.  
 *Habit it breaks:* We name a living being by the body we meet, such as a worm, a larva or a mosquito, and think she is that body. But a parasite is a speck, a young stage and an adult, each in a different body and a different home.  
@@ -503,7 +503,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
   - Note: A cloth or a mesh holds back large things such as copepods and grit. A ceramic candle has far smaller gaps and holds back many bacteria and cysts. A UV purifier damages the genes of germs, but needs clear water to work. An RO purifier forces water through a very fine membrane and removes many germs and dissolved salts. Boiling kills germs and parasites. None of these works well unless it is kept clean and the filter is changed on time. Siblings can each take one water source (kitchen tap, tank, matka, bottled can). No filter at home: look at a neighbour, a school or a shop, or read about one.
   - Check: A family uses only a cloth over their pot. Which of these will it NOT remove? → **Bacteria that cause typhoid**
 - **s3 (4 min)**  
-  *Parent does:* Talk about whether the family's way of cleaning water breaks the journeys in this unit.  
+  *Parent does:* Talk about whether the family's way of cleaning water breaks the journeys in this lesson.  
   *Parent says:* Which journeys does our filter break? Which links does it leave open? Is there anything we could do to make it safer?  
   *Child mode:* Which journeys does our filter break? Is there a gap?
   - Ask: What could make our water safer? (good: Cleaning the filter on time.; Covering the storage vessel, using a ladle and not dipping hands.)
@@ -693,13 +693,13 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 14. (mcq) A liver fluke lives in the cows of a village. Why might treating the cows also protect the people?  
    Options: Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts / Cows breathe out the medicine / People eat the cows  
    **Answer:** Fewer fluke eggs reach the ponds, so fewer snails and fewer plants carry the cysts. *Why:* Treated cows lay fewer eggs, so fewer snails are infected and fewer plants carry cysts. People who eat raw water plants then have less chance of meeting the fluke.
-15. (write) Choose one parasite journey from this unit. Which stage do you think is the hardest for the parasite to get through, and why?  
+15. (write) Choose one parasite journey from this lesson. Which stage do you think is the hardest for the parasite to get through, and why?  
    **Answer:** Any journey with a reason. For example, for the Guinea worm, the hardest stage may be the larvae getting swallowed by a copepod, as the larvae must meet the right animal in a large pond. Answers should name a stage and give a reason about the odds.. *Why:* Thinking about the hardest stage helps to find the weakest link, where a journey is easiest to cut.
 
 ## Videos
 - **Field Notes: Guinea Worm 101** (The Carter Center, 4 min) id `6qpEeuA88rQ`: A short film from the organisation that led the campaign against the Guinea worm. It shows the journey from the water, through a copepod, into a person and out again, and the cloth filters that cut it. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it.
 - **Malaria Life Cycle Animation: Mosquito Host** (HHMI BioInteractive, 4 min) id `0uyE046It3o`: An animated film of the malaria parasite's stages inside the mosquito. It is made for older students, so it suits a parent and child watching together, and it shows how one parasite changes shape at each stage. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it, as the words are for older students.
-- **The loathsome, lethal mosquito - Rose Eveleth** (TED-Ed, 5 min) id `IkmjCmvfeFI`: A short animated film on how mosquitoes spread illness, and on the question of whether the world would be better without them. It goes with the debated card in this unit. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it.
+- **The loathsome, lethal mosquito - Rose Eveleth** (TED-Ed, 5 min) id `IkmjCmvfeFI`: A short animated film on how mosquitoes spread illness, and on the question of whether the world would be better without them. It goes with the debated card in this lesson. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. The length is an estimate. Not watched from here, so a parent should preview it.
 
 ## Quiz
 1. (mcq) In which host does a parasite become an adult and make eggs?  
@@ -757,7 +757,7 @@ Sunita looked down into the cool green water at the bottom of the well. Somewher
 ## Spotted around us
 - A mosquito net over a bed, or a net screen on a window, in a home or a hostel.
 - A cover on a water drum or tank, or a notice for a weekly dry day on a flat's notice board.
-- A step well, called a baoli or a vav, such as Chand Baori near Jaipur, Adalaj near Ahmedabad or Rani ki Vav at Patan.
+- A step well, called a baoli or a vav, with steps going down to the water.
 - A notice outside a health centre about the day when everyone in the district is offered tablets.
 - Small fish in a village pond or a well, put there to eat mosquito larvae.
 - A ceramic candle filter or a purifier in a kitchen, with a tap at the bottom.
@@ -821,6 +821,16 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 ## Things to buy
 - [Mustard seeds and khus khus (poppy seeds)](https://www.amazon.in/s?k=poppy+seeds+khus+khus+and+mustard+seeds) (material): The pretend copepods in the Sari Filter Test and the Village Pot Filter. A small packet of each from the grocer is enough. Used in e1, c1. 
 - [A hand magnifying glass](https://www.amazon.in/s?k=hand+magnifying+glass+for+kids) (tool): For looking at wrigglers in the Four Pots test. A cheap hand lens from a stationery shop is enough. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wind a Worm: how long does a Guinea worm take to come out?, Fever Chart Detective: which chart looks like malaria?, Make a Life-Cycle Wheel. About ₹10 to ₹30. Any school ruler is fine. Used in a1, a2, a4, p1. Get it before Wind a Worm: how long does a Guinea worm take to come out?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Make a Life-Cycle Wheel, The Foot-Soaking Station. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a4, c2. Get it before Make a Life-Cycle Wheel.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e1. Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Comic of a Journey: tell a parasite's story in twelve panels. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Comic of a Journey: tell a parasite's story in twelve panels.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Wind a Worm: how long does a Guinea worm take to come out?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a1. Get it before Wind a Worm: how long does a Guinea worm take to come out?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Foot-Soaking Station. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c2. Get it before The Foot-Soaking Station.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Sari Filter Test: how many layers of cloth does it take to catch a pretend copepod?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Fever Chart Detective: which chart looks like malaria?. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Fever Chart Detective: which chart looks like malaria?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a life cycle? → The series of stages a living being goes through, from an egg to an adult who makes new eggs.
@@ -842,8 +852,8 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 ## Sources
 - ideas/by_topic/microorganisms.md: the founder's picture of single-celled and many-celled beings who sense, decide and act, and the line on parasites appearing again and again in evolution, used in the cards on how parasites find hosts and how parasitism began
 - Curriculum notebook items bio:270 to bio:274 (parasitology, protozoan parasites, helminths, ectoparasites, host and parasite): the unit's coverage
-- The Level 3 unit on parasites, which this unit builds on: the malaria journey is carried on to waves of fever, and the idea of a host is carried on to final hosts, intermediate hosts and vectors
-- The Level 5 curriculum entry on parasites, which takes up the arms race between parasite and host and the parasites that change their host's behaviour, and so is left out of this unit
+- The Level 3 unit on parasites, which this lesson builds on: the malaria journey is carried on to waves of fever, and the idea of a host is carried on to final hosts, intermediate hosts and vectors
+- The Level 5 curriculum entry on parasites, which takes up the arms race between parasite and host and the parasites that change their host's behaviour, and so is left out of this lesson
 - Manson, 'On the development of Filaria sanguinis hominis, and on the mosquito considered as a nurse', Journal of the Linnean Society (Zoology) 14, 1878 (work done at Amoy in 1877)
 - Low, 'A recent observation on Filaria nocturna in Culex; probable mode of infection of man', British Medical Journal, 1900
 - Lewis, report on the discovery of baby filaria worms in the blood in Calcutta, in the Annual Report of the Sanitary Commissioner with the Government of India, 1872

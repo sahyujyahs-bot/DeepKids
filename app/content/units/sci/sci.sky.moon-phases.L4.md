@@ -1,9 +1,9 @@
 # Reading the Moon: where day meets night, why half Moons show mountains, and how to predict any phase
 `sci.sky.moon-phases.L4`
 
-**Summary.** The full Moon is the brightest night, yet a half Moon shows its mountains and craters better. Why? In this unit you will light a dough Moon from three directions, find how much later the Moon rises each night, and play a game to guess the Moon from its age.
+**Summary.** The full Moon is the brightest night, yet a half Moon shows its mountains and craters better. Why? In this lesson you will light a dough Moon from three directions, find how much later the Moon rises each night, and play a game to guess the Moon from its age.
 
-**Intro.** *You have a pair of binoculars and one night to look at the Moon's mountains and craters. Do you pick the full Moon, which is the brightest, or a half Moon, which looks dimmer? Most people pick the full Moon. Galileo found out in 1609 that the half Moon is the better choice.* The edge between the Moon's lit part and its dark part is called the terminator. Along it, the Sun is low over the Moon's land, like early morning, and every bump throws a long shadow. At full Moon the Sun shines straight down on the Moon from behind us, and there are almost no shadows at all. In this unit you test this with a dough Moon and a torch. You also learn to predict the Moon's phase, find out when it rises, and measure how wide it is with a bindi.
+**Intro.** *You have a pair of binoculars and one night to look at the Moon's mountains and craters. Do you pick the full Moon, which is the brightest, or a half Moon, which looks dimmer? Most people pick the full Moon. Galileo found out in 1609 that the half Moon is the better choice.* The edge between the Moon's lit part and its dark part is called the terminator. Along it, the Sun is low over the Moon's land, like early morning, and every bump throws a long shadow. At full Moon the Sun shines straight down on the Moon from behind us, and there are almost no shadows at all. In this lesson you test this with a dough Moon and a torch. You also learn to predict the Moon's phase, find out when it rises, and measure how wide it is with a bindi.
 
 ## Learning outcomes
 0. I can explain what the terminator is and why shadows along it show the Moon's mountains and craters.
@@ -633,7 +633,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 13. (sort) Sort each thing into 'changes with the Moon's age' or 'does not change'.  
    **Answer:** the shape of the lit part → Changes with the age; the size of the tides → Changes with the age; the time of moonrise → Changes with the age; the width of the Moon → Does not change; the distance from the Earth to the Sun, in a month → Does not change. *Why:* The phase, the moonrise time and the size of the tides all follow the Moon's position. The Moon's width does not change, and the Sun's distance hardly changes in a month. A strong answer says why.
 14. (match) Match each number to what it measures.  
-   **Answer:** 14 days → about how long the Moon's daylight lasts at one place; 50 minutes → about how much later the Moon rises each day; 29 and a half days → the time from one new Moon to the next; 384,000 kilometres → about how far away the Moon is; 110 → about how many Moon-widths away the Moon is. *Why:* These numbers come from the experiments and explanations in the unit. A strong answer could say how each was measured.
+   **Answer:** 14 days → about how long the Moon's daylight lasts at one place; 50 minutes → about how much later the Moon rises each day; 29 and a half days → the time from one new Moon to the next; 384,000 kilometres → about how far away the Moon is; 110 → about how many Moon-widths away the Moon is. *Why:* These numbers come from the experiments and explanations in the lesson. A strong answer could say how each was measured.
 15. (odd) Three of these are on the Moon's surface. Which one is the odd one out?  
    Options: Maria / Highlands / Rays / Tides  
    **Answer:** 3. *Why:* Maria, highlands and rays are all things on the Moon's surface. Tides are the movement of the sea on the Earth, caused by the Moon.
@@ -736,7 +736,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - A thin crescent Moon low in the western sky after sunset, lit on the side facing the Sun.
 - The Moon seen in the daytime sky, a half Moon in the afternoon with its flat edge towards the Sun.
 - Long evening shadows of coconut trees and temple gopurams, much longer than at noon.
-- Fishing boats pulled up on the beach at low tide in Kerala, Tamil Nadu or Odisha, and floating at high tide.
+- Fishing boats pulled up on the beach at low tide, and floating at high tide.
 - Wet sand and shells on a beach at low tide, with a long strip of land uncovered at spring tide.
 - A tide table printed in a newspaper, or a tide app on a fisher's phone.
 - A farmer's field in early morning light, with every furrow throwing a thin shadow.
@@ -792,13 +792,19 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [NASA Moon pages for children](https://spaceplace.nasa.gov/) · interactive: Short, clear pages and games about the Moon, made by NASA for children.
 - [ISRO, Chandrayaan-3](https://www.isro.gov.in/) · interactive: India's Moon mission pages, with pictures taken by the lander and rover. Search for Chandrayaan-3 on the page.
 - [Time and Date: moonrise, moonset and tides](https://www.timeanddate.com/) · interactive: For the parent: lists moonrise and moonset times by city for the Moonrise Detective test.
-- [Periyar Science and Technology Centre and B. M. Birla Planetarium]() · place · Chennai, Tamil Nadu: A science centre and planetarium with sky shows about the Moon. Check show times before you go.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A planetarium with shows about the Moon and the sky. Check show times before you go.
+- Periyar Science and Technology Centre and B. M. Birla Planetarium · place · Chennai, Tamil Nadu: A science centre and planetarium with sky shows about the Moon. Check show times before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A planetarium with shows about the Moon and the sky. Check show times before you go.
 
 ## Things to buy
 - [A small pair of binoculars, 7 times or 10 times](https://www.amazon.in/s?k=binoculars+10x25) (tool): Optional. For watching craters along the line between day and night in the Terminator Log. A cheap toy pair costs about Rs 300 to 600, which is more than most home experiments, so borrow one if you can. The project still works with eyes alone for the line and the dark plains. Used in p1. 
 - [A small bright LED torch](https://www.amazon.in/s?k=led+torch) (tool): For the Dough Moon and the Torch on a Coin. A phone torch also works, but a torch on a stand is easier to hold still. Used in e1, a1. 
 - [A packet of round bindis (5 to 8 millimetres wide)](https://www.amazon.in/s?k=round+bindi+small) (material): For the Bindi Moon. Any round sticker of that size also works. Costs about Rs 10. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Bindi Moon: how many Moon-widths away is the Moon?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3. Get it before The Bindi Moon: how many Moon-widths away is the Moon?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Dough Moon: which light shows the most craters?, Moonrise Detective: how much later does the Moon rise each night?, The Bindi Moon: how many Moon-widths away is the Moon?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a1, a2. Get it before The Dough Moon: which light shows the most craters?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Dough Moon: which light shows the most craters?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Dough Moon: which light shows the most craters?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Moonrise Detective: how much later does the Moon rise each night?, Tide Detective: do the biggest tides come at new and full Moon?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2, a3. Get it before Moonrise Detective: how much later does the Moon rise each night?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Dough Moon: which light shows the most craters?. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Dough Moon: which light shows the most craters?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the terminator on the Moon? → The line between the lit part and the dark part.
@@ -819,7 +825,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row on shadows and the Sun's movement, and the activity of watching the Moon through the month, used in the dough Moon and the Terminator Log
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Card for Galileo Galilei (his telescope work on the Moon's craters), used in how we found out
-- The Class 3 unit on the Moon and its phases, built on and not repeated: no ball and lamp, chair walk, Moon diary, Moon wheel, festival hunt, earthshine or eclipse model here. This unit adds the terminator, Moon age, tides, size and the lunar day
+- The Class 3 unit on the Moon and its phases, built on and not repeated: no ball and lamp, chair walk, Moon diary, Moon wheel, festival hunt, earthshine or eclipse model here. This lesson adds the terminator, Moon age, tides, size and the lunar day
 - Galileo Galilei, Sidereus Nuncius, Venice, March 1610
 - Grove Karl Gilbert, 'The Moon's Face', Bulletin of the Philosophical Society of Washington, 1893 (impact origin of craters)
 - NASA Moon fact sheet (distance, diameter, albedo about 0.12, day and night temperatures, libration)

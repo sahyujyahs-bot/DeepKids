@@ -573,6 +573,10 @@ What Is Real? (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Things to buy
 - [Duck! Rabbit! by Amy Krouse Rosenthal and Tom Lichtenheld](https://www.amazon.in/s?k=Duck+Rabbit) (book): Two voices argue over one picture that is both a duck and a rabbit. It is a funny way into how the brain can see one picture in two ways. Used in a1. Read it together at the start of the lesson on what is real.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Real, Pretend or Puzzling? A sorting mat. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Real, Pretend or Puzzling? A sorting mat.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Real, Pretend or Puzzling? A sorting mat, My Book of Real Things I Cannot See, Prove the Bottle Is Not Empty. About ₹20 to ₹60. Used in a2, p1, c1. Get it before Real, Pretend or Puzzling? A sorting mat.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Prove the Bottle Is Not Empty. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before Prove the Bottle Is Not Empty.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What starts every sound? → Something vibrating.

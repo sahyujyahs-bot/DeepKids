@@ -1,9 +1,9 @@
 # Food chains and food webs: who eats whom
 `sci.ecology.food-chains.L3`
 
-**Summary.** Why are there many plants but only a few tigers? In this unit you will play out where food goes with one hundred grains, build a food web from wool, and find out who is biting the leaves of plants near home.
+**Summary.** Why are there many plants but only a few tigers? In this lesson you will play out where food goes with one hundred grains, build a food web from wool, and find out who is biting the leaves of plants near home.
 
-**Intro.** *Look out of a window or at a garden for two minutes. Can you find one living thing that is eating, or hunting? What are they eating? And who might eat them?* Right now, somewhere near you, a lizard is waiting by a light for a moth. A caterpillar is chewing a leaf. A crow is pecking at something on the road. Each of them is part of a long line of eating that starts with sunlight on a leaf. Scientists call that line a food chain. In this unit, you will find the chains around your own home. You will see why there are so many ants and so few tigers. And you will find out what happened when a government decided that one small bird was an enemy.
+**Intro.** *Look out of a window or at a garden for two minutes. Can you find one living thing that is eating, or hunting? What are they eating? And who might eat them?* Right now, somewhere near you, a lizard is waiting by a light for a moth. A caterpillar is chewing a leaf. A crow is pecking at something on the road. Each of them is part of a long line of eating that starts with sunlight on a leaf. Scientists call that line a food chain. In this lesson, you will find the chains around your own home. You will see why there are so many ants and so few tigers. And you will find out what happened when a government decided that one small bird was an enemy.
 
 ## Learning outcomes
 0. I can say what a food chain is, and draw one with four or five links that starts with a plant, with each arrow pointing to the eater.
@@ -61,7 +61,7 @@ Real animals rarely eat just one thing. A frog eats grasshoppers, flies, spiders
 ### Scavengers and decomposers: the clean-up crew · *defined*
 **Definition:** Scavengers eat animals that are already dead. Decomposers break dead things down into nutrients that go back into the soil.
 
-Every living thing dies in the end, even a tiger. What eats them then? First come the scavengers: vultures, jackals, crows and ants. Then come the decomposers: fungi, such as mould and mushrooms, and bacteria, which are too small to see. Earthworms and woodlice help by chopping dead leaves into small pieces. The decomposers break the dead body down into nutrients, simple materials that plants take in through their roots. So the end of every food chain feeds the beginning again. You will learn much more about this in the unit on decomposers.
+Every living thing dies in the end, even a tiger. What eats them then? First come the scavengers: vultures, jackals, crows and ants. Then come the decomposers: fungi, such as mould and mushrooms, and bacteria, which are too small to see. Earthworms and woodlice help by chopping dead leaves into small pieces. The decomposers break the dead body down into nutrients, simple materials that plants take in through their roots. So the end of every food chain feeds the beginning again. You will learn much more about this in the lesson on decomposers.
 - e.g. A dead buffalo in a field: vultures, then flies and beetles, then bacteria and fungi.
 - e.g. Fallen neem leaves in a garden become soil in a few months, because of fungi, bacteria and worms.
 ### Only about one tenth passes on · *defined*
@@ -824,13 +824,18 @@ Everybody Eats (sci.ecology.L3): Topic-level song
 - [Keoladeo National Park](https://whc.unesco.org/en/list/340) · place · Bharatpur, Rajasthan: A famous wetland full of birds, where Vibhu Prakash first counted the vultures disappearing. Visit in winter to see the food web of a wetland: fish, frogs, herons, storks and eagles.
 - [Bombay Natural History Society, Conservation Education Centre](https://www.bnhs.org) · place · Mumbai: The society that helped discover the vulture crash. Its centre runs nature walks for children.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group of wildlife scientists. Their website has stories about Indian animals and the food webs they live in.
-- [A pond, a park or a paddy field near you]() · place · anywhere: Sit quietly for 15 minutes and you will see a food web: algae, insects, frogs, fish and birds. Go early in the morning, with a grown-up.
-- [Sanjay Gandhi National Park]() · place · Mumbai: A forest inside a big city, with deer, monkeys, birds and even leopards. A real food web at the edge of houses and roads.
+- A pond, a park or a paddy field near you · place · anywhere: Sit quietly for 15 minutes and you will see a food web: algae, insects, frogs, fish and birds. Go early in the morning, with a grown-up.
+- Sanjay Gandhi National Park · place · Mumbai: A forest inside a big city, with deer, monkeys, birds and even leopards. A real food web at the edge of houses and roads.
 
 ## Things to buy
 - [A magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at ants, caterpillars and bitten leaves. Used in e1, e2, p1. 
 - [Who Eats What? Food Chains and Food Webs, by Patricia Lauber (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Who+Eats+What+Food+Chains+and+Food+Webs+Patricia+Lauber) (book): A clear picture book about food chains and webs, for ages 5 to 9. Used in a1. 
 - [Silent Spring, by Rachel Carson (for the parent)](https://www.amazon.in/s?k=Silent+Spring+Rachel+Carson) (book): The 1962 book that showed how DDT passed up food chains. A parent can read a chapter and retell it. Used in a5. 
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Pull One Thread: a wool food web. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a4. Get it before Pull One Thread: a wool food web.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Our Street's Food Web. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Our Street's Food Web.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Leaf Bite Survey: who is eating our plants?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Leaf Bite Survey: who is eating our plants?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Room for a Tiger. About ₹10 to ₹30. Draw squares on plain paper. Used in c2. Get it before Room for a Tiger.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - In a food chain, does the arrow point to the food or to the eater? → To the eater. It means 'is eaten by'.

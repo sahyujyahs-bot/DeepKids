@@ -1,9 +1,9 @@
 # How your body gets rid of waste: kidneys, breath and sweat
 `sci.body.kidneys-and-waste.L4`
 
-**Summary.** Your body makes waste that must leave, and kidneys give most of it back to the body first. How can a filter do that? In this unit you will find your kidneys, test what three different filters hold back, and play a sorting game on how waste leaves.
+**Summary.** Your body makes waste that must leave, and kidneys give most of it back to the body first. How can a filter do that? In this lesson you will find your kidneys, test what three different filters hold back, and play a sorting game on how waste leaves.
 
-**Intro.** *You drink clear water, pale buttermilk and brown tea. Yet your urine is always some shade of yellow. Where does the yellow come from, and what else is leaving with it?* Urine is made from your blood, by your two kidneys. The yellow is a waste left over when old red blood cells are broken down. Urine also carries a waste called urea, which your body makes when it uses protein. Your lungs and your skin remove waste too. In this unit you find your kidneys with your thumbs. Then you pour salty tea with flour in it through three filters. You find out what a filter can hold back, and what the kidneys must do after filtering.
+**Intro.** *You drink clear water, pale buttermilk and brown tea. Yet your urine is always some shade of yellow. Where does the yellow come from, and what else is leaving with it?* Urine is made from your blood, by your two kidneys. The yellow is a waste left over when old red blood cells are broken down. Urine also carries a waste called urea, which your body makes when it uses protein. Your lungs and your skin remove waste too. In this lesson you find your kidneys with your thumbs. Then you pour salty tea with flour in it through three filters. You find out what a filter can hold back, and what the kidneys must do after filtering.
 
 ## Learning outcomes
 0. I can name the wastes my cells make, and say why they must leave my body.
@@ -142,7 +142,7 @@ A person with one healthy kidney can live a full life. So why does the body buil
   Against: Blood is about three times less salty than today's sea. Nobody knows exactly how salty the ancient sea was. The idea is attractive, but it is hard to test.
 
 ## Roots
-In this unit you poured salty tea through three filters and learned how the kidneys clean the blood. Here we ask what it means to clean something, and where a waste goes after it leaves you.
+In this lesson you poured salty tea through three filters and learned how the kidneys clean the blood. Here we ask what it means to clean something, and where a waste goes after it leaves you.
 
 **Deep truth.** In the Three Filters Test, every filter let the salt and the tea colour pass with the water. The filters in your kidneys also let salt, sugar and urea out of the blood together. Then the kidneys take back the water, salt and sugar that your body needs. Whatever they do not take back leaves as urine, even a waste your body has never met.  
 *Habit it breaks:* We think of cleaning as finding the dirt and taking it out. To do that, the cleaner must know every kind of dirt. The kidneys clean the blood by knowing what the body needs, and they let everything else go.  
@@ -648,7 +648,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 - Rajma beans soaking in a bowl. The English name is kidney bean, because each bean has the shape of a kidney.
 - A sign that says 'Dialysis Centre' at a hospital. Inside, machines are doing the work of kidneys.
 - Mist on a cold bus window when you breathe on it. It is water that left your blood through your lungs.
-- A dog panting on a hot afternoon in Nagpur or Vijayawada. Dogs have few sweat glands, so they lose heat and water from the tongue.
+- A dog panting on a hot afternoon. Dogs have few sweat glands, so they lose heat and water from the tongue.
 
 ## Open questions
 - **Why can humans not grow new nephrons after birth?** A baby is born with all the nephrons they will ever have. Zebrafish grow new ones all their lives. Scientists do not yet know how to make a human kidney do this.
@@ -704,6 +704,7 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [A small pack of paper napkins or tissues](https://www.amazon.in/s?k=paper+napkins) (material): For the finest filter in the Three Filters Test and in Fast and Fine. Two layers of toilet paper also work, so buy it only if you have neither. Used in e1, c1. 
 - [The Body: A Guide for Occupants, a book by Bill Bryson (2019)](https://www.amazon.in/s?k=The+Body+A+Guide+for+Occupants+Bill+Bryson) (book): For the parent or an older child: a readable tour of the body, with a part on the kidneys and the bladder. Used in a2. After Ninety-Nine Back, a parent can read aloud a page or two about how much the kidneys filter.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three main ways out for the body's wastes. → The lungs, the kidneys and the skin.
@@ -721,8 +722,8 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - Core: a1, e1, a2, g1, ws-core
 
 ## Sources
-- The curriculum entry for this unit, which comes from the notebook's Biology list (item bio:24): kidneys clean the blood, and sweat, breath and urine are ways of removing waste. Balancing water and salt in fish and desert animals is left for sci.body.kidneys-and-waste.L5, as the curriculum says.
-- The notebook page for the body topic (homeostasis: Sweat Lab, Salty Sip, Thirsty Planet) was read. Its sweat and thirst ideas are already used in sci.body.keeping-balance.L3, so this unit uses new activities.
+- The curriculum entry for this lesson, which comes from the notebook's Biology list (item bio:24): kidneys clean the blood, and sweat, breath and urine are ways of removing waste. Balancing water and salt in fish and desert animals is left for sci.body.kidneys-and-waste.L5, as the curriculum says.
+- The notebook page for the body topic (homeostasis: Sweat Lab, Salty Sip, Thirsty Planet) was read. Its sweat and thirst ideas are already used in sci.body.keeping-balance.L3, so this lesson uses new activities.
 - Other units were checked for overlap. The pee colour diary is in sci.body.keeping-balance.L3, the Hidden Water Test and the breath-holding activity are in sci.basic-needs.basic-needs.L3, and the limewater breath tests are in sci.animals.animal-bodies.L3 and sci.body.heart-blood-breath.L3. None of these is repeated here. After Two Tumblers goes beyond the colour diary by timing how soon the kidneys answer.
 - Wearn J.T., Richards A.N. (1924). Observations on the composition of glomerular urine, with particular reference to the problem of reabsorption in the renal tubules. American Journal of Physiology 71: 209-227.
 - Bowman W. (1842). On the structure and use of the Malpighian bodies of the kidney. Philosophical Transactions of the Royal Society of London 132: 57-80.

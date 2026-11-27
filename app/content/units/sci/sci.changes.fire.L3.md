@@ -1,9 +1,9 @@
 # Fire: what a flame needs, how to stay safe, and how people learned to use it
 `sci.changes.fire.L3`
 
-**Summary.** A match only melts a lump of wax, yet a candle burns for hours. What is the flame really burning? In this unit you will test a candle flame, walk round your home to spot fire dangers, and learn what to do if clothes catch fire or skin gets burned.
+**Summary.** A match only melts a lump of wax, yet a candle burns for hours. What is the flame really burning? In this lesson you will test a candle flame, walk round your home to spot fire dangers, and learn what to do if clothes catch fire or skin gets burned.
 
-**Intro.** *Watch with a grown-up. A candle is blown out, and a thin line of white smoke rises. A lit match is held in the smoke, a few centimetres above the wick. The flame runs down the smoke and lights the candle again, without touching it. How did the flame travel down the smoke?* Fire seems to eat wood, wax and oil. But a flame is really burning gas. In this unit you test what a candle really burns. You find out the three things every fire needs, and how taking away one of them puts a fire out. You learn the fire safety rules for a home with a gas stove, lamps and crackers. And you find out how people first tamed fire, and how a scientist made a lamp that could not set fire to the gas in coal mines.
+**Intro.** *Watch with a grown-up. A candle is blown out, and a thin line of white smoke rises. A lit match is held in the smoke, a few centimetres above the wick. The flame runs down the smoke and lights the candle again, without touching it. How did the flame travel down the smoke?* Fire seems to eat wood, wax and oil. But a flame is really burning gas. In this lesson you test what a candle really burns. You find out the three things every fire needs, and how taking away one of them puts a fire out. You learn the fire safety rules for a home with a gas stove, lamps and crackers. And you find out how people first tamed fire, and how a scientist made a lamp that could not set fire to the gas in coal mines.
 
 ## Learning outcomes
 0. I can name the three things every fire needs: fuel, oxygen from the air, and heat.
@@ -381,7 +381,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   - Note: Good things to notice: the blue part at the very bottom, the yellow middle, the dark wick, the pool of melted wax, the flame leaning when someone moves. Don't explain anything yet.
 - **s2 (5 min)**  
   *Parent does:* 1. Ask your child to tell you what the flame looks like, or to draw it. 2. Ask for one 'I wonder' question and write it at the top of the page.  
-  *Parent says:* Tell me what the flame looked like, or draw it as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.  
+  *Parent says:* Tell me what the flame looked like, or draw it as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this lesson.  
   *Child mode:* Tell your grown-up what the flame looks like, or draw it. What do you wonder about it?
   - Note: Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame. The answer is that the wax melts, turns into gas and burns. The burning gas becomes carbon dioxide and water vapour, which go into the air, and that is why the candle gets shorter.
   - Think: The candle gets shorter as it burns. Where does the wax go?
@@ -607,7 +607,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** Sparks are hot enough to light firedamp. *Why:* A spark is a tiny hot bit of metal. It is hot enough to light firedamp gas. An explosion at Wallsend Colliery in 1785 showed this.
 7. (order) Put these events in time order, oldest first.  
    **Answer:** ['People in Wonderwerk Cave leave burnt bones and ash', 'Hearths are common in caves in many places', 'Davy makes his safety lamp', 'Safety matches are made in Sweden']. *Why:* About one million years ago, about 400,000 years ago, 1815, and the 1840s to 1850s.
-8. (write) Many people think a candle burns its wick, like a slow fuse. Use two results from this unit to show what really burns.  
+8. (write) Many people think a candle burns its wick, like a slow fuse. Use two results from this lesson to show what really burns.  
    **Answer:** In The Jumping Flame, the flame lit the smoke and ran down to the wick, so wax gas burns. In Dry Wick or Oiled Wick?, the wick in oil hardly got shorter in 10 minutes, but the dry wick burned away in under a minute. So the fuel is the wax or oil, burning as a gas.. *Why:* A strong answer uses two pieces of evidence and says what each one shows.
 9. (mcq) Why does a gas stove flame look blue, while a candle flame looks yellow?  
    Options: Air is mixed into the gas first, so it burns fully with little soot / Cooking gas is blue / The stove flame is colder  
@@ -684,13 +684,13 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 
 ## Spotted around us
 - The blue ring of flame on a gas stove, and the regulator knob on the cylinder.
-- Rows of clay lamps on Karthigai Deepam in Tamil Nadu, and on Deepavali across India.
+- Rows of clay lamps at Karthigai Deepam and at Deepavali.
 - A red fire extinguisher and a fire hose reel in your building or school.
 - A fire engine with the number 101 on it.
 - The black soot mark on the wall above an oil lamp.
-- The bonfires of mid-January: Bhogi before Pongal in Tamil Nadu, Lohri in Punjab and Meji for Magh Bihu in Assam.
+- The bonfires of mid-January, such as Bhogi, Lohri and Meji.
 - A coconut shell or charcoal fire under an iron kadai at a street food stall.
-- On 14 April, Fire Service Day, fire stations in India remember the firefighters who died fighting a great fire at the Bombay docks in 1944.
+- On 14 April, Fire Service Day, fire stations remember the firefighters who died fighting a great fire at the docks in 1944.
 
 ## Open questions
 - **When did people first learn to make fire whenever they wanted, not just keep fires they found?** Making fire leaves few traces, such as worn sticks or struck stones. Scientists are still looking for clear evidence.
@@ -738,6 +738,11 @@ Fuel, Air and Heat (sci.changes.L3): Topic-level song for Changing materials L3
 ## Things to buy
 - [A pack of plain white candles, the kind sold for power cuts](https://www.amazon.in/s?k=white+candles+pack) (material): Plain white candles give the thickest white smoke. Most kirana shops sell them. Used in e1, e2, a1. 
 - [Two small clay diyas and a pack of cotton wicks](https://www.amazon.in/s?k=clay+diya+cotton+wicks) (material): Many homes already have clay diyas and cotton wicks for pooja or festivals. Used in e3, c1. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Dry Wick or Oiled Wick? How long does each one burn?. About ₹150 to ₹400. A phone stopwatch works well. Used in e3. Get it before Dry Wick or Oiled Wick? How long does each one burn?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Jumping Flame: what really burns in a candle?, Dry Wick or Oiled Wick? How long does each one burn?, Make Heat by Rubbing. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a5, c2. Get it before The Jumping Flame: what really burns in a candle?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Our Family Fire Plan, Plan a Fire-Safe Deepavali. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c2. Get it before Our Family Fire Plan.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Which Side of the Triangle? Sort the fire stoppers. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a6. Get it before Which Side of the Triangle? Sort the fire stoppers.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three sides of the fire triangle? → Fuel, oxygen and heat.

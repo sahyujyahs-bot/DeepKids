@@ -1,7 +1,7 @@
 # How a new person begins: egg cell, sperm cell, the first week, and families of many kinds
 `sci.body.how-babies-grow.L5`
 
-**Summary.** Only one sperm cell joins the egg cell. So why do many millions set out? In this unit you will run the Two Gates Test with beans and a die to find out. You will learn where egg cells and sperm cells are made, how they meet, and what happens in the first week. You will also learn how bodies get ready at puberty, how doctors can help a baby begin, and the many ways families are made.
+**Summary.** Only one sperm cell joins the egg cell. So why do many millions set out? In this lesson you will run the Two Gates Test with beans and a die to find out. You will learn where egg cells and sperm cells are made, how they meet, and what happens in the first week. You will also learn how bodies get ready at puberty, how doctors can help a baby begin, and the many ways families are made.
 
 **Intro.** *You began as one cell, smaller than a grain of salt. That cell was made when two cells joined: one egg cell and one sperm cell. Only one sperm cell was needed. Yet many millions of sperm cells set out. Why so many? Say what you think, and say why.* Most people guess that the sperm cells are racing, and the fastest one wins. That is not what scientists find. You will first make the egg cell and the sperm cell at a size you can see. Then you will run a test with beans and a die, and your own numbers will show why so many must start. After that you will follow the two cells from where they are made to where they meet, and through the first week of a new person.
 
@@ -165,7 +165,7 @@ We have learned how an egg cell and a sperm cell join to begin a new person. Now
 
 Before the first cells there was a world with no cells in it. How the first living cells arose is not known. Since then, one unbroken stream of living cells has divided, joined and divided again. Out of that one stream came every bacterium, banyan, crow and person. You look like a separate thing with a start date. Seen from the cells, you are the same stream, in a new and never-repeated shape. The sperm cell and the egg cell each sensed the other and moved to join. That reaching towards another is as old as cells.
 
-- **Tao Te Ching 6:** “谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。” The spirit of the valley never dies. It is called the mysterious female. Her gateway is the root of heaven and earth. It goes on and on, and using it never wears it out. (Laozi pictured the source of everything as a mother who never stops giving birth. The science of this unit found something close to it in every body: a line of living cells, and of mothers, that has not stopped.)
+- **Tao Te Ching 6:** “谷神不死，是謂玄牝。玄牝之門，是謂天地根。緜緜若存，用之不勤。” The spirit of the valley never dies. It is called the mysterious female. Her gateway is the root of heaven and earth. It goes on and on, and using it never wears it out. (Laozi pictured the source of everything as a mother who never stops giving birth. The science of this lesson found something close to it in every body: a line of living cells, and of mothers, that has not stopped.)
 - **Milindapanha, Book 2, Chapter 2, question 1:** King Milinda asks whether a person stays the same from baby to adult. The monk Nagasena asks about a lamp that burns all night. The flame of the first hours and the flame of the last hours are neither the same flame nor a different one. (A zygote, a baby and you are like that flame. Go further back, and the flame was never lit from nothing. A living cell was lit from a living cell.)
 - **Kahlil Gibran, The Prophet (1923), 'On Children':** Your children are not your children. They are the sons and daughters of Life's longing for itself. They come through you but not from you. (Parents do not build a child out of nothing. Life passes through them, in two cells, and becomes someone new who belongs to themself.)
 - Science (settled): Every cell comes from a living cell. No cell in a body has been seen to form from non-living material.
@@ -700,9 +700,9 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 
 ## Spotted around us
 - A board at a scan centre in any Indian town saying that telling the sex of a baby before birth is against the law.
-- A hibiscus flower on a balcony in Chennai or Kochi. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.
+- A hibiscus flower on a balcony. The yellow dust is pollen, which carries the plant's sperm cells. The egg cells are in the green base.
 - The yolk of a hen's egg in the kitchen. A yolk begins as one egg cell, swollen with food. Eggs sold in shops are almost always unfertilised.
-- Twins in your school or street. Kodinhi village in Malappuram, Kerala, has hundreds of pairs, and nobody knows why.
+- Twins in your school or street. Look for how alike they are, and how they are different.
 - The words 'expected date of delivery' on a mother and child card from a government health centre.
 - Clumps of frog eggs in clear jelly in a monsoon puddle. In frogs the sperm cells and egg cells join outside the body, in the water.
 - A pregnant woman standing at a bus stop with one hand on her lower back, leaning back a little to balance the weight in front.
@@ -750,7 +750,7 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 
 ## Links
 - [The Embryo Project Encyclopedia (Arizona State University)](https://embryo.asu.edu) · interactive: For the parent: short, careful articles on the history of this science, including Miriam Menkin, Nettie Stevens and the first IVF births.
-- [Miriam Menkin (Wikipedia)](https://en.wikipedia.org/wiki/Miriam_Menkin) · interactive: For the parent: the life of the woman in this unit's story, and her 1944 experiment.
+- [Miriam Menkin (Wikipedia)](https://en.wikipedia.org/wiki/Miriam_Menkin) · interactive: For the parent: the life of the woman in this lesson's story, and her 1944 experiment.
 - [Subhash Mukhopadhyay (Wikipedia)](https://en.wikipedia.org/wiki/Subhash_Mukhopadhyay_(physician)) · interactive: For the parent: the doctor in Kolkata whose IVF work in 1978 was not believed in his lifetime.
 - [Menstrupedia](https://www.menstrupedia.com) · interactive: An Indian guide to periods, with a comic book made for girls of 9 and older. A parent should look at it first.
 - [The Endowment for Human Development](https://www.ehd.org) · interactive: For the parent: pictures and a week-by-week account of how a human embryo develops.
@@ -761,6 +761,11 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Things to buy
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at a grain of salt. It is useful but not needed. Used in a1. 
 - [A Ludo or snakes and ladders set with a die](https://www.amazon.in/s?k=ludo+snakes+and+ladders+board) (game): For the die. Most homes have one. Six numbered paper chits in a tumbler work as well. Used in e1, g1. Use the die for the Two Gates Test and for the board game The First Week.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two Gates Test: if one sperm cell is enough, why do millions start?, The Due Date Survey: does a baby arrive on the day the doctor says?, A Salt Grain and a Steel Plate: how small was your start?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a5, c1. Get it before The Two Gates Test: if one sperm cell is enough, why do millions start?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Ask, Respect, Tell: body rules and a question box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a6. Get it before Ask, Respect, Tell: body rules and a question box.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Two Gates Test: if one sperm cell is enough, why do millions start?, Three Bowls: where were you when your grandmother was pregnant?, Move the Egg: carry a seed along a tube without touching the seed. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a3, c1, c2. Get it before The Two Gates Test: if one sperm cell is enough, why do millions start?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Due Date Survey: does a baby arrive on the day the doctor says?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2. Get it before The Due Date Survey: does a baby arrive on the day the doctor says?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which two cells join to begin a new person? → One egg cell and one sperm cell.
@@ -778,11 +783,11 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Core: a1, e1, a3, g1, a2, ws-core
 
 ## Sources
-- Founder's notes in ideas/by_topic/growing-up-and-having-young.md, 'Concept activities: Human reproduction and development'. The parent explainer (egg and sperm join to begin a pregnancy, many families form through adoption, surrogacy or fostering, teaching privacy, consent and respect) set the scope and tone of this unit.
+- Founder's notes in ideas/by_topic/growing-up-and-having-young.md, 'Concept activities: Human reproduction and development'. The parent explainer (egg and sperm join to begin a pregnancy, many families form through adoption, surrogacy or fostering, teaching privacy, consent and respect) set the scope and tone of this lesson.
 - From the same notes: 'Family Tree (inclusive)' became the Family Map. 'Consent Poster: Ask, Respect, Tell', 'Consent Charades' and 'My Body, My Rules' became Ask, Respect, Tell. 'Family Story Book: co-author an origin story' became the project. 'Lifecycle Wheel spinner' became the Cycle Wheel. 'Matching Pairs: cards of stages' shaped the board game The First Week. The parent scripts ('proper names', 'different families grow in different ways, all are real families') are used in the parent notes.
-- The curriculum entry for this unit (notebook items bio:13 and bio:18): human reproduction and development in age-appropriate words, egg and sperm, families of many kinds.
-- sci.body.how-babies-grow.L3 and L4, which this unit builds on. Level 3 covers the womb, placenta, cord and birth. Level 4 covers genes, signals between cells and growth. None of their experiments is repeated. This unit adds where sex cells are made, the journey and fertilisation, the first week, XX and XY, puberty and periods, IVF, and families.
-- Other units were checked for overlap. Coin babies and the sibling shuffle are in sci.evolution.inheritance.L5, meiosis is in sci.what-is-life.cells-divide.L5, and counting empty places in pea pods is in sci.seeds-and-life-cycles.pollination.L5. So this unit's investigation is the Two Gates Test, and those ideas are only recalled briefly.
+- The curriculum entry for this lesson (notebook items bio:13 and bio:18): human reproduction and development in age-appropriate words, egg and sperm, families of many kinds.
+- sci.body.how-babies-grow.L3 and L4, which this lesson builds on. Level 3 covers the womb, placenta, cord and birth. Level 4 covers genes, signals between cells and growth. None of their experiments is repeated. This lesson adds where sex cells are made, the journey and fertilisation, the first week, XX and XY, puberty and periods, IVF, and families.
+- Other units were checked for overlap. Coin babies and the sibling shuffle are in sci.evolution.inheritance.L5, meiosis is in sci.what-is-life.cells-divide.L5, and counting empty places in pea pods is in sci.seeds-and-life-cycles.pollination.L5. So this lesson's investigation is the Two Gates Test, and those ideas are only recalled briefly.
 - The Combined lessons sci-C1 and sci-C2 'growing-up-and-having-young' were read. They cover growth and life cycles at Class 1 and 2 level and were not reused.
 - Rock J., Menkin M.F. (1944). In vitro fertilization and cleavage of human ovarian eggs. Science, 4 August 1944.
 - Wilcox A.J., Baird D.D., Weinberg C.R. (1999). Time of implantation of the conceptus and loss of pregnancy. New England Journal of Medicine. (Implantation 6 to 12 days after ovulation, mostly 8 to 10.)

@@ -938,6 +938,14 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 - [A box of plain steel paper clips](https://www.amazon.in/s?k=steel+paper+clips) (material): For the paper clip chain test. Plastic-coated clips grip less well, so get plain metal ones. Used in e2. 
 - [Iron filings in a shaker](https://www.amazon.in/s?k=iron+filings+for+magnet+experiment) (material): Show a magnet's field more clearly than black sand. Keep them on paper and away from eyes. Used in a2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To look closely at the black magnetite grains from sand. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Iron-Proof: how far from iron must a compass be?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c2. Get it before Iron-Proof: how far from iron must a compass be?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Gilbert's Little Earth: a needle on a thread. About ₹10 to ₹30. Any school ruler is fine. Used in a4. Get it before Gilbert's Little Earth: a needle on a thread.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Guess, Then Test: what does a magnet attract?. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a1. Get it before Guess, Then Test: what does a magnet attract?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Floating Needle Compass. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Floating Needle Compass.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Steady Compass. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Steady Compass.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Black Sand: find the magnet stone in your soil, Draw the Invisible: the shape of a magnetic field. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e3, a2. Get it before Black Sand: find the magnet stone in your soil.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Magnet Timeline on a String. About ₹100 to ₹200. A marble or a round torch cell works. Used in a3. Get it before The Magnet Timeline on a String.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one metal a magnet attracts. → Iron, steel, nickel or cobalt.

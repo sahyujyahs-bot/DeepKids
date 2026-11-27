@@ -1,7 +1,7 @@
 # Properties of materials: which let light through, and which keep water out
 `sci.materials.properties.L2`
 
-**Summary.** You can see through a clear polythene bag, so does water go through it too? In this unit you will test five materials from home by looking through each at a window and pouring water on each. You will also test which way a thread is strong.
+**Summary.** You can see through a clear polythene bag, so does water go through it too? In this lesson you will test five materials from home by looking through each at a window and pouring water on each. You will also test which way a thread is strong.
 
 **Intro.** *Hold a clear polythene bag up to the window. You can see the trees and the sky through it. Now guess: if you pour water on it, will the water go through too?* Most children guess yes. They think that if light can get through, water should get through too. You are going to test it. A property is what a material is like, such as waterproof or see-through. Every material has many properties. Some of them surprise us, so we test them.
 
@@ -31,6 +31,8 @@ A steel tumbler is hard, shiny, waterproof and opaque. A polythene bag is soft, 
 - e.g. A raincoat needs to be waterproof and bend when you move.
 - e.g. A window needs to be transparent and waterproof.
 - e.g. A hair band needs to be stretchy and to spring back.
+- **Ayurveda:** Teaches that every substance (dravya) carries many qualities (gunas) at the same time, and healing depends on knowing them all.
+- **Materials scientists:** Measure many properties of a material in turn, such as strength, hardness and how it carries heat. Only the full list tells you what it will do.
 ### Why some materials keep water out · *defined*
 **Definition:** Water gets through a material only where there is a gap or a hole. A waterproof material has no gaps that water can pass through.
 
@@ -38,6 +40,8 @@ Cloth and paper are made of fibres, with tiny gaps between them. Water creeps in
 - e.g. In the light and water test, water dripped through the cotton hanky.
 - e.g. In the light and water test, water sat on the polythene for a whole minute.
 - e.g. Rasam stays on a banana leaf at a meal.
+- **Wilhelm Barthlott:** In the 1990s he studied the lotus leaf, which stays dry, and found it is covered in tiny bumps and wax. Drops sit on the points and roll away.
+- **Engineers of Gore-Tex:** Make rain jackets with holes smaller than a water drop but bigger than a puff of vapour. Water cannot get in, yet sweat can get out. A waterproof material may have gaps.
 ### Transparent, translucent and opaque · *defined*
 **Definition:** Transparent materials let light through so you see a clear picture. Translucent materials let some light through, but no clear picture. Opaque materials let no light through.
 
@@ -45,6 +49,8 @@ Look through clear polythene and you see the window clearly. It is transparent. 
 - e.g. A glass tumbler, spectacles and clear polythene are transparent.
 - e.g. A thin hanky, a paper kite held up to the sky and your closed eyelids are translucent.
 - e.g. Foil, a steel plate and a wooden door are opaque.
+- **Physicists:** Say that no material is simply one of the three. It depends on how thick it is and on which light you use. Thin gold leaf is see-through, and X-rays pass through the body.
+- **Bees:** See ultraviolet light, which we cannot. A flower that looks plain to us shows patterns to a bee, so what seems opaque or plain depends on the eyes.
 ### How light gets through solid plastic · *defined*
 **Definition:** Light is not a material, and it does not need a hole. It can travel through some solid materials, such as glass, clear plastic and water.
 
@@ -52,6 +58,8 @@ Water is a material. It is made of tiny particles, and it can only pass where th
 - e.g. A glass window lets in sunlight but keeps out rain.
 - e.g. A clear plastic bottle lets you see the water inside, and the water stays in.
 - e.g. A tea strainer lets light and water through its holes.
+- **Christiaan Huygens:** Light is a wave that spreads out, and can pass through some solids by making them pulse.
+- **Isaac Newton:** Thought light is a stream of tiny particles. Einstein and quantum physics later showed light acts as a wave and as a particle, both.
 ### Strong and stretchy are different properties · *defined*
 **Definition:** Stretchy means a material gets longer when pulled. Strong means it is hard to break. A material can be one, both or neither.
 
@@ -59,6 +67,8 @@ A rubber band is stretchy, and it snaps if you pull too hard. A cotton thread ha
 - e.g. A rubber band holds a bundle of pencils tight because it is stretchy.
 - e.g. A cotton thread pulls a toy car, but cannot push it.
 - e.g. Kite string is strong but hardly stretches.
+- **Engineers:** Treat strength, stiffness and toughness as separate properties, and choose among them for each job.
+- **Spider silk researchers:** Find that spider silk is both very strong and very stretchy, a rare mix. Spiders make it from protein at room temperature.
 
 ## Mostly agreed
 - Every material has many properties at the same time. *How we know:* In the yes-or-no grid activity, the steel tumbler, polythene bag, rubber band and hanky each had a different set of answers.
@@ -327,7 +337,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 ## Worksheets
 ### What Gets Through? (core) (core, 11 questions)
 1. (match) Draw a line from each word to what it means.  
-   **Answer:** Waterproof → does not let water through; Transparent → you can see clearly through it; Opaque → lets no light through; Stretchy → gets longer when you pull it. *Why:* These are four of the property words in this unit.
+   **Answer:** Waterproof → does not let water through; Transparent → you can see clearly through it; Opaque → lets no light through; Stretchy → gets longer when you pull it. *Why:* These are four of the property words in this lesson.
 2. (mcq) In the light and water test, what happened to the teaspoon of water on the clear polythene?  
    Options: It ran into the tumbler / It sat on top, and the tumbler stayed dry / It soaked into the polythene  
    **Answer:** It sat on top, and the tumbler stayed dry. *Why:* Polythene has no holes or gaps, so the water could not get through. Picking 'ran into the tumbler' may mean thinking see-through things let water through.
@@ -422,11 +432,11 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - Ropes, kite strings and fibres like Kevlar are strong when pulled, so they are used to pull, lift and hold.
 
 ## Spotted around us
-- A steel tea strainer over a tumbler of filter coffee or tea in a Chennai kitchen.
-- A mosquito net over a bed in Assam or Kerala, letting the air in and keeping mosquitoes out.
+- A steel tea strainer over a tumbler of filter coffee or tea in a kitchen.
+- A mosquito net over a bed, letting the air in and keeping mosquitoes out.
 - Coloured glass bangles from Firozabad, glowing when you hold them up to the light.
-- Rain beading up on a chembu leaf in a Kerala backyard or on kochu leaves in Bengal.
-- A shop in Mumbai covering its goods with a clear plastic sheet in the monsoon, so customers can still see them.
+- Rain beading up on a chembu leaf or a kochu leaf in a backyard.
+- A shop covering its goods with a clear plastic sheet in the monsoon, so customers can still see them.
 
 ## Open questions
 - **Can people make a coating that keeps water off as well as a lotus leaf, and lasts for years?** Scientists have copied the tiny waxy bumps on lotus and chembu leaves. But the copies usually wear off when they are rubbed. Making one that lasts is still being worked on.
@@ -460,10 +470,13 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Links
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a science museum, for the parent to find more tests with light and materials.
-- [Tamil Nadu Science and Technology Centre]() · place · Chennai: A science centre with hands-on galleries and a planetarium, good for a day out.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on exhibits for children.
+- Tamil Nadu Science and Technology Centre · place · Chennai: A science centre with hands-on galleries and a planetarium, good for a day out.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on exhibits for children.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Rain Window for a Shoebox Room. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Rain Window for a Shoebox Room.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Pull, Not Push: which way is a thread strong?. About ₹100 to ₹200. A marble or a round torch cell works. Used in a2. Get it before Pull, Not Push: which way is a thread strong?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does transparent mean? → You can see clearly through it.

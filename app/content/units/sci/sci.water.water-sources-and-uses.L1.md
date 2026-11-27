@@ -1,9 +1,9 @@
 # Water: where it comes from and what we use it for
 `sci.water.water-sources-and-uses.L1`
 
-**Summary.** When you pour water on poha it goes soft, but oil does not. Why? In this unit you will hunt for water at home, test poha with water, oil and nothing, and play a game about the jobs water does for us.
+**Summary.** When you pour water on poha it goes soft, but oil does not. Why? In this lesson you will hunt for water at home, test poha with water, oil and nothing, and play a game about the jobs water does for us.
 
-**Intro.** *Turn on the tap and fill a tumbler. Where was this water yesterday?* The water in our tap came through pipes from a tank, a well, a lake or a river. Before that, it fell as rain. All day long, we use water for many jobs. We drink it. We cook rice and dal in it. We wash our hands, our plates and our clothes with it. We pour it on plants, and we leave some out for birds. In this unit we ask: what jobs does water do, and why is water so good at them?
+**Intro.** *Turn on the tap and fill a tumbler. Where was this water yesterday?* The water in our tap came through pipes from a tank, a well, a lake or a river. Before that, it fell as rain. All day long, we use water for many jobs. We drink it. We cook rice and dal in it. We wash our hands, our plates and our clothes with it. We pour it on plants, and we leave some out for birds. In this lesson we ask: what jobs does water do, and why is water so good at them?
 
 ## Learning outcomes
 0. By the end I can name five jobs water does for us: drinking, cooking, washing, watering plants, and giving animals a drink.
@@ -434,11 +434,11 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - People in many villages build small walls across streams, called check dams, to hold rain water so wells stay full. In Rajasthan, Amla Ruia has helped villages build many of them.
 
 ## Spotted around us
-- A row of plastic and steel pots lined up at a public tap in Chennai, waiting for the water to come.
-- A red clay matka of drinking water under a tree in a street in Ahmedabad, for anyone who is thirsty.
-- A round well in the courtyard of an old house in Kerala, with a rope and a bucket.
-- Rani ki Vav in Patan, Gujarat: a stepwell more than 900 years old, with steps going far down to the water.
-- Floating islands of plants on Loktak Lake in Manipur, where fishers live on the water.
+- A row of plastic and steel pots lined up at a public tap, waiting for the water to come.
+- A red clay matka of drinking water under a tree in a street, for anyone who is thirsty.
+- A round well in the courtyard of an old house, with a rope and a bucket.
+- A stepwell, with steps going far down to the water.
+- Floating islands of plants on a lake, where fishers live on the water, in a picture.
 
 ## Open questions
 - **What does thirst feel like for a plant?** Plants sense dry soil and act on it. But nobody knows what that feeling is like for a plant.
@@ -473,11 +473,14 @@ Where Does the Water Go? (sci.water.L1): Topic-level song for Water L1
 
 ## Links
 - [The Water Science School, US Geological Survey](https://www.usgs.gov/special-topics/water-science-school) · interactive: For the parent: clear pages and pictures on where water comes from and how we use it.
-- [Rani ki Vav, the Queen's Stepwell]() · place · Patan, Gujarat: A huge stepwell, more than 900 years old, built to reach water deep under the ground.
-- [Chand Baori stepwell]() · place · Abhaneri, Dausa district, Rajasthan: A deep stepwell with thousands of steps, built to store water in a dry land.
-- [Vembanad Lake and the Kerala backwaters]() · place · Kumarakom and Alappuzha, Kerala: Lakes, rivers and canals where people, fish, birds and rice fields all share the water.
+- Rani ki Vav, the Queen's Stepwell · place · Patan, Gujarat: A huge stepwell, more than 900 years old, built to reach water deep under the ground.
+- Chand Baori stepwell · place · Abhaneri, Dausa district, Rajasthan: A deep stepwell with thousands of steps, built to store water in a dry land.
+- Vembanad Lake and the Kerala backwaters · place · Kumarakom and Alappuzha, Kerala: Lakes, rivers and canals where people, fish, birds and rice fields all share the water.
 
 ## Things to buy
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Water Bowl for Birds. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A Water Bowl for Birds.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Sticky Plate: does soaking help washing?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Sticky Plate: does soaking help washing?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name two jobs that water does at home. → Drinking and cooking. Also washing and watering plants.

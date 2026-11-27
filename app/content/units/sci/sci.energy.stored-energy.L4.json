@@ -2838,6 +2838,74 @@
     "c1"
    ],
    "why": "For the bounce tests and the Beat the Drop challenge. Any bouncy ball works, and the neighbourhood sports shop sells them cheaply."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Soap Slider: does twice the pull-back give twice the slide?, Hanging Water: how hard does a band pull back?, Table or Floor: the same ball in the same place. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a1",
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Soap Slider: does twice the pull-back give twice the slide?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Soap Slider: does twice the pull-back give twice the slide?, The Bounce Ratio: how high does a ball come back from different heights?, The Syringe Spring: air that pushes back. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3"
+   ],
+   "plan": "Get it before The Soap Slider: does twice the pull-back give twice the slide?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in The Soap Slider: does twice the pull-back give twice the slide?, The Bounce Ratio: how high does a ball come back from different heights?, Table or Floor: the same ball in the same place. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Soap Slider: does twice the pull-back give twice the slide?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Valley Track: can a marble climb higher than it started?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Valley Track: can a marble climb higher than it started?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

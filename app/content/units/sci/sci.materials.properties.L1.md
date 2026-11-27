@@ -542,6 +542,11 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 - Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on exhibits for children.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Gentle Bend: bendy or stiff?. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before The Gentle Bend: bendy or stiff?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Torch Spot Test: which things are shiny, and why?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1. Get it before The Torch Spot Test: which things are shiny, and why?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Knock Orchestra: what does each material sound like?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in old1. Get it before The Knock Orchestra: what does each material sound like?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Mirror for a Doll. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Mirror for a Doll.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a pillow hard or soft? → Soft. It squashes when you press it.

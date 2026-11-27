@@ -1,9 +1,9 @@
 # One cell, many jobs: how a baby's body gets built
 `sci.body.how-babies-grow.L4`
 
-**Summary.** Every cell in your body holds the same instructions, yet some become skin and some become brain. How do they choose? In this unit you will use a colour map to see how cells can know where they are, see how a hand is made by taking away, and test how fast practice works.
+**Summary.** Every cell in your body holds the same instructions, yet some become skin and some become brain. How do they choose? In this lesson you will use a colour map to see how cells can know where they are, see how a hand is made by taking away, and test how fast practice works.
 
-**Intro.** *Spread your fingers wide and look at the gaps between them. Before you were born, there were no gaps. Your hand was a flat paddle, like a tiny oar. What made the gaps?* Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this unit you find out how a body is built from one cell. You test how a signal that fades with distance can tell cells where they are. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.
+**Intro.** *Spread your fingers wide and look at the gaps between them. Before you were born, there were no gaps. Your hand was a flat paddle, like a tiny oar. What made the gaps?* Nothing was cut and nothing was glued. Cells between the fingers received a signal, and they died on purpose. That left five fingers. In this lesson you find out how a body is built from one cell. You test how a signal that fades with distance can tell cells where they are. You time yourself writing with the wrong hand, to see how practice changes a brain. You also learn how a baby breathes and eats before birth, and why growth is fastest at the very start.
 
 ## Learning outcomes
 0. I can explain that every cell in a body holds the same instructions, but each kind of cell uses different parts of them.
@@ -535,7 +535,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 7. (fill) A model shows an idea clearly, but it is not exactly the ____ thing.  
    **Answer:** ['real', 'same']. *Why:* A model leaves out many details, so it can show one idea. It is a stand-in for the real thing, which is always more complicated.
 8. (match) Match each situation to the idea it shows.  
-   **Answer:** A tadpole's tail slowly disappears → cells can die on purpose; A frog grows from a gut cell's DNA → every cell holds all the instructions; A paper strip is dark near the dye and pale far from it → a signal fades with distance; A child writes faster after each try → practice strengthens connections. *Why:* Each situation is a small piece of evidence for one idea in this unit.
+   **Answer:** A tadpole's tail slowly disappears → cells can die on purpose; A frog grows from a gut cell's DNA → every cell holds all the instructions; A paper strip is dark near the dye and pale far from it → a signal fades with distance; A child writes faster after each try → practice strengthens connections. *Why:* Each situation is a small piece of evidence for one idea in this lesson.
 9. (sort) Sort each fact by whether it is true of a newborn, an adult, or both.  
    **Answer:** about 300 bone pieces → Newborn; 206 bones → Adult; soft spots in the skull → Newborn; the same DNA in nearly every cell → Both; cartilage in the nose and ear → Both; a wrist made mostly of cartilage → Newborn. *Why:* A newborn has more, softer pieces, and some join and harden as the child grows. Nearly every cell holds the same DNA at any age, and the nose and ear keep their cartilage for life.
 10. (mcq) A friend says: 'The paper strip proves exactly how cells in an embryo work.' What is the best reply?  
@@ -675,6 +675,11 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [A roll of white kitchen paper towel, or a pack of coffee filter papers](https://www.amazon.in/s?k=white+kitchen+paper+towel+roll) (material): To cut into strips for the Colour Map test and the three-stripe challenge. Plain white towels without a pattern work best. Used in e1, c1. 
 - [A small bottle of red or blue food colour](https://www.amazon.in/s?k=food+colour+liquid+red) (material): To make the dye for the Colour Map test and the three-stripe challenge. One small bottle lasts for many tests. Choose red or blue; green and brown colours split into several colours on paper. Used in e1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Family Growth Interviews: when did you grow?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in p1. Get it before Family Growth Interviews: when did you grow?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Colour Map: how can cells know where they are?, My Growth Line: how fast does a baby grow?, Family Growth Interviews: when did you grow?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, p1, c1. Get it before Colour Map: how can cells know where they are?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Hand Made by Taking Away. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before A Hand Made by Taking Away.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Wrong-Hand Writing: how fast does practice work?, My Growth Line: how fast does a baby grow?. About ₹10 to ₹30. Draw squares on plain paper. Used in e2, a2. Get it before Wrong-Hand Writing: how fast does practice work?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a gene? → One instruction on the DNA.

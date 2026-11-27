@@ -1,9 +1,9 @@
 # Properties of materials: what a material is like, and how to test it
 `sci.materials.properties.L3`
 
-**Summary.** Does water make a material weaker? In this unit you will find out what a property is, then test whether a material snaps or bends, how flexible it is, whether damp makes it weaker, and how fast a drop soaks in.
+**Summary.** Does water make a material weaker? In this lesson you will find out what a property is, then test whether a material snaps or bends, how flexible it is, whether damp makes it weaker, and how fast a drop soaks in.
 
-**Intro.** *Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.* Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cotton cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. The spinners found that their thread held best in the damp early morning. In the dry heat of noon, it kept snapping. Was the cotton bad? Were the spinners tired? Or does the strength of a thread change with the air? In this unit you will find out, by testing paper and thread at home.
+**Intro.** *Try this. Pick up a steel spoon in one hand and a wooden spoon in the other. They have been in the same room all day. Which one feels colder? Now guess what a thermometer would say.* Here is a puzzle from the past. About three hundred years ago, in Bengal, weavers made a cotton cloth so fine that people called it woven air. Stories say a whole sari could be pulled through a finger ring. The spinners found that their thread held best in the damp early morning. In the dry heat of noon, it kept snapping. Was the cotton bad? Were the spinners tired? Or does the strength of a thread change with the air? In this lesson you will find out, by testing paper and thread at home.
 
 ## Learning outcomes
 0. I can say what a property is, and name at least ten properties of materials.
@@ -59,7 +59,7 @@ Steel is hard, strong, shiny, heavy and stiff. It also conducts heat well, so it
 ### Hard and soft: the scratch ladder · *defined*
 **Definition:** A material is hard if it is hard to scratch. If material A scratches material B, then A is harder than B.
 
-You can put any materials in order of hardness with one simple test. Try to scratch each with the others. In 1812 a German mineral expert called Friedrich Mohs did this with ten minerals. He put talc at 1, the softest, and diamond at 10, the hardest. Now anyone can place a new mineral on the ladder. A fingernail is about 2 and a half. A steel nail is about 4 to 5. Ruby and sapphire are 9. Diamond is far harder than 9, not just one step more. The numbers only give the order. Scratching is only one way to test hardness, and the full scratch test is in the unit Sorting materials.
+You can put any materials in order of hardness with one simple test. Try to scratch each with the others. In 1812 a German mineral expert called Friedrich Mohs did this with ten minerals. He put talc at 1, the softest, and diamond at 10, the hardest. Now anyone can place a new mineral on the ladder. A fingernail is about 2 and a half. A steel nail is about 4 to 5. Ruby and sapphire are 9. Diamond is far harder than 9, not just one step more. The numbers only give the order. Scratching is only one way to test hardness, and the full scratch test is in the lesson Sorting materials.
 - e.g. Your fingernail scratches soap and chalk, so it is harder than both.
 - e.g. A diamond scratches everything, so it sits at the top of the ladder.
 - e.g. Ruby and sapphire are the same mineral, called corundum. Only the colour is different.
@@ -846,7 +846,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
    **Answer:** Each is good for some jobs: rubber for a tyre, glass for spectacles. *Why:* A material is good or bad only for a job. Glass is transparent, so it is right for spectacles, where rubber would be useless. Rubber is elastic and tough, so it is right for a tyre.
 15. (fill) Hard means hard to scratch. A material that takes a knock without cracking, like leather or rubber, is called ____.  
    **Answer:** ['tough']. *Why:* Tough means it soaks up a knock without cracking. Glass is hard but not tough. Leather is soft but tough. Scientists test hard, strong, stiff and tough separately, because one does not tell you the others.
-16. (write) Look back at every test you did in this unit. Which result surprised you most? Write what you guessed, what really happened, and what you think now.  
+16. (write) Look back at every test you did in this lesson. Which result surprised you most? Write what you guessed, what really happened, and what you think now.  
    **Answer:** A strong answer names a real test, gives the guess and the result honestly, and says what changed in the child's thinking. For example: 'I guessed the damp thread would break first. It held more cups of water. Now I think water weakens paper but helps cotton.'. *Why:* Changing your mind because of evidence is what scientists do. A guess that turns out wrong is useful, because it shows you what you did not know.
 
 ## Videos
@@ -911,10 +911,10 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - A stone jaali screen in an old fort or mosque, with light and breeze coming through the holes.
 - A brass bell ringing in a temple, with a long, clear note.
 - A clay water pot at a roadside water stall, damp on the outside.
-- Colocasia leaves in the market (chembu in Kerala, arbi in the north), where water drops roll like silver beads.
+- Colocasia leaves in the market, called chembu or arbi, where water drops roll like silver beads.
 - Glass bangles on a stall, bright and easy to break.
 - Bamboo scaffolding around a building, tied with rope.
-- The Iron Pillar in Delhi near the Qutub Minar, about 1,600 years old, still standing with very little rust.
+- An old iron pillar, about 1,600 years old, still standing with very little rust, in a picture.
 - A cotton towel, a rubber chappal, a steel tumbler and a plastic bucket in one bathroom. Four materials, four jobs.
 
 ## Open questions
@@ -970,9 +970,20 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with galleries on metals, machines and engines. Look at how different materials are used in each exhibit.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits. Look for the ones on light, heat and materials.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about metals, engines and materials.
-- [The Iron Pillar at the Qutub complex]() · place · New Delhi: A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface.
+- The Iron Pillar at the Qutub complex · place · New Delhi: A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface.
 
 ## Things to buy
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Feely Bag Detective. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in a1. Get it before Feely Bag Detective.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Property Ladder. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before The Property Ladder.
+- [A bar magnet or two, and a few small magnets](https://www.amazon.in/s?k=bar+magnet+school) (tool): Used in The Mystery Material. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests. Used in c1. Get it before The Mystery Material.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Snap, Bend or Spring Back?, The Droop Test: how flexible is it?, The Property Ladder. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, p1. Get it before Snap, Bend or Spring Back?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in The Vanishing Drop: how fast does it soak in?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e4. Get it before The Vanishing Drop: how fast does it soak in?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Snap, Bend or Spring Back?, The Kitchen Float Lab. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, a6. Get it before Snap, Bend or Spring Back?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Layers to Darkness: transparent, translucent or opaque?, The Privacy Window. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e5, c2. Get it before Layers to Darkness: transparent, translucent or opaque?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in The Vanishing Drop: how fast does it soak in?, Layers to Darkness: transparent, translucent or opaque?, The Mystery Material. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in e4, e5, c1, c2. Get it before The Vanishing Drop: how fast does it soak in?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Layers to Darkness: transparent, translucent or opaque?, The Privacy Window. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e5, c2. Get it before Layers to Darkness: transparent, translucent or opaque?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Property Ladder, The Kitchen Float Lab. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a3, a6. Get it before The Property Ladder.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A word that tells what a material is like is a ____. → property

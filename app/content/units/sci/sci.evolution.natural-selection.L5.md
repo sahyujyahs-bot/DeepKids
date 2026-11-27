@@ -1,9 +1,9 @@
 # How species change: natural selection, adaptation and new species
 `sci.evolution.natural-selection.L5`
 
-**Summary.** A cactus has spines and a waxy skin, and each fits the desert so well that it looks planned. Yet no cactus changed itself to suit the desert. In this unit you will hunt beans on two cloths for three generations, and test two beaks in a drought year.
+**Summary.** A cactus has spines and a waxy skin, and each fits the desert so well that it looks planned. Yet no cactus changed itself to suit the desert. In this lesson you will hunt beans on two cloths for three generations, and test two beaks in a drought year.
 
-**Intro.** *A camel is born with wide feet that do not sink in sand. A lotus is born with air tubes in their stalks. Nobody fitted these parts. So how did each living being come to suit their place so well?* For a long time, many people thought each animal changed their own body by trying hard. They thought the change was then passed on. In this unit you test a different answer with your own hands. You count the seeds in one bhindi to see how many young one plant could have. You hunt beans on a dark cloth and a pale cloth for three generations, and count who is left. You pick up seeds with tweezers and with roti tongs, in a wet year and in a drought. Then you find out how one bird became two species in the hills of South India. You also learn why your own cells hold partners that were once free bacteria.
+**Intro.** *A camel is born with wide feet that do not sink in sand. A lotus is born with air tubes in their stalks. Nobody fitted these parts. So how did each living being come to suit their place so well?* For a long time, many people thought each animal changed their own body by trying hard. They thought the change was then passed on. In this lesson you test a different answer with your own hands. You count the seeds in one bhindi to see how many young one plant could have. You hunt beans on a dark cloth and a pale cloth for three generations, and count who is left. You pick up seeds with tweezers and with roti tongs, in a wet year and in a drought. Then you find out how one bird became two species in the hills of South India. You also learn why your own cells hold partners that were once free bacteria.
 
 ## Learning outcomes
 0. By the end I can explain natural selection in four steps, using my results from the Bean Generations Test.
@@ -669,9 +669,9 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 - Cabbage, cauliflower and knol khol lie side by side at the vegetable shop. Farmers bred all three from one wild species.
 - Mosquito coils and sprays work less well in some places than they did years ago. The mosquitoes there descend from survivors.
 - A peepal or banyan tree has figs with tiny holes. Each kind of fig has a partner wasp, small enough to crawl inside.
-- Grey-green lichen patches grow on old tree trunks and rocks in hill stations such as Ooty, Munnar and Shillong. Each patch is a fungus and an alga living as one.
+- Grey-green lichen patches grow on old tree trunks and rocks in cool hill towns. Each patch is a fungus and an alga living as one.
 - A cactus or an aloe in a pot on the balcony shows desert adaptations: thick parts that store water, and a waxy skin.
-- Lotus leaves float on temple tanks from Madurai to Puri. Cut a lotus stalk, sold as a vegetable, and you see the air channels.
+- Lotus leaves floating on temple tanks. Cut a lotus stalk, sold as a vegetable, and you see the air channels.
 - In paddy fields, a grass weed grows that looks very like young rice. Hand weeding selected the look-alikes.
 
 ## Open questions
@@ -718,13 +718,18 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - [HHMI BioInteractive](https://www.biointeractive.org/) · interactive: Free short films and activities on finch beaks, rock pocket mice and other measured cases of natural selection.
 - [Understanding Evolution (University of California, Berkeley)](https://evolution.berkeley.edu/) · interactive: For the parent: clear, checked explanations of natural selection, new species and common mistakes.
 - [Darwin Online](http://darwin-online.org.uk/) · interactive: For the parent: all of Charles Darwin's books and notebooks, free to read, including On the Origin of Species.
-- [Regional Museum of Natural History]() · place · Mysuru: Galleries on conservation and on the plants and animals of South India and the Western Ghats.
-- [Government Museum, Egmore]() · place · Chennai: The zoology galleries show skeletons and other animal specimens, good for comparing beaks, teeth and feet.
+- Regional Museum of Natural History · place · Mysuru: Galleries on conservation and on the plants and animals of South India and the Western Ghats.
+- Government Museum, Egmore · place · Chennai: The zoology galleries show skeletons and other animal specimens, good for comparing beaks, teeth and feet.
 
 ## Things to buy
 - [Tweezers](https://www.amazon.in/s?k=tweezers) (tool): The small beak in the Drought Year Test. A clothes clip works if you have none. Used in e2, c1. 
 - [The Beak of the Finch, a book by Jonathan Weiner (1994)](https://www.amazon.in/s?k=The+Beak+of+the+Finch+Jonathan+Weiner) (book): For the parent: the story of Rosemary and Peter Grant's years of measuring finches on Daphne Major. Used in e2. Read a chapter yourself after the Drought Year Test, and tell your child what the Grants found.
 - [Evolution: How We and All Living Things Came to Be, a book by Daniel Loxton (2010)](https://www.amazon.in/s?k=Evolution+How+We+and+All+Living+Things+Came+to+Be+Loxton) (book): A picture-rich book for ages 8 to 13 that answers the questions children ask about evolution. Used in e1. Read it together over a week after the Bean Generations Test.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bean Generations Test: does one hunter change two groups in the same way?, The Drought Year Test: which beak finds enough food when the seeds change?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2. Get it before The Bean Generations Test: does one hunter change two groups in the same way?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in An Indian Animal at Risk: can they change fast enough?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before An Indian Animal at Risk: can they change fast enough?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Bean Generations Test: does one hunter change two groups in the same way?, The Drought Year Test: which beak finds enough food when the seeds change?, One New Bean: can a single new variation spread?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a2, a4. Get it before The Bean Generations Test: does one hunter change two groups in the same way?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Drought Year Test: which beak finds enough food when the seeds change?. About ₹10 to ₹40. Small round stones or dried chana. Used in e2. Get it before The Drought Year Test: which beak finds enough food when the seeds change?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four things natural selection needs. → Variation, inheritance, more young than can survive, and better survival for those who fit the place.

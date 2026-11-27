@@ -1,9 +1,9 @@
 # Animals without backbones: how they breathe with no lungs
 `sci.animals.invertebrates.L4`
 
-**Summary.** A worm has no lungs, and a prawn has no lungs either. So how do they breathe? In this unit you will watch colour creep into jelly, test whether more outside dissolves sugar faster, and walk like an oxygen particle on its way to the middle of a body.
+**Summary.** A worm has no lungs, and a prawn has no lungs either. So how do they breathe? In this lesson you will watch colour creep into jelly, test whether more outside dissolves sugar faster, and walk like an oxygen particle on its way to the middle of a body.
 
-**Intro.** *Take a deep breath and feel your chest rise. Now think of an ant. An ant has no lungs and no chest. A crab has no nose. An earthworm has no lungs and no nose. All three breathe all day long. How?* Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this unit you will watch how slowly colour creeps into jelly. Oxygen drifts into a body just as slowly. Then you will see why that slow drift has given a worm, an ant, a crab and a spider such different bodies.
+**Intro.** *Take a deep breath and feel your chest rise. Now think of an ant. An ant has no lungs and no chest. A crab has no nose. An earthworm has no lungs and no nose. All three breathe all day long. How?* Here is a clue. Your body is made of billions of tiny cells, and every cell needs oxygen all the time. In you, blood carries the oxygen round. But an ant's blood does not carry most of her oxygen, and a worm has no lungs at all. In this lesson you will watch how slowly colour creeps into jelly. Oxygen drifts into a body just as slowly. Then you will see why that slow drift has given a worm, an ant, a crab and a spider such different bodies.
 
 ## Learning outcomes
 0. I can explain that colour and oxygen drift slowly, and that going twice as far takes about four times as long.
@@ -159,7 +159,7 @@ Oxygen is the same everywhere. A worm's skin, a crab's gill and an ant's tube al
 - Ask: Is a crab's gill part of the crab, or part of the sea?
 
 ## Deep and big questions
-- *deep:* In Colour Cubes, the colour crept only a few millimetres into a big jelly cube. What would a worm as thick as a tree trunk have to do to stay alive? (hint: Think about tubes, folds and pumps, and which ones the animals in this unit already use.)
+- *deep:* In Colour Cubes, the colour crept only a few millimetres into a big jelly cube. What would a worm as thick as a tree trunk have to do to stay alive? (hint: Think about tubes, folds and pumps, and which ones the animals in this lesson already use.)
 - *deep:* Your blood carries oxygen to your cells. An ant's blood does not. How can an ant be so fast and strong? (hint: Where does an ant's oxygen travel, and how far must the oxygen go?)
 - *big:* Water holds about 30 times less oxygen than air, yet animals began in water. What does that tell you about the first animals? (hint: Think about how thick and how active a body can be when air is scarce.)
 - *deep:* A coconut crab drowns in the sea but is still a crab. Is breathing air or water a feature of the animal, or of where she lives? (hint: Think of a pond snail that has a lung but lives in water.)
@@ -826,6 +826,12 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [A pad of squared paper or graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For Ring or Core. Used in a1. 
 - [A hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at an ant, a snail's pore or a crab's gills, and for Gills in the Market, or a Picture Hunt. Used in a4. 
 - [A medicine syringe without a needle](https://www.amazon.in/s?k=oral+syringe+without+needle) (tool): For Pipes or a Wet Sponge. A medical shop sells one for a few rupees. A baby-medicine dropper from the house also works. Used in a5. 
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Drop and Stir: why do crabs move water over their gills?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in e3. Get it before Drop and Stir: why do crabs move water over their gills?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Colour Cubes: how far does colour creep into jelly?, Ring or Core: how much of a body is near the edge?, Pipes or a Wet Sponge: two kinds of blood. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a5, p1, c2. Get it before Colour Cubes: how far does colour creep into jelly?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Pipes or a Wet Sponge: two kinds of blood, Air Tubes in a Roll: a model of an insect's breathing. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a5, p1. Get it before Pipes or a Wet Sponge: two kinds of blood.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Air Tubes in a Roll: a model of an insect's breathing. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Air Tubes in a Roll: a model of an insect's breathing.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Dry Finger: carrying a bubble of air under water, Air Tubes in a Roll: a model of an insect's breathing. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a3, p1. Get it before Dry Finger: carrying a bubble of air under water.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How does an earthworm breathe? → Through her wet skin.
@@ -846,7 +852,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - Founder's notebook item bio:177, 'Invertebrates (sponges, cnidarians, worms, mollusks, arthropods, echinoderms)', used as the outline for which groups to visit
 - ideas/by_topic/evolution-the-tree-of-life.md and how-life-began.md: the founder's ideas on the first animals and the rise of oxygen, used in the oxygen explanation and the open questions
 - Combined lesson app/content/combined/sci-C3-kinds-of-living-things-and-sorting-them.json: the minibeast key and the yes or no question game, which led to the Air Route card game
-- The Class 3 unit sci.animals.invertebrates.L3, which this unit builds on: it covered how soft bodies hold their shape, and this unit asks how they get air
+- The Class 3 unit sci.animals.invertebrates.L3, which this lesson builds on: it covered how soft bodies hold their shape, and this lesson asks how they get air
 - PHILOSOPHY.md: the stance that animals feel, remember and decide, used in the roots card and the story
 - Malpighi, De Bombyce, 1669 (the silkworm's spiracles and air tubes)
 - Aristotle, De Respiratione, about 330 BCE (breathing as cooling)

@@ -1,9 +1,9 @@
 # Spinning tops and wheels: why a spinning top stays up
 `sci.motion.spinning.L3`
 
-**Summary.** Why does a top fall over when it is still, but stand up when it spins? In this unit you will make coin tops with the weight at the edge or the middle, spin a coin on different floors, and play a spinning game from the mela.
+**Summary.** Why does a top fall over when it is still, but stand up when it spins? In this lesson you will make coin tops with the weight at the edge or the middle, spin a coin on different floors, and play a spinning game from the mela.
 
-**Intro.** *Try this. Stand a top, or a pencil stuck through a cardboard circle, on its point. Let go. It falls over at once. Now spin it hard and let go. It stands on the same tiny point for many seconds. Why does spinning keep it up?* Children in India have played with tops for hundreds of years. In Tamil a string top is a bambaram, and in Hindi it is a lattu. In this unit you make your own top, time how long it spins, and find out what makes it spin longer. You also find out why wheels are round, and why the outside of a merry-go-round moves fastest.
+**Intro.** *Try this. Stand a top, or a pencil stuck through a cardboard circle, on its point. Let go. It falls over at once. Now spin it hard and let go. It stands on the same tiny point for many seconds. Why does spinning keep it up?* Children in India have played with tops for hundreds of years. In Tamil a string top is a bambaram, and in Hindi it is a lattu. In this lesson you make your own top, time how long it spins, and find out what makes it spin longer. You also find out why wheels are round, and why the outside of a merry-go-round moves fastest.
 
 ## Learning outcomes
 0. I can say what spinning is, and point to the axis of a spinning thing.
@@ -614,7 +614,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
    **Answer:** The bangle, because all its weight is far from its middle. Weight far from the axis is harder to start turning.. *Why:* A strong answer uses the same idea as the coin top and the tape roll race.
 5. (write) Someone does the coin top test and finds that the top with coins near the middle spun longer than the top with coins near the edge. This is the opposite of what most people find. How can they check that the test was fair?  
    **Answer:** Check the pencil is in the exact middle. Check the coins are spaced evenly and taped flat. Twist the same way every time. Do more than 3 spins of each.. *Why:* A strong answer looks for things that changed besides the place of the coins.
-6. (write) The Earth spins once a day. Its axis also slowly circles round, once in about 26,000 years. Which toy in this unit does something like that?  
+6. (write) The Earth spins once a day. Its axis also slowly circles round, once in about 26,000 years. Which toy in this lesson does something like that?  
    **Answer:** A spinning top. When it leans, its axis slowly circles round. This is called precession.. *Why:* A strong answer names precession and links it to the top's circling head.
 7. (mcq) You lift a cycle and push its wheel. It spins on its axle for a long time. Then you oil the axle and push the wheel the same way. What will happen?  
    Options: It will spin for less time / It will spin for longer, because oil makes the rubbing at the axle smaller / It will spin backwards  
@@ -740,7 +740,16 @@ Back and Forth (sci.motion.L3): Topic-level song for Motion L3
 - [Channapatna, the toy town](https://en.wikipedia.org/wiki/Channapatna_toys) · place · Channapatna, between Bengaluru and Mysuru: A town famous for lacquered wooden toys, including spinning tops, turned on a lathe. You can watch toys being made in some workshops.
 
 ## Things to buy
-- [A wooden string top (a bambaram or lattu), with its string](https://www.amazon.in/s?k=wooden+spinning+top+lattu) (tool): Optional. A real string top spins fast and shows precession very clearly. The cardboard top from the coin top experiment works for everything in the unit. Toy shops, melas and Channapatna toy sellers also have them. Used in a2, g2. 
+- [A wooden string top (a bambaram or lattu), with its string](https://www.amazon.in/s?k=wooden+spinning+top+lattu) (tool): Optional. A real string top spins fast and shows precession very clearly. The cardboard top from the coin top experiment works for everything in the lesson. Toy shops, melas and Channapatna toy sellers also have them. Used in a2, g2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in How Far Does One Turn Go?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a4. Get it before How Far Does One Turn Go?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Coin Top: edge or middle?, The Spinning Coin: which floor lets it spin longest?, The Longest-spinning Top. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, c1. Get it before The Coin Top: edge or middle?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Rolling Race: ring or solid?, How Far Does One Turn Go?. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a4. Get it before The Rolling Race: ring or solid?.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in The Rolling Race: ring or solid?. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in e3. Get it before The Rolling Race: ring or solid?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Longest-spinning Top. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before The Longest-spinning Top.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Watch the Lean Go Round. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Watch the Lean Go Round.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Build a Chair-swing Ride. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in p1. Get it before Build a Chair-swing Ride.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Longest-spinning Top. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before The Longest-spinning Top.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the line a spinning thing turns around called? → The axis.

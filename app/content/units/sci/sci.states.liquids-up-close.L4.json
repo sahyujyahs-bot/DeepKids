@@ -2927,6 +2927,95 @@
     "e2",
     "p1"
    ]
+  },
+  {
+   "id": "b-compass",
+   "item": "Compass from a geometry box",
+   "kind": "tool",
+   "why": "Its sharp point makes the small holes in the bottle for the jets tests. About ₹40 to ₹100 at a stationery shop. A thick needle or a nail, with a grown-up to make the holes, is the household alternative.",
+   "url": "https://www.amazon.in/s?k=geometry+box+compass",
+   "used_in": [
+    "e1",
+    "a2",
+    "c1"
+   ],
+   "plan": "Buy it before the Three Jets test."
+  },
+  {
+   "id": "b-masking-tape",
+   "item": "Masking tape, one roll",
+   "kind": "material",
+   "why": "It covers the holes and marks the heights on the bottle, the wall and the hose. About ₹30 to ₹60 for a roll at a hardware shop. Sticky tape works in its place.",
+   "url": "https://www.amazon.in/s?k=masking+tape",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Buy it before the Three Jets test."
+  },
+  {
+   "id": "b-measuring-tape-liquids",
+   "item": "Measuring tape, 3 to 5 metres",
+   "kind": "tool",
+   "why": "It measures how far the water squirts and how high the level line sits on the wall. About ₹50 to ₹150 at a hardware or stationery shop. A long ruler works for the squirt test.",
+   "url": "https://www.amazon.in/s?k=measuring+tape",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1"
+   ],
+   "plan": "Buy it before the Three Jets test."
+  },
+  {
+   "id": "b-straws",
+   "item": "Thin plastic straws, a pack of 20 or more",
+   "kind": "material",
+   "why": "Each child uses three straws in the Straw Trouble activity to find out whether drinking is sucking or pushing. About ₹20 to ₹60 for a pack at a grocery or stationery shop. Straws from juice boxes work as the household alternative.",
+   "url": "https://www.amazon.in/s?k=plastic+drinking+straws",
+   "used_in": [
+    "a4",
+    "c1"
+   ],
+   "plan": "Buy them before the Straw Trouble activity."
+  },
+  {
+   "id": "b-ice-cream-sticks-liquids",
+   "item": "Wooden ice-cream sticks, about 10",
+   "kind": "material",
+   "why": "They make the frame of the syringe arm, which is fixed to a cardboard base. About ₹20 to ₹50 for a pack at a kirana shop or online. Thin cardboard strips cut from a box work as the household alternative.",
+   "url": "https://www.amazon.in/s?k=wooden+ice+cream+sticks",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy them before you build the Syringe Arm."
+  },
+  {
+   "id": "b-paper-fasteners",
+   "item": "Paper fasteners, a small pack",
+   "kind": "material",
+   "why": "They are the joints that let the syringe arm bend. About ₹20 to ₹50 for a small pack at a stationery shop. Short pieces of straw tied with thread are the household alternative.",
+   "url": "https://www.amazon.in/s?k=paper+fasteners",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy them before you build the Syringe Arm."
+  },
+  {
+   "id": "b-print-liquids",
+   "item": "Printed pages for the game cards, vote tokens and worksheets, about 15 pages",
+   "kind": "material",
+   "why": "The card game uses 24 two-sided cards and nine printed vote tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the card game."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # See-through and opaque: how we see clear things, and what really stops light
 `sci.light.transparent-opaque.L4`
 
-**Summary.** A clear glass marble almost vanishes in honey. Why, and why does a heap of clear sugar crystals look white? In this unit you will hide a clear thing, find a hidden marble three ways, and use two see-through filters to make darkness.
+**Summary.** A clear glass marble almost vanishes in honey. Why, and why does a heap of clear sugar crystals look white? In this lesson you will hide a clear thing, find a hidden marble three ways, and use two see-through filters to make darkness.
 
-**Intro.** *Put a clear glass marble in a jar of honey, and it almost vanishes. Take it out and it is easy to see again. The marble did not change, and neither did the honey. So what were you looking at when you saw the marble in the air?* A window is see-through, but we are very good at noticing when there is one, because we see the frame, the dust and the glints on the glass. In this unit you find out why we can see clear things at all, and what happens to every bit of light that falls on something. You will make a clear thing vanish, turn clear crystals white, and make two see-through filters give darkness. You will also meet some waves that go straight through things that stop light completely.
+**Intro.** *Put a clear glass marble in a jar of honey, and it almost vanishes. Take it out and it is easy to see again. The marble did not change, and neither did the honey. So what were you looking at when you saw the marble in the air?* A window is see-through, but we are very good at noticing when there is one, because we see the frame, the dust and the glints on the glass. In this lesson you find out why we can see clear things at all, and what happens to every bit of light that falls on something. You will make a clear thing vanish, turn clear crystals white, and make two see-through filters give darkness. You will also meet some waves that go straight through things that stop light completely.
 
 ## Learning outcomes
 0. I can explain that we see a clear thing only where light bends or bounces at its edges, and use this to explain why a clear marble almost vanishes in honey.
@@ -739,6 +739,13 @@ Follow the Light (sci.light.L4): Topic-level song
 - [A polarising film sheet, or a cheap pair of polarising sunglasses](https://www.amazon.in/s?k=polarizing+film+sheet+linear) (tool): For Two Gates for Light and the Tape Stained Glass project. Some sunglasses are already polarising, but many cheap ones are not, so test them against a screen first. A small sheet of film costs about Rs 100 to 200 and is the sure choice. This is the one item that may cost more than the Rs 100 for the whole unit, and one set can serve both activities. Used in e2, p1. 
 - [Rock sugar candy (kalkandu or mishri)](https://www.amazon.in/s?k=kalkandu+rock+sugar+candy) (material): For Clear Candy, White Powder. It is sold in grocery shops across India, and a small pack is enough. Used in a1. 
 - [A roll of clear, shiny sticky tape](https://www.amazon.in/s?k=transparent+cello+tape+roll) (material): For the Tape Stained Glass project. Most homes already have a roll. Matt or frosted tape does not work as well. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Tape Stained Glass: colours from clear tape. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Tape Stained Glass: colours from clear tape.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in Find the Marble: three ways to catch a hidden clear thing, Tape Stained Glass: colours from clear tape. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in a3, p1. Get it before Find the Marble: three ways to catch a hidden clear thing.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Ten Light Balls: act out the four fates. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Ten Light Balls: act out the four fates.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Ten Light Balls: act out the four fates. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a2. Get it before Ten Light Balls: act out the four fates.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Vanish the Marble: make a liquid that hides it best. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Vanish the Marble: make a liquid that hides it best.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Tape Stained Glass: colours from clear tape. About ₹5 to ₹20. Cut card from a cereal box. Used in p1. Get it before Tape Stained Glass: colours from clear tape.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the four things that can happen to light when it meets a material? → It can bounce back, be soaked up, be scattered, or pass on.
@@ -758,8 +765,8 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Light, seeing and shadows: the activity to shine a flashlight through different coloured plastics to see absorption, used in the four fates of light and the polarising lens tests
-- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of transparent, translucent and opaque materials, which this unit extends to measuring the share of light, matching liquids and polarisation
-- The Class 3 and Class 2 units on transparent, translucent and opaque materials, which this unit builds on: the idea that a material can be sorted by how much light it lets through, now taken on to what we actually see when we see a clear thing
+- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of transparent, translucent and opaque materials, which this lesson extends to measuring the share of light, matching liquids and polarisation
+- The Class 3 and Class 2 units on transparent, translucent and opaque materials, which this lesson builds on: the idea that a material can be sorted by how much light it lets through, now taken on to what we actually see when we see a clear thing
 - Wilhelm Röntgen, Über eine neue Art von Strahlen (On a new kind of rays), Würzburg, December 1895
 - Étienne-Louis Malus, on the polarisation of light by reflection, 1808 to 1809
 - Marie Dacke, Dan-Eric Nilsson, Clarke Scholtz, Marcus Byrne and Eric Warrant, Insect orientation to polarized moonlight, Nature, 2003

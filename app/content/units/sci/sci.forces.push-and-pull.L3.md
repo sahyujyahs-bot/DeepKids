@@ -1,7 +1,7 @@
 # Pushes and pulls: what a force is and which way it acts
 `sci.forces.push-and-pull.L3`
 
-**Summary.** When you push a wall, the wall pushes you back just as hard. How can a wall push? In this unit you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.
+**Summary.** When you push a wall, the wall pushes you back just as hard. How can a wall push? In this lesson you will test it, launch a balloon rocket, play a tug-of-war card game with force arrows, and draw six everyday forces as arrows.
 
 **Intro.** *Try this. Stand facing a wall, about one step away. Put both palms on the wall and push. Did the wall move? You can feel something pressing back on your palms. What is it?* In a tug of war, everyone watches the rope. Each team pulls as hard as it can. One team slides forward and loses. Most people say the winners pulled harder on the rope. But the rope is one rope. Can it pull one end harder than the other? By the end of these lessons, you will be able to answer that. You will also know what decides which team wins.
 
@@ -187,7 +187,7 @@ We have been learning that every push and pull is a force, and that forces come 
 Every force comes in a pair, acting on two different things. When you walk, you push the floor back, and the floor pushes you forward. Even the whole Earth moves back a tiny bit under your feet. This shows that no movement belongs to one thing alone: each step is shared between you and the ground. Science measures the sharing exactly, as two equal and opposite pushes.
 
 - **Empedocles, fragment DK B17:** “δίπλ’ ἐρέω· τοτὲ μὲν γὰρ ἕν ηὐξήθη μόνον εἶναι / ἐκ πλεόνων, τοτὲ δ’ αὖ διέφυ πλέον’ ἐξ ἑνὸς εἶναι / Νεῖκος τ’ οὐλόμενον δίχα τῶν, ἀτάλαντον ἁπάντηι, / καὶ Φιλότης ἐν τοῖσιν, ἴση μῆκός τε πλάτος τε·” Empedocles, a Greek thinker about 2,450 years ago, said two powers move everything. Love brings things together. Strife drives them apart. (Physics also finds that forces either attract, pulling things together, or repel, pushing them apart. Electrons repelling electrons is what makes every touching push.)
-- **Bhagavad Gita 3.27:** “प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। / अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।” All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.' (The Gita is talking about who does our actions, not about physics. But this unit finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.)
+- **Bhagavad Gita 3.27:** “प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। / अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।” All actions are done by the powers of nature. Only someone confused by pride thinks, 'I am the doer.' (The Gita is talking about who does our actions, not about physics. But this lesson finds something close. In the Push the Wall experiment, you could not slide away from the wall by yourself. You moved only because the wall pushed back.)
 - **Marcus Aurelius, Meditations 4.40:** “Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν / καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια” Think of the universe as one living being. All things in it act together and help cause everything that happens. (Every force is between two things, and everything pulls everything with gravity. No force ever acts on one thing only.)
 - Science (settled): Every touching push you feel is the electrons in your hand and in the wall pushing each other away.
 - Science (open): Scientists can measure every force very well. But what a force really is, deep down, is still argued about.
@@ -743,7 +743,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 14. (write) Tipu Sultan ruled Mysore, in south India, over 200 years ago. His army used rockets with iron cases. Explain how a rocket is pushed forwards. Use the words push and backwards.  
    **Answer:** The rocket pushes hot gas out backwards, very fast. The gas pushes the rocket forwards, just as hard.. *Why:* A strong answer names the force pair: the rocket's push on the gas, and the gas's push on the rocket. It does not need air to push against.
 15. (perspective) In a tug of war, why does one team win? Three people give their answers.  
-   **Answer:** Anjali is right about the rope: it pulls both ends equally, so stronger arms alone do not win. Her mother has a real point too: a heavier team presses down harder, so their feet grip the ground better and can push harder. The captain is right that strong arms help hold on.. *Why:* A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this unit's story, The Rope That Could Only Pull.
+   **Answer:** Anjali is right about the rope: it pulls both ends equally, so stronger arms alone do not win. Her mother has a real point too: a heavier team presses down harder, so their feet grip the ground better and can push harder. The captain is right that strong arms help hold on.. *Why:* A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this lesson's story, The Rope That Could Only Pull.
 16. (draw) Draw a girl pushing a swing. Draw an arrow for her push on the swing. Then draw an arrow for the swing's push back on her.  
    **Answer:** One arrow starts on the swing and points away from the girl. A second arrow, the same length, starts on the girl and points the opposite way, away from the swing.. *Why:* A strong drawing shows the two forces of a pair as the same size, pointing opposite ways, and acting on different things.
 ### Pushes, Pulls and the Universe (challenge) (challenge, 15 questions)
@@ -844,12 +844,12 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - Video game designers use force arrows, called vectors, to make characters and balls move the way real things do.
 
 ## Spotted around us
-- A dabbawala pushing a handcart of tiffin boxes through a Mumbai street.
-- A bullock cart in a village, or a hand-pulled rickshaw in Kolkata, pulled along by an animal or a person.
+- A dabbawala pushing a handcart of tiffin boxes through a street.
+- A bullock cart in a village, or a hand-pulled rickshaw, pulled along by an animal or a person.
 - Drawing water from a well, the rope pulling the bucket up.
-- A tug of war at a school sports day, or vadamvali at Onam in Kerala.
-- Kites on Makar Sankranti in Gujarat, each string pulling its kite towards a rooftop.
-- A woman poling a boat on the Kerala backwaters, pushing against the river bed.
+- A tug of war at a school sports day, or vadamvali at Onam.
+- Kites on Makar Sankranti, each string pulling its kite towards a rooftop.
+- A woman poling a boat on a river or a canal, pushing against the bed.
 - A peepal tree growing out of an old wall, the tree's roots pushing the bricks apart.
 - The weather map on the news, with arrows showing the monsoon wind.
 - A temple bell, pulled by its rope or pushed by a hand.
@@ -888,7 +888,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - In the Arrow Wars game, you played arrows of 3 and 2. Your friend played arrows of 4 and 4. Which way does the rope move, and by how many squares? **Towards your friend, by 3 squares.**. Your total is 3 + 2 = 5. Your friend's total is 4 + 4 = 8. The pulls point opposite ways, so take the smaller from the bigger. 8 take away 5 is 3. Your friend's pull is bigger, so the rope moves 3 squares towards your friend. (queues `math.addition-subtraction.word-problems.L3`)
 - In the Push the Wall experiment, these were the three tries for a hard push: 90 cm, 110 cm and 100 cm. What is the middle value? **100 cm.**. Put the three numbers in order: 90, 100, 110. The middle one is 100. So the middle value is 100 cm. We use the middle value because one try can be a fluke. (queues `math.number-sense.comparing-ordering.L3`)
 - The balloon rocket went 90 cm with 3 breaths, 200 cm with 6 breaths and 300 cm with 9 breaths. Look at the chart. How much further did it go with 9 breaths than with 3 breaths? **210 cm further.**. 300 take away 90 is 210. So with 9 breaths, the balloon went 210 cm further than with 3 breaths. That is 2 metres and 10 centimetres. (queues `math.data.bar-charts.L3`)
-- In Arrow Spotting, suppose you draw 1 centimetre of arrow for each unit of force. A push of 6 units and a push of 2 units act the same way on a cart. How long should the arrow for the total push be? **8 centimetres.**. The pushes point the same way, so they add up. 6 + 2 = 8 units. At 1 centimetre for each unit, the arrow is 8 centimetres long. Measure it with a ruler, starting from zero. (queues `math.length.standard-units-length.L3`)
+- In Arrow Spotting, suppose you draw 1 centimetre of arrow for each lesson of force. A push of 6 units and a push of 2 units act the same way on a cart. How long should the arrow for the total push be? **8 centimetres.**. The pushes point the same way, so they add up. 6 + 2 = 8 units. At 1 centimetre for each lesson, the arrow is 8 centimetres long. Measure it with a ruler, starting from zero. (queues `math.length.standard-units-length.L3`)
 - In the Blow the Ball experiment, you blow from the bottom edge of the tray, and the ball rolls up. Then you move round a quarter turn and blow from the left edge. Which way does the ball roll now? **To the right.**. Blowing from the bottom pushes the ball up. Moving a quarter turn round to the left edge turns the push a quarter turn too, which is a right angle. A push from the left edge points to the right. (queues `math.lines-angles.angles.L3`)
 - In the Gentle Tug of War, a child pulls with 4 units and a grown-up pulls the other way with 9 units. How much more pull does the child's side need to make the forces balanced? **5 more units.**. Balanced means both sides pull equally. The grown-up pulls 9. The child pulls 4. 4 + ? = 9. The missing number is 5, because 9 take away 4 is 5. So the child's side needs 5 more units, perhaps from a friend. (queues `math.algebra.balance-and-missing-numbers.L3`)
 
@@ -911,6 +911,12 @@ Push, Pull, Hold On (sci.forces.L3):
 - [Paper drinking straws](https://www.amazon.in/s?k=paper+straws) (material): Used for the balloon rocket track, blowing the ball and the balloon car. Used in e2, e3, p1. 
 - [Ping-pong balls](https://www.amazon.in/s?k=table+tennis+balls) (material): Light balls that are easy to push with your breath, for Blow the Ball and Move It Without Touching. Used in e3, c1. 
 - [A bar magnet for children](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Shows a pull from far away. Used in a4, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bending Ruler: forces when nothing moves, Forces From Far Away, Muscles Only Pull: build a cardboard arm. About ₹10 to ₹30. Any school ruler is fine. Used in a3, a4, a5. Get it before The Bending Ruler: forces when nothing moves.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Push the Wall: does the wall push back?, Muscles Only Pull: build a cardboard arm, Build a Balloon-Powered Car. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, a5, p1. Get it before Push the Wall: does the wall push back?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Forces From Far Away. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a4. Get it before Forces From Far Away.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Push and Pull Hunt, and the Mystery Bag, Build a Balloon-Powered Car. About ₹100 to ₹200. A marble or a round torch cell works. Used in a1, p1. Get it before Push and Pull Hunt, and the Mystery Bag.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Push the Wall: does the wall push back?, The Marble Bend. About ₹10 to ₹40. Small round stones or dried chana. Used in e1, c2. Get it before Push the Wall: does the wall push back?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is opening a drawer a push or a pull? → A pull.

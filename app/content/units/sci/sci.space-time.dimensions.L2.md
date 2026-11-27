@@ -1,9 +1,9 @@
 # Flat and solid: 2D and 3D shapes, and a flat creature's world
 `sci.space-time.dimensions.L2`
 
-**Summary.** Cut a round potato straight across and the cut side is a flat circle. So what is hiding inside a solid shape? In this unit you will slice solids and trace the flat shapes inside, hunt for flat and solid things at home, and open a box out into a flat net and fold it back.
+**Summary.** Cut a round potato straight across and the cut side is a flat circle. So what is hiding inside a solid shape? In this lesson you will slice solids and trace the flat shapes inside, hunt for flat and solid things at home, and open a box out into a flat net and fold it back.
 
-**Intro.** *Look at a round potato. If a grown-up cuts it straight across, what shape will the cut side be? Will every slice be the same size?* A potato is solid. You can hold it, turn it and look at it from all sides. But the cut side of a slice is flat, like a drawing. In this unit you hunt for flat and solid things at home. You slice vegetables and trace the flat shapes hidden inside them. You look along a table with your eye level with it, the way a flat creature would see. You open a box out flat, and fold it back into a solid.
+**Intro.** *Look at a round potato. If a grown-up cuts it straight across, what shape will the cut side be? Will every slice be the same size?* A potato is solid. You can hold it, turn it and look at it from all sides. But the cut side of a slice is flat, like a drawing. In this lesson you hunt for flat and solid things at home. You slice vegetables and trace the flat shapes hidden inside them. You look along a table with your eye level with it, the way a flat creature would see. You open a box out flat, and fold it back into a solid.
 
 ## Learning outcomes
 0. By the end I can tell a flat (2D) shape from a solid (3D) shape, and say that a solid has length, width and height.
@@ -386,7 +386,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 ## Worksheets
 ### Flat and Solid (core) (core, 10 questions)
 1. (match) Draw a line from each word to what it means.  
-   **Answer:** Flat shape → has length and width, but no height; Solid shape → has length, width and height; Face → a flat side of a solid; Net → a flat shape that folds up into a solid. *Why:* These are the four words the child needs most in this unit. A solid has one more direction than a flat shape: height.
+   **Answer:** Flat shape → has length and width, but no height; Solid shape → has length, width and height; Face → a flat side of a solid; Net → a flat shape that folds up into a solid. *Why:* These are the four words the child needs most in this lesson. A solid has one more direction than a flat shape: height.
 2. (sort) Sort these into 'flat shape' and 'solid shape'.  
    **Answer:** a circle drawn on a slate → Flat shape; a ladoo → Solid shape; a square drawn in chalk → Flat shape; a steel tumbler → Solid shape; a triangle in a kolam → Flat shape; a matchbox → Solid shape. *Why:* Drawn shapes have only length and width. The ladoo, the tumbler and the matchbox have height too, so they are solids.
 3. (mcq) In the slice and trace test, what shape was the cut side of a cucumber slice?  
@@ -503,11 +503,11 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 - Alicia Boole Stott never went to university. She taught herself to picture shapes with four directions, and built card models of their solid slices.
 
 ## Spotted around us
-- A kolam or rangoli at a doorway in Chennai, Pune or Kolkata is made of flat shapes: dots, lines, circles and triangles.
-- A round biscuit tin in Kochi or Lucknow is a cylinder. Its top and bottom are flat circles, and its side is curved.
+- A kolam or rangoli at a doorway is made of flat shapes: dots, lines, circles and triangles.
+- A round biscuit tin is a cylinder. Its top and bottom are flat circles, and its side is curved.
 - On a carrom board, the board is a flat square and every coin is a very short cylinder.
-- A cut onion in a kitchen in Hyderabad or Guwahati shows rings: flat circles inside circles.
-- A temple gopuram in Madurai or Thanjavur is a solid built in layers, each layer a little smaller than the one below.
+- A cut onion in a kitchen shows rings: flat circles inside circles.
+- A temple gopuram is a solid built in layers, each layer a little smaller than the one below.
 
 ## Open questions
 - **Are there more than three directions in space?** Some physicists think there could be extra directions, curled up too small to notice. Nobody has found any in an experiment. Many scientists think there are just three.
@@ -547,11 +547,14 @@ Room Between (sci.space-time.L2): Topic-level song for Space, time and dimension
 - [Animated polyhedron models](https://www.mathsisfun.com/geometry/polyhedron-models.html) · interactive: Spin solid shapes such as the cube and see all their faces and edges.
 - [GeoGebra 3D](https://www.geogebra.org/3d) · simulation: For the grown-up: draw a cube or a sphere and turn it round in three directions.
 - [Flatland, by Edwin Abbott Abbott (1884), free to read](https://www.gutenberg.org/ebooks/201) · interactive: The old story of a flat square who meets a sphere. For the grown-up to read, and to tell parts to the child in their own words.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Hands-on science galleries for families.
-- [Science City]() · place · Kolkata: A large science centre with hands-on exhibits.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: Science galleries and a planetarium.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Hands-on science galleries for families.
+- Science City · place · Kolkata: A large science centre with hands-on exhibits.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: Science galleries and a planetarium.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Flat Eyes: can a flat creature tell a circle from a square?, Flat or Solid Hunt: what has height?, Stack It Up: from flat to solid. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, a3, c1. Get it before Flat Eyes: can a flat creature tell a circle from a square?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Stack It Up: from flat to solid. About ₹5 to ₹20. Cut card from a cereal box. Used in a3. Get it before Stack It Up: from flat to solid.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many directions does a flat shape have? → Two: length and width.

@@ -1,9 +1,9 @@
 # Sleep: why we need it, and how a bedtime routine helps
 `sci.health.sleep.L2`
 
-**Summary.** Learn eight picture pairs at bedtime, and most are still in your head in the morning. Is that the sleep? In this unit you will test your memory across a night and across a day, sort bedtime habits in a game, and make your own bedtime routine.
+**Summary.** Learn eight picture pairs at bedtime, and most are still in your head in the morning. Is that the sleep? In this lesson you will test your memory across a night and across a day, sort bedtime habits in a game, and make your own bedtime routine.
 
-**Intro.** *Think about last night. You lay down and closed your eyes. The next thing you knew, it was morning. What was your body doing all that time?* Most children say 'nothing'. But a sleeping body is busy. In this unit we test what happens to things you learn when you sleep on them. We find out which animals sleep, and how. We also learn why we need sleep at all, and how a bedtime routine helps you fall asleep.
+**Intro.** *Think about last night. You lay down and closed your eyes. The next thing you knew, it was morning. What was your body doing all that time?* Most children say 'nothing'. But a sleeping body is busy. In this lesson we test what happens to things you learn when you sleep on them. We find out which animals sleep, and how. We also learn why we need sleep at all, and how a bedtime routine helps you fall asleep.
 
 ## Learning outcomes
 0. By the end I can say three things sleep does: it helps my body grow, it helps my body mend and fight germs, and it helps me keep what I learned.
@@ -473,9 +473,9 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - Many schools think about start times, because children who sleep enough learn better.
 
 ## Spotted around us
-- Crows flying in long lines to big trees at dusk, over Chennai, Kolkata, Bengaluru and Mumbai.
+- Crows flying in long lines to big trees at dusk.
 - Fruit bats hanging upside down in big trees by day, in parks and campuses in many Indian cities.
-- People taking an afternoon nap after lunch in summer, from Kerala to Gujarat.
+- People taking an afternoon nap after lunch in summer.
 - Night trains full of sleeping passengers on their berths, with the blue night light on.
 - Touch-me-not plants, and tamarind and rain trees, folding their leaves in the evening.
 
@@ -514,10 +514,13 @@ Lights Down, Moon Up (sci.health.L2): Topic-level song for Health and well-being
 - [Sleep and tiredness, from the NHS](https://www.nhs.uk/live-well/sleep-and-tiredness/) · interactive: For the parent: plain advice on sleep and tiredness from the UK health service.
 - [Why am I so tired? from KidsHealth](https://kidshealth.org/en/kids/not-tired.html) · interactive: For the child, read together: a short page on why kids need sleep and how to get more.
 - [Sleep Foundation: children and sleep](https://www.sleepfoundation.org/children-and-sleep) · interactive: For the parent: sleep hours by age and tips for screens at bedtime.
-- [Nehru Planetarium]() · place · Mumbai, Delhi and Bengaluru: Sit under a night sky show and talk about why our bodies get sleepy when it gets dark.
-- [Guindy National Park]() · place · Chennai: Visit late in the afternoon and watch birds settle into the trees as evening comes.
+- Nehru Planetarium · place · Mumbai, Delhi and Bengaluru: Sit under a night sky show and talk about why our bodies get sleepy when it gets dark.
+- Guindy National Park · place · Chennai: Visit late in the afternoon and watch birds settle into the trees as evening comes.
 
 ## Things to buy
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Dark Room Hunt: find every light at bedtime. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a2. Get it before The Dark Room Hunt: find every light at bedtime.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Ask the Family: who sleeps how long?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Ask the Family: who sleeps how long?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many hours of sleep does a child of 7 need? → About 9 to 12 hours.

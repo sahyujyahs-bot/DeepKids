@@ -1,7 +1,7 @@
 # Weight and mass: what a scale really measures
 `sci.gravity.weight-and-mass.L3`
 
-**Summary.** A bottle of water with holes stops leaking while it falls, even though gravity still pulls on it. Why? In this unit you will weigh things with a forcemeter, weigh a stone in water, hang a forcemeter in a lift, and find out who is really holding you up.
+**Summary.** A bottle of water with holes stops leaking while it falls, even though gravity still pulls on it. Why? In this lesson you will weigh things with a forcemeter, weigh a stone in water, hang a forcemeter in a lift, and find out who is really holding you up.
 
 **Intro.** *Hold a full water bottle on your flat palm and feel it press down. Now let it drop onto a cushion. While it was falling, nothing was holding it up. Was it still heavy?* In 1907, Albert Einstein worked in an office in Bern, a city in Switzerland, checking other people's inventions. One day he had a sudden thought. A person falling freely from a roof would not feel their own weight. Years later, he called it the happiest thought of his life. Why would falling make weight disappear, and is the weight really gone? You will drop a leaking bottle of water to find out.
 
@@ -41,7 +41,7 @@
 ### Weight is the pull of gravity · *defined*
 **Definition:** Weight is the pull of the Earth's gravity on a thing. It is a force, so it is measured in newtons.
 
-Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. How a forcemeter works is explained in the unit on measuring forces. This unit is about what a forcemeter measures.
+Gravity is the force by which everything attracts everything else. The Earth is enormous, so its pull is strong. It pulls on every part of you, all the time, towards its centre. Add up the pull on all of you, and you get your weight. Because the pull is towards the centre, 'down' is not the same direction everywhere. For a child in Brazil, far round the Earth from India, down points a very different way. It still points to the centre of the Earth. How a forcemeter works is explained in the lesson on measuring forces. This lesson is about what a forcemeter measures.
 - e.g. A mango drops from the tree because the Earth pulls the mango.
 - e.g. A heavy school bag pulls down on your shoulders.
 - e.g. A plumb line, a stone on a string, always hangs straight down, towards the centre of the Earth. Builders use one to make walls straight.
@@ -55,7 +55,7 @@ A forcemeter does not measure gravity directly. It measures the pull on its spri
 ### Mass and weight are not the same · *defined*
 **Definition:** Mass is how much matter a thing has. Weight is how hard gravity pulls on that matter. Mass is measured in kilograms. Weight is measured in newtons.
 
-In everyday talk, we say 'this bag weighs 2 kilos'. Shopkeepers say it, and that is fine. But scientists use two different words. The kilograms tell us how much rice is in the bag. That is its mass. The pull of the Earth on that rice is its weight. Take the bag to the Moon. Not a single grain of rice is lost. So the mass is the same. But the Moon pulls much more weakly. So the weight is about one sixth as big. A later card in this unit shows what you would weigh on other planets.
+In everyday talk, we say 'this bag weighs 2 kilos'. Shopkeepers say it, and that is fine. But scientists use two different words. The kilograms tell us how much rice is in the bag. That is its mass. The pull of the Earth on that rice is its weight. Take the bag to the Moon. Not a single grain of rice is lost. So the mass is the same. But the Moon pulls much more weakly. So the weight is about one sixth as big. A later card in this lesson shows what you would weigh on other planets.
 - e.g. A kilogram of cotton and a kilogram of iron have the same mass. On Earth, they also have the same weight. The cotton just takes up much more space.
 - e.g. An astronaut's mass is the same on the Moon. Her weight there is about one sixth of her weight on Earth.
 - e.g. If you eat a big lunch, your mass goes up a little, by the mass of the lunch.
@@ -97,7 +97,7 @@ Hold a forcemeter with a weight hanging from it, then drop the whole thing onto 
 ### Astronauts float, but gravity is still there · *defined*
 **Definition:** Astronauts float in the International Space Station because they and the station are falling together, all the time. Gravity up there is still about 90 out of every 100 parts as strong as on the ground.
 
-The International Space Station flies about 400 kilometres above the Earth. That is about as far as driving from Chennai to Bengaluru, but straight up. The Earth's gravity there is only a little weaker than on the ground. So why do astronauts float? Because the station is falling. It also moves sideways incredibly fast, about 7.7 kilometres every second. As it falls, the round Earth curves away below it. So it keeps falling, and keeps missing. It goes round the Earth about 15 times every day. Everything inside falls together. Nothing pushes on the astronauts, so they feel weightless. The next unit, on orbits, explains this falling round and missing.
+The International Space Station flies about 400 kilometres above the Earth. That is about as far as driving from Chennai to Bengaluru, but straight up. The Earth's gravity there is only a little weaker than on the ground. So why do astronauts float? Because the station is falling. It also moves sideways incredibly fast, about 7.7 kilometres every second. As it falls, the round Earth curves away below it. So it keeps falling, and keeps missing. It goes round the Earth about 15 times every day. Everything inside falls together. Nothing pushes on the astronauts, so they feel weightless. The next lesson, on orbits, explains this falling round and missing.
 - e.g. Kalpana Chawla, from Karnal in Haryana, flew in space in 1997. She became the first woman of Indian origin in space.
 - e.g. Astronauts drink from pouches with straws. Water will not pour out of a glass up there. It floats out in wobbly balls.
 ### Your weight on other worlds · *defined*
@@ -788,7 +788,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** The gravity arrow points from the station to the centre of the Earth. The movement arrow points sideways, along the circle.. *Why:* Gravity pulls the station towards the Earth. Its fast sideways movement means it keeps falling round the Earth and missing.
 
 ## Videos
-- **What Everyone Gets Wrong About Gravity** (Veritasium, 17 min) id `XRr1kaXKBsU`: For the parent, and curious older children. It explains why a falling person feels weightless. It also shows Einstein's idea that the floor's push is what we feel as weight. It links to the three meanings of weight. *Check:* Watch the first 10 minutes. The end goes further than this unit needs.
+- **What Everyone Gets Wrong About Gravity** (Veritasium, 17 min) id `XRr1kaXKBsU`: For the parent, and curious older children. It explains why a falling person feels weightless. It also shows Einstein's idea that the floor's push is what we feel as weight. It links to the three meanings of weight. *Check:* Watch the first 10 minutes. The end goes further than this lesson needs.
 - **A tour of the International Space Station, with Sunita Williams** (NASA, 25 min) id `doN4t5NKW-k`: Shows astronauts floating, drinking from pouches, sleeping strapped to walls and exercising on the treadmill with stretchy cords. Watch any 5 to 10 minutes together. *Check:* Preview it first, and pick the parts that suit your child.
 - **Bathroom scales on the elevator** (KoonPhysics, 3 min) id `yvCdVO3dysQ`: Shows a scale's reading going up as a lift starts and down as it slows, the same as the forcemeter in the lift experiment. *Check:* Short enough to watch twice.
 
@@ -917,10 +917,15 @@ Gravity (sci.gravity.L3): A song about gravity.
 - [Jawaharlal Nehru Planetarium](https://www.taralaya.org) · place · Bengaluru: A planetarium and science centre, founded with the help of the black hole scientist C. V. Vishveshwara.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about forces, weight and space.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on space and engines.
-- [Kalpana Chawla Memorial Planetarium]() · place · Kurukshetra, Haryana: A planetarium named after Kalpana Chawla, who grew up in nearby Karnal and flew in space.
+- Kalpana Chawla Memorial Planetarium · place · Kurukshetra, Haryana: A planetarium named after Kalpana Chawla, who grew up in nearby Karnal and flew in space.
 
 ## Things to buy
 - [Spring forcemeters, a set with 0 to 10 newtons and 0 to 20 newtons](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter weighs things in newtons. You use it to weigh rice, to weigh a stone in water and to weigh a bag in a lift. Look for a school spring balance marked in newtons (N). If yours is marked only in grams or kilograms, it still works: every 100 grams on its scale is about 1 newton. Used in e1, e2, e3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Weigh It in Space, The Coin Raft. About ₹10 to ₹30. Any school ruler is fine. Used in c1, c2. Get it before Weigh It in Space.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Root That Knows Which Way Is Down. About ₹20 to ₹50. Torn clean cloth works. Used in p1. Get it before The Root That Knows Which Way Is Down.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Root That Knows Which Way Is Down, The Coin Raft. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1, c2. Get it before The Root That Knows Which Way Is Down.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in How hard does a kilogram pull?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e1. Get it before How hard does a kilogram pull?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Weight is the pull of ____ on a thing. → gravity

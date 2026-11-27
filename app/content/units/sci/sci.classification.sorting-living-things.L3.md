@@ -1,9 +1,9 @@
 # Sorting living things: many good ways, and one that finds relatives
 `sci.classification.sorting-living-things.L3`
 
-**Summary.** A cook, a farmer and a scientist may sort the same plants in different ways. Which way is right? In this unit you will sort vegetables by clues, find the mint family by its square stems, and play a game of kitchen families.
+**Summary.** A cook, a farmer and a scientist may sort the same plants in different ways. Which way is right? In this lesson you will sort vegetables by clues, find the mint family by its square stems, and play a game of kitchen families.
 
-**Intro.** *Put a green chilli, a cucumber and a tomato on a plate. Which two belong together? Most people say the chilli and the cucumber, because both are green. Now look at the tops. The chilli and the tomato both wear a small green cap. The cucumber does not. Which two really belong together?* Both answers are good sorts. Colour is a fine way to sort if you are making a green salad. But the caps are a clue to something else. Tomato and chilli plants are relatives, and the cucumber plant comes from a different family. In this unit you sort living things, people included, in many ways. Then you find out how to sort them by who is related to whom, using clues you can see and feel.
+**Intro.** *Put a green chilli, a cucumber and a tomato on a plate. Which two belong together? Most people say the chilli and the cucumber, because both are green. Now look at the tops. The chilli and the tomato both wear a small green cap. The cucumber does not. Which two really belong together?* Both answers are good sorts. Colour is a fine way to sort if you are making a green salad. But the caps are a clue to something else. Tomato and chilli plants are relatives, and the cucumber plant comes from a different family. In this lesson you sort living things, people included, in many ways. Then you find out how to sort them by who is related to whom, using clues you can see and feel.
 
 ## Learning outcomes
 0. I can sort the same living things in more than one way, and say the rule I used for each sort.
@@ -739,12 +739,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - A vegetable seller's baskets: greens in one, gourds in another, onions and potatoes in a third.
 - The green cap on every brinjal, tomato and chilli in your kitchen.
 - A tulsi plant in a pot, with their square stem and their leaves in pairs.
-- Bamboo clumps in Assam or Kerala. Bamboo is a giant grass, like rice and sugarcane.
-- Bonnet macaques near temples in South India: primates, like you.
+- Bamboo clumps. Bamboo is a giant grass, like rice and sugarcane.
+- Monkeys near a temple: primates, like you.
 - Bunches of bananas and banana leaves at a festival. The banana plant is a giant herb, a relative of ginger and turmeric.
 - Mushrooms in a supermarket packet, sorted on the shelf near the vegetables, though they are not plants.
 - A dal shelf in the kitchen: moong, chana, toor, urad and rajma, all from the bean family.
-- Paddy fields seen from a train in Thanjavur, Kerala or Odisha. Rice is a grass, like the lawn.
+- Paddy fields seen from a train. Rice is a grass, like the lawn.
 
 ## Open questions
 - **How many kinds of living things are there on Earth?** About two million have names. One well-known estimate from 2011 says there may be about 8.7 million kinds of plants, animals and fungi, and there may be far more kinds of bacteria and archaea. Nobody knows.
@@ -801,6 +801,9 @@ Many Ways to Sort, One Family Tree (sci.classification.L3): Topic-level song for
 - [Vegetables for the family test: a tomato, a small brinjal, a green chilli, a cucumber and a capsicum](https://www.bigbasket.com) (material): Most homes have some of these. Buy any that are missing. They are cooked and eaten afterwards. Used in e1, c1. Use them in the day's cooking after the test, for example in a sambar or a salad.
 - [A packet of fresh button or oyster mushrooms with open caps](https://www.bigbasket.com) (material): For the spore print. Sold in most city supermarkets and vegetable shops. Choose caps that have opened, so the gills show. Used in e3. 
 - [A magnifying glass (optional)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see seed shapes and mushroom gills clearly. A phone camera zoomed in also works. Used in e1, e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Same and Different: a table of the people at home. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before Same and Different: a table of the people at home.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Mushroom Prints: does a mushroom make seeds?, The Kitchen Family Tree, Sort It for the Job. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3, a5, c1. Get it before Mushroom Prints: does a mushroom make seeds?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one rule that puts a crow and a bat together. → Can fly.

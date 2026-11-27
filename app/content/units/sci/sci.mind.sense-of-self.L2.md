@@ -1,7 +1,7 @@
 # A sense of self: how your body knows its own touch, voice and likes
 `sci.mind.sense-of-self.L2`
 
-**Summary.** Why can you not tickle yourself? Your brain knows your own touch a moment before it lands. In this unit you will run a fair tickle test, hear your own voice the way others hear it, and play a game about what is you and what is not.
+**Summary.** Why can you not tickle yourself? Your brain knows your own touch a moment before it lands. In this lesson you will run a fair tickle test, hear your own voice the way others hear it, and play a game about what is you and what is not.
 
 **Intro.** *Can you tickle yourself?* Take off one sock. Stroke the bottom of your foot gently with your own finger, five times. Now ask someone at home to do the same, the same way. Which one made you want to laugh? Keep your answer in mind. Soon you will test it properly.
 
@@ -92,7 +92,7 @@ We have tested how your body knows its own touch, voice and likes. Now we ask wh
 
 A baby, a flower and a cricket each tell their own from another's, in their own way. You do it with touch: your brain predicts your own touch and turns it down. Telling 'me' from 'not me' starts in the body, before words.
 
-- **Ramana Maharshi, Nan Yar? (Who am I?), Tiruvannamalai, teachings recorded from about 1902:** Ramana Maharshi, a teacher from Tamil Nadu, asked people to look for the 'I' that notices everything. He said to keep asking 'Who am I?' (In this unit you asked 'who am I?' with tests: whose touch, whose voice, whose likes. Your body already answers part of it, by knowing its own touch.)
+- **Ramana Maharshi, Nan Yar? (Who am I?), Tiruvannamalai, teachings recorded from about 1902:** Ramana Maharshi, a teacher from Tamil Nadu, asked people to look for the 'I' that notices everything. He said to keep asking 'Who am I?' (In this lesson you asked 'who am I?' with tests: whose touch, whose voice, whose likes. Your body already answers part of it, by knowing its own touch.)
 - **The inscription 'Know thyself' at the temple of Apollo at Delphi, as recorded by Plato in Protagoras 343b:** “γνῶθι σαυτόν καὶ μηδὲν ἄγαν” Ancient Greeks carved the words 'Know yourself' at a famous temple. Many thinkers took it as the first step to wisdom. (Knowing yourself turns out to include surprises: your voice sounds different to others, and your mirror face is the other way round from your photo.)
 - Science (settled): Your own touch feels weaker because your brain keeps a copy of the message it sends to your muscles, and uses the copy to predict the touch.
 - Science (debated): Scientists do not agree on whether plants and insects have a sense of self in the way humans do.
@@ -527,11 +527,11 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - Teachers ask children what they feel instead of guessing from their faces.
 
 ## Spotted around us
-- You may see a baby on a train from Chennai turn their head when their mother strokes their cheek.
-- You may hear a cricket singing at night from a pot plant on a balcony in Bengaluru.
+- You may see a baby on a train turn their head when their mother strokes their cheek.
+- You may hear a cricket singing at night from a pot plant on a balcony.
 - You may hear someone say 'Do I really sound like that?' when they listen to a voice message on the family phone.
 - A hibiscus or a jasmine plant on a window sill has flowers with pollen on them.
-- In Kolkata during Durga Puja, children look at themselves in a mirror after putting on new clothes.
+- During Durga Puja, children look at themselves in a mirror after putting on new clothes.
 
 ## Open questions
 - **Is there one place in the brain where 'me' is?** Scientists have not found one 'me' spot. Many think the feeling of 'me' comes from many parts working together. Nobody knows for sure.
@@ -566,9 +566,12 @@ This Is Me (sci.mind.L2): Topic-level song for Mind, brain and memory L2
 ## Links
 - [Tickling (Wikipedia)](https://en.wikipedia.org/wiki/Tickling) · interactive: For the parent: a summary of the research on tickling, including why self-tickling feels weaker.
 - [Rubber hand illusion (Wikipedia)](https://en.wikipedia.org/wiki/Rubber_hand_illusion) · interactive: For the parent: background on the glove hand experiment and why it works for many people.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Hands-on science galleries.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Hands-on science galleries.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Build a Self-Tickle Machine. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before Build a Self-Tickle Machine.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Mirror Me, Photo Me: which one do you like better?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before Mirror Me, Photo Me: which one do you like better?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Can most people tickle themselves? → No. Their own touch tickles much less.

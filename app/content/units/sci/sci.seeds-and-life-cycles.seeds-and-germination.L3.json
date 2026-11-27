@@ -3468,6 +3468,58 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in My Seed Friend: a sprouting diary, Fastest Sprouts. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before My Seed Friend: a sprouting diary."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Five-Cup Test: what wakes a seed?, The Warm Flask: do sprouting seeds breathe?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Five-Cup Test: what wakes a seed?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in The Five-Cup Test: what wakes a seed?, Can Dal Sprout? Whole seeds against split and roasted ones, Seeds for the Moon Base. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e1",
+    "a2",
+    "c2"
+   ],
+   "plan": "Get it before The Five-Cup Test: what wakes a seed?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3613,14 +3665,23 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "A father, Uddalaka, asks his son Shvetaketu to split a banyan seed. 'What do you see?' 'Nothing at all.' The father says: from this finest thing that you cannot see, the great banyan tree grows. That fine essence is in everything. And you are that.",
     "link": "When you split a bean, the baby plant is so small you can hardly see them, yet a whole plant grows from them. Uddalaka used a seed to show that what we cannot see can hold something great. A sprout grows big from a tiny start, fed by what was packed inside them.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति", "स य एषोऽणिमैतदात्म्यमिदं सर्वम्", "तत्सत्यम्", "स आत्मा", "तत्त्वमसि श्वेतकेतो इति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति",
+     "स य एषोऽणिमैतदात्म्यमिदं सर्वम्",
+     "तत्सत्यम्",
+     "स आत्मा",
+     "तत्त्वमसि श्वेतकेतो इति"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Mencius, Book 2A, chapter 2",
     "teaching": "A farmer from the state of Song was worried his young plants were growing too slowly. So he pulled on each one to help them grow. When his son ran to look, the plants had all withered.",
     "link": "You cannot make a seed sprout by pushing them. You can only give them water, warmth and air, and wait. Growing has its own time.",
-    "verse": ["宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：『今日病矣！予助苗長矣！』其子趨而往視之，苗則槁矣！"],
+    "verse": [
+     "宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：『今日病矣！予助苗長矣！』其子趨而往視之，苗則槁矣！"
+    ],
     "verse_lang": "zh"
    }
   ],

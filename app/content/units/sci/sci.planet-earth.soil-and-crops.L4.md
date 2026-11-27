@@ -1,9 +1,9 @@
 # Soil, water and crops: how soil holds water for roots, and why a field of beans feeds the next crop
 `sci.planet-earth.soil-and-crops.L4`
 
-**Summary.** Water climbs up through dry sand and fine soil against gravity, but at very different speeds. Why? In this unit you will feel and squeeze wet soils, time how fast water rises in gravel, sand and fine soil, and test whether a cover of dry leaves keeps soil damp.
+**Summary.** Water climbs up through dry sand and fine soil against gravity, but at very different speeds. Why? In this lesson you will feel and squeeze wet soils, time how fast water rises in gravel, sand and fine soil, and test whether a cover of dry leaves keeps soil damp.
 
-**Intro.** *Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs up the cloth, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?* Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this unit you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.
+**Intro.** *Dip the corner of a dry cloth into a bowl of water and leave it. Slowly the water climbs up the cloth, with nobody pushing it. Soil does the same thing. So why does the top of a bare pot dry out in a day, while the soil under a layer of straw stays damp?* Water can climb through soil because of the tiny gaps between the grains. How high it climbs depends on how small the grains are. In this lesson you measure the climb in gravel, sand and fine soil. You find out what salt does to seeds, and how a cover of leaves saves water. Then you meet the bean plant and the bacteria in her roots, who together pull nitrogen out of the air and leave a field richer than before. You also learn why farmers across India grow a pulse, such as moong, after rice.
 
 ## Learning outcomes
 0. I can explain why sand drains fast, clay holds water and loam does both well, using the size of the grains and the gaps between them.
@@ -159,7 +159,7 @@ The Haber-Bosch process breaks the strong bond in nitrogen gas using high pressu
   Against: In dry regions, a fallow season lets rain water build up in the soil. It also lets weeds be ploughed in and pest cycles break. But a bare fallow is open to erosion, so it works best with a cover of plants or stubble. Where land is scarce, rotation with a pulse is often used in its place.
 
 ## Roots
-In this unit water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.
+In this lesson water climbs through soil, a cover of leaves saves water, and bacteria live in a bean's roots. Now we look at what a bean, a field and a bag of urea show about how living things get their food.
 
 **Deep truth.** Beans do not only take from a field. Tiny bacteria in swellings on their roots pull nitrogen out of the air, and the bean pays them in sugar. So a bean's food is made by two kinds of life working together. That is why a field can end a season richer than it began.  
 *Habit it breaks:* We think of a plant as one being on her own, and of soil as a bank that she empties and a farmer refills. A nodule is part bean and part bacteria, and the giving goes both ways.  
@@ -171,7 +171,7 @@ In this unit water climbs through soil, a cover of leaves saves water, and bacte
 
 The nitrogen in the air, the sugar in a bean leaf, the bacteria in a root and the dal on your plate look like four separate things. They are steps in one chain. Sunlight makes the sugar, the sugar pays the bacteria, the bacteria turn air into protein, and a family eats the protein. Then bodies and roots and leaves return the nitrogen to the soil, and the chain begins again. No step in the chain can do it alone.
 
-- **Bhagavad Gita 3.14:** “अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। / यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।” From food, living beings come into being. From rain, food is born. (The verse follows the chain backwards from the body to the rain. This unit adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.)
+- **Bhagavad Gita 3.14:** “अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। / यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।” From food, living beings come into being. From rain, food is born. (The verse follows the chain backwards from the body to the rain. This lesson adds two more links in the chain: the soil that holds the rain, and the bacteria that put nitrogen into the food.)
 - **Tao Te Ching 78:** “天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。” Nothing in the world is softer or weaker than water, yet nothing is better at wearing down the hard and the strong. (Water is soft, yet it climbs through a cup of fine grains against gravity, and it dissolves the salt and the nutrients that roots need.)
 - **Avatamsaka Sutra, the image of Indra's net:** Every jewel in a great net reflects every other jewel, so each one holds all the others. (A nodule is a place where a plant, bacteria, the air and the Sun all meet. The nodule works, and is pink inside, only when all four are there.)
 - Science (settled): Bacteria in the root nodules of legumes change nitrogen gas into ammonia, and the plant pays them with sugar.
@@ -911,6 +911,16 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): For the Water Climb test, so the wet line is easy to see. Blue ink also works. Used in e1. 
 - [A digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Optional for the Cover or Bare test, to weigh the cups each day. The test works without one. Used in e3. 
 - [Half a red cabbage (about Rs 30 to 60)](https://www.amazon.in/s?k=red+cabbage) (material): For the Cabbage Water Test. Sold in bigger vegetable shops and supermarkets, not every kirana. No red cabbage? Turmeric in water also changes colour with baking soda. Used in a6. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant). About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant).
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Water Climb: how fast does water rise in gravel, sand and fine soil?, Cover or Bare: does a cover of dry leaves keep the soil damp?, Squeeze and Ribbon: how does each soil feel when wet?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a1, a5, p1, c1. Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Cabbage Water Test: is the soil acid or alkaline?. About ₹20 to ₹40. Check the kitchen first. Used in a6. Get it before Cabbage Water Test: is the soil acid or alkaline?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Cabbage Water Test: is the soil acid or alkaline?. About ₹40 to ₹80. Lemon juice works for many tests. Used in a6. Get it before Cabbage Water Test: is the soil acid or alkaline?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Water Climb: how fast does water rise in gravel, sand and fine soil?, Squeeze and Ribbon: how does each soil feel when wet?, Crack Maker: why does clay crack when it dries?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1, a1, a5, p1. Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Salty Seeds: how much salt stops moong from sprouting?, Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant), Bean Before Methi: does a pot that grew moong feed the next crop?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a3, p1, c2. Get it before Salty Seeds: how much salt stops moong from sprouting?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Salty Seeds: how much salt stops moong from sprouting?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before Salty Seeds: how much salt stops moong from sprouting?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Salty Seeds: how much salt stops moong from sprouting?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Salty Seeds: how much salt stops moong from sprouting?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Water Climb: how fast does water rise in gravel, sand and fine soil?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three sizes of grains in soil? → Sand, silt and clay.
@@ -932,7 +942,7 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 ## Sources
 - ideas/by_topic/rocks-and-soil.md: the founder's notes on soil, used for the soil texture and mulch activities
 - ideas/by_topic/planet-earth.md: the experiment row on comparing soil samples from different places, used for the texture and water tests
-- The Level 3 unit on soil, which this unit builds on: the idea that soil is a mix of rock grains, humus, air and water, now followed to how soil holds water and nutrients
+- The Level 3 unit on soil, which this lesson builds on: the idea that soil is a mix of rock grains, humus, air and water, now followed to how soil holds water and nutrients
 - Hellriegel and Wilfarth, work on the nitrogen nutrition of grasses and legumes, announced 1886 and published 1888
 - Beijerinck, 'Die Bacterien der Papilionaceenknöllchen', Botanische Zeitung, 1888 (the bacteria from root nodules)
 - Kiers, Rousseau, West and Denison, 'Host sanctions and the legume-rhizobium mutualism', Nature 425, 2003

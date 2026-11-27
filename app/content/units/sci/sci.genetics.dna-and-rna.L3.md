@@ -1,9 +1,9 @@
 # DNA and RNA: the instructions inside every living thing
 `sci.genetics.dna-and-rna.L3`
 
-**Summary.** Moong, methi and mustard seeds on the same wet cotton each grow their own kind of leaf. Where does the leaf shape come from? In this unit you will grow the three seeds side by side, crack a four-letter code, and copy a recipe the way a cell copies DNA into RNA.
+**Summary.** Moong, methi and mustard seeds on the same wet cotton each grow their own kind of leaf. Where does the leaf shape come from? In this lesson you will grow the three seeds side by side, crack a four-letter code, and copy a recipe the way a cell copies DNA into RNA.
 
-**Intro.** *Take three seeds from the kitchen: a moong bean, a methi seed and a mustard seed. Put them on the same wet cotton, by the same window, with the same water. Will they grow into the same kind of plant? If not, where does each plant's shape come from?* The cotton, water and light give a seedling the materials and energy to grow. But they give every seed the same things. So the difference must be inside each seed. In this unit you grow the seeds and see. Then you find out what is inside: a set of instructions called DNA. Every cell of every living thing carries them, including every cell of you.
+**Intro.** *Take three seeds from the kitchen: a moong bean, a methi seed and a mustard seed. Put them on the same wet cotton, by the same window, with the same water. Will they grow into the same kind of plant? If not, where does each plant's shape come from?* The cotton, water and light give a seedling the materials and energy to grow. But they give every seed the same things. So the difference must be inside each seed. In this lesson you grow the seeds and see. Then you find out what is inside: a set of instructions called DNA. Every cell of every living thing carries them, including every cell of you.
 
 ## Learning outcomes
 0. I can explain that every living thing carries instructions, called DNA, that shape their body.
@@ -622,7 +622,7 @@ Arjun held out his hand and looked at it for a long time.
 - At a family wedding, cousins often share a smile or a nose with an aunt or a grandparent.
 - Most mango varieties, such as Alphonso, Banganapalli and Himsagar, are grown by joining a branch of the chosen tree onto a young tree. A tree grown from a mango seed often gives different fruit.
 - Sprouted moong in a kosambari salad: every sprout was a seed with a full set of moong instructions.
-- At the Centre for Cellular and Molecular Biology in Hyderabad, Lalji Singh's team began DNA fingerprinting in India in the 1980s.
+- A family photo, where children share looks with their parents. DNA fingerprinting is a test that uses DNA to tell people apart.
 - Chew plain cooked rice for a minute. When it starts to taste sweet, a protein in your spit, built from a gene, is turning starch into sugar.
 
 ## Open questions
@@ -666,6 +666,14 @@ Four Letters Make a Life (sci.genetics.L3): Topic-level song for Genes and DNA L
 
 ## Things to buy
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Seed leaves are small. A magnifying glass makes their shapes, and the tiny root hairs, easy to see. Without one, look very closely in bright light. Used in a1, e1, e2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Two Metres in a Speck: how much DNA is in one cell?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a4. Get it before Two Metres in a Speck: how much DNA is in one cell?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Seeds, One Cotton: where does a plant's shape come from?, Big Seed, Small Seed: does a bigger seed grow a bigger seedling?, Two Metres in a Speck: how much DNA is in one cell?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a4, p1. Get it before Three Seeds, One Cotton: where does a plant's shape come from?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Who Gave Me What? A family look-alike hunt. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a5. Get it before Who Gave Me What? A family look-alike hunt.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Three Seeds, One Cotton: where does a plant's shape come from?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before Three Seeds, One Cotton: where does a plant's shape come from?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Three Seeds, One Cotton: where does a plant's shape come from?, Big Seed, Small Seed: does a bigger seed grow a bigger seedling?, Seed Faces: what is hiding in a seed?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, p1. Get it before Three Seeds, One Cotton: where does a plant's shape come from?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Same Letters, New Picture: the four-letter code, Code a Kolam: instructions in four letters. About ₹10 to ₹30. Draw squares on plain paper. Used in a2, c1. Get it before Same Letters, New Picture: the four-letter code.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Three Seeds, One Cotton: where does a plant's shape come from?, Big Seed, Small Seed: does a bigger seed grow a bigger seedling?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, e2. Get it before Three Seeds, One Cotton: where does a plant's shape come from?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What molecule holds a living thing's instructions? → DNA.

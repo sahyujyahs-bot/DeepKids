@@ -993,6 +993,13 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [How a Seed Grows, by Helene J. Jordan (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=How+a+Seed+Grows+Helene+Jordan) (book): A clear picture book in which children grow bean seeds in eggshells and watch them grow. Used in p1. 
 - [Plants Can't Sit Still, by Rebecca E. Hirsch](https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch) (book): A lively picture book showing how plants move by growing: towards light, up sticks and round obstacles. Used in e1. 
 - [Squared or graph paper notebook](https://www.amazon.in/s?k=square+ruled+notebook+kids) (material): Makes drawing bar charts of results much easier. Used in e1, e2, e3, p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Plant Doctor: which need is missing?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before Plant Doctor: which need is missing?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Light for a Dark Corner. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c1. Get it before Light for a Dark Corner.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Light Test: what happens in the dark?, Light for a Dark Corner. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, c1. Get it before The Light Test: what happens in the dark?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Holiday Waterer. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c2. Get it before The Holiday Waterer.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Light Test: what happens in the dark?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Light Test: what happens in the dark?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Holiday Waterer. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in c2. Get it before The Holiday Waterer.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five things a plant needs. → Light, water, air, warmth and minerals.

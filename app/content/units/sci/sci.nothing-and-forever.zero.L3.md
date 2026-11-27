@@ -724,6 +724,13 @@ Nothing and Forever (sci.nothing-and-forever.L3): Topic-level song for Nothing a
 ## Things to buy
 - [Zero Is the Leaves on the Tree, by Betsy Franco (picture book)](https://www.amazon.in/s?k=Zero+Is+the+Leaves+on+the+Tree) (book): Short pictures of zero in everyday life, like an empty swing and a bare tree. Good after the zero hunt. Borrowing works just as well. Used in a1. 
 - [Zero: The Biography of a Dangerous Idea, by Charles Seife (for the parent)](https://www.amazon.in/s?k=Zero+The+Biography+of+a+Dangerous+Idea) (book): The history of zero, from Babylon to India to Europe, told for grown-ups. Read the chapters on India and on dividing by zero before the project. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Where does the ruler start?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before Where does the ruler start?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Where does the ruler start?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Where does the ruler start?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Zero's journey: a map and a timeline. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before Zero's journey: a map and a timeline.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build an abacus that can show 1,005. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Build an abacus that can show 1,005.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Build an abacus that can show 1,005. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c2. Get it before Build an abacus that can show 1,005.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The katori abacus, Brahmagupta's rules with beans. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2, a3. Get it before The katori abacus.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is 7 + 0? → 7.

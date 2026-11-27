@@ -3637,6 +3637,80 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Blue Climb: coloured water up a stem, Leafy or Bare? Which stem drinks more?, Climbing Tea and the Great Straw Test. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a5",
+    "c1"
+   ],
+   "plan": "Get it before The Blue Climb: coloured water up a stem."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Holiday Plant Sitter. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before The Holiday Plant Sitter."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in The Sweating Branch: sun or shade?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Sweating Branch: sun or shade?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Climbing Tea and the Great Straw Test, How High Can You Lift Water?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "a5",
+    "c1"
+   ],
+   "plan": "Get it before Climbing Tea and the Great Straw Test."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Bubbles from a Leaf: find the hidden holes. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before Bubbles from a Leaf: find the hidden holes."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3771,7 +3845,12 @@
     "source": "Chandogya Upanishad 6.10",
     "teaching": "Rivers flow east and west and reach the sea. In the sea, no river can say, 'I am this river.' They are all the sea.",
     "link": "Water vapour from a neem tree and from a mango tree mixes in the same cloud. When it rains, nobody can say which tree each drop came from.",
-    "verse": ["इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः", "ताः समुद्रात्समुद्रमेवापियन्ति", "स समुद्र एव भवति", "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"],
+    "verse": [
+     "इमाः सोम्य नद्यः पुरस्तात्प्राच्यः स्यन्दन्ते पश्चात्प्रतीच्यः",
+     "ताः समुद्रात्समुद्रमेवापियन्ति",
+     "स समुद्र एव भवति",
+     "ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति"
+    ],
     "verse_lang": "sa"
    },
    {

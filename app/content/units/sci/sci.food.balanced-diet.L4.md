@@ -1,9 +1,9 @@
 # One bowl, six tastes: how traditional and festival meals balance a diet
 `sci.food.balanced-diet.L4`
 
-**Summary.** Is there one perfect plate, or one magic food? In this unit you will sort the dishes of a traditional meal into energy-giving, body-building and protective foods, taste-test whether each taste has its own place on the tongue, make a mini pachadi, and sprout moong to see what soaking changes.
+**Summary.** Is there one perfect plate, or one magic food? In this lesson you will sort the dishes of a traditional meal into energy-giving, body-building and protective foods, taste-test whether each taste has its own place on the tongue, make a mini pachadi, and sprout moong to see what soaking changes.
 
-**Intro.** *Look at a spoon of Ugadi pachadi. It holds sweet jaggery, sour tamarind, salt, bitter neem flowers, hot pepper and raw mango. All six are in one spoon. Why would anyone put a bitter flower in a festival dish?* Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this unit you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.
+**Intro.** *Look at a spoon of Ugadi pachadi. It holds sweet jaggery, sour tamarind, salt, bitter neem flowers, hot pepper and raw mango. All six are in one spoon. Why would anyone put a bitter flower in a festival dish?* Many traditional meals look as if someone planned them. A Kerala sadya on a banana leaf can have twenty dishes, and each dish has its own place on the leaf. A Gujarati thali has roti, dal, rice, a vegetable, buttermilk and something sweet. Nobody wrote these meals from a nutrition book. Yet they hold grains, pulses, vegetables and milk, and a mix of tastes. So how does a meal become balanced? And is a tasty meal always a balanced one? In this lesson you test your own tongue, soak and sprout some moong seeds, and plan a festival feast.
 
 ## Learning outcomes
 0. I can explain that a balanced diet is a pattern of many kinds of food over days, not one perfect plate and not one magic food.
@@ -135,7 +135,7 @@ Ask a class to taste a piece of raw karela. Some will say it is very bitter and 
   Against: A balanced diet is about the pattern over weeks. A laddu on Diwali or a payasam on Onam fits into a pattern that is mostly varied whole food. Sharing festival food also has value for a family.
 
 ## Roots
-In this unit we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.
+In this lesson we tested the tongue, sprouted moong seeds and planned festival meals. Now we ask what these tell us about taste, about food, and about where a meal ends and we begin.
 
 **Deep truth.** Your tongue does not measure goodness. It only reports a taste. Sweet once pointed to energy, salty to minerals, sour to ripe fruit, bitter to danger and umami to protein. A sweet drink can give the sweet report with none of the fruit. So wanting a taste is not the same as needing the food.  
 *Habit it breaks:* We say 'it tastes good, so it is good for me', and we say 'I crave it, so my body needs it'. But taste is only a signal made by the food's chemicals. It was a good guide for whole foods, and a food made in a factory can copy the signal without the goodness.  
@@ -710,6 +710,13 @@ Sunlight on My Plate (sci.food.L4): Topic-level song
 - [A pack of cotton buds](https://www.amazon.in/s?k=cotton+buds) (material): For the Blind Taste Test, which needs 20 clean buds, one for each touch. Used in e1. 
 - [A kitchen weighing scale that shows grams](https://www.amazon.in/s?k=kitchen+weighing+scale) (tool): For Wake Up the Moong, to weigh the seeds before and after soaking. It is optional: a measuring cup works, or your kirana shop can weigh the seeds. Used in e2. 
 - [A small packet of ragi flour, or another millet flour](https://www.amazon.in/s?k=ragi+flour) (material): For Millet Hunt, to cook a thin porridge and read the label. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wake Up the Moong: what do soaking and sprouting change in a seed?, Millet Hunt: find, cook and compare. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a4. Get it before Wake Up the Moong: what do soaking and sprouting change in a seed?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Blind Taste Test: does each taste have its own place on the tongue?, Wake Up the Moong: what do soaking and sprouting change in a seed?, Six Tastes in One Bowl: make a mini pachadi. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, a2. Get it before The Blind Taste Test: does each taste have its own place on the tongue?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Wake Up the Moong: what do soaking and sprouting change in a seed?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before Wake Up the Moong: what do soaking and sprouting change in a seed?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Blind Taste Test: does each taste have its own place on the tongue?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Blind Taste Test: does each taste have its own place on the tongue?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Our Family Feast: plan, cook and serve a balanced festival meal. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Our Family Feast: plan, cook and serve a balanced festival meal.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Six Tastes in One Bowl: make a mini pachadi. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Six Tastes in One Bowl: make a mini pachadi.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the six tastes of shad rasa. → Sweet, sour, salty, pungent, bitter and astringent.
@@ -727,11 +734,11 @@ Sunlight on My Plate (sci.food.L4): Topic-level song
 - Core: e1, a1, g1, e2, ws-core
 
 ## Sources
-- Founder's notes in ideas/by_topic/food-and-a-balanced-diet.md: the SCI Card of M. S. Swaminathan, on hunger being a problem of farming and fairness, shaped the card and the big question on why food is not shared equally. The SCI Card of Barry Marshall, on who gets blamed for illness, shaped the care taken in the unit never to blame a child or a family for what they eat
+- Founder's notes in ideas/by_topic/food-and-a-balanced-diet.md: the SCI Card of M. S. Swaminathan, on hunger being a problem of farming and fairness, shaped the card and the big question on why food is not shared equally. The SCI Card of Barry Marshall, on who gets blamed for illness, shaped the care taken in the lesson never to blame a child or a family for what they eat
 - DeepKids Combined Class 4 lesson 'Food for health' (app/content/combined/sci-C4-food-and-a-balanced-diet.json): its food festival project became Our Family Feast, its Kamala Sohonie and Swaminathan voices informed the card on fairness, its millet question informed the card on millets, and its Food Festival Trail game informed Feast Builder. Its story was not reused
 - NCERT Class 4 Chapter 5 'Food for Health' (app/content/ncert/sci-L4-05.json): coverage of shad rasa and the six tastes in the Ugadi pachadi, millets, food groups, the food diary, the balanced plate, a regional thali, and how scientists corrected wrong ideas about taste. Its text is not copied
-- DeepKids unit sci.food.balanced-diet.L3: this unit builds on it. It does not repeat its paper-spot test, vitamin C test, balloon test, thali game or story, and goes on to traditional meals, tastes and festival foods
-- DeepKids unit sci.food.nutrients.L4: this unit shares its topic song, and builds on its idea that foods do jobs. It does not repeat the burning nut, the food label or the Atwater story
+- DeepKids unit sci.food.balanced-diet.L3: this lesson builds on it. It does not repeat its paper-spot test, vitamin C test, balloon test, thali game or story, and goes on to traditional meals, tastes and festival foods
+- DeepKids unit sci.food.nutrients.L4: this lesson shares its topic song, and builds on its idea that foods do jobs. It does not repeat the burning nut, the food label or the Atwater story
 - DeepKids unit sci.microorganisms.helpful-microbes.L4: the card on fermented foods points to it
 - Hänig, D. P., Zur Psychophysik des Geschmackssinnes, Philosophische Studien 17, 1901 (small differences in taste sensitivity across the tongue)
 - Boring, E. G., Sensation and Perception in the History of Experimental Psychology, 1942 (the chart that became the tongue map)

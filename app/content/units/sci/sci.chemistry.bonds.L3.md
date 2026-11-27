@@ -1,9 +1,9 @@
 # Chemical bonds: how atoms hold on to each other
 `sci.chemistry.bonds.L3`
 
-**Summary.** Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this unit you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.
+**Summary.** Boiling water turns it into steam, but it is still water. What can break water into two different gases? In this lesson you will split water with a pencil and a battery, build models of molecules from chana and toothpicks, and play an atom card game.
 
-**Intro.** *Next time someone cooks rice or boils milk, look under the lid. It is covered in drops. Touch one. It is plain water. The water went up as steam and came back as water.* So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this unit you will split water yourself, with a pencil and a battery, and find out what it is made of.
+**Intro.** *Next time someone cooks rice or boils milk, look under the lid. It is covered in drops. Touch one. It is plain water. The water went up as steam and came back as water.* So heating moves water around, but it does not change water into something else. Is water a single, simple stuff that can never be broken? People thought so for over two thousand years. In this lesson you will split water yourself, with a pencil and a battery, and find out what it is made of.
 
 ## Learning outcomes
 0. I can say what a chemical bond is: atoms holding on to each other, using their electrons.
@@ -141,7 +141,7 @@ Atoms of only a few kinds join by bonds into countless different molecules. Ever
 - *big:* Atoms of only about 25 elements make up a human body. How can so few kinds make so many different things? (hint: The English language uses only 26 letters. Yet they can be put together in many ways to make every word. Atoms can be put together in many ways too.)
 
 ## Story: Bubbles That Were Not Steam
-*A made-up story. The water-splitting test in it is the one in this unit.*
+*A made-up story. The water-splitting test in it is the one in this lesson.*
 
 It was the morning of Pongal in Madurai. On the balcony of the flat, Paati had tied fresh turmeric leaves round the neck of the new pot. The milk in it was rising. Kavya, who was ten, held her little brother Arjun back from the stove.
 
@@ -600,7 +600,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 
 ## Videos
 - **How atoms bond - George Zaidan and Charles Morton** (TED-Ed, 4 min) id `NgD9yHSJ29I`: A short cartoon of atoms sharing electrons to make bonds. Good for the parent and older children. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length is approximate.
-- **Materials and assembly: Indicating Electrolysis - Science Snacks activity** (Exploratorium Teacher Institute, 4 min) id `LWwGfQ8fBwA`: Shows how to set up a small water-splitting test, like the one in this unit, with a 9-volt battery. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Its materials differ a little from ours. Length is approximate.
+- **Materials and assembly: Indicating Electrolysis - Science Snacks activity** (Exploratorium Teacher Institute, 4 min) id `LWwGfQ8fBwA`: Shows how to set up a small water-splitting test, like the one in this lesson, with a 9-volt battery. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Its materials differ a little from ours. Length is approximate.
 - **Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22** (CrashCourse, 10 min) id `QXT4OVM4vXI`: For the parent: a fast, detailed tour of the kinds of bond. Too fast for most children. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Length is approximate.
 
 ## Quiz
@@ -699,6 +699,11 @@ Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3
 ## Things to buy
 - [A 9-volt battery with a snap clip that has a red and a black wire](https://www.amazon.in/s?k=9v+battery+with+snap+connector) (material): Needed to split water. A 9-volt battery and a clip are sold cheaply in electrical and hardware shops. The clip saves holding wires by hand. Used in e1, e3, c1. 
 - [A box of toothpicks](https://www.amazon.in/s?k=wooden+toothpicks) (material): For the chana molecule models. Many homes already have them. Broken bamboo skewers work too. Used in a2, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Atom Puzzle Pieces. About ₹10 to ₹30. Any school ruler is fine. Used in c2. Get it before Atom Puzzle Pieces.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Split Water with a Pencil and a Battery, Plain, Sugar or Soda Water: which splits best?, The Faster Bubble Machine. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, e3, c1, c2. Get it before Split Water with a Pencil and a Battery.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Split Water with a Pencil and a Battery. About ₹20 to ₹40. Check the kitchen first. Used in e1. Get it before Split Water with a Pencil and a Battery.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Build Molecules with Chana and Toothpicks, My Molecule Book. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2, p1. Get it before Build Molecules with Chana and Toothpicks.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a group of atoms held together called? → A molecule.

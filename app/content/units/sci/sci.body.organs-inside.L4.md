@@ -1,7 +1,7 @@
 # Heart and lungs on the clock: who sets the pace, and who holds it back?
 `sci.body.organs-inside.L4`
 
-**Summary.** A heart left on its own beats faster than yours does while you sit still. So what holds it back? In this unit you will count your pulse before, during and after exercise, measure how far your chest moves as you breathe, and play a card game about which body jobs you can take over.
+**Summary.** A heart left on its own beats faster than yours does while you sit still. So what holds it back? In this lesson you will count your pulse before, during and after exercise, measure how far your chest moves as you breathe, and play a card game about which body jobs you can take over.
 
 **Intro.** *Put two fingers on your wrist and count the beats for 15 seconds. Now hold your breath for five seconds. Which could you stop if you really wanted to: your heartbeat or your breathing?* You can hold your breath, and you can breathe out slowly or sing a long note. You cannot decide to stop your heart. Yet both organs work all day and all night without you thinking about them. Why can you take over one and not the other? And what is your heart doing while you sit still and do nothing?
 
@@ -156,9 +156,9 @@ We have counted pulses and measured breaths. The heart keeps its own beat, and b
 
 Your heart is made of billions of cells, and each one can beat alone. In the pacemaker, cells that touch fall into one shared rhythm, and the whole heart beats as one. A nerve from the brain then adjusts that single beat, and the lungs next door keep a rhythm that is linked to it. So many cells become one beat, and a nerve from outside the heart steers that one beat. In this way a body is one thing that is made of many parts working together.
 
-- **Katha Upanishad 2.2.5:** “न प्राणेन नापानेन मर्त्यो जीवति कश्चन / इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ” No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend. (In this unit, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something.)
+- **Katha Upanishad 2.2.5:** “न प्राणेन नापानेन मर्त्यो जीवति कश्चन / इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ” No mortal lives by the in-breath or the out-breath alone. They live by something else, on which both of these depend. (In this lesson, the rhythm of breath comes from cells in the brainstem, and both the in-breath and the out-breath depend on them. The old verse also says that something other than the breath itself keeps a being alive. Both breaths depend on that something.)
 - **Bhagavad Gita 4.29:** “अपाने जुह्वति प्राण प्राणेऽपानं तथाऽपरे। / प्राणापानगती रुद्ध्वा प्राणायामपरायणाः।।” Some people offer the in-breath into the out-breath, and the out-breath into the in-breath, and so hold the course of both. This practice is called pranayama. (Breathing is the one automatic job we can steer, and many traditions noticed that long ago. Today, science studies the same practice when it measures how a longer breath out calms the pulse.)
-- **Thich Nhat Hanh, Peace Is Every Step, 1991:** Breathing in, I calm my body. Breathing out, I smile. (A longer breath out is one of the few ways that we can influence the brake on the heart. The tests in this unit let you see for yourself that this can work.)
+- **Thich Nhat Hanh, Peace Is Every Step, 1991:** Breathing in, I calm my body. Breathing out, I smile. (A longer breath out is one of the few ways that we can influence the brake on the heart. The tests in this lesson let you see for yourself that this can work.)
 - Science (settled): Heart cells grown alone in a dish each beat at their own pace. When they touch, they fall into one shared rhythm.
 - Science (open): Nobody knows yet how the thinking part of the brain takes over an automatic rhythm, or what makes a choice feel like your own.
 - Other view, Most neuroscientists, and the old Indian Charvaka school: The pacemaker, the brake and the choice to hold a breath are all signals between cells. There is no separate 'you' outside the body who steers it. The feeling of being the one who chooses is itself something the brain makes. This is an honest view, and many careful people hold it.
@@ -747,6 +747,9 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [A simple sports stopwatch](https://www.amazon.in/s?k=sports+stopwatch) (tool): For counting 15 seconds exactly in the Pulse Timeline test and other counts. A phone stopwatch also works. Used in e1, a1, a2, a3, a4, p1. 
 - [A soft tailor's tape measure](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): For the Chest Tape test. A string and a ruler also work. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Chest Tape: how far does your chest move when you breathe?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Chest Tape: how far does your chest move when you breathe?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Pulse Timeline: how fast does your pulse rise and fall?, A Day in Pulse: two days, two lines. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, p1. Get it before Pulse Timeline: how fast does your pulse rise and fall?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many beats do you count in 15 seconds if your pulse is 80 beats a minute? → 20 beats.

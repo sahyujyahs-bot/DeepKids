@@ -3203,6 +3203,68 @@
     "e1"
    ],
    "plan": "Read the chapters on twins and on nature and nurture yourself, and tell your child what you found."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Sibling Share Test: how much do two children of the same parents share?, The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?, Length or Width? The rectangle argument. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a4"
+   ],
+   "plan": "Get it before The Sibling Share Test: how much do two children of the same parents share?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?, Me in Two Columns: a nature and nurture portrait. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2",
+    "p1"
+   ],
+   "plan": "Get it before The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Two Bulbs, Two Homes Test: which matters more, the bulb or the place?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

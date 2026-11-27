@@ -3265,6 +3265,69 @@
     "e2"
    ],
    "plan": "Read it after Three Clocks. Find the pages that count microbes, and compare them with your own table."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Three Sealed Bags: which microbes spoil which food?, The Lost Food Hunt: how was each food lost?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "e2",
+    "a1"
+   ],
+   "plan": "Get it before Three Sealed Bags: which microbes spoil which food?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Three Clocks: ten bacteria at three temperatures, Tiffin Timeline: how many hours does one meal spend warm?, Five at the Table: who needs extra care?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "a3",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Three Clocks: ten bacteria at three temperatures."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in One Week of Lost Food: measure it, find the causes, change one thing. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before One Week of Lost Food: measure it, find the causes, change one thing."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Three Clocks: ten bacteria at three temperatures. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before Three Clocks: ten bacteria at three temperatures."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3513,7 +3576,10 @@
     "source": "Bhagavad Gita 17.10",
     "teaching": "The verse lists the foods that a dull and heavy mind prefers. One well-known commentary reads the first food on the list as food cooked more than one watch ago. A watch is about three hours.",
     "link": "On that reading, the verse sets a time limit on cooked food. The limit is near the two-hour rule of food safety. The Gita is speaking about the mind and its qualities. It does not speak about microbes, which nobody had seen.",
-    "verse": ["यातयामं गतरसं पूति पर्युषितं च यत्।", "उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।"],
+    "verse": [
+     "यातयामं गतरसं पूति पर्युषितं च यत्।",
+     "उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3525,7 +3591,9 @@
     "source": "Charaka Samhita, Vimana Sthana, chapter 1, the rules for eating",
     "teaching": "Eat food while it is warm, in the right amount, and only after the last meal is digested.",
     "link": "Food that is still warm from the fire has had no time in the danger zone. Charaka gave the rule for good digestion. The link to microbes is ours.",
-    "verse": ["उष्णं स्निग्धं मात्रावत् जीर्णे वीर्याविरुद्धम्"],
+    "verse": [
+     "उष्णं स्निग्धं मात्रावत् जीर्णे वीर्याविरुद्धम्"
+    ],
     "verse_lang": "sa"
    }
   ],

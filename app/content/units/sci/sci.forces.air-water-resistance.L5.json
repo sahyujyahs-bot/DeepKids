@@ -3388,6 +3388,66 @@
     "c1",
     "c2"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Sinking Race: which shape of dough sinks fastest?, A Hole in the Parachute: does a vent change the fall?, The Parachute Trial: design, test and improve a parachute in three days. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e2",
+    "e3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Sinking Race: which shape of dough sinks fastest?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Table or Tub: how small a pull can start a loaded box?, The Sinking Race: which shape of dough sinks fastest?, A Hole in the Parachute: does a vent change the fall?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a4",
+    "p1",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before Table or Tub: how small a pull can start a loaded box?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in A Hole in the Parachute: does a vent change the fall?, Three Bottles: which one gets the biggest upthrust?, The Parachute Trial: design, test and improve a parachute in three days. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e3",
+    "a1",
+    "p1"
+   ],
+   "plan": "Get it before A Hole in the Parachute: does a vent change the fall?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

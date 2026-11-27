@@ -1,9 +1,9 @@
 # Animals with a backbone: five groups and how to tell them apart
 `sci.animals.vertebrate-groups.L2`
 
-**Summary.** A bat flies like a bird, so why is it not a bird? In this unit you will find your own backbone, test with straws how many pieces a backbone needs to bend, and play a game of four animals where one does not fit, using clues to sort five animal groups.
+**Summary.** A bat flies like a bird, so why is it not a bird? In this lesson you will find your own backbone, test with straws how many pieces a backbone needs to bend, and play a game of four animals where one does not fit, using clues to sort five animal groups.
 
-**Intro.** *Ask a grown-up to bend forward. Run your fingers down the middle of their back. You feel a row of hard bumps. Is that one long bone, or many?* The bumps you feel are bones. Together they make the backbone. A fish has a backbone too, and so do a frog, a lizard, a crow and a cow. An ant, a prawn and an earthworm do not have one. In this unit you meet the five groups of animals with a backbone. You learn the clues that tell them apart. And you build a backbone from a straw, to find out how a row of hard bones can bend.
+**Intro.** *Ask a grown-up to bend forward. Run your fingers down the middle of their back. You feel a row of hard bumps. Is that one long bone, or many?* The bumps you feel are bones. Together they make the backbone. A fish has a backbone too, and so do a frog, a lizard, a crow and a cow. An ant, a prawn and an earthworm do not have one. In this lesson you meet the five groups of animals with a backbone. You learn the clues that tell them apart. And you build a backbone from a straw, to find out how a row of hard bones can bend.
 
 ## Learning outcomes
 0. By the end I can find my own backbone and say that it is a chain of many small bones called vertebrae.
@@ -136,7 +136,7 @@ We have learnt that a backbone is a chain of small bones, and that every fish, a
 
 More than 500 million years ago, the first animals with a backbone swam in the sea. Every fish, frog, lizard, bird and mammal alive today comes from them, humans too. The same plan, a chain of small bones, has grown into a snake's coil, a frog's short, stiff back, a giraffe's tall neck and your own bending spine.
 
-- **Samyutta Nikaya 5.10, the Vajira Sutta:** “Yathā hi aṅgasambhārā, / hoti saddo ratho iti; / Evaṁ khandhesu santesu, / hoti sattoti sammuti.” Vajira, a Buddhist nun, taught that the word 'chariot' is a name we give to many parts put together. In the same way, she said, 'a being' is a name for many parts. (In this unit, 'backbone' is one word for a chain of many vertebrae. The bending you felt happens at the joints between the parts.)
+- **Samyutta Nikaya 5.10, the Vajira Sutta:** “Yathā hi aṅgasambhārā, / hoti saddo ratho iti; / Evaṁ khandhesu santesu, / hoti sattoti sammuti.” Vajira, a Buddhist nun, taught that the word 'chariot' is a name we give to many parts put together. In the same way, she said, 'a being' is a name for many parts. (In this lesson, 'backbone' is one word for a chain of many vertebrae. The bending you felt happens at the joints between the parts.)
 - **Tirukkural 322:** “பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் / தொகுத்தவற்றுள் எல்லாந் தலை.” Thiruvalluvar, the Tamil poet, wrote that sharing your food and caring for the many kinds of living beings is the greatest of all teachings. (Fish, frogs, lizards, birds and mammals are the many kinds of beings with a backbone, and humans are one of them. Knowing how each group lives, with wet skin or dry, in water or in air, is a first step in caring for them.)
 - Science (settled): All animals with a backbone come from the same ancestors, small fish-like animals who lived in the sea more than 500 million years ago.
 - Science (debated): Almost every mammal, from a mouse to a giraffe, has 7 neck vertebrae. Why mammals keep to 7, when birds and reptiles have many different numbers, is still argued about.
@@ -544,12 +544,12 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - Fish sellers and cooks cut along the backbone to clean a fish, because the backbone runs down the middle of the body.
 
 ## Spotted around us
-- A crow, a bird, on a window ledge in Chennai, with feathers and a strong black beak.
-- A house gecko, a reptile, waiting for insects beside a tube light in Hyderabad.
-- A common Indian toad, an amphibian, hopping across a wet road in Kolkata on a monsoon night.
-- Fish swimming in a village pond in Kerala or in a pond in Guwahati.
-- Indian flying foxes, big bats who are mammals, hanging upside down in a banyan tree in Bengaluru.
-- Olive ridley turtles, reptiles, coming up the beach at Rushikulya in Odisha to lay eggs in the sand.
+- A crow, a bird, on a window ledge, with feathers and a strong black beak.
+- A house gecko, a reptile, waiting for insects beside a tube light.
+- A common toad, an amphibian, hopping across a wet road on a monsoon night.
+- Fish swimming in a village pond.
+- Big bats, who are mammals, hanging upside down in a banyan tree.
+- Sea turtles, reptiles, coming up a beach to lay eggs in the sand. Watch a video of this if you are far from the sea.
 
 ## Open questions
 - **Why did the first animals grow a backbone?** The first animals with a backbone lived in the sea more than 500 million years ago. Scientists think a backbone may have helped them swim, or protected the nerve cord, but the fossils do not tell us for sure.
@@ -586,12 +586,14 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 - [India Biodiversity Portal](https://indiabiodiversity.org/) · interactive: For the parent: look up the fish, frogs, reptiles, birds and mammals found near where you live.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a gecko, a toad or a bird and find out their name and group.
 - [AmphibiaWeb](https://amphibiaweb.org/) · interactive: For the parent: photos and facts about frogs, toads and caecilians, including many from India.
-- [Madras Crocodile Bank Trust]() · place · Chennai: See crocodiles, turtles, snakes and lizards up close, and compare their dry scales.
-- [Regional Museum of Natural History]() · place · Mysuru: See animal skeletons and models of Indian wildlife, and look for the backbones.
-- [Taraporewala Aquarium]() · place · Mumbai: Watch fish use their fins and gills, and compare sea fish with river fish.
+- Madras Crocodile Bank Trust · place · Chennai: See crocodiles, turtles, snakes and lizards up close, and compare their dry scales.
+- Regional Museum of Natural History · place · Mysuru: See animal skeletons and models of Indian wildlife, and look for the backbones.
+- Taraporewala Aquarium · place · Mumbai: Watch fish use their fins and gills, and compare sea fish with river fish.
 
 ## Things to buy
 - [Paper drinking straws (a small pack)]() (material): For the Bendy Backbone test, the challenge and the dough animals. A tube of newspaper rolled tightly round a pencil and taped works too. Used in e1, c1, p1. Keep the pack with the craft things. One straw is enough for the experiment.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Backbone That Bends and Stands Up. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Backbone That Bends and Stands Up.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call an animal with a backbone? → A vertebrate.

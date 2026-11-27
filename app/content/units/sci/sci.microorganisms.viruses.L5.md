@@ -1,9 +1,9 @@
 # Viruses, vaccines, prions and viroids: how a cell is taken over, and how a body gets ready
 `sci.microorganisms.viruses.L5`
 
-**Summary.** A virus has no hands, no engine and no food of their own. So how does one virus particle turn a healthy cell into a place that makes thousands of new viruses? In this unit you will run a model cell with marked grains to see whose jobs get done, test whether changed milk can change fresh milk, and play a card game in which a body with a vaccine meets a virus. You will also meet prions and viroids, which are copied with even less than a virus has.
+**Summary.** A virus has no hands, no engine and no food of their own. So how does one virus particle turn a healthy cell into a place that makes thousands of new viruses? In this lesson you will run a model cell with marked grains to see whose jobs get done, test whether changed milk can change fresh milk, and play a card game in which a body with a vaccine meets a virus. You will also meet prions and viroids, which are copied with even less than a virus has.
 
-**Intro.** *A polio virus particle is a small ball of protein with one strand of instructions inside. They cannot move by themselves, and they cannot build anything. Yet four to six hours after one particle enters a cell, that cell can release up to 10,000 new ones. Who built them?* The cell built them. The virus brought only a message, and the cell's own builders read the message and did the work. In this unit you will find out why a cell does this, why you feel fine for a day or two after a virus gets in, and how a vaccine uses the same facts to get your body ready. Then you will meet two things that are copied with even less: a prion, which is one wrongly folded protein, and a viroid, which is one bare loop of RNA.
+**Intro.** *A polio virus particle is a small ball of protein with one strand of instructions inside. They cannot move by themselves, and they cannot build anything. Yet four to six hours after one particle enters a cell, that cell can release up to 10,000 new ones. Who built them?* The cell built them. The virus brought only a message, and the cell's own builders read the message and did the work. In this lesson you will find out why a cell does this, why you feel fine for a day or two after a virus gets in, and how a vaccine uses the same facts to get your body ready. Then you will meet two things that are copied with even less: a prion, which is one wrongly folded protein, and a viroid, which is one bare loop of RNA.
 
 ## Learning outcomes
 0. By the end I can explain how a virus takes over a cell: the cell's own ribosomes build from the virus's messages.
@@ -774,7 +774,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 - A band of blisters on one side of an older relative's body or forehead, which doctors call shingles.
 - A cold sore on a lip that comes back in the same spot. It is caused by another virus who hides in nerve cells.
 - A tomato, chilli or papaya plant with leaves in a patchwork of light and dark green, a sign of a plant virus.
-- A toddy tapper or coconut climber in Kerala or Tamil Nadu wiping the blade before the next palm.
+- A toddy tapper or coconut climber wiping the blade before the next palm.
 - A 'Flu shot available' board at a clinic or pharmacy before the rainy season.
 
 ## Open questions
@@ -832,6 +832,12 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum to visit. Ask at the entrance which galleries show cells, DNA and biotechnology.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Drift Cards: how much can a pattern change before you stop knowing it?, Which Part Shall We Show? Plan a vaccine for a made-up virus. About ₹10 to ₹30. Any school ruler is fine. Used in a2, c1. Get it before Drift Cards: how much can a pattern change before you stop knowing it?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Lemon, Chhena or Nothing: can changed milk change fresh milk?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2. Get it before Lemon, Chhena or Nothing: can changed milk change fresh milk?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Factory Test: whose jobs get done inside an infected cell?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before The Factory Test: whose jobs get done inside an infected cell?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Four Rules, Four Days: my own takeover trial. About ₹10 to ₹30. Draw squares on plain paper. Used in p1. Get it before Four Rules, Four Days: my own takeover trial.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Wet Road: wrap a message so that it arrives. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c2. Get it before The Wet Road: wrap a message so that it arrives.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Who builds the new viruses in an infected cell? → The cell does. Its ribosomes build virus proteins from the virus's messages.
@@ -855,7 +861,7 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - ideas/by_topic/microorganisms.md, the SCI Card on Gagandeep Kang and Rotavac. Used in the explanation 'Four kinds of vaccine'. Her role is given only as it could be checked: one of three lead investigators of the large trial.
 - ideas/by_topic/microorganisms.md, the SCI Card on Emmanuelle Charpentier and Jennifer Doudna ('Bacteria have an ancient immune system'). Used in the explanation 'Bacteria remember viruses too: CRISPR'.
 - ideas/by_topic/microorganisms.md, the notebook's picture of prokaryotes who 'built the first immune system, with enzymes to keep away rogue DNAs', and the note that nobody knows where viruses came from. Used in the CRISPR explanation and the open questions.
-- The Level 5 units sci.what-is-life.edge-of-life.L5 and sci.microorganisms.germs.L5, and the Level 4 unit sci.microorganisms.germs.L4, which this unit builds on. Their experiments, games and stories are not repeated.
+- The Level 5 units sci.what-is-life.edge-of-life.L5 and sci.microorganisms.germs.L5, and the Level 4 unit sci.microorganisms.germs.L4, which this lesson builds on. Their experiments, games and stories are not repeated.
 - knowledge/by_subtopic.json: Microbiology (OpenStax), 'Viroids, Virusoids, and Prions', and Biology 2e, 'Other Acellular Entities: Prions and Viroids', used as a guide to what to cover. Facts were checked online, as listed in the play-test note.
 - Ellis, E. L. and Delbrück, M., 'The growth of bacteriophage', Journal of General Physiology 22, 1939 (one-step growth)
 - Lederberg, E. M., 'Lysogenicity in Escherichia coli strain K-12', Microbial Genetics Bulletin 1, 1950. Lederberg, E. M. and Lederberg, J., 'Genetic studies of lysogenicity in Escherichia coli', Genetics 38, 1953

@@ -1,9 +1,9 @@
 # Kinds of plants: what a stem tells you about how a plant lives
 `sci.plants.plant-variety.L3`
 
-**Summary.** Why can a tree stand up alone, while a climber needs something to hold on to? In this unit you will count the kinds of plants around you, test stems from the kitchen to see which can stand alone, and play a plant families game.
+**Summary.** Why can a tree stand up alone, while a climber needs something to hold on to? In this lesson you will count the kinds of plants around you, test stems from the kitchen to see which can stand alone, and play a plant families game.
 
-**Intro.** *Look out of every window in your home for one minute. Count every plant you can see. Now look again. Which one could you climb? Which one could you squash between two fingers? Is any plant holding on to something?* For hundreds of years, ships sailed to Kerala to buy black pepper. Many people in Europe ate pepper every day but had never seen the plant growing. A pepper plant has no trunk of their own. They grow on a thin stem that holds on to a tree trunk or a post and climbs up it. So how can a plant grow tall without a trunk? In this unit you test stems to find out which can stand up alone. Then you learn to tell a tree from a shrub, a herb, a climber and a creeper by looking at their stem.
+**Intro.** *Look out of every window in your home for one minute. Count every plant you can see. Now look again. Which one could you climb? Which one could you squash between two fingers? Is any plant holding on to something?* For hundreds of years, ships sailed to Kerala to buy black pepper. Many people in Europe ate pepper every day but had never seen the plant growing. A pepper plant has no trunk of their own. They grow on a thin stem that holds on to a tree trunk or a post and climbs up it. So how can a plant grow tall without a trunk? In this lesson you test stems to find out which can stand up alone. Then you learn to tell a tree from a shrub, a herb, a climber and a creeper by looking at their stem.
 
 ## Learning outcomes
 0. I can sort plants into trees, shrubs, herbs, climbers and creepers, and say which part of the stem told me.
@@ -824,8 +824,8 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ## Spotted around us
 - A neem or peepal tree at a street corner, with people resting in their shade.
 - Money plant climbing a pole or a window grill in a flat.
-- Pumpkin or bottle gourd vines spreading over a roof or wall in a village in Bengal, Assam or Kerala.
-- Pepper vines climbing areca or coconut trunks in Kerala and Karnataka gardens.
+- Pumpkin or bottle gourd vines spreading over a roof or wall in a village.
+- Pepper vines climbing areca or coconut trunks in a garden.
 - Banana leaves used as plates at a wedding or festival meal.
 - Bamboo scaffolding on a building site, tied with rope.
 - A hibiscus or bougainvillea hedge along a garden wall.
@@ -891,6 +891,9 @@ Green and Growing (sci.plants.L3): Topic-level song
 - [Jute twine or coir rope](https://www.amazon.in/s?k=jute+twine) (material): Plant fibres to twist into rope in Twist a Plant Rope. Used in a6. 
 - [A piece of banana stem from the vegetable market](https://www.amazon.in/s?k=banana+stem) (material): For the Banana Plant Puzzle. It is sold as a vegetable in many markets, especially in the south and in Bengal. If you cannot find it, leave that activity for another time. Used in a4. Buy it fresh from a local market on the day you do the activity.
 - [Trees of Delhi: A Field Guide, by Pradip Krishen](https://www.amazon.in/s?k=Trees+of+Delhi+Pradip+Krishen) (book): For the parent: a beautiful, clear guide to identifying common Indian trees by leaf, bark and flower. Useful well beyond Delhi. Used in a1, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hug a Tree: how big are they, and how old?, My Plant Friend: a 4-week diary. About ₹10 to ₹30. Any school ruler is fine. Used in a3, p1. Get it before Hug a Tree: how big are they, and how old?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Cool the Hot Wall. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Cool the Hot Wall.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A plant with one thick woody trunk is called a ____. → Tree.

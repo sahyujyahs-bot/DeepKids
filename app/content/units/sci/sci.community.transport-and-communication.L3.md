@@ -705,6 +705,7 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 - [A roll of reflective tape, about 2 to 5 cm wide](https://www.amazon.in/s?k=reflective+tape+roll) (material): Optional. It lets the child see how a reflective strip shines back towards the lamp, and they can stick some on their own bag afterwards. Many school bags, shoes and helmets already have a strip, so check first. Used in e1, c2. 
 - [The Wheels on the Tuk Tuk by Kabir Sehgal and Surishtha Sehgal](https://www.amazon.in/s?k=The+Wheels+on+the+Tuk+Tuk) (book): The old song set in an Indian auto-rickshaw, full of the busy life of an Indian street. It is a fun way into how people get around. Used in a1. Read or sing it together at the start of the transport lesson.
 - [The Jolly Postman by Janet and Allan Ahlberg](https://www.amazon.in/s?k=The+Jolly+Postman) (book): A postman delivers letters to fairy-tale characters, and the real letters sit in envelopes inside the pages. It shows the child how messages travel. Used in a1. Read it together before writing a letter.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five kinds of transport. → Road, rail, water, air and pipeline.

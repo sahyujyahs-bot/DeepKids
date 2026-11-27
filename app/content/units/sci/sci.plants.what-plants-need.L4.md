@@ -1,9 +1,9 @@
 # What plants need underground: air, minerals and helpers in the soil
 `sci.plants.what-plants-need.L4`
 
-**Summary.** A brinjal plant in a big pot droops and turns yellow, and watering it more and adding fertiliser makes it worse. What is wrong? In this unit you will find out how much air hides in soil, grow cuttings in boiled water with and without air, and play plant doctor.
+**Summary.** A brinjal plant in a big pot droops and turns yellow, and watering it more and adding fertiliser makes it worse. What is wrong? In this lesson you will find out how much air hides in soil, grow cuttings in boiled water with and without air, and play plant doctor.
 
-**Intro.** *You water a drooping plant, and they droop more. You water again, and they get worse. How can more water make a thirsty-looking plant sicker?* A plant that droops looks as if they are dry, so most of us reach for the watering can. But the drooping can also come from too much water. Roots are alive. They need food, water, and air to breathe, just as you do. In this unit you pour water onto dry soil and find out how much air hides between the grains. Then you look at the other things a plant needs from the soil. The plant needs only small amounts of them, but cannot do without them. Last, you look at the bacteria and fungi that help the plant get them.
+**Intro.** *You water a drooping plant, and they droop more. You water again, and they get worse. How can more water make a thirsty-looking plant sicker?* A plant that droops looks as if they are dry, so most of us reach for the watering can. But the drooping can also come from too much water. Roots are alive. They need food, water, and air to breathe, just as you do. In this lesson you pour water onto dry soil and find out how much air hides between the grains. Then you look at the other things a plant needs from the soil. The plant needs only small amounts of them, but cannot do without them. Last, you look at the bacteria and fungi that help the plant get them.
 
 ## Learning outcomes
 0. I can explain that roots need air as well as water, and why a pot with standing water can kill a plant.
@@ -746,7 +746,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
    **Answer:** order shown. *Why:* Decomposers break the peels down. What is left is humus, which holds water and releases minerals to roots over time.
 10. (write) Design a fair test to find out whether radish seedlings grow better in compost than in plain sand. Say what you keep the same, what you change and what you measure.  
    **Answer:** A strong answer uses two pots of the same size, the same number of seeds, the same water and the same light. The only change is the material: compost in one and plain sand in the other. It measures the height of the seedlings and the colour of the leaves after two weeks. It repeats the test or uses several seeds, because one seed could be a fluke.. *Why:* The answer should keep everything the same except one thing, and say what will be measured.
-11. (write) A neighbour says, 'Roots are just pipes for water.' Give two pieces of evidence from this unit that roots are alive and need air.  
+11. (write) A neighbour says, 'Roots are just pipes for water.' Give two pieces of evidence from this lesson that roots are alive and need air.  
    **Answer:** A strong answer gives two pieces of evidence. First, roots drown in waterlogged soil even though water is plentiful, because they need oxygen. Second, cuttings grow fewer roots in water with the air boiled out, and seedlings in water need an air gap. Or: bubbles of air come out of soil when you pour water on it, and the root lives in those gaps.. *Why:* The answer should give evidence from tests or observations, and link it to roots respiring.
 12. (write) Explain why a plant short of iron shows yellow new leaves, but a plant short of nitrogen shows yellow old leaves.  
    **Answer:** A strong answer says that nitrogen can be moved around inside the plant, so a plant short of it takes nitrogen out of the old leaves and sends it to the new growth, so the old leaves turn yellow first. Iron cannot be moved once it is in a leaf, so new leaves, which have no iron stored, show the shortage first.. *Why:* The answer should say that the difference comes from whether the mineral can move within the plant.
@@ -822,7 +822,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - Bubbles rising when you pour water onto dry soil in a pot or on the ground.
 - Small piles of crumbly soil on the ground after rain, left by earthworms.
 - A paddy field in water, where the plants grow with their roots under water.
-- The knobbly pencil roots of mangroves sticking up from mud on a coast such as the Sundarbans.
+- The knobbly pencil roots of mangroves sticking up from the mud on a coast.
 - A roadside plant with yellow lower leaves and green top leaves.
 - Mushrooms appearing under a tree after rain.
 - A farmer spreading cow dung manure or compost on a field, or a pile of compost at the edge of a field.
@@ -877,7 +877,7 @@ Plants of India (sci.plants.L4): Topic-level song
 - [Food and Agriculture Organization of the United Nations](https://www.fao.org/) · interactive: For the parent: pages on soils, fertilisers and farming around the world. Search for soils.
 - [M. S. Swaminathan Research Foundation](https://www.mssrf.org/) · place · Chennai: A research foundation in Chennai that works with farmers on crops, soils and food. It was founded by the agricultural scientist M. S. Swaminathan.
 - [Indian Agricultural Research Institute](https://www.iari.res.in/) · place · New Delhi: India's oldest agricultural research institute, on the Pusa campus in New Delhi, where scientists study soils, crops and fertilisers.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A botanic garden with old trees, a glasshouse and beds of many plants, where you can look at roots, soil and leaves.
+- Lalbagh Botanical Garden · place · Bengaluru: A botanic garden with old trees, a glasshouse and beds of many plants, where you can look at roots, soil and leaves.
 
 ## Things to buy
 - [A measuring jug marked in millilitres](https://www.amazon.in/s?k=measuring+jug+500+ml+plastic) (tool): For the Soil Breath test and the Pot That Never Drowns challenge. A jug that holds 250 or 500 millilitres is enough. Used in e1, c1. 
@@ -885,6 +885,12 @@ Plants of India (sci.plants.L4): Topic-level song
 - [A small bottle of liquid plant fertiliser](https://www.amazon.in/s?k=liquid+plant+fertilizer+houseplants) (material): For the Seedlings Without Soil test. A small bottle from a plant shop costs about Rs 100 to 150 and lasts a long time. A neighbour or nursery may spare a few millilitres. Used in e2. 
 - [A magnifying glass or a clip-on phone microscope lens](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at root hairs, nodules, tiny soil creatures and lotus stem holes. Used in a2, a3, a4, a6. 
 - [A 1-litre bottle of distilled water](https://www.amazon.in/s?k=distilled+water+1+litre) (material): For the Seedlings Without Soil test. Sold for steam irons at hardware, auto and medical shops, about Rs 20 to 40. Rainwater from a clean bowl works too. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Seedlings Without Soil: do plants need minerals?, Soil in a Jar: what is soil made of?, Liebig's Bottle: the shortest plank sets the level. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, a5, p1. Get it before Seedlings Without Soil: do plants need minerals?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in Seedlings Without Soil: do plants need minerals?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e2. Get it before Seedlings Without Soil: do plants need minerals?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Liebig's Bottle: the shortest plank sets the level. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in a5. Get it before Liebig's Bottle: the shortest plank sets the level.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Soil Breath: how much air is hiding in soil?, The Pot That Never Drowns: design a pot that drains well and still holds water. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1, c1. Get it before Soil Breath: how much air is hiding in soil?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Seedlings Without Soil: do plants need minerals?, Roots Need to Breathe: cuttings in boiled water with and without air, Find the Pink Factories: nodules on a bean's roots. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, e3, a3, c2. Get it before Seedlings Without Soil: do plants need minerals?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Why do roots need air? → Roots are alive and respire, so they need oxygen.
@@ -904,8 +910,8 @@ Plants of India (sci.plants.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/plants.md: the story of fungi as partners of plants, which shaped the fungus roots card and the Underground Market game
-- The Class 3 unit on what plants need, which this unit builds on: the idea that light, water and warmth set how a plant grows, now extended to air in the soil, minerals and helpers underground, with new experiments, games and a new story
-- The Class 3 unit on photosynthesis, which this unit builds on: the idea that a leaf makes food from air and water, now extended to the minerals that roots must supply
+- The Class 3 unit on what plants need, which this lesson builds on: the idea that light, water and warmth set how a plant grows, now extended to air in the soil, minerals and helpers underground, with new experiments, games and a new story
+- The Class 3 unit on photosynthesis, which this lesson builds on: the idea that a leaf makes food from air and water, now extended to the minerals that roots must supply
 - Sachs, J., about 1860, and Knop, W., about 1861 (growing plants in water with mineral salts, water culture)
 - Liebig, J. von, Die organische Chemie in ihrer Anwendung auf Agricultur und Physiologie, 1840 (the mineral theory and the law of the minimum)
 - van der Ploeg, R. R., Bohm, W. and Kirkham, M. B., Soil Science Society of America Journal, 1999 (Sprengel's priority for the law of the minimum, 1828)

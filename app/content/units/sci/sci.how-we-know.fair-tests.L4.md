@@ -1,9 +1,9 @@
 # Fair tests, step two: repeat, average and say only what you found
 `sci.how-we-know.fair-tests.L4`
 
-**Summary.** Measure the same table ten times and you get slightly different numbers. Why, and what should you do about it? In this unit you will repeat measurements and work out an average, test whether a longer paper spinner wing falls slower, and fold paper bridges to see which holds most coins.
+**Summary.** Measure the same table ten times and you get slightly different numbers. Why, and what should you do about it? In this lesson you will repeat measurements and work out an average, test whether a longer paper spinner wing falls slower, and fold paper bridges to see which holds most coins.
 
-**Intro.** *Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is a little different. Drop it a third time and the time is different again. You changed nothing, and the numbers still do not match.* If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this unit you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.
+**Intro.** *Drop a paper spinner and time how long it takes to land. Now drop it again in exactly the same way. The time is a little different. Drop it a third time and the time is different again. You changed nothing, and the numbers still do not match.* If the same spinner gives different times, how can you tell that a longer wing made it fall slower? Maybe the wing did it, or maybe the times just differed, as they always do. We call these small differences between one try and the next the wobble. In this lesson you learn how scientists deal with the wobble. They name what they change, what they measure and what they keep the same. They repeat each measurement, and they look at the average and at how far the numbers spread. Then they write a conclusion that does not say more than the numbers do.
 
 ## Learning outcomes
 0. I can name the three jobs in a test: the thing I change, the thing I measure, and the things I keep the same.
@@ -733,11 +733,11 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 ## Spotted around us
 - The weighing machine at a vegetable shop showing slightly different numbers each time the same bunch is put on it.
 - Cricket scoreboards that show batting averages, built from many innings and not one.
-- Winged fruits spinning slowly down from tall trees, such as the sal and gurjan trees in India and maple keys elsewhere.
+- Winged fruits spinning slowly down from tall trees, such as sal trees, or maple keys.
 - Paper cups, egg trays and corrugated boxes that are strong because of folds or pleats.
 - A tailor measuring a customer twice, and writing both numbers.
 - A thermometer chart in a clinic showing a patient's temperature at set times.
-- The Kerala monsoon onset date, recorded each year and compared over many years.
+- The date the monsoon arrives, recorded each year and compared over many years.
 - A tulsi pot on a balcony or windowsill, and the stories people tell about the pot.
 - A race timed by several people with stopwatches, who each get slightly different times.
 
@@ -799,6 +799,13 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 - [A box of paper clips, all the same size](https://www.amazon.in/s?k=paper+clips+box+stationery) (material): For the Paper Spinner test and the Slowest Fall challenge. Clips of the same size keep the weight the same. They cost about Rs 10 and most homes already have some. Used in e1, c1. 
 - [A pack of small paper cups](https://www.amazon.in/s?k=paper+cups+small+tea+cups) (material): For the Paper Bridge test. A light cup holds the coins in the middle of the bridge. Cost: about Rs 20 for a pack. Any light small plastic curd cup also works. Used in e2. 
 - [A soft measuring tape for sewing](https://www.amazon.in/s?k=measuring+tape+body+sewing+150+cm) (tool): For measuring the table in Measure the Table Ten Times. A tailor's tape is easy to pull straight. Cost: about Rs 20 to 30. If you cannot get one, use a ruler placed end to end, or a string marked and then measured. Used in a1. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Paper Spinner: does a longer wing fall slower?, Slowest Fall: engineer the slowest spinner and prove it. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, c1. Get it before The Paper Spinner: does a longer wing fall slower?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paper Spinner: does a longer wing fall slower?, The Paper Bridge: which fold holds the most coins?, Measure the Table Ten Times: how much do numbers wobble?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a4, c1. Get it before The Paper Spinner: does a longer wing fall slower?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Paper Spinner: does a longer wing fall slower?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e1. Get it before The Paper Spinner: does a longer wing fall slower?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Thirsty Seeds: how much water do moong seeds need?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Thirsty Seeds: how much water do moong seeds need?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in From Table to Line: draw a line graph. About ₹10 to ₹30. Draw squares on plain paper. Used in a4. Get it before From Table to Line: draw a line graph.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Thirsty Seeds: how much water do moong seeds need?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before Thirsty Seeds: how much water do moong seeds need?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three jobs in every test? → Change one thing, measure one result, and keep the other things the same.
@@ -820,7 +827,7 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/how-we-know.md: the grade concept grid on fringe science (replication, blinding, belief tracking evidence, anomalies that sometimes evaporate), used for 'Hoping can bend a test', the odd-result explanation and the challenging claims
 - The founder's SCI card for Tu Youyou, an underdog scientist whose old-text clue led to artemisinin, used for the how-we-found-out story
-- The Class 3 unit on fair tests, which this unit builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion
+- The Class 3 unit on fair tests, which this lesson builds on: change one thing becomes the three jobs, repeating and averaging, and writing a limited conclusion
 - Tu Youyou, Nobel Lecture, Artemisinin: A Gift from Traditional Chinese Medicine to the World, 2015
 - Ge Hong, Zhouhou Beiji Fang (A Handbook of Prescriptions for Emergencies), about 340 CE, the text about soaking sweet wormwood in cold water
 - Project 523, the Chinese national malaria research programme begun in 1967

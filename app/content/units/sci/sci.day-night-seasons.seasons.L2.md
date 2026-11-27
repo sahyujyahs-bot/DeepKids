@@ -1,9 +1,9 @@
 # Seasons in India: summer, monsoon and winter, and what changes
 `sci.day-night-seasons.seasons.L2`
 
-**Summary.** Why are white clothes cooler than black ones in the summer sun? In this unit you will test it by seeing which cloth melts ice first, spot the season in old family photos, and sort things into summer, monsoon and winter. You will also see if damp air can soften a crisp papad.
+**Summary.** Why are white clothes cooler than black ones in the summer sun? In this lesson you will test it by seeing which cloth melts ice first, spot the season in old family photos, and sort things into summer, monsoon and winter. You will also see if damp air can soften a crisp papad.
 
-**Intro.** *In May in Chennai, a white cotton saree and a black T-shirt hang on the same clothes line. After an hour in the sun, the black T-shirt is too hot to touch, and the saree is not. Both were in the same sunshine. Why did one get so much hotter?* Look at a photo of your home from a few months ago. Is anything different from today? Maybe the fan was off, or there was an umbrella by the door, or everyone wore sweaters. The year in India turns from hot to rainy to cool, and back again. These parts of the year are called seasons. In this unit we find out what changes in each season, why the monsoon reaches Kochi weeks before Delhi, and why people choose white cotton for the summer.
+**Intro.** *In May in Chennai, a white cotton saree and a black T-shirt hang on the same clothes line. After an hour in the sun, the black T-shirt is too hot to touch, and the saree is not. Both were in the same sunshine. Why did one get so much hotter?* Look at a photo of your home from a few months ago. Is anything different from today? Maybe the fan was off, or there was an umbrella by the door, or everyone wore sweaters. The year in India turns from hot to rainy to cool, and back again. These parts of the year are called seasons. In this lesson we find out what changes in each season, why the monsoon reaches Kochi weeks before Delhi, and why people choose white cotton for the summer.
 
 ## Learning outcomes
 0. By the end I can name India's three big seasons, summer, monsoon and winter, in the order they come.
@@ -573,11 +573,11 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 - Anna Mani, a physicist from Kerala, led the team at the India Meteorological Department that made India's own weather instruments, including ones to measure sunshine and wind.
 
 ## Spotted around us
-- In Tamil Nadu in summer, look for neer mor pandals: stalls that give out free cool buttermilk to anyone walking by.
+- In summer, look for stalls that give out free cool buttermilk to anyone walking by.
 - On the first heavy rain of the monsoon, listen at night for frogs croaking from puddles and drains.
-- In January, the sky over Ahmedabad and many towns in Gujarat fills with kites for Uttarayan.
+- In January, the sky fills with kites for Uttarayan.
 - On a hot afternoon, find a black car and a white car parked in the same sun. Touch each roof quickly and lightly with one finger. Which is hotter?
-- In April and May, look for gulmohar trees covered in red flowers along city roads, from Bengaluru to Bhopal.
+- In April and May, look for gulmohar trees covered in red flowers along city roads.
 - In the monsoon, green moss and small ferns grow on damp building walls.
 
 ## Open questions
@@ -620,9 +620,10 @@ Hot, Wet and Cool (sci.day-night-seasons.L2):
 - [Climate of India (Wikipedia)](https://en.wikipedia.org/wiki/Climate_of_India) · interactive: For the parent: India's seasons, with maps of rain and heat in each part of the country.
 - [Monsoon of South Asia (Wikipedia)](https://en.wikipedia.org/wiki/Monsoon_of_South_Asia) · interactive: For the parent: how the monsoon moves across India, with maps of its usual arrival dates.
 - [India Meteorological Department](https://mausam.imd.gov.in) · interactive: India's weather department. Each June it shows on a map how far north the monsoon has reached.
-- [Sohra (Cherrapunji), one of the wettest places on Earth]() · place · Sohra, Meghalaya: Visit in the monsoon to see waterfalls and some of the heaviest rain in the world.
+- Sohra (Cherrapunji), one of the wettest places on Earth · place · Sohra, Meghalaya: Visit in the monsoon to see waterfalls and some of the heaviest rain in the world.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name India's three big seasons. → Summer, monsoon and winter.

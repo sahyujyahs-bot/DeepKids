@@ -1,9 +1,9 @@
 # Energy at work: how energy makes things happen, and why a still table has energy too
 `sci.energy.energy-around-us.L5`
 
-**Summary.** Put a wet coin on an empty bottle from the freezer, and the coin starts to click with nobody touching it. A bottle that was not in the freezer does nothing. Why? In this unit you will test this yourself, look for energy in a still table, and join machines in an energy chain.
+**Summary.** Put a wet coin on an empty bottle from the freezer, and the coin starts to click with nobody touching it. A bottle that was not in the freezer does nothing. Why? In this lesson you will test this yourself, look for energy in a still table, and join machines in an energy chain.
 
-**Intro.** *A fan needs electricity. A scooter needs petrol. You need breakfast. A table needs nothing and does nothing. So does a table have any energy at all?* Energy is what makes things happen. In this unit you watch a kitchen at work and find where the energy for each thing comes from. You find that a mixie, a stove and your own body all do the same job. They take energy in one form and give it out in another. Then you test the table. You put a cold bottle on it and a coin on the bottle, and you count what happens. By the end you can say what energy a still table has, and why that energy usually does nothing.
+**Intro.** *A fan needs electricity. A scooter needs petrol. You need breakfast. A table needs nothing and does nothing. So does a table have any energy at all?* Energy is what makes things happen. In this lesson you watch a kitchen at work and find where the energy for each thing comes from. You find that a mixie, a stove and your own body all do the same job. They take energy in one form and give it out in another. Then you test the table. You put a cold bottle on it and a coin on the bottle, and you count what happens. By the end you can say what energy a still table has, and why that energy usually does nothing.
 
 ## Learning outcomes
 0. I can say what energy does, and find energy moving, lighting, sounding, heating and cooling things at home and outside.
@@ -763,14 +763,14 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 - A cattle shed on the ground floor of a mountain house warms the rooms above with the heat of the animals' bodies.
 
 ## Spotted around us
-- A ceiling fan whose motor feels warm after an hour, in any home in India.
-- Clothes drying on a line in sunshine and wind in a Chennai flat.
+- A ceiling fan whose motor feels warm after an hour.
+- Clothes drying on a line in sunshine and wind.
 - A street-side tea seller's flame, fed by a small cylinder of cooking gas.
 - Rows of solar panels on the roof of a school or a petrol pump.
-- Tall wind turbines turning on a ridge near Kanyakumari or Muppandal in Tamil Nadu.
+- Tall wind turbines turning on a ridge.
 - The hum and warmth of a transformer on a pole, which you must never touch.
 - The warm back of a fridge in a kitchen.
-- A kite rising on the wind at the Uttarayan festival in Gujarat.
+- A kite rising on the wind at a kite festival.
 
 ## Open questions
 - **What is the energy of empty space, which scientists call dark energy?** Measurements of far-away exploding stars show the universe growing faster and faster. Nobody knows what is behind it.
@@ -816,12 +816,20 @@ Where Did It Come From? (sci.energy.L5): Topic-level song for Energy L5
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online model. Heat water, run a fan and watch energy change form and spread out.
 - [Bureau of Energy Efficiency, India](https://beeindia.gov.in) · interactive: The Government of India's home for star ratings on fans, fridges and air conditioners. A parent can find how a star rating compares appliances.
 - [Central Electricity Authority, India](https://cea.nic.in) · interactive: A parent can look up how much electricity India makes from coal, water, wind and sun.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with working models of engines, electricity and energy.
-- [Nehru Science Centre]() · place · Mumbai: A hands-on science centre with energy and electricity exhibits.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with exhibits on steam engines, power and energy.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with working models of engines, electricity and energy.
+- Nehru Science Centre · place · Mumbai: A hands-on science centre with energy and electricity exhibits.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with exhibits on steam engines, power and energy.
 
 ## Things to buy
 - [A kitchen or room thermometer](https://www.amazon.in/s?k=room+thermometer) (tool): It shows that the air in a fan's wind and in still air has the same temperature. A medical thermometer is not made for this. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Clicking Coin Test: does a cold bottle make a coin click?, The Fan and the Ice: does a fan make the air colder?, Most Clicks: make the coin click as many times as you can. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, c1, c2. Get it before The Clicking Coin Test: does a cold bottle make a coin click?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fan and the Ice: does a fan make the air colder?, The Changer Table: what goes in and what comes out?, The Sail Race: cross a tray with wind alone. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a2, c2. Get it before The Fan and the Ice: does a fan make the air colder?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Changer Table: what goes in and what comes out?. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a2. Get it before The Changer Table: what goes in and what comes out?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Sail Race: cross a tray with wind alone. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before The Sail Race: cross a tray with wind alone.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Fan and the Ice: does a fan make the air colder?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before The Fan and the Ice: does a fan make the air colder?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Does a Still Table Have Energy? Three small tests. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a1. Get it before Does a Still Table Have Energy? Three small tests.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Fan and the Ice: does a fan make the air colder?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Fan and the Ice: does a fan make the air colder?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three things that energy can do. → Move things, light up, make sound, heat or cool things, and do work.
@@ -842,7 +850,7 @@ Where Did It Come From? (sci.energy.L5): Topic-level song for Energy L5
 - Founder's notes in ideas/by_topic/energy.md: the grade concept grid for Energy (energy makes things move, warm and light up; energy changes form; conservation; heat engines and efficiency), used for the changers, the energy chains and the Carnot story.
 - Founder's notes, the Entropy grid (heat spreads from hot to cold, and a gap in temperature is needed), used for the Clicking Coin Test and the Fan and the Ice.
 - NCERT Class 5 chapter 7 on energy and how things work, for coverage only: energy at home and in society, what energy does, and what makes things work.
-- The Class 3 and Class 4 units Energy around us, which this unit builds on. Their experiments and stories are not repeated.
+- The Class 3 and Class 4 units Energy around us, which this lesson builds on. Their experiments and stories are not repeated.
 - Carnot, S., Reflexions sur la puissance motrice du feu, Paris, 1824
 - Einstein, A., 'Does the inertia of a body depend upon its energy content?', Annalen der Physik 18, 1905
 - Feynman, R., Leighton, R. and Sands, M., The Feynman Lectures on Physics, Volume 1, chapter 4, 'Conservation of Energy', 1963

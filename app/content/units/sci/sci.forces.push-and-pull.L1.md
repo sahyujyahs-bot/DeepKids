@@ -1,9 +1,9 @@
 # Pushes and pulls: what makes things start to move
 `sci.forces.push-and-pull.L1`
 
-**Summary.** A ball on the floor stays still until something pushes or pulls it. In this unit you will push a box and see how far it slides, pull a toy train, and play a quick card game to tell a push from a pull.
+**Summary.** A ball on the floor stays still until something pushes or pulls it. In this lesson you will push a box and see how far it slides, pull a toy train, and play a quick card game to tell a push from a pull.
 
-**Intro.** *Put a ball on the floor. Watch it for one whole minute. Does it move by itself?* The ball sat still. Nobody touched it, so it stayed where it was. Now give it a little push with one finger. Off it rolls! A push made it move. In this unit you find out what pushes and pulls do. You also spot them all around you: at home, in toys, in the playground and in big machines.
+**Intro.** *Put a ball on the floor. Watch it for one whole minute. Does it move by itself?* The ball sat still. Nobody touched it, so it stayed where it was. Now give it a little push with one finger. Off it rolls! A push made it move. In this lesson you find out what pushes and pulls do. You also spot them all around you: at home, in toys, in the playground and in big machines.
 
 ## Learning outcomes
 0. By the end I can say if a thing was pushed or pulled, by looking at which way it moved: away from me or towards me.
@@ -26,6 +26,8 @@ The ball on the floor stayed still for a whole minute. It started to roll only w
 - e.g. In the Little Push, Big Push test, the box stayed still until your hand pushed it.
 - e.g. A football sits on the ground until someone kicks it.
 - e.g. A bucket of water comes up from a well only when someone pulls the rope.
+- **Aristotle:** Taught that things naturally rest, and that all motion needs a pusher.
+- **Isaac Newton:** In 1687 stated his first law: a still thing stays still and a moving thing keeps moving the same way, unless a force acts. In the Vaisheshika school of India, motion was a basic idea caused by effort or impact.
 ### Push means away, pull means towards · *defined*
 **Definition:** A push moves a thing away from you. A pull moves a thing towards you. Which word you use depends on where you are standing.
 
@@ -33,6 +35,8 @@ When you close a fridge, the door moves away from you, so you push it. When you 
 - e.g. In the Two-Sided Door test, the door shut the same way when you pushed it and when you pulled it.
 - e.g. A fishing boat on the beach can be pushed from the back or pulled by a rope from the front. Either way, it slides towards the sea.
 - e.g. Opening a drawer is a pull. Closing it is a push.
+- **Everyday observers:** A push is away from you and a pull is toward you, as you feel it in the hand.
+- **Newton and Einstein:** Newton showed that forces come in pairs, and when you push a wall the wall pushes back. Einstein later pictured gravity not as a pull but as the bending of space and time.
 ### A bigger push sends a thing further · *defined*
 **Definition:** A gentle push makes a thing move slowly, and it stops soon. A big push makes it move fast, and it goes further.
 
@@ -40,6 +44,8 @@ In the Little Push, Big Push test, your gentle push sent the empty box only a li
 - e.g. In the Little Push, Big Push test, the gentle push sent the box about one foot step. The big push sent it many steps.
 - e.g. A bigger push on a swing sends it higher.
 - e.g. A carrom striker flicked hard shoots across the board. A soft flick stops halfway.
+- **Aristotle:** Thought an arrow keeps flying because the air pushes it from behind. A big push sends it far.
+- **Galileo and Newton:** Showed that the arrow keeps moving because nothing strong stops it. A bigger push gives more speed, and air and the ground slowly stop it.
 ### A heavy thing needs a bigger push or pull · *defined*
 **Definition:** A heavy thing is harder to start moving than a light thing. It needs a bigger push or a bigger pull.
 
@@ -47,6 +53,8 @@ In the Little Push, Big Push test, you filled the box with rice. Then the same b
 - e.g. In the Little Push, Big Push test, the full box slid only a short way after a big push.
 - e.g. In the Pull-Along Train, the rubber band stretched longest for three loaded boxes.
 - e.g. Many people together push a heavy fishing boat down the beach. One person alone cannot.
+- **Isaac Newton:** Said that a heavy thing has more mass, which is a measure of how much it resists being moved. The harder to start, the bigger the mass.
+- **Albert Einstein:** In 1915 pointed out that this resistance to being moved and the heaviness we feel from gravity are exactly equal for every thing, and treated this as a clue to how gravity works.
 
 ## Mostly agreed
 - Every push and every pull is a force. *How we know:* Scientists use the word force for all of them: a kick, a tug, the wind on a sail, a magnet pulling a pin, and the Earth pulling a mango down from a tree.
@@ -494,11 +502,11 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 - Astronauts on the space station mostly move around by pushing off walls and pulling on handles.
 
 ## Spotted around us
-- A tractor in Punjab or Tamil Nadu pulling a trolley piled high with sugarcane.
-- A vegetable seller in Mysuru pushing a cart on wheels down the street.
-- Fishers on a beach in Kerala pulling in a long net together.
-- The Rath Yatra in Puri, Odisha, where huge crowds pull giant wooden chariots with long ropes.
-- A metro or lift door in Kolkata or Bengaluru that slides open and shut, pushed and pulled by a motor.
+- A tractor pulling a trolley piled high with sugarcane.
+- A vegetable seller pushing a cart on wheels down the street.
+- Fishers on a beach pulling in a long net together.
+- A temple chariot festival, where huge crowds pull giant wooden chariots with long ropes.
+- A metro or lift door that slides open and shut, pushed and pulled by a motor.
 
 ## Open questions
 - **How do a group of ants agree which way to pull a big crumb?** Many ants pull together without getting in each other's way. Scientists have found that some ants seem to steer the group, but they are still studying how the whole group decides.
@@ -534,9 +542,13 @@ Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1
 ## Links
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online game from the University of Colorado. Push a box with a little person and watch how a bigger push moves it faster. Best played with a grown-up.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about pushing, pulling and moving.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries about engines, machines and motion, good for a family day out.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries about engines, machines and motion, good for a family day out.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Ant Helpers: who pushes, who pulls?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a3. Get it before Ant Helpers: who pushes, who pulls?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Bring Teddy Home. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before Bring Teddy Home.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Pull-Along Train: does a longer train need a bigger pull?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before The Pull-Along Train: does a longer train need a bigger pull?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is opening a door towards you a push or a pull? → A pull. The door comes towards you.
@@ -552,7 +564,7 @@ Push It, Pull It (sci.forces.L1): Topic-level song for Forces and movement L1
 - Core: a2, e1, g1, a1, e2, ws-core
 
 ## Sources
-- ideas/by_topic/forces-and-movement.md: the founder's note that the ground pushes back and holds you, and that everything pushes when you push on it, belongs to the Level 3 unit (Push the Wall). Her idea of a relay pushing carts of different weights grew into the full-box push in the box test and the Pull-Along Train. Tug of war and the balloon rocket are already in Level 3, so this unit uses the box slide, the two-sided door, the pull-along train, the bedsheet ride and the ant watch instead.
+- ideas/by_topic/forces-and-movement.md: the founder's note that the ground pushes back and holds you, and that everything pushes when you push on it, belongs to the Level 3 unit (Push the Wall). Her idea of a relay pushing carts of different weights grew into the full-box push in the box test and the Pull-Along Train. Tug of war and the balloon rocket are already in Level 3, so this lesson uses the box slide, the two-sided door, the pull-along train, the bedsheet ride and the ant watch instead.
 - Cambridge Primary Science Stage 1, Unit 5 (In the playground, How toys work, Pushes and pulls around us): the playground pushes and pulls, the pull-along toy, the push or pull hunt, machines that push and pull, and the idea that a heavy thing needs a bigger push.
 - Émilie du Châtelet, Principes mathématiques de la philosophie naturelle, 1759 (her French translation of the Principia with her own commentary).
 - Newton's first law of motion (Principia, 1687): a body at rest stays at rest, and a moving body keeps moving in a straight line, unless a force acts on it.

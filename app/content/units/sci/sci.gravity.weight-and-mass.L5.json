@@ -3457,6 +3457,73 @@
     "e3",
     "p1"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Dough Stack: which level of a pile is pushed up the hardest?, Lift, Press and Tilt: does a scale always read the weight?, The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a3",
+    "a4",
+    "p1"
+   ],
+   "plan": "Get it before The Dough Stack: which level of a pile is pushed up the hardest?."
+  },
+  {
+   "id": "b-small-torch-bulbs-or-leds-wi",
+   "item": "Small torch bulbs or LEDs with a holder",
+   "kind": "tool",
+   "why": "Used in The Spreading Square: why does a pull get weaker with distance?. About ₹10 to ₹50. A small torch can be taken apart for its bulb.",
+   "url": "https://www.amazon.in/s?k=torch+bulb+holder+set",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Spreading Square: why does a pull get weaker with distance?."
+  },
+  {
+   "id": "b-a-small-hand-mirror",
+   "item": "A small hand mirror",
+   "kind": "material",
+   "why": "Used in The Spreading Square: why does a pull get weaker with distance?. About ₹20 to ₹80. A shiny steel plate shows reflections too.",
+   "url": "https://www.amazon.in/s?k=small+hand+mirror",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Spreading Square: why does a pull get weaker with distance?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Spreading Square: why does a pull get weaker with distance?, Weigh Yourself on Nine Worlds, Arrows to Scale: weigh it, then draw the forces. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e3",
+    "a2",
+    "a4"
+   ],
+   "plan": "Get it before The Spreading Square: why does a pull get weaker with distance?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3705,14 +3772,19 @@
     "source": "Atharva Veda 12.1.12 (the hymn to the Earth)",
     "teaching": "The Earth is my mother, and I am her child.",
     "link": "The verse speaks of the Earth as the one who holds us. In this lesson, the Earth is the last link in every chain that holds something up. The verse is a statement of faith and care, and the unit does not test it.",
-    "verse": ["यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।", "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"],
+    "verse": [
+     "यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः ।",
+     "तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Zhuangzi, chapter 26 (Burton Watson's translation)",
     "teaching": "A person uses only the small patch of ground under her feet. But if the earth around her were dug away down to the Yellow Springs, that small patch would be no use to her.",
     "link": "A pillar or a foot seems to need only the ground it touches. But the ground there is held up by all the ground round it. The passage says this as a lesson about usefulness, not about weight.",
-    "verse": ["夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？"],
+    "verse": [
+     "夫地非不廣且大也，人之所用，容足耳，然則廁足而墊之致黃泉，人尚有用乎？"
+    ],
     "verse_lang": "zh"
    }
   ],

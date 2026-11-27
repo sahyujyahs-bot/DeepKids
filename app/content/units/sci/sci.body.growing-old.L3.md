@@ -1,7 +1,7 @@
 # Growing old: how a body changes from baby to elder
 `sci.body.growing-old.L3`
 
-**Summary.** How does a body change from a baby to an elder? In this unit you will test how close people of different ages can read, try the snap-back skin test, compare hands across time, and interview an elder about how they have changed.
+**Summary.** How does a body change from a baby to an elder? In this lesson you will test how close people of different ages can read, try the snap-back skin test, compare hands across time, and interview an elder about how they have changed.
 
 **Intro.** *Look at the back of your hand. Now look at the back of the hand of the oldest person you know, or a photo of one. What is different? What is the same?* Every grandparent you know was once a baby. They had no teeth. They could not walk. Their head was huge compared to their body. One day you will be as old as them. Your hair may turn white, and your skin may fold into soft lines. Why does a body change like this? And how much of you is new, and how much is as old as you are?
 
@@ -411,7 +411,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   - Note: Do not explain anything yet. The aim is for questions to come from your child. Write their 'I wonder' questions down to come back to.
 - **s2 (5 min)**  
   *Parent does:* Take a photo of the hands side by side, or draw around them on one sheet. Then write down three noticings.  
-  *Parent says:* Every hand here was once a baby's hand. Let's keep a picture of them and write down what we noticed. We will find out why during this unit.  
+  *Parent says:* Every hand here was once a baby's hand. Let's keep a picture of them and write down what we noticed. We will find out why during this lesson.  
   *Child mode:* Take a photo of the hands, or draw around them. Tell three things you noticed.
   - Note: The hand did not change on one day. It grew a little every day through childhood and the teenage years, and it stopped growing taller in the late teens. After that, the skin changed slowly, a little each year.
   - Think: An elder's hand was once as small as yours. When did it change?
@@ -622,7 +622,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 14. (match) Match each part of the body to the change that comes with age.  
    **Answer:** Hair roots → stop making colour; Skin → fewer springy threads; Eye lens → gets stiffer; Ear → hair cells for high sounds wear out; Bones → lose some hard minerals. *Why:* Each part changes in its own way. Knowing the cause tells us what help works, such as reading glasses for the lens or a handrail for thinner bones.
 15. (write) A child says, 'Older people have weaker grip.' Plan a fair test to find out. Say what you would measure and name two things you would keep the same.  
-   **Answer:** For example: Measure how many seconds each person can hang on to a pencil box lifted by a string handle, or how many seconds each takes to open the same jar. Keep the same jar, the same hand, and the same number of tries.. *Why:* A strong answer names one thing to measure and keeps everything else the same except age, as in the other tests of this unit.
+   **Answer:** For example: Measure how many seconds each person can hang on to a pencil box lifted by a string handle, or how many seconds each takes to open the same jar. Keep the same jar, the same hand, and the same number of tries.. *Why:* A strong answer names one thing to measure and keeps everything else the same except age, as in the other tests of this lesson.
 ### The Big Questions of Ageing (challenge) (challenge, 15 questions)
 1. (write) Your body makes about 4 million new cells every second. Is it still the same body it was last year? Give reasons.  
    **Answer:** Any thoughtful answer. For example: Much of it is new, because skin, blood and gut cells have been replaced. But my eye lens cells and most brain cells are the same. My memories carry on too. So it is the same body, but rebuilt.. *Why:* This is a real puzzle that thinkers have argued about for thousands of years. A strong answer uses facts about which cells are replaced and which stay.
@@ -631,7 +631,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 3. (write) A mouse lives about 2 years. A human lives about 80. Their cells are very alike. Suggest one reason for the difference.  
    **Answer:** For example: Mice are eaten by cats and owls so young that nature never shaped them to live long. Humans are protected and cared for, so a long life helped. Or their genes may set a different timetable.. *Why:* This is an open question. Scientists point to genes, body size, and how dangerous an animal's life is. A strong answer gives a reason that could be tested.
 4. (perspective) Will doctors one day cure ageing? Three people disagree.  
-   **Answer:** A strong answer picks a view and uses evidence, such as the worm study or the many different changes in the unit (lens, skin, bones, hearing). It then answers back fairly from another view.. *Why:* This is debated. Scientists have made worms, flies and mice live longer. No product has been shown to stop ageing in humans. Whether we should want to is also a real question.
+   **Answer:** A strong answer picks a view and uses evidence, such as the worm study or the many different changes in the lesson (lens, skin, bones, hearing). It then answers back fairly from another view.. *Why:* This is debated. Scientists have made worms, flies and mice live longer. No product has been shown to stop ageing in humans. Whether we should want to is also a real question.
 5. (mcq) Killer whales are big dolphins. Old grandmother killer whales often lead their families to salmon, mostly in years when food is hard to find. Which idea does this support?  
    Options: Long life after having babies can help a family survive / Old animals are always weaker than young ones / Whales do not age / Salmon prefer grandmothers  
    **Answer:** Long life after having babies can help a family survive. *Why:* The grandmothers remember where food was in past hard years. Their families do better with them. This supports the grandmother idea: that long-lived grandmothers help their grandchildren survive.
@@ -788,6 +788,13 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with hands-on galleries. Check what is showing about the body and health before you go.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in How Close Can You Read?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before How Close Can You Read?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Close Can You Read?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before How Close Can You Read?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Sticky-Note Body. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a5. Get it before The Sticky-Note Body.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Design an Elder-Friendly Room. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Design an Elder-Friendly Room.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Socks on Your Hands: Trying Tasks Like an Elder. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a4. Get it before Socks on Your Hands: Trying Tasks Like an Elder.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Easy-Open Jar. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in c2. Get it before The Easy-Open Jar.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five life stages in order. → Baby, child, teenager, adult, older adult.

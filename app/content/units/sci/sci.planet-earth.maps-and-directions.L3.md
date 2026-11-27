@@ -1,9 +1,9 @@
 # Maps and directions: how to draw your home so someone else can find their way
 `sci.planet-earth.maps-and-directions.L3`
 
-**Summary.** How can a drawing with no colours or sounds lead a stranger to a hidden coin? In this unit you will find east from the morning Sun, draw a map of your home with a key, and test a memory map against a map made by counting tiles.
+**Summary.** How can a drawing with no colours or sounds lead a stranger to a hidden coin? In this lesson you will find east from the morning Sun, draw a map of your home with a key, and test a memory map against a map made by counting tiles.
 
-**Intro.** *Put a coin on the floor of a room. Can you draw a map so good that someone who did not see where you put it can walk in and put a finger on the coin?* In this unit you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.
+**Intro.** *Put a coin on the floor of a room. Can you draw a map so good that someone who did not see where you put it can walk in and put a finger on the coin?* In this lesson you draw maps of your room, your home and your street. You find out which way north, south, east and west are in your own flat. You test two maps against each other to see which one finds a hidden coin. And you find out how a desert ant finds her way home by counting her steps.
 
 ## Learning outcomes
 0. I can name the four directions, north, south, east and west, and find east and north in my home from the morning Sun or a compass.
@@ -36,6 +36,8 @@ A photo shows a room from the side, the way your eyes see it. A map shows it fro
 - e.g. A map of a school shows each classroom as a box with its number.
 - e.g. A bus route map in Bengaluru shows the stops as dots on a line, and leaves out the houses.
 - e.g. The map on a phone shows roads as lines and the place you are as a blue dot.
+- **Gerardus Mercator (1569):** His map keeps directions right for sailors, but it makes places near the poles look much bigger.
+- **Gall and Peters (1800s–1970s):** Their map keeps sizes right and bends the shapes. No flat map can keep all of shape, size and distance, because the Earth is round.
 ### North, south, east and west · *defined*
 **Definition:** North, south, east and west are four directions fixed to the Earth. North points towards the North Pole, south towards the South Pole. East is where the Sun rises, roughly, and west is where it sets.
 
@@ -44,6 +46,8 @@ The Earth spins like a top. The two ends of the line it spins round are the Nort
 - e.g. Delhi is north of Chennai.
 - e.g. Bengaluru is west of Chennai.
 - e.g. Kolkata is north-east of Chennai.
+- **Many old maps in Europe and Asia:** Put east at the top, toward the rising Sun. This is where the word 'orient' comes from.
+- **Indian tradition:** Treats the east as 'purva', the front, and the other directions are named from there. Maps today put north at the top because people agreed.
 ### Finding the directions in your own home · *defined*
 **Definition:** In the morning, the Sun is roughly in the east. Stand with your right hand towards it, and you are facing north.
 
@@ -51,6 +55,8 @@ You do not need to go outside. Look at which window gets the Sun early in the mo
 - e.g. In a Chennai flat, the balcony that gets the morning Sun faces east, towards the Bay of Bengal.
 - e.g. The window that gets the red evening Sun faces roughly west.
 - e.g. A compass on a table points north whichever way you turn the table.
+- **Vastu Shastra:** The old Indian tradition of building lays a house along the four directions, using the Sun's rise to find east.
+- **Astronomers:** Say the Sun rises exactly in the east only on two days a year. In summer it rises north of east and in winter south of east, so a home's direction should be checked with a compass.
 ### Left and right, or north and south? · *defined*
 **Definition:** Left, right, forward and back belong to your body, so they change whenever you turn. North, south, east and west belong to the Earth, so they stay the same whichever way you face.
 
@@ -58,6 +64,8 @@ Say a friend is told, "Walk three tiles forward, then turn right." Where she end
 - e.g. A sailor at sea says the ship is heading north-east, not left.
 - e.g. In the Guugu Yimithirr language of north-east Australia, people say "the cup is north of the plate" instead of left or right.
 - e.g. Bus drivers in a city still say "take the second left", because they know which way you face.
+- **Sanskrit:** The word dakshina means both south and right. The speaker faces east, so the right hand points south.
+- **Guugu Yimithirr speakers:** In Australia use compass directions for everything, such as 'a spider by your north foot'. For them, left and right are not in the language at all.
 ### Symbols, a key and a north arrow · *defined*
 **Definition:** A map uses symbols for real things, a key to say what each symbol means, and an arrow or compass rose to show which way is north.
 
@@ -65,6 +73,8 @@ Drawing every leaf of a tree would take hours, so a map uses a symbol, such as a
 - e.g. On Indian railway maps, a small train symbol often marks a station.
 - e.g. On a map of a temple, a small drawn tower can mark each gopuram.
 - e.g. In a phone map, the blue dot is a symbol for you.
+- **Al-Idrisi:** In 1154 this scholar of Sicily made a world map with south at the top. A map's top is a choice.
+- **Ptolemy and the mapmakers after him:** Put north at the top, and this became the custom. A north arrow tells the reader which choice was made.
 ### Scale: keeping distances right · *defined*
 **Definition:** Scale is how much smaller a map is than the real place. On a good map, every distance is shrunk by the same amount.
 
@@ -72,6 +82,8 @@ Many Indian flats have square floor tiles. If you draw one square on squared pap
 - e.g. A tile map: one square on paper stands for one floor tile.
 - e.g. A map of India in an atlas may say 1 centimetre stands for 100 kilometres.
 - e.g. Nain Singh Rawat mapped the road to Lhasa by counting his steps on a string of 100 beads.
+- **Gerardus Mercator:** In 1569 made a map useful for sailors, but it makes regions near the poles look huge. Greenland looks as big as Africa.
+- **Carl Friedrich Gauss:** In 1827 proved that a curved surface like the Earth cannot be shown flat without stretching something. Every flat map keeps some things and bends others.
 ### How a desert ant finds her way home · *defined*
 **Definition:** A desert ant finds her way home by keeping track of her direction, using the Sun, and of how far she has walked, by counting her steps.
 
@@ -79,6 +91,8 @@ Cataglyphis ants live in the Sahara desert, where the ground can be hotter than 
 - e.g. An ant with stilts overshot her nest.
 - e.g. An ant with shortened legs stopped before she reached her nest.
 - e.g. Both results show the ant was counting steps, not just looking for her nest.
+- **Desert ants:** Find home by keeping a running count of their steps and the Sun's direction, and need no map.
+- **Polynesian wayfinders and others:** Crossed the ocean using stars, swells and birds, and a mental map passed on in songs. People have used many ways, and maps are one.
 
 ## Mostly agreed
 - North, south, east and west are fixed to the Earth. North points towards the North Pole. *How we know:* A compass needle points the same way whichever way you turn its box, and sailors and pilots everywhere use the same directions.
@@ -126,7 +140,7 @@ One room can have many true maps: your tile map, a grown-up's map of it in their
 - Science (open): How signals from place cells and grid cells become the feeling of knowing where you are is not known.
 - Other view, Many mapmakers and geographers: No map is simply true. Every map leaves things out, and the mapmaker chooses what. A city map for cars can leave out the footpaths that walkers need. So instead of asking whether a map is true, we should ask what it is for and whom it leaves out.
 - Practice, Walk the map with your eyes closed (3 min): Sit still and close your eyes. Picture your bed. Now picture walking from your bed to the kitchen. Count the steps in your head. Which way do you turn at each door? Open your eyes. Now walk it for real and count. Was the map in your head right?
-- Ask: Which of the maps you made in this unit was the most useful, and who was it useful to?
+- Ask: Which of the maps you made in this lesson was the most useful, and who was it useful to?
 - Ask: In the story Thatha and the Six Towers, Thatha hardly needed his map once he knew the way home. So what is a map for?
 - Ask: If an ant, a bird and you each map the same building, whose map is the real one?
 
@@ -650,9 +664,9 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - Rescue teams after floods and cyclones use maps to plan which roads are still open.
 
 ## Spotted around us
-- The 'you are here' map at a metro station in Chennai, Bengaluru, Kochi, Kolkata or Mumbai.
+- The 'you are here' map at a metro station or a bus stand.
 - The fire exit plan on the back of a hotel or hospital room door.
-- The Madurai Meenakshi Amman temple, with a tall gateway tower, a gopuram, on each of its four sides.
+- A big temple with a tall gateway tower, a gopuram, on each of its four sides.
 - A building plan in a newspaper property advertisement, drawn from above with room sizes.
 - The blue dot on a phone map, moving as the auto moves.
 - The morning sunlight on one wall of your flat, which shows you the east side.
@@ -699,7 +713,11 @@ Rock, Leaf and Worm (sci.planet-earth.L3): Topic-level song for Planet Earth L3
 - [Meenakshi Amman Temple](https://maduraimeenakshi.hrce.tn.gov.in) · place · Madurai: A great temple laid out along the four directions, with a tall gopuram on each side. Look at it from above on a phone map, then visit.
 
 ## Things to buy
-- [A small magnetic compass (optional)](https://www.amazon.in/s?k=magnetic+compass+for+kids) (tool): Finds north at any time of day, even when it is cloudy. Stationery shops and online shops sell small plastic compasses for children. A phone compass app or the morning Sun works just as well for this unit. Used in a2, p1. 
+- [A small magnetic compass (optional)](https://www.amazon.in/s?k=magnetic+compass+for+kids) (tool): Finds north at any time of day, even when it is cloudy. Stationery shops and online shops sell small plastic compasses for children. A phone compass app or the morning Sun works just as well for this lesson. Used in a2, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Child Steps, Grown-up Steps: do two maps of one room come out the same shape?. About ₹10 to ₹30. Any school ruler is fine. Used in e3. Get it before Child Steps, Grown-up Steps: do two maps of one room come out the same shape?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Memory Map or Tile Map: which one finds the hidden coin?, Child Steps, Grown-up Steps: do two maps of one room come out the same shape?, A Map for a Visitor: from the gate to our front door. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, e3, p1. Get it before Memory Map or Tile Map: which one finds the hidden coin?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Steer the Toy Car: directions on a tile grid. About ₹100 to ₹200. A marble or a round torch cell works. Used in c2. Get it before Steer the Toy Car: directions on a tile grid.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does the Sun rise, roughly? → In the east.

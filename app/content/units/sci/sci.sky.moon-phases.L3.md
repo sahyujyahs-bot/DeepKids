@@ -1,9 +1,9 @@
 # Why the Moon seems to change shape, and how eclipses happen
 `sci.sky.moon-phases.L3`
 
-**Summary.** The Moon makes no light of its own, so why does it seem to change shape? In this unit you will use a ball and a lamp to make every phase of the Moon, walk round a chair to see why we always see the same face, and keep a Moon diary.
+**Summary.** The Moon makes no light of its own, so why does it seem to change shape? In this lesson you will use a ball and a lamp to make every phase of the Moon, walk round a chair to see why we always see the same face, and keep a Moon diary.
 
-**Intro.** *The Moon is a round ball of rock. So why does it look like a thin curve on some nights, and a full circle on others?* People everywhere have watched the Moon grow from a thin curve to a full circle and back again, about once a month. Farmers and fishing families planned their work by it, and Indian calendars still count its days. The word 'month' even comes from the word 'Moon'. But the Moon makes no light, and it never changes its size. So what changes? In this unit you will make every Moon shape yourself, with a ball and a lamp in a dark room, and find out.
+**Intro.** *The Moon is a round ball of rock. So why does it look like a thin curve on some nights, and a full circle on others?* People everywhere have watched the Moon grow from a thin curve to a full circle and back again, about once a month. Farmers and fishing families planned their work by it, and Indian calendars still count its days. The word 'month' even comes from the word 'Moon'. But the Moon makes no light, and it never changes its size. So what changes? In this lesson you will make every Moon shape yourself, with a ball and a lamp in a dark room, and find out.
 
 ## Learning outcomes
 0. I can show with a ball and a lamp why the Moon seems to change shape, and name its phases in order.
@@ -804,7 +804,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 - Rows of diyas on Diwali, lit on a night with no Moon.
 - A full Moon rising huge and orange behind a water tank or a temple tower.
 - A pale Moon in the blue morning sky on the way to school, a few days after Purnima.
-- High spring tides on a beach, or at a ghat in Kolkata, where the river has tides, on the days of Amavasya and Purnima.
+- High spring tides on a beach or at a river ghat on the days of Amavasya and Purnima.
 - People watching for the thin new crescent from rooftops on the evening before Eid.
 - Karthigai Deepam evening, when families light rows of lamps under the full Moon.
 
@@ -870,6 +870,10 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 - [Brass split pins (paper fasteners)](https://www.amazon.in/s?k=brass+split+pins+paper+fasteners) (material): Join the two plates of the Moon wheel so the top one turns. Used in p1. 
 - [The Moon Book, by Gail Gibbons](https://www.amazon.in/s?k=The+Moon+Book+Gail+Gibbons) (book): A clear picture book about the Moon's phases, eclipses and the Moon landings, for ages 5 to 9. Used in e1. 
 - [Moon! Earth's Best Friend, by Stacy McAnulty](https://www.amazon.in/s?k=Moon+Earth%27s+Best+Friend+Stacy+McAnulty) (book): A funny picture book told by the Moon itself, about its phases, its one face and its friendship with the Earth. Used in a1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Which Shadow Is Bigger? Wang Zhenyi's eclipses at home, A Moon Wheel: a paper calendar that shows tonight's Moon. About ₹10 to ₹30. Any school ruler is fine. Used in e2, p1. Get it before Which Shadow Is Bigger? Wang Zhenyi's eclipses at home.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Talk to the Far Side. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c2. Get it before Talk to the Far Side.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Walk Round the Chair: does the Moon spin?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before Walk Round the Chair: does the Moon spin?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Moon make its own light? → No. It shines with sunlight bouncing off it.

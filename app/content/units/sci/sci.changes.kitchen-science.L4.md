@@ -1,9 +1,9 @@
 # Science in the kitchen: why food browns, bread rises and onions make us cry
 `sci.changes.kitchen-science.L4`
 
-**Summary.** Why does a chopped onion make your eyes sting when a whole one does not? In this unit you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.
+**Summary.** Why does a chopped onion make your eyes sting when a whole one does not? In this lesson you will try an onion whole, halved and chopped, stop a cut apple turning brown, toast bread squares on a tawa, and wash a ball of dough to find the gluten.
 
-**Intro.** *A cook can carry a bag of onions all the way home with dry eyes. Then she chops one onion, and tears run down her face. Where was the gas that stings her eyes before she picked up the knife?* The gas was not in the onion. The onion made the gas after the knife went in. In this unit you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.
+**Intro.** *A cook can carry a bag of onions all the way home with dry eyes. Then she chops one onion, and tears run down her face. Where was the gas that stings her eyes before she picked up the knife?* The gas was not in the onion. The onion made the gas after the knife went in. In this lesson you test this with a whole onion, a halved onion and a chopped onion. You stop an apple slice from turning brown with two minutes of heat. Then you use heat to turn bread brown, and find what makes it brown faster. You also wash a ball of wheat dough under water until only a stretchy lump is left. That lump is the reason bread can rise.
 
 ## Learning outcomes
 0. I can explain why a cut apple or brinjal turns brown: broken cells, an enzyme and oxygen from the air.
@@ -35,7 +35,7 @@
 ### A cell keeps its chemicals in separate parts · *defined*
 **Definition:** A cell is the tiny living unit that plants and animals are built from. Inside a plant cell, different chemicals are stored in separate parts.
 
-An onion, an apple and a tea leaf are all built from cells. Each cell has a wall around it. Inside the cell are smaller parts, each closed off by a thin skin. One part may store a chemical. Another part may store the enzyme that can change that chemical. An enzyme is a chemical made by cells that speeds up one kind of change. While the cell is whole, the two never meet, so nothing happens. A knife, a grater or a set of teeth breaks the cells open. Then the stored chemicals and the enzymes mix. New substances form within seconds or minutes. This one fact explains three things in this unit. It explains why a cut apple browns and why a chopped onion stings. It also explains why crushed mustard becomes sharp.
+An onion, an apple and a tea leaf are all built from cells. Each cell has a wall around it. Inside the cell are smaller parts, each closed off by a thin skin. One part may store a chemical. Another part may store the enzyme that can change that chemical. An enzyme is a chemical made by cells that speeds up one kind of change. While the cell is whole, the two never meet, so nothing happens. A knife, a grater or a set of teeth breaks the cells open. Then the stored chemicals and the enzymes mix. New substances form within seconds or minutes. This one fact explains three things in this lesson. It explains why a cut apple browns and why a chopped onion stings. It also explains why crushed mustard becomes sharp.
 - e.g. A whole apple stays white inside for weeks. A cut apple browns within the hour.
 - e.g. A whole clove of garlic has little smell. A crushed clove smells strong at once.
 - e.g. A bruise on a banana turns brown, because the cells under the peel were crushed.
@@ -137,7 +137,7 @@ An onion bulb is alive. They are a resting plant, and they can sprout again. The
   Against: People eat far smaller doses than the test animals received. Studies of people have not shown clear harm. Many food agencies still advise cooking to golden and not to dark brown.
 
 ## Roots
-In this unit you found that an onion's sting and an apple's brown are made after the cut. Here we ask what a thing holds before it is cut, and what that tells us about living beings.
+In this lesson you found that an onion's sting and an apple's brown are made after the cut. Here we ask what a thing holds before it is cut, and what that tells us about living beings.
 
 **Deep truth.** In the Onion Sting, a whole onion near your eyes did nothing, and a chopped onion stung. A whole onion holds no tear gas. Each cell stores two chemicals in separate parts, and a knife makes them meet. So the sting is made after the cut, by the onion's own cells.  
 *Habit it breaks:* We speak as if the sting, the smell and the colour of a food are stored inside it. Some of them do not exist until the cells are broken. What the plant holds is the means to make them.  
@@ -628,8 +628,8 @@ By Saturday there was a kilo of green tea in a steel tin, tied in a cloth. Malar
 
 ## Videos
 - **Why Do Onions Make You Cry?** (Reactions, 4 min) id `RaZpPwmWZ7Q`: To see the two steps that make the tear gas, which cannot be seen in the Onion Sting. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Why the Maillard Reaction Makes Everything Delicious** (Reactions, 3 min) id `rs1JLYXROVU`: The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this unit. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
-- **Green Tea vs. Black Tea: Same Plant, Different Drink** (History of Simple Things, 3 min) id `iuXW0iM7rhc`: The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this unit. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Why the Maillard Reaction Makes Everything Delicious** (Reactions, 3 min) id `rs1JLYXROVU`: The child sees, in about three minutes, why toast and fried food turn brown and taste better, which supports the Heat browning and Maillard reaction ideas in this lesson. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
+- **Green Tea vs. Black Tea: Same Plant, Different Drink** (History of Simple Things, 3 min) id `iuXW0iM7rhc`: The child sees how green and black tea come from the same leaf and differ by how long the leaf is left to brown, which supports the tea-browning idea in this lesson. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
 
 ## Quiz
 1. (mcq) Why does a cut brinjal turn brown?  
@@ -729,13 +729,18 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - [Maillard reaction (Wikipedia)](https://en.wikipedia.org/wiki/Maillard_reaction) · interactive: For the parent: how sugars and proteins make the colour and smell of browned food.
 - [Gluten (Wikipedia)](https://en.wikipedia.org/wiki/Gluten) · interactive: For the parent: what gluten is made of, how it forms in dough, and coeliac disease.
 - [syn-Propanethial-S-oxide (Wikipedia)](https://en.wikipedia.org/wiki/Syn-Propanethial-S-oxide) · interactive: For the parent: the onion's tear gas and the two enzymes that make it.
-- [Tea processing (Wikipedia)](https://en.wikipedia.org/wiki/Tea_processing) · interactive: For the parent: how one leaf becomes green, oolong or black tea, as in the unit's story.
+- [Tea processing (Wikipedia)](https://en.wikipedia.org/wiki/Tea_processing) · interactive: For the parent: how one leaf becomes green, oolong or black tea, as in the lesson's story.
 - [Leavening agent (Wikipedia)](https://en.wikipedia.org/wiki/Leavening_agent) · interactive: For the parent: yeast, baking soda, steam and the other ways of raising dough.
-- [Tea Museum, Munnar]() · place · Munnar, Kerala: A museum about tea in the hills of Munnar, where visitors can learn how tea is made.
+- Tea Museum, Munnar · place · Munnar, Kerala: A museum about tea in the hills of Munnar, where visitors can learn how tea is made.
 
 ## Things to buy
 - [Fruit salt: one small sachet of the plain, unflavoured kind](https://www.amazon.in/s?k=fruit+salt+plain) (material): For Two Katori Dhoklas. Any grocery or medical shop sells a sachet for a few rupees. A pinch of baking soda with half a teaspoon of lemon juice works in its place. Used in a2. 
 - [Masala Lab: The Science of Indian Cooking, a book by Krish Ashok](https://www.amazon.in/s?k=Masala+Lab+Krish+Ashok) (book): For the parent or an older child: a clear and funny account of browning, rising and onions in an Indian kitchen. Used in e2. After the Tawa Toast Test, a parent can read aloud a few pages on browning.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Two Katori Dhoklas: with soda and without. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Two Katori Dhoklas: with soda and without.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Two Katori Dhoklas: with soda and without. About ₹20 to ₹40. Check the kitchen first. Used in a2. Get it before Two Katori Dhoklas: with soda and without.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Wake the Mustard: raw seeds and roasted seeds. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Wake the Mustard: raw seeds and roasted seeds.
+- [Safety goggles](https://www.amazon.in/s?k=safety+goggles+kids) (tool): Used in Tear-Free Chopping: make the cook's eyes last longer. About ₹60 to ₹200. Sunglasses give some protection. Used in c1. Get it before Tear-Free Chopping: make the cook's eyes last longer.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What three things does a cut apple need in order to turn brown? → Broken cells, a working enzyme and oxygen from the air.

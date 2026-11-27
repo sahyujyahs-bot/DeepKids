@@ -1,7 +1,7 @@
 # Sorting materials: how the rule you choose decides the groups
 `sci.materials.sorting-materials.L3`
 
-**Summary.** A tricky thing can land in a different group depending on the rule you choose. In this unit you will sort one heap three ways, guess hidden rules, race to find which question key is fastest, and sort things by their sound.
+**Summary.** A tricky thing can land in a different group depending on the rule you choose. In this lesson you will sort one heap three ways, guess hidden rules, race to find which question key is fastest, and sort things by their sound.
 
 **Intro.** *Try this. Put six things on the floor: a steel spoon, a wooden spoon, a glass bangle, a rubber band, a comb and a candle. Make two groups. Now mix them up and make two different groups. How many different ways can you find?* In every town in India there is a kabadiwala. This is a person who buys old newspapers, bottles, tins and iron. He or she sells them on, so they can be made into new things. Watch a kabadiwala work and you see sorting all day long. Paper goes here. Glass goes there. Iron goes in a third pile. But the same heap could be sorted in many other ways: by colour, by weight, or by whether it rings when you drop it. Which way is right? That depends on what the sorting is for.
 
@@ -945,6 +945,12 @@ What Is It Made Of? (sci.materials.L3):
 - [A small bar magnet (only if your fridge magnets are too weak to lift a paper clip)](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Picks the steel clips out of the mix in the Model Recycling Line. Used in a4. 
 - [Women in Science: 50 Fearless Pioneers Who Changed the World, by Rachel Ignotofsky](https://www.amazon.in/s?k=Women+in+Science+Rachel+Ignotofsky) (book): An illustrated book with short life stories of women scientists, for after Star Sorter. Used in a5. 
 - [The Periodic Table: Elements with Style!, by Adrian Dingle](https://www.amazon.in/s?k=The+Periodic+Table+Elements+with+Style+Adrian+Dingle) (book): A picture book that introduces the elements, with a friendly cartoon character for each. Read it after Find the Missing Card. Used in g2. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Scratch Ladder, Our Home Materials Museum. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e2, p1. Get it before The Scratch Ladder.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Sort by Sound. About ₹150 to ₹400. A phone stopwatch works well. Used in e4. Get it before Sort by Sound.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in One Heap, Three Rules, The Floor Venn. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, a2. Get it before One Heap, Three Rules.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Model Recycling Line. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4. Get it before Model Recycling Line.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Scratch Ladder. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2. Get it before The Scratch Ladder.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Sorting is putting things into groups using a ____. → rule

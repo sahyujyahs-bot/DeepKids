@@ -1,9 +1,9 @@
 # The Sun up close: layers, spots, storms and the wind that blows past the Earth
 `sci.sky.the-sun.L4`
 
-**Summary.** The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this unit you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.
+**Summary.** The Sun looks like a ball with a sharp edge, but it has no ground at all. So what is its edge? In this lesson you will make a glowing fog to see where a ball of gas ends, boil a pot to see how the Sun churns, and sort clues into its layers.
 
-**Intro.** *If you flew to the Sun in a spacecraft and tried to land, where would you put your feet? The Sun looks like a ball with a skin, but there is no ground to stand on. It is gas all the way to the centre. So what is the edge that we see in every picture?* The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this unit you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.
+**Intro.** *If you flew to the Sun in a spacecraft and tried to land, where would you put your feet? The Sun looks like a ball with a skin, but there is no ground to stand on. It is gas all the way to the centre. So what is the edge that we see in every picture?* The edge is real to our eyes, but it is not a wall. It is the place where the hot gas becomes clear enough for light to get out and reach us. Above that edge the Sun does not stop. Thin, hot gas goes on for millions of kilometres, and a wind from it blows past the Earth. In this lesson you make your own glowing cloud to find out what an edge is, and you follow dark spots across the Sun to prove that it turns.
 
 ## Learning outcomes
 0. I can name the Sun's layers in order, from the core to the corona, and say what happens in each one.
@@ -650,7 +650,7 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 3. (mcq) A comet is leaving the Sun, and its tail still points away from the Sun. What does this show?  
    Options: The tail is pushed by the Sun's wind and light, not left behind by the comet's movement / The tail is made of fire / The comet is going backwards / Gravity pulls the tail  
    **Answer:** The tail is pushed by the Sun's wind and light, not left behind by the comet's movement. *Why:* If the tail were only left behind, it would point back along the comet's path. A tail pointing away from the Sun, even when the comet is leaving it, shows that something from the Sun pushes it.
-4. (write) A friend says, 'The Sun's edge is a wall, and space starts there.' Use two facts from this unit to answer them.  
+4. (write) A friend says, 'The Sun's edge is a wall, and space starts there.' Use two facts from this lesson to answer them.  
    **Answer:** The Sun is gas, so there is no wall. The edge is the layer where light can escape. The corona and the wind continue beyond it and blow past the Earth, so space near us still has the Sun's gas in it.. *Why:* A strong answer uses the idea of the photosphere and the wind to show that the Sun does not stop at the edge.
 5. (perspective) A class is deciding how to watch the Sun's spots.  
    **Answer:** A strong answer picks one and gives a reason. It gives credit to the other: spacecraft pictures are clear and safe, while a home projection shows the real Sun today and teaches how people first saw spots. Neither involves looking at the Sun directly.. *Why:* There is a real trade-off between quality and learning by doing. Both are safe.
@@ -736,12 +736,12 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 - Learning from the Sun how to make fusion power on Earth, where the plasma must be held by magnetic fields.
 
 ## Spotted around us
-- The thin pink-red rim and silvery glow round the black Moon in pictures of a total solar eclipse, such as the one seen in India on 22 July 2009.
-- Solar panels on apartment roofs, always tilted towards the south in India.
+- The thin pink-red rim and silvery glow round the black Moon in pictures of a total solar eclipse.
+- Solar panels on apartment roofs, tilted towards the south.
 - A compass needle that settles and points north, steered by the Earth's magnetic field.
 - The boiling in a pot of sambar or dal, with bubbles rising in the middle and sinking at the edges.
 - Bright dots of sunlight on the ground under a tree. Each dot is a tiny round picture of the Sun, which is why the dots turn into crescents during an eclipse.
-- Kodaikanal Solar Observatory, which has been recording the Sun since 1899.
+- A solar observatory that has been recording the Sun since 1899, in a picture.
 - The glow round a street lamp on a foggy winter morning, which seems to have an edge but fades into the mist.
 - A spectrum of colours spread across the back of a CD in the light of a lamp.
 
@@ -795,11 +795,16 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 - [NASA Space Place: Sun](https://spaceplace.nasa.gov/) · interactive: Short, clear pages and games for children about the Sun and space weather.
 - [Aditya-L1, ISRO](https://www.isro.gov.in/) · interactive: India's spacecraft that studies the Sun from near the point called L1. Search for Aditya-L1 on the page.
 - [Kodaikanal Solar Observatory](https://www.iiap.res.in/) · place · Kodaikanal, Tamil Nadu: An observatory that has been recording the Sun since 1899. Check visiting rules on the Indian Institute of Astrophysics website before you go.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A planetarium with shows about the Sun and the sky. Check show times before you go.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A planetarium with shows about the Sun and the sky. Check show times before you go.
 
 ## Things to buy
 - [A pack of blank CDs or DVDs](https://www.amazon.in/s?k=blank+cd+pack) (material): For splitting light into colours in the Sun's Barcode. An old CD that nobody needs works just as well. Used in e3. 
 - [A protractor and a straight pencil](https://www.amazon.in/s?k=protractor+set) (tool): For measuring the tilt in the Sun-Facing Stand. A stationery shop sells them for a few rupees. Used in c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Glowing Fog: where does a ball of gas end?, A Stream Past a Stone: how a wind flows round the Earth, The Sunspot Diary: how long does the Sun take to turn?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, p1. Get it before Glowing Fog: where does a ball of gas end?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Sun's Barcode: split light into colours with a CD. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e3. Get it before The Sun's Barcode: split light into colours with a CD.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Spin the Orange: how a spot proves the Sun turns, A Stream Past a Stone: how a wind flows round the Earth, The Sun-Facing Stand: find the tilt for solar panels in your city. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2, a3, c1. Get it before Spin the Orange: how a spot proves the Sun turns.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Boiling Pot: how the Sun's surface churns. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e2. Get it before The Boiling Pot: how the Sun's surface churns.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Sun have solid ground? → No. It is gas from the outside to the centre.
@@ -820,7 +825,7 @@ Star, Planet, Moon (sci.sky.L4): Topic-level song
 ## Sources
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Maria Mitchell (daily sunspot photographs) and Ruby Payne-Scott (radio bursts from the Sun), and the activity of tracking the Sun's behaviour, used in the sunspot diary and the Sunspot story
 - ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row on light bending and splitting into colours (prism, rainbows), used in the Sun's Barcode
-- The Class 3 unit on the Sun, built on and not repeated: no magnifying glass, ice test, mirror Sun, sun print, sun cooker or eclipse party here. This unit adds the layers, spots, spin, wind and aurora
+- The Class 3 unit on the Sun, built on and not repeated: no magnifying glass, ice test, mirror Sun, sun print, sun cooker or eclipse party here. This lesson adds the layers, spots, spin, wind and aurora
 - Galileo Galilei, Istoria e dimostrazioni intorno alle macchie solari (Letters on Sunspots), 1613; Christoph Scheiner, Tres epistolae de maculis solaribus, 1612
 - Heinrich Schwabe, Astronomische Nachrichten, 1843 (the sunspot cycle); Annie Maunder and Walter Maunder, the butterfly diagram of sunspot latitudes, 1904 (Wikipedia, Annie Maunder; Annie was not named on the paper, which her husband published)
 - Joseph von Fraunhofer, dark lines in the Sun's spectrum, 1814; Kirchhoff and Bunsen, 1859 to 1860 (sodium lines in the Sun)

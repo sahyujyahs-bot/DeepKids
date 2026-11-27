@@ -1,9 +1,9 @@
 # Photosynthesis and breathing: how plants and other living beings share one breath
 `sci.plants.photosynthesis.L4`
 
-**Summary.** Every dawn, fish in a green pond gulp at the surface, though the pond is full of plants that make oxygen. Why do they run short? In this unit you will use colour-changing water to see what a plant does to the air in light and dark, and graph a pond's oxygen.
+**Summary.** Every dawn, fish in a green pond gulp at the surface, though the pond is full of plants that make oxygen. Why do they run short? In this lesson you will use colour-changing water to see what a plant does to the air in light and dark, and graph a pond's oxygen.
 
-**Intro.** *A pond is full of green plants, and plants make oxygen. Yet at dawn the fish in the pond come up to the surface and gulp, as if they cannot breathe. Where did the oxygen go?* You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this unit you blow your breath into cabbage water, which changes colour as carbon dioxide goes in. Then you watch a leaf use that carbon dioxide up in the light and add it back in the dark. After that, you work out why a pond runs short of oxygen just before sunrise.
+**Intro.** *A pond is full of green plants, and plants make oxygen. Yet at dawn the fish in the pond come up to the surface and gulp, as if they cannot breathe. Where did the oxygen go?* You may already know that a leaf in the sun takes in carbon dioxide and gives out oxygen. That is only half of the story. The same leaf also takes in oxygen and gives out carbon dioxide, because every living cell needs energy from its food. Which half wins depends on the light. In this lesson you blow your breath into cabbage water, which changes colour as carbon dioxide goes in. Then you watch a leaf use that carbon dioxide up in the light and add it back in the dark. After that, you work out why a pond runs short of oxygen just before sunrise.
 
 ## Learning outcomes
 0. I can explain that plants do both photosynthesis and respiration, and that the light decides which one wins overall.
@@ -690,7 +690,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
    **Answer:** ['100', 'one hundred']. *Why:* 4 in 100 is the same as 400 in 10,000. 400 divided by 4 is 100. So your breath has about 100 times as much carbon dioxide as ordinary air.
 4. (truefalse) When a leaf is moved into the dark, the light stage of photosynthesis carries on as before.  
    **Answer:** False. *Why:* False. The light stage needs light, so it stops quickly. The sugar-building stage carries on for a short time, using the energy carriers that are left, then it slows down too.
-5. (match) Match each tool to what it tells you in this unit's tests.  
+5. (match) Match each tool to what it tells you in this lesson's tests.  
    **Answer:** A thermometer → How warm the water is; A light meter or a phone app → How bright the light is; A dissolved oxygen meter → How much oxygen is in the water; Cabbage water → Whether the water has gained or lost carbon dioxide. *Why:* Each tool measures one thing. Cabbage water is an indicator that changes colour with the acidity caused by dissolved carbon dioxide.
 6. (mcq) Which chain of events best explains how an algae bloom can kill fish?  
    Options: The bloom dies and rots, and bacteria use up the oxygen while they rot the dead algae / The algae eat the fish / The bloom makes the water too cold / The algae make too much oxygen  
@@ -834,14 +834,23 @@ Plants of India (sci.plants.L4): Topic-level song
 - [Ask A Biologist: photosynthesis pages](https://askabiologist.asu.edu/) · interactive: Free, clear pages and pictures about how plants make food and use it, from Arizona State University. Search for photosynthesis and respiration.
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/) · interactive: Satellite pictures of the Earth greening and browning through the year. Search for chlorophyll or phytoplankton.
 - [The Keeling Curve (Scripps Institution of Oceanography)](https://keelingcurve.ucsd.edu/) · interactive: For the parent and an older child: the real graph of carbon dioxide in the air since 1958, with its yearly wiggle.
-- [Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A large old botanic garden with greenhouses and water plants, where you can see many kinds of leaves and the famous giant banyan tree.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A botanic garden with a glasshouse and lakes, where you can compare the leaves of sun and shade plants and spot cactuses and succulents.
+- Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A large old botanic garden with greenhouses and water plants, where you can see many kinds of leaves and the famous giant banyan tree.
+- Lalbagh Botanical Garden · place · Bengaluru: A botanic garden with a glasshouse and lakes, where you can compare the leaves of sun and shade plants and spot cactuses and succulents.
 
 ## Things to buy
 - [Four to eight clear glass jars with lids](https://www.amazon.in/s?k=glass+jars+with+lid+250+ml) (material): For the Breath Colours and Green Water tests and the sealed jar garden. Empty jam or pickle jars from the kitchen work well. Water plants for the Breath Colours test come from an aquarium shop (about Rs 30 to 50). Used in e1, e2, p1. 
 - [A magnifying glass (about Rs 50 at a stationery shop); a clip-on phone microscope lens is optional](https://www.amazon.in/s?k=clip+on+phone+microscope+lens) (tool): For looking at leaf prints, leaf veins and tiny bubbles. A plain magnifying glass is enough for leaf veins and bubbles. A clip-on lens (about Rs 250 to 500) that magnifies about 60 times shows stomata best, but is optional. Used in a1, a2, e3. 
 - [A small bottle of liquid plant fertiliser](https://www.amazon.in/s?k=liquid+plant+fertilizer+houseplants) (material): For the Green Water test, where a very small pinch feeds the algae. A small bottle from a plant shop lasts a long time. Rice-washing water works if you do not want to buy any. Used in e2. 
 - [A digital fever thermometer (optional)](https://www.amazon.in/s?k=kitchen+thermometer+digital) (tool): For checking that the warm water in the Bubbles on the Glass test is hand-warm, and not hot. A fever thermometer from a medical shop works (about Rs 100 to 200). Without one, use the finger test. Used in e3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sun Leaf and Shade Leaf: same plant, two kinds of leaf, The Pond's Day on Paper: draw a line graph of oxygen, Sealed Jar Garden: a garden that recycles its own air. About ₹10 to ₹30. Any school ruler is fine. Used in a2, a5, p1. Get it before Sun Leaf and Shade Leaf: same plant, two kinds of leaf.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in From Air to Lamp Black: the carbon in a flame. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before From Air to Lamp Black: the carbon in a flame.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Breath Colours: does a leaf use up the breath you blow into water?. About ₹20 to ₹40. Check the kitchen first. Used in e1. Get it before Breath Colours: does a leaf use up the breath you blow into water?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Breath Colours: does a leaf use up the breath you blow into water?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1. Get it before Breath Colours: does a leaf use up the breath you blow into water?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Stomata Prints: see the tiny doors in a leaf, Greenhouse Budget: spend 100 coins to grow the most tomatoes. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, c1. Get it before Stomata Prints: see the tiny doors in a leaf.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Sun Leaf and Shade Leaf: same plant, two kinds of leaf, The Pond's Day on Paper: draw a line graph of oxygen. About ₹10 to ₹30. Draw squares on plain paper. Used in a2, a5. Get it before Sun Leaf and Shade Leaf: same plant, two kinds of leaf.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Greenhouse Budget: spend 100 coins to grow the most tomatoes. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before Greenhouse Budget: spend 100 coins to grow the most tomatoes.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Stomata Prints: see the tiny doors in a leaf. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a1. Get it before Stomata Prints: see the tiny doors in a leaf.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is photosynthesis? → How plants, algae and some bacteria build sugar from carbon dioxide and water, using light.
@@ -861,8 +870,8 @@ Plants of India (sci.plants.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/plants.md: the idea of using a prism to split light and see how plants respond to colours, which became the Engelmann story, and the cyanobacteria and chloroplast story, which shaped the card on the two old guests
-- The Class 3 unit on photosynthesis, which this unit builds on: the idea that a leaf makes food from light, now extended to the leaf also spending food, with new experiments, games and a new story
-- The Class 3 unit on what plants need, which this unit builds on: the idea that light, water and warmth set how a plant grows, now extended to the idea of a limiting factor
+- The Class 3 unit on photosynthesis, which this lesson builds on: the idea that a leaf makes food from light, now extended to the leaf also spending food, with new experiments, games and a new story
+- The Class 3 unit on what plants need, which this lesson builds on: the idea that light, water and warmth set how a plant grows, now extended to the idea of a limiting factor
 - Engelmann, T. W., Botanische Zeitung, 1882 (bacteria and the spectrum: which light a green alga uses)
 - Draper, J. W., 1840s (the claim that yellow light is the most effective, as described in histories of photosynthesis)
 - Keeling, C. D., Tellus, 1960 (carbon dioxide in the air, measured on Mauna Loa)

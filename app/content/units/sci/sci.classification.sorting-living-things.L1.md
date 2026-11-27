@@ -1,9 +1,9 @@
 # Sorting living things: groups by what we can see
 `sci.classification.sorting-living-things.L1`
 
-**Summary.** A crow, a hen and a peacock go in one group, but a bat goes in another. Why? In this unit you will sort leaves, animal cards and your own family into groups, and check whether two leaves from one plant are exactly the same.
+**Summary.** A crow, a hen and a peacock go in one group, but a bat goes in another. Why? In this lesson you will sort leaves, animal cards and your own family into groups, and check whether two leaves from one plant are exactly the same.
 
-**Intro.** *Bring two steel spoons from the same set. Are they the same? Now pick two leaves from one plant. Are they the same too?* Two spoons from one set were made by a machine to look the same. Two leaves grew on a plant. Ask your child to look at both pairs and guess which pair is more alike, and why. Don't give the answer. In this unit we sort living beings into groups by what we can see, and then we test whether two leaves in one group can ever be exactly the same.
+**Intro.** *Bring two steel spoons from the same set. Are they the same? Now pick two leaves from one plant. Are they the same too?* Two spoons from one set were made by a machine to look the same. Two leaves grew on a plant. Ask your child to look at both pairs and guess which pair is more alike, and why. Don't give the answer. In this lesson we sort living beings into groups by what we can see, and then we test whether two leaves in one group can ever be exactly the same.
 
 ## Learning outcomes
 0. By the end I can sort animals and plants into groups by something I can see or feel.
@@ -28,6 +28,9 @@ Scientists sort living beings so that they can find them, name them and learn ab
 - e.g. Crow, hen and peacock all have feathers. A cow, a cat and you do not.
 - e.g. An ant and a butterfly both have 6 legs. A spider has 8.
 - e.g. Tulsi and curry leaves smell strong when you rub them. A money plant leaf hardly smells at all.
+- **Aristotle:** Grouped animals by whether they have blood and how they live.
+- **Linnaeus (1700s):** Grouped them by body features, such as hair or feathers.
+- **Modern biologists:** Group by shared ancestors, found with DNA, so birds sit inside the dinosaur family.
 ### A good rule is one everyone can check · *defined*
 **Definition:** A good sorting rule uses a feature that anyone can see or feel, so that everyone who uses the rule makes the same groups.
 
@@ -35,6 +38,8 @@ Scientists sort living beings so that they can find them, name them and learn ab
 - e.g. 'Has feathers' puts every bird together, and nobody else. No other animal alive today has feathers.
 - e.g. 'Has no legs' puts a snake, an earthworm and a fish together.
 - e.g. 'Big leaf' can start an argument. 'Leaf bigger than my palm' cannot.
+- **Carl Linnaeus:** In the 1700s he sorted plants by counting their stamens and other parts, which anyone could check. His system was easy to use, though it grouped some unrelated plants.
+- **Modern biologists:** Sort by ancestry too, using DNA, so that groups match family trees. The rule is no longer only what we can see.
 ### No two living beings are exactly the same · *defined*
 **Definition:** Every living being is one of a kind. Beings in the same group share one feature, and are still different in many other ways.
 
@@ -42,6 +47,8 @@ Lay two curry leaves on top of each other, and the edges do not match. One leaf 
 - e.g. Two leaves on one tulsi plant are different sizes.
 - e.g. Two crows on the window grill look alike, but one is a little bigger.
 - e.g. You and a friend may both have black hair, but you are not the same person.
+- **Charles Darwin:** Saw that differences among members of one kind are what natural selection works on. Variety is the raw material of change.
+- **Ernst Mayr:** Described an older habit of mind, typological thinking, where each kind has a perfect pattern and differences are errors. He argued for population thinking, where the variety is the real thing.
 ### Humans are animals, and we share groups with other animals · *defined*
 **Definition:** Humans are animals. When we sort animals, humans fit into groups with other animals.
 
@@ -49,6 +56,8 @@ You have two legs, so you go in the two-legs group with the crow and the hen. Yo
 - e.g. Two legs: you, a crow, a hen, a peacock.
 - e.g. Hair or fur: you, a cow, a bat, a monkey.
 - e.g. Babies who drink milk: a human baby, a calf, a baby bat.
+- **Aristotle and Descartes:** Placed humans above animals because of reason.
+- **Linnaeus (1758) and Darwin:** Placed humans among the primates, in the animal group, and Darwin showed we share ancestors with other apes. Yet many cultures also stress the difference.
 
 ## Mostly agreed
 - Scientists sort living beings into groups by their features. *How we know:* Every guide to the birds of India sorts birds by features you can see: the shape of the beak, the colours, the size. People who study plants sort plants by their leaves, flowers and seeds.
@@ -415,11 +424,11 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - When scientists find a new animal or plant, they compare the features with known groups to find where the new one belongs.
 
 ## Spotted around us
-- Fish sellers at a market in Kolkata sort the morning's catch into baskets: rohu, hilsa, prawns and crabs.
-- A vegetable seller in Chennai keeps her greens in separate bundles: curry leaves, coriander, palak and drumstick leaves.
-- Crows and pigeons on the same balcony rail in Hyderabad: both have feathers and beaks, but they look and walk differently.
-- A flower seller in Madurai sorts jasmine, marigold and rose into heaps before making garlands.
-- Tea pickers in Assam pick only the top two leaves and a bud, and leave the older leaves on the bush.
+- Fish sellers at a market sort the morning's catch into baskets: rohu, hilsa, prawns and crabs.
+- A vegetable seller keeps her greens in separate bundles: curry leaves, coriander, palak and drumstick leaves.
+- Crows and pigeons on the same balcony rail: both have feathers and beaks, but they look and walk differently.
+- A flower seller sorts jasmine, marigold and rose into heaps before making garlands.
+- Tea pickers pick only the top two leaves and a bud, and leave the older leaves on the bush.
 
 ## Open questions
 - **How many kinds of living beings are there on Earth?** Scientists have named about two million kinds. Many more have never been found or named, and estimates of the total differ hugely.
@@ -454,11 +463,14 @@ Same and Different (sci.classification.L1): A short song about how living things
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant or animal from your window, and see which group they belong to.
 - [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) · interactive: For the parent: free old books of nature drawings, including Maria Sibylla Merian's paintings of insects.
-- [Regional Museum of Natural History]() · place · Mysuru: Displays of Indian animals and plants, set out in groups.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A huge garden of plants from across India and the world, with the Great Banyan tree.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A large garden where children can compare the leaves of hundreds of kinds of trees.
+- Regional Museum of Natural History · place · Mysuru: Displays of Indian animals and plants, set out in groups.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A huge garden of plants from across India and the world, with the Great Banyan tree.
+- Lalbagh Botanical Garden · place · Bengaluru: A large garden where children can compare the leaves of hundreds of kinds of trees.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Leaf Twins: are two leaves from one plant the same?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1. Get it before Leaf Twins: are two leaves from one plant the same?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Leaf Pile Sort: make two groups. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1. Get it before Leaf Pile Sort: make two groups.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does every bird have? → Feathers, and a beak.

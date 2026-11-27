@@ -2928,6 +2928,33 @@
     "p1"
    ],
    "plan": "A confident reader can read it alone over the three days of A Tradition Map, and tell you how each scientist got the apes to accept her."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Hundred Square: what does 'almost 99 per cent the same' mean?, A Tradition Map: is it learned, the place or genes?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Get it before The Hundred Square: what does 'almost 99 per cent the same' mean?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

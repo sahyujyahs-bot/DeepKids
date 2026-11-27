@@ -3416,6 +3416,82 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in A Sundial for Your City: build a small Samrat Yantra. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before A Sundial for Your City: build a small Samrat Yantra."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Tycho's Quadrant: how precisely can you measure an angle?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Tycho's Quadrant: how precisely can you measure an angle?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Tycho's Quadrant: how precisely can you measure an angle?, Kepler's Ellipse: draw a planet's path with string and two pins, A Sundial for Your City: build a small Samrat Yantra. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e3",
+    "a1",
+    "a2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Tycho's Quadrant: how precisely can you measure an angle?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Galileo's Venus: can Venus look full if it stays between us and the Sun?, A Pendulum on a Turntable: the idea behind Foucault's proof, Find North and Noon with Just a Stick and the Sun. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Galileo's Venus: can Venus look full if it stays between us and the Sun?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Kepler's Ellipse: draw a planet's path with string and two pins. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Kepler's Ellipse: draw a planet's path with string and two pins."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

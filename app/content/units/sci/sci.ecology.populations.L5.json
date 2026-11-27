@@ -3387,6 +3387,75 @@
     "e2"
    ],
    "plan": "For the parent to read alongside the unit. Read a chapter before the Rats and Snakes Game and tell one story from it at dinner."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Full Island Test: does a forest keep doubling for ever?, The Rats and Snakes Game: what happens to hunters and hunted over many rounds?, Doubling Rice: on which square does the rice run out?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a3",
+    "a6",
+    "p1"
+   ],
+   "plan": "Get it before The Full Island Test: does a forest keep doubling for ever?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Rats and Snakes Game: what happens to hunters and hunted over many rounds?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Rats and Snakes Game: what happens to hunters and hunted over many rounds?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Full Island Test: does a forest keep doubling for ever?, The Rats and Snakes Game: what happens to hunters and hunted over many rounds?, Count Without Counting: how many beans are in the bowl?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "a2",
+    "a5",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Full Island Test: does a forest keep doubling for ever?."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Crowded Cups: does sowing more seeds give more methi?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Crowded Cups: does sowing more seeds give more methi?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -2683,6 +2683,57 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Syrup Race: which liquid is slowest, and does warmth change it?, The Bubble Race: flip the bottles, The Kitchen Thickness Ladder: race the foods you eat. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Syrup Race: which liquid is slowest, and does warmth change it?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Syrup Race: which liquid is slowest, and does warmth change it?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Syrup Race: which liquid is slowest, and does warmth change it?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in How Many Drops Fit on a Coin?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before How Many Drops Fit on a Coin?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -2813,14 +2864,18 @@
     "source": "Heraclitus, as reported by Plato in the Cratylus (402a)",
     "teaching": "Heraclitus says somewhere that all things move and nothing stays still.",
     "link": "Pitch looks still, yet it has dripped from a funnel since 1930. Even a glacier creeps downhill. Things we call still may be moving too slowly for us to notice.",
-    "verse": ["πάντα χωρεῖ καὶ οὐδὲν μένει,"],
+    "verse": [
+     "πάντα χωρεῖ καὶ οὐδὲν μένει,"
+    ],
     "verse_lang": "grc"
    },
    {
     "source": "Tao Te Ching, chapter 78 (a common English translation)",
     "teaching": "Nothing in the world is softer or weaker than water. Yet for attacking what is hard and strong, nothing can surpass it.",
     "link": "Water feels like nothing to a finger. Yet its skin holds up a dome on a coin and a living insect. Soft things can hold more than they seem to.",
-    "verse": ["天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"],
+    "verse": [
+     "天下莫柔弱於水，而攻堅強者，莫之能勝，其無以易之。"
+    ],
     "verse_lang": "zh"
    }
   ],

@@ -664,6 +664,11 @@ One More, One More (sci.nothing-and-forever.L3): Topic-level song for Nothing an
 - [Visvesvaraya Industrial and Technological Museum, Bengaluru](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum with hands-on galleries. Check what is on show before you go.
 
 ## Things to buy
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Does Counting Get Slower? Time yourself with small and big numbers. About ₹150 to ₹400. A phone stopwatch works well. Used in e1. Get it before Does Counting Get Slower? Time yourself with small and big numbers.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Old Indian Ladder of Big Numbers, The Thousand Dots Book: what a thousand, a lakh and a crore look like. About ₹10 to ₹30. Any school ruler is fine. Used in a2, p1. Get it before The Old Indian Ladder of Big Numbers.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Mirror Tunnel: do the reflections go on for ever?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in old1. Get it before The Mirror Tunnel: do the reflections go on for ever?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Biggest Number on a Postcard. About ₹5 to ₹20. Cut card from a cereal box. Used in c1. Get it before The Biggest Number on a Postcard.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is one more than 9,99,999? → 10,00,000, which is ten lakh.

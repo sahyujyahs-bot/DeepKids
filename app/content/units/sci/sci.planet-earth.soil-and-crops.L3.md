@@ -1,9 +1,9 @@
 # Soil: made from broken rock and dead plants, and mixed by worms
 `sci.planet-earth.soil-and-crops.L3`
 
-**Summary.** What is a handful of soil really made of? In this unit you will look at, feel and smell soil, shake it in a jar and watch it settle into layers, and test whether worm tunnels help rain soak into packed soil.
+**Summary.** What is a handful of soil really made of? In this lesson you will look at, feel and smell soil, shake it in a jar and watch it settle into layers, and test whether worm tunnels help rain soak into packed soil.
 
-**Intro.** *Put a spoon of soil from a flower pot into a glass of water and stir it. Some grains sink at once. The water turns cloudy and stays cloudy. Small dark bits float on top. Why does soil come apart like this in water?* Soil comes apart in water because it was never one thing. It is a mix of rock grains of different sizes and pieces of plants that were once alive. In this unit you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.
+**Intro.** *Put a spoon of soil from a flower pot into a glass of water and stir it. Some grains sink at once. The water turns cloudy and stays cloudy. Small dark bits float on top. Why does soil come apart like this in water?* Soil comes apart in water because it was never one thing. It is a mix of rock grains of different sizes and pieces of plants that were once alive. In this lesson you shake soil in a jar and watch it sort itself into layers. You find out how rock becomes sand and clay, how dead leaves become humus, and how earthworms mix it all. You also find out why different soils in India grow different crops.
 
 ## Learning outcomes
 0. I can say what soil is made of: rock grains, humus, air, water and living things.
@@ -545,7 +545,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
    **Answer:** cotton → Black soil; ragi → Red soil; rice → River soil; groundnut → Red soil; wheat → River soil. *Why:* Cotton likes the water-holding black soil. Ragi and groundnut grow well in red soil. Rice and wheat grow in river plains and deltas.
 12. (fill) Rain or wind carrying soil away is called soil ____.  
    **Answer:** ['erosion']. *Why:* Soil erosion is the loss of soil, washed away by rain or blown away by wind.
-13. (write) Someone says, "Rocks never change." Give one piece of evidence from your home or this unit that rocks do slowly change.  
+13. (write) Someone says, "Rocks never change." Give one piece of evidence from your home or this lesson that rocks do slowly change.  
    **Answer:** Old stone steps are worn smooth in the middle. Chalk pieces shaken in a box lost their corners and made powder. River pebbles are round.. *Why:* A strong answer gives something the child can see, and says how it shows the rock is wearing away.
 14. (truefalse) All soil in India is the same.  
    **Answer:** False. *Why:* False. India has red, black, river and laterite soils, from different rocks and climates, and they suit different crops.
@@ -671,14 +671,14 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - Engineers test soil before building, to know how much weight it can hold.
 
 ## Spotted around us
-- Red soil along the roads in Tamil Nadu and Karnataka.
-- Deep cracks in black soil fields in the Deccan and Gujarat in the dry months.
-- Old houses and compound walls of red laterite blocks in Kerala, Goa and Mangaluru.
+- Red soil along the roads.
+- Deep cracks in black soil fields in the dry months.
+- Old houses and compound walls built of red laterite blocks.
 - Terracotta pots and lamps, made from fired clay.
 - Little curly worm castings on a lawn or a park path after rain.
 - A plant growing out of a crack in an old wall or a temple tower.
 - Brown river water after the monsoon, full of silt and clay.
-- Tea gardens in Assam, growing on soil that the Brahmaputra laid down.
+- Tea gardens, growing on soil that a river laid down.
 
 ## Open questions
 - **How many different kinds of living things live in soil?** Most kinds of soil bacteria and fungi have never been grown or named in a laboratory. Scientists find new ones every year.
@@ -727,6 +727,13 @@ Rock, Leaf and Worm (sci.planet-earth.L3): Topic-level song for Planet Earth L3
 ## Things to buy
 - [A hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps a child see the grains, roots and tiny creatures in soil. Sold in stationery shops. The steps work without one. Used in a1. 
 - [A small pack of composting earthworms, from a nursery or a vermicompost seller](https://www.amazon.in/s?k=earthworms+for+vermicompost) (material): Only for the Worm Window activity. Many city nurseries sell them with vermicompost. Afterwards they can live in a compost bin. Used in a2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Worm Tunnels: do holes help rain soak into packed soil?. About ₹150 to ₹400. A phone stopwatch works well. Used in e2. Get it before Worm Tunnels: do holes help rain soak into packed soil?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Soil Jar: what is soil made of?, Sand or Soil: do methi seedlings need humus?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1. Get it before The Soil Jar: what is soil made of?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Worm Tunnels: do holes help rain soak into packed soil?, Stop the Soil Washing Away. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e2, c1. Get it before Worm Tunnels: do holes help rain soak into packed soil?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Soil Jar: what is soil made of?, Worm Window: watch earthworms mix layers (if you can get earthworms), Sand or Soil: do methi seedlings need humus?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1, a2, p1, c2. Get it before The Soil Jar: what is soil made of?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sand or Soil: do methi seedlings need humus?, Stop the Soil Washing Away. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1, c1. Get it before Sand or Soil: do methi seedlings need humus?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Mix the Best Pot Soil. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c2. Get it before Mix the Best Pot Soil.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three sizes of rock grains in soil? → Sand, silt and clay.
@@ -745,7 +752,7 @@ Rock, Leaf and Worm (sci.planet-earth.L3): Topic-level song for Planet Earth L3
 - Core: a1, e1, e2, g2, ws-core
 
 ## Sources
-- ideas/by_topic/rocks-and-soil.md: SCI Card for Charles Darwin (earthworms). Darwin's worm work is told in this unit's explanations; his story is the how_we_found_out of the Decomposers unit, so this unit tells Dokuchaev's instead.
+- ideas/by_topic/rocks-and-soil.md: SCI Card for Charles Darwin (earthworms). Darwin's worm work is told in this lesson's explanations; his story is the how_we_found_out of the Decomposers unit, so this lesson tells Dokuchaev's instead.
 - ideas/by_topic/planet-earth.md: experiment row (compare soil samples from different places), used for the two-jar option in the Soil Jar.
 - Curriculum entry sci.planet-earth.soil-and-crops.L3 (covers: soil is made from rocks and dead things; worms in soil). No board chapter is listed for this level, so no board pack text was used.
 - Dokuchaev, Russian Chernozem, St Petersburg, 1883 (soil-forming factors), as summarised by the FAO Global Soil Partnership and the Encyclopedia.com biography

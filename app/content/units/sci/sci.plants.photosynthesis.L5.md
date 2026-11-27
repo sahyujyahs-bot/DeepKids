@@ -1,7 +1,7 @@
 # Chlorophyll and starch: how a leaf catches sunlight and keeps it as food
 `sci.plants.photosynthesis.L5`
 
-**Summary.** Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this unit you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.
+**Summary.** Leaves picked at sunset and at sunrise look the same, but an iodine test shows the sunset leaf holds far more starch. Where does the starch go at night? In this lesson you will test real leaves for starch, check a white patch, and trace your meal back to the Sun.
 
 **Intro.** *Think of everything you ate yesterday. Was there one food that did not need sunlight? Say what you think, and why.* Most people find this hard to answer. Rice and dal are plants, so they needed sunlight. But what about an egg, a fish or a mushroom? In the first activity, Plate to Sun, you follow each food on a real plate backwards and see where the trail ends. After that you test real leaves. You find out what chlorophyll does, where a leaf keeps the food it makes, and what happens to that food at night. You also meet the few living beings on Earth whose food does not start with sunlight.
 
@@ -177,7 +177,7 @@ We have learned how chlorophyll catches light, and how a leaf keeps that energy 
 Light leaves the Sun as one stream of energy. A chlorophyll molecule catches one tiny packet of it. From there the same energy takes many forms. It is in the sugar and starch of a leaf, in a grain of rice, in the muscles of the child who eats the rice, and in the warmth of her skin. The energy is never made and never lost on the way. Each living being holds it for a while and passes it on.
 
 - **Chandogya Upanishad 6.7:** “अन्नमयं हि सोम्य मनः / आपोमयः प्राणः / तेजोमयी वागिति” Uddalaka asks his son Shvetaketu to eat nothing for fifteen days and only drink water. Afterwards the boy has forgotten the verses he knew well. He eats, and his memory returns. His father tells him that the mind is made of food. (Thinking and remembering run on the energy in food, and that energy was sunlight caught by chlorophyll. So energy from light that a leaf caught is at work in a child's memory.)
-- **Bhagavad Gita 15.12 to 15.13:** “यदादित्यगतं तेजो जगद्भासयतेऽखिलम्। / यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।। / गामाविश्य च भूतानि धारयाम्यहमोजसा। / पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।” The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source. (The science in this unit finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.)
+- **Bhagavad Gita 15.12 to 15.13:** “यदादित्यगतं तेजो जगद्भासयतेऽखिलम्। / यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।। / गामाविश्य च भूतानि धारयाम्यहमोजसा। / पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।” The Gita says that the light in the Sun which lights the whole world, and the sap that feeds all plants, come from one and the same source. (The science in this lesson finds the same link from the other side. The food in every plant holds energy from the Sun's light, caught and kept.)
 - **Robin Wall Kimmerer, Braiding Sweetgrass (2013):** Kimmerer is a plant scientist and a member of the Potawatomi nation. She writes that plants know how to make food from light and water, and then they give it away. (A green leaf feeds the white patch beside it, the root below it, and in the end every animal. Nearly every being who cannot catch light lives on those who can.)
 - Science (settled): Energy is never made or destroyed. A plant does not create energy. They change the energy of light into chemical energy, as Julius Robert Mayer wrote in 1845.
 - Science (settled): Thale cress plants use their leaf starch at a steady rate that lasts until dawn, and change the rate at once when the night is made longer.
@@ -513,7 +513,7 @@ She ate the rice slowly. Then she went to find the blade.
   - Note: Width times width times three quarters is close enough for a circle. Most healthy pot plants hold out between 2 and 6 times the area of their pot.
   - Check: Why do most leaves grow thin and flat, not thick and round? → **A flat leaf catches more light for the same material**
 ### a6 · A Photon's Journey: draw the comic strip (20 min)
-- **record:** Keep the comic strip. Read it aloud to someone who has not done this unit, and see whether they can follow it.
+- **record:** Keep the comic strip. Read it aloud to someone who has not done this lesson, and see whether they can follow it.
 - **s1 (4 min)**  
   *Parent does:* 1. Rule the paper into six boxes. 2. Ask your child to tell the journey aloud first, in their own words. 3. Write six short titles together, one for each box.  
   *Parent says:* A photon is one tiny packet of light. Tell me the journey first. A photon leaves the Sun. What happens to its energy, step by step, until someone eats it?  
@@ -682,7 +682,7 @@ She ate the rice slowly. Then she went to find the blade.
    Options: A fish / A child / Tubeworm bacteria / Rock microbes living on hydrogen  
    **Answer:** 3. *Why:* Fish, children and most hot spring bacteria use oxygen that photosynthesis made. The microbes deep in rock use hydrogen and need no oxygen.
 13. (write) Name one thing about chlorophyll or starch that scientists still argue about.  
-   **Answer:** One answer: how a plant sets the speed of starch use at night. Another: whether green sea slugs really live on the chloroplasts they take from algae.. *Why:* Any open question from this unit is right, as long as it is truly unsettled.
+   **Answer:** One answer: how a plant sets the speed of starch use at night. Another: whether green sea slugs really live on the chloroplasts they take from algae.. *Why:* Any open question from this lesson is right, as long as it is truly unsettled.
 14. (truefalse) True or false: chlorophyll on paper fades in sunlight, but chlorophyll in a living leaf is kept in repair.  
    **Answer:** True. *Why:* True. A living leaf passes the caught energy on and replaces harmed parts all day. On paper nothing replaces them.
 15. (sort) Sort these into 'settled' and 'still argued about'.  
@@ -795,15 +795,21 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - [Ask A Biologist](https://askabiologist.asu.edu/) · interactive: Free, clear pages on chloroplasts, pigments and how plants make food, from Arizona State University. Search the site for chlorophyll.
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/) · interactive: Satellite maps of the Earth's green cover and of chlorophyll in the sea. Search the site for fluorescence to see the red glow of plants mapped from space.
 - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov/) · interactive: Photos and short films of hot springs on the deep sea floor and the animals that live there without sunlight.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, near Thiruvananthapuram: A large garden of tropical plants. Look for leaves that are red, purple or patterned, and ask where their chlorophyll is.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, a glasshouse and a lake. Look down on plants from above and see how little the leaves overlap.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A very large old garden named after the scientist who recorded photosynthesis with his own instruments.
-- [Government Botanical Garden]() · place · Udhagamandalam (Ooty), Tamil Nadu: A hill garden with many variegated and coloured-leaf plants in its beds and glasshouses.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, near Thiruvananthapuram: A large garden of tropical plants. Look for leaves that are red, purple or patterned, and ask where their chlorophyll is.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, a glasshouse and a lake. Look down on plants from above and see how little the leaves overlap.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A very large old garden named after the scientist who recorded photosynthesis with his own instruments.
+- Government Botanical Garden · place · Udhagamandalam (Ooty), Tamil Nadu: A hill garden with many variegated and coloured-leaf plants in its beds and glasshouses.
 
 ## Things to buy
 - [Povidone-iodine solution, the brown antiseptic sold at medical shops (a small bottle)](https://www.amazon.in/s?k=povidone+iodine+solution) (material): Mixed with a little water, it turns blue-black on starch. Many homes already have a bottle. Used in e1, e2, a2. 
 - [Surgical spirit or isopropyl rubbing alcohol (a small bottle)](https://www.amazon.in/s?k=surgical+spirit) (material): It dissolves chlorophyll, so it takes the green out of a leaf before the iodine test. It is also used to make the green liquid for the Red Glow. Medical shops sell it. Used in e1, e2, a3. 
 - [A small ultraviolet torch, of the kind sold for checking banknotes](https://www.amazon.in/s?k=uv+torch+395nm) (tool): Its violet light makes chlorophyll glow red in the Red Glow activity. It is optional: the rest of the unit does not need it. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Measure the Sun Catcher: how much leaf does one plant hold out?, A Photon's Journey: draw the comic strip, The Leaf Tower: fix 12 leaves on one stem so that none is in the shade. About ₹10 to ₹30. Any school ruler is fine. Used in a5, a6, c1. Get it before Measure the Sun Catcher: how much leaf does one plant hold out?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in The Red Glow: what chlorophyll does with light in a jar. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a3. Get it before The Red Glow: what chlorophyll does with light in a jar.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Red Glow: what chlorophyll does with light in a jar. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a3. Get it before The Red Glow: what chlorophyll does with light in a jar.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Leaf Prints That Fade: what light does to chlorophyll outside a leaf. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Leaf Prints That Fade: what light does to chlorophyll outside a leaf.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Measure the Sun Catcher: how much leaf does one plant hold out?. About ₹10 to ₹30. Draw squares on plain paper. Used in a5. Get it before Measure the Sun Catcher: how much leaf does one plant hold out?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the green pigment in leaves called? → Chlorophyll.
@@ -823,7 +829,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 ## Sources
 - Founder's notes in ideas/by_topic/plants.md, the row 'Photosynthesis and vision': 'place leaves in sunlight, then test starch with iodine' (Dawn Leaf, Dusk Leaf and the White Patch), 'chlorophyll absorbs photons' (the explanations), 'draw a photon's journey' and 'story of a Sunbeam's journey' (A Photon's Journey), 'make chlorophyll prints on paper' (Leaf Prints That Fade), 'take a nature walk noting plant colours' (Green Under Red and the spotted list), the board game idea of gathering photons to feed plants (Starch Bank), and the thought 'light is life's bridge, turning energy into food' (the roots).
 - Founder's notes in plants.md on cyanobacteria, chloroplasts and algae, used for 'Almost all food starts with caught sunlight'.
-- The Class 3 and Class 4 units on photosynthesis (sci.plants.photosynthesis.L3 and L4), which this unit builds on. The home method for the leaf starch test comes from the Class 3 unit. Their experiments, stories and discovery stories are not repeated.
+- The Class 3 and Class 4 units on photosynthesis (sci.plants.photosynthesis.L3 and L4), which this lesson builds on. The home method for the leaf starch test comes from the Class 3 unit. Their experiments, stories and discovery stories are not repeated.
 - DeepKids Combined sci-C3-plants.json (the idea that food chains begin with a leaf), for coverage only. Its story was not reused.
 - Open textbooks listed for this subtopic (Biology 2e and Concepts of Biology, the sections on photosynthesis), for facts only.
 - Pelletier, P.-J. and Caventou, J. B., 'Sur la matière verte des feuilles', Annales de Chimie et de Physique 9, 1818 (the name chlorophyll, proposed in 1817)

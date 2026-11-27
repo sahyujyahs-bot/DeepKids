@@ -578,6 +578,9 @@ Can It Go Back? (sci.changes.L2): Topic-level song for Changing materials L2
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on safe and healthy food from India's food safety authority.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Ten Grains in a Line: what does cooking do to rice?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before Ten Grains in a Line: what does cooking do to rice?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Set the Butter Fast, Without the Fridge. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Set the Butter Fast, Without the Fridge.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does cooked rice get bigger or smaller than dry rice? → Bigger. The grains absorb water.

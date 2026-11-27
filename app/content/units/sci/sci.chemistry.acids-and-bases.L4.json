@@ -2658,6 +2658,45 @@
     "e1",
     "e2"
    ]
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Ten-Times Ladder: how far can a colour be made weaker?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Ten-Times Ladder: how far can a colour be made weaker?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Antacid Showdown: which powder beats the acid with the fewest scoops?, The Eno Mystery: is fruit salt an acid or a base?, The pH Strip Survey: what are the real numbers?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "e1",
+    "a1",
+    "a2",
+    "c1"
+   ],
+   "plan": "Get it before Antacid Showdown: which powder beats the acid with the fewest scoops?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

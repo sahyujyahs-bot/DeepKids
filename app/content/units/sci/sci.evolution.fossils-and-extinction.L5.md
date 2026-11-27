@@ -1,9 +1,9 @@
 # Mass extinctions: how most kinds of life ended five times, how life came back, and what is happening now
 `sci.evolution.fossils-and-extinction.L5`
 
-**Summary.** Five times, most of the kinds of living beings on Earth died out in a short time. Yet after each of those times, life filled the world again. How did so few survivors do that, and how long did it take? In this unit you wipe out a paper world with coins and refill it with a die. You also roll for fossils in a paper cliff, to see why a sudden ending can look slow in the rocks. Then you compare the extinctions of today with the five great ones.
+**Summary.** Five times, most of the kinds of living beings on Earth died out in a short time. Yet after each of those times, life filled the world again. How did so few survivors do that, and how long did it take? In this lesson you wipe out a paper world with coins and refill it with a die. You also roll for fossils in a paper cliff, to see why a sudden ending can look slow in the rocks. Then you compare the extinctions of today with the five great ones.
 
-**Intro.** *Big dinosaurs filled the land for more than 130 million years. Mammals lived beside them all that time, and almost all stayed smaller than a cat. Then the big dinosaurs ended, and within about ten million years there were mammals as big as cows. Why did the mammals wait so long, and what let them change so fast?* You already know that fossils are traces of old life, and that the big dinosaurs died out. In this unit you go further. You find out that dying out is normal, and that most kinds that ever lived are gone. You learn about the five times when most kinds ended together. These are called mass extinctions. You test with coins and a die how a nearly empty world fills up again, and who fills it. You find out why the last fossil of an animal is almost never the last animal. Then you look at today. Kinds are ending faster now than is normal, and scientists argue about how to name what is happening.
+**Intro.** *Big dinosaurs filled the land for more than 130 million years. Mammals lived beside them all that time, and almost all stayed smaller than a cat. Then the big dinosaurs ended, and within about ten million years there were mammals as big as cows. Why did the mammals wait so long, and what let them change so fast?* You already know that fossils are traces of old life, and that the big dinosaurs died out. In this lesson you go further. You find out that dying out is normal, and that most kinds that ever lived are gone. You learn about the five times when most kinds ended together. These are called mass extinctions. You test with coins and a die how a nearly empty world fills up again, and who fills it. You find out why the last fossil of an animal is almost never the last animal. Then you look at today. Kinds are ending faster now than is normal, and scientists argue about how to name what is happening.
 
 ## Learning outcomes
 0. By the end I can explain the difference between background extinction and a mass extinction.
@@ -675,7 +675,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 ## Videos
 - **The Day the Mesozoic Died: The Asteroid That Killed the Dinosaurs — HHMI BioInteractive Video** (biointeractive, 34 min) id `tRPu5u_Pizk`: The story of the clay layer at Gubbio, the iridium and the search for the crater, told by the scientists who did the work. It is long, so watch it in two sittings. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. Not watched from here: a parent should preview it.
 - **When will the next mass extinction occur? - Borths, D'Emic, and Pritchard** (TED-Ed, 5 min) id `RAdNCIIYXvo`: A short animation of the five mass extinctions and their causes, and how today compares. *Check:* Id, title and channel confirmed through YouTube's public lookup and the TED-Ed lesson page on 19 Nov 2026. Not watched from here: a parent should preview it.
-- **The coelacanth: A living fossil of a fish - Erin Eastwood** (TED-Ed, 4 min) id `ujKL1pUHDfo`: The fish from this unit's story: how coelacanths were known only as fossils until one was caught in 1938. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. Not watched from here: a parent should preview it. The length in minutes is approximate.
+- **The coelacanth: A living fossil of a fish - Erin Eastwood** (TED-Ed, 4 min) id `ujKL1pUHDfo`: The fish from this lesson's story: how coelacanths were known only as fossils until one was caught in 1938. *Check:* Id, title and channel confirmed through YouTube's public lookup on 19 Nov 2026. Not watched from here: a parent should preview it. The length in minutes is approximate.
 
 ## Quiz
 1. (mcq) Which sentence describes background extinction?  
@@ -726,14 +726,14 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 
 ## Spotted around us
 - The crow or pigeon on your window grill is a living dinosaur. Their ancestors came through the asteroid strike.
-- From the train between Mumbai and Pune, the hills of the Western Ghats look like giant steps. Each step is one flow of Deccan lava.
-- Many old forts of Maharashtra are built of dark Deccan basalt, the lava rock from the time of the last dinosaurs.
+- Hills that look like giant steps, seen from a train window. Each step can be one flow of old lava.
+- Old forts built of dark basalt, the lava rock from the time of the last dinosaurs.
 - A shaligram stone kept in some homes is often an ammonite fossil from the Gandaki river in Nepal. Ammonites ended 66 million years ago.
-- Near Ariyalur in Tamil Nadu, the ground holds shells of sea animals from the time of the dinosaurs. A sea covered that land then.
-- At Sathanur in Perambalur district, Tamil Nadu, a tree trunk more than 18 metres long lies turned to stone.
+- A rock with shells of sea animals in it, from the time of the dinosaurs. A sea covered that land then.
+- A tree trunk turned to stone, in a museum or a fossil park.
 - After the monsoon, ferns are often the first plants on a damp wall or a cleared bank. Ferns were also first after the asteroid strike.
 - A glass of soda water tastes a little sour. Carbon dioxide dissolved in the water has made a weak acid, as it does in the sea.
-- News from Kuno National Park in Madhya Pradesh tells how the cheetahs brought from Africa are doing.
+- News about cheetahs brought from Africa, and how they are doing in a park.
 
 ## Open questions
 - **How much of the killing 66 million years ago was done by the asteroid, and how much by the Deccan eruptions?** The two happened within a few hundred thousand years of each other. The lava is hard to date exactly, and two methods give different orders for the biggest flows.
@@ -790,6 +790,9 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - [A squared maths notebook](https://www.amazon.in/s?k=square+ruled+maths+notebook) (material): For the Hundred Squares and for colouring 477 squares in Fifty Times Faster. Used in a1, a5. 
 - [Whole green moong, 100 grams](https://www.amazon.in/s?k=whole+green+moong) (material): The seeds for the Dark Week. Any grocery shop has them. Used in p1. 
 - [Indica: A Deep Natural History of the Indian Subcontinent, by Pranay Lal](https://www.amazon.in/s?k=Indica+Pranay+Lal) (book): A book for parents and older children on India's rocks and fossils, including the Deccan eruptions and India's dinosaurs. Used in a2. A parent reads the chapters on the Deccan lava and the end of the dinosaurs, and tells the best parts while the child makes the paper time line.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Empty Board Test: after a mass extinction, who fills the world again?, The Last Fossil Test: if five species died on the same day, would the rocks show it?, The Hundred Squares: how many of all the species that ever lived are alive today?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a1, a2, a3, p1, c1. Get it before The Empty Board Test: after a mass extinction, who fills the world again?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Dark Week: who gets through a time without sunlight?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Dark Week: who gets through a time without sunlight?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a mass extinction? → A time when most species on Earth end within a short stretch of geological time.
@@ -811,8 +814,8 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - Founder's SCI Card for Mary Anning (ideas/scientists.json): the line 'Extinction is not failure, it is the normal fate of species.' It shaped the first explanation, the roots habit and the first pick-a-side question.
 - ideas/evolution.json, entry 'Dinosaurs Extinction (K-Pg Event, 66 Mya)': the notes that small size, shelter and quick breeding helped the survivors, and that survivors then spread into empty niches. Used in the explanation of who lived through the strike, in Three Rules for Survival and in the Empty Board Test.
 - ideas/by_topic/evolution-the-tree-of-life.md: the time list of groups (trilobites, dinosaurs, mammals, birds) used for the bars in Five Marks on a Paper Road.
-- Combined lesson sci-C4-evolution-the-tree-of-life.json, day 7 'Partners and endings': the lines that each extinction closes some branches and the survivors branch out into the space left, and that extinction is the normal end of a species. This unit builds its main experiment on that idea. Its story is not reused.
-- Other units were read so that nothing repeats. sci.evolution.fossils-and-extinction.L2 covers what a fossil is, layers, dinosaurs, Cuvier and a simple asteroid or volcano question. sci.animals.birds.L4 covers birds as dinosaurs. sci.ecology.biodiversity.L5 covers the five causes of loss today, the Red List steps and the Coin Years Test on small populations. This unit keeps to deep time: the five mass extinctions, recovery, reading the end of a species in rock, and measuring today's rate against the fossil record.
+- Combined lesson sci-C4-evolution-the-tree-of-life.json, day 7 'Partners and endings': the lines that each extinction closes some branches and the survivors branch out into the space left, and that extinction is the normal end of a species. This lesson builds its main experiment on that idea. Its story is not reused.
+- Other units were read so that nothing repeats. sci.evolution.fossils-and-extinction.L2 covers what a fossil is, layers, dinosaurs, Cuvier and a simple asteroid or volcano question. sci.animals.birds.L4 covers birds as dinosaurs. sci.ecology.biodiversity.L5 covers the five causes of loss today, the Red List steps and the Coin Years Test on small populations. This lesson keeps to deep time: the five mass extinctions, recovery, reading the end of a species in rock, and measuring today's rate against the fossil record.
 - Facts checked on 19 Nov 2026 by web search against: the Wikipedia articles on the Chicxulub crater, the Permian-Triassic and Cretaceous-Paleogene extinctions, the Holocene extinction, the dodo, the coelacanth and Marjorie Courtenay-Latimer; Our World in Data on mass extinctions; news reports of Lyson and others (2019); abstracts of Kirchner and Weil (2000), Schoene and Sprain (2019) and Hull (2020); Bhandari and Shukla's papers on Anjar and Um Sohryngkew; the IUCN release of 10 Oct 2025; reports on Jerdon's courser from the Bombay Natural History Society, Mongabay India and Discover Wildlife; the Perambalur and Ariyalur district websites; and Gujarat Tourism.
 - Raup D. M. and Sepkoski J. J. (1982). Mass extinctions in the marine fossil record. Science 215.
 - Raup D. M. and Sepkoski J. J. (1984). Periodicity of extinctions in the geologic past. Proceedings of the National Academy of Sciences 81.

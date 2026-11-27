@@ -1,7 +1,7 @@
 # Cells: the tiny living parts every living thing is made of
 `sci.what-is-life.cells.L3`
 
-**Summary.** An onion is made of tiny rooms too small to see, and so are you. What are they? In this unit you will look at onion skin through a water-drop magnifier you make, test whether boiled curd can still set milk, and play a game of cells or no cells.
+**Summary.** An onion is made of tiny rooms too small to see, and so are you. What are they? In this lesson you will look at onion skin through a water-drop magnifier you make, test whether boiled curd can still set milk, and play a game of cells or no cells.
 
 **Intro.** *Look at the back of your hand. It looks like one smooth thing. In fact it is made of billions of tiny living parts, each one alive on their own. So why can't you see them?* About 360 years ago, an English scientist called Robert Hooke cut a thin slice of cork, the bark used for bottle stoppers. He looked at it through a microscope, a tool that makes tiny things look big. He saw rows of little empty boxes, like a honeycomb. He called them cells, from a Latin word for a small room. Today you will look for these little rooms in an onion from your kitchen. Then you will find out whether the cells in curd are alive.
 
@@ -838,6 +838,15 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 - [A Foldscope paper microscope, or a toy student microscope](https://www.amazon.in/s?k=microscope+for+kids) (tool): Only needed for cheek cells and the clearest views of onion cells. A Foldscope makes things about 140 times bigger. A toy student microscope from a toy shop or online works too. Without one, the phone and water drop still show onion cells faintly. Used in e1, e2, p1. 
 - [Magnifying glass, about 10 times](https://www.amazon.in/s?k=magnifying+glass+10x+kids) (tool): For the Zoom Walk and for cells you can almost see, like tomato cells. A phone camera zoomed in can be used instead. Used in a1, a5. 
 - [Glass slides and coverslips](https://www.amazon.in/s?k=microscope+glass+slides+coverslips) (material): Optional. Glass slides hold onion skin and cheek cells flat. Strips of clear plastic from a packet also work. Used in e1, e2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Slime Mould Railway: join the cities. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in c2. Get it before Slime Mould Railway: join the cities.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Size Ladder: from you to a cell. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before The Size Ladder: from you to a cell.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in Onion Skin: is an onion made of tiny rooms?, Make a Water-Drop Magnifier, The Best Home Microscope. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e1, a2, c1. Get it before Onion Skin: is an onion made of tiny rooms?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in Onion Skin: is an onion made of tiny rooms?, Cheek Cells: are you made of tiny rooms too?, Cells You Can Almost See: tomato, cotton and leaf peel. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e1, e2, a5, p1. Get it before Onion Skin: is an onion made of tiny rooms?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Cheek Cells: are you made of tiny rooms too?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e2. Get it before Cheek Cells: are you made of tiny rooms too?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Cells You Can Almost See: tomato, cotton and leaf peel. About ₹20 to ₹50. Torn clean cloth works. Used in a5. Get it before Cells You Can Almost See: tomato, cotton and leaf peel.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Size Ladder: from you to a cell. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before The Size Ladder: from you to a cell.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Best Home Microscope. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before The Best Home Microscope.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are all living things made of? → Cells.

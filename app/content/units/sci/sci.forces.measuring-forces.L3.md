@@ -1,7 +1,7 @@
 # How to measure a force, and why we all use newtons
 `sci.forces.measuring-forces.L3`
 
-**Summary.** You and a grown-up count coins to pull a notebook and get different numbers, yet both can be right. How? In this unit you will invent your own unit of pull, feel one newton, build a forcemeter, and guess how many newtons a pull needs.
+**Summary.** You and a grown-up count coins to pull a notebook and get different numbers, yet both can be right. How? In this lesson you will invent your own unit of pull, feel one newton, build a forcemeter, and guess how many newtons a pull needs.
 
 **Intro.** *Close your eyes. Hold a 100 gram packet in one hand and a 1 kilogram packet of rice in the other. How many times harder does the big one pull your hand down? Now, how could you tell a friend in another city exactly how hard it pulls?* Words like 'heavy' and 'light' mean different things to different people. Your 'heavy' may be another person's 'light'. A shopkeeper selling rice, an engineer building a bridge and a doctor testing your grip need more than that. They need a number that means the same thing to everyone. To get one, people choose a unit and count it. You will start by making up your own unit of pull. Then you will find out what goes wrong when other people make up theirs.
 
@@ -982,7 +982,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with machines and engines. Look for exhibits about forces and springs.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about forces and machines.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about machines and engines.
-- [Your local vegetable market or kirana shop]() · place · anywhere: See spring balances, two-pan balances and digital scales at work. Look for the seals that show they were checked.
+- Your local vegetable market or kirana shop · place · anywhere: See spring balances, two-pan balances and digital scales at work. Look for the seals that show they were checked.
 - [Department of Consumer Affairs, Legal Metrology](https://consumeraffairs.nic.in) · interactive: For parents: the government department that makes sure scales and packets in India are honest.
 
 ## Things to buy
@@ -994,6 +994,10 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Strong rubber bands, mixed sizes](https://www.amazon.in/s?k=rubber+bands+assorted) (material): The spring for your homemade forcemeter, and thin ones for the paper challenge. Used in p1, c1. 
 - [Round balloons](https://www.amazon.in/s?k=round+balloons) (material): For the balloon push activity, where a squashed balloon shows the size of a push. Used in a1. 
 - [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in rhyme about a boy and his dog discovering forces, for ages 5 to 9. Used in g1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Invent a Unit: how many coins to pull a notebook?, The Pull Detective: which pull at home is biggest?, Read It Right: the forcemeter drill. About ₹10 to ₹30. Any school ruler is fine. Used in e4, e1, a3, p1, c1. Get it before Invent a Unit: how many coins to pull a notebook?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Can Your Hands Be Fooled? The Big Box and the Small Box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3. Get it before Can Your Hands Be Fooled? The Big Box and the Small Box.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Can Your Hands Be Fooled? The Big Box and the Small Box. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e3. Get it before Can Your Hands Be Fooled? The Big Box and the Small Box.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - In the coin-pull test, what was your unit of pull? → One coin of one kind.

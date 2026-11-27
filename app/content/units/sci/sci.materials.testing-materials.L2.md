@@ -540,6 +540,10 @@ Test It and See (sci.materials.L2): Topic-level song for Materials L2
 
 ## Things to buy
 - [Rosie Revere, Engineer by Andrea Beaty](https://www.amazon.in/s?k=Rosie+Revere+Engineer) (book): A girl who builds things from junk, fails, and learns that a flop is part of testing. It matches testing and trying again. Used in a1. Read it together after the testing experiment.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Stretch Test: which material stretches the most?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Stretch Test: which material stretches the most?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Stretch and Let Go: a home hunt. About ₹20 to ₹60. Used in a1. Get it before Stretch and Let Go: a home hunt.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Stretch and Let Go: a home hunt. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before Stretch and Let Go: a home hunt.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does waterproof mean? → It does not let water through.

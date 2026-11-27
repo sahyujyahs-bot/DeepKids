@@ -1,9 +1,9 @@
 # Air, sea water and soil: what each is made of, and how smoke turns rain into acid rain
 `sci.chemistry.chemistry-of-earth-and-space.L4`
 
-**Summary.** The rivers that fill the sea are fresh, so why is the sea salty? In this unit you will mix a bottle of sea water by its recipe, count out one hundred grains of air, and test which stones a drop of acid marks.
+**Summary.** The rivers that fill the sea are fresh, so why is the sea salty? In this lesson you will mix a bottle of sea water by its recipe, count out one hundred grains of air, and test which stones a drop of acid marks.
 
-**Intro.** *River water is fresh. Every river runs into the sea, all day and all night. So why is the sea salty?* People asked this question for a very long time. The answer starts in the air, passes through a raindrop and ends in the sea. In this unit you mix a bottle of sea water by its recipe. You count out the recipe of air in rice and dal. You dry fresh-tasting water on a plate for five days, and then taste the plate. You also find out what smoke does to rain, and what that rain does to marble.
+**Intro.** *River water is fresh. Every river runs into the sea, all day and all night. So why is the sea salty?* People asked this question for a very long time. The answer starts in the air, passes through a raindrop and ends in the sea. In this lesson you mix a bottle of sea water by its recipe. You count out the recipe of air in rice and dal. You dry fresh-tasting water on a plate for five days, and then taste the plate. You also find out what smoke does to rain, and what that rain does to marble.
 
 ## Learning outcomes
 0. I can give the recipe of air: nitrogen, oxygen, argon and a very small share of carbon dioxide.
@@ -153,7 +153,7 @@ The young Earth was very hot, and scientists once thought it must have been dry.
   Against: Soils that lost their calcium take many decades to recover. In parts of Asia, coal burning is still growing.
 
 ## Roots
-In this unit you found what air, sea water and soil are made of. You also found why the sea keeps its salt. Here we ask what it means that some things stay and others pass through.
+In this lesson you found what air, sea water and soil are made of. You also found why the sea keeps its salt. Here we ask what it means that some things stay and others pass through.
 
 **Deep truth.** In The Plate That Got Saltier, each day's water tasted fresh, yet the plate ended up salty. The water left for the air every day, and the salt stayed. The sea keeps its salt the same way, and the air keeps nitrogen, which hardly reacts. So what a place is made of depends on what stays there, as well as on what arrives.  
 *Habit it breaks:* We expect a place to be made mostly of whatever is poured into it most. Rivers pour far more fresh water than salt into the sea, yet the sea is salty. What stays longest builds up.  
@@ -713,9 +713,9 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 
 ## Spotted around us
 - A puffed packet of chips or murukku. The gas inside is nitrogen, taken from air, and it keeps the food crisp.
-- White heaps of salt beside square pans, on the coast road near Thoothukudi or Marakkanam, or in Kutch.
+- White heaps of salt beside square pans on a coast road.
 - A dull round patch on a polished marble floor, where lemon juice, tamarind or curd was once spilled.
-- Red soil and red laterite stone walls in Kerala, coastal Karnataka and Goa. The red is iron oxide that the rain left behind.
+- Red soil and red laterite stone walls. The red is iron oxide that the rain left behind.
 - Pink rock salt, called induppu or sendha namak, in a kitchen jar. It is sea salt from a sea that dried up long ago.
 - A very tall chimney at a power station or factory, with a pale plume drifting far downwind.
 - A white crust inside a kettle or on a tap. It is minerals that the water dissolved from rock, left behind when the water evaporated.
@@ -768,11 +768,19 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Atmosphere of Earth (Wikipedia)](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) · interactive: For the parent: the full recipe of air in a table.
 - [Argon (Wikipedia)](https://en.wikipedia.org/wiki/Argon) · interactive: For the parent: how Rayleigh and Ramsay found argon, and what it is used for.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A large science museum with hands-on galleries. Check opening times before you go.
-- [The salt pans at Marakkanam, beside the East Coast Road]() · place · Marakkanam, Tamil Nadu: In the dry months you can often see the pans and the salt heaps from the road. Ask before walking on the bunds.
+- The salt pans at Marakkanam, beside the East Coast Road · place · Marakkanam, Tamil Nadu: In the dry months you can often see the pans and the salt heaps from the road. Ask before walking on the bunds.
 
 ## Things to buy
 - [Red cabbage: a quarter of a small one is enough for both indicator experiments](https://www.amazon.in/s?k=red+cabbage) (material): For the indicator water in Smoke in the Jar and Two Lakes. Large vegetable shops and supermarkets sell it. Red hibiscus petals work in its place, with a smaller colour change. Used in e1, e3. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass) (tool): Optional, for seeing the tiny bubbles in the Lemon Drop Test. A phone camera zoomed in works as well. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hundred Squares: draw the recipes of sea water and soil. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Hundred Squares: draw the recipes of sea water and soil.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in The Plate That Got Saltier: can fresh-tasting water make something salty?. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in p1. Get it before The Plate That Got Saltier: can fresh-tasting water make something salty?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in The Rain Catcher: collect rain with nothing else in it. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c1. Get it before The Rain Catcher: collect rain with nothing else in it.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in The Lemon Drop Test: which stones does acid mark?, Two Lakes: which lake bed neutralises acid rain?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e2, e3. Get it before The Lemon Drop Test: which stones does acid mark?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in One Hundred Grains of Air: count out the recipe of air. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before One Hundred Grains of Air: count out the recipe of air.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Hundred Squares: draw the recipes of sea water and soil. About ₹10 to ₹30. Draw squares on plain paper. Used in a3. Get it before Hundred Squares: draw the recipes of sea water and soil.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Lemon Drop Test: which stones does acid mark?, Two Lakes: which lake bed neutralises acid rain?. About ₹10 to ₹40. Small round stones or dried chana. Used in e2, e3. Get it before The Lemon Drop Test: which stones does acid mark?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which gas makes up most of the air? → Nitrogen. It makes up 78 parts in every 100.

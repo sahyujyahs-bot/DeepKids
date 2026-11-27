@@ -615,6 +615,8 @@ Tick, Trickle, Turn (sci.space-time.L2): Topic-level song for Space, time and di
 - [The clock room at the Salar Jung Museum](https://www.salarjungmuseum.in/) · place · Hyderabad: A room full of old clocks, and a famous musical clock that strikes the hour.
 
 ## Things to buy
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Salt Timer: does each spoonful take the same time?, A Fair-Turn Timer: make a salt timer that lasts one minute. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, c1. Get it before The Salt Timer: does each spoonful take the same time?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many days are in a week? → 7.

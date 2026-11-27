@@ -1,9 +1,9 @@
 # Animals around us: what they eat, where they live, how they move
 `sci.animals.animals-around-us.L1`
 
-**Summary.** What do an ant, a crow and a gecko have in common with you? In this unit you will hunt for the animals that share your home, test which of your teeth bite and which chew, and play a feeding card game.
+**Summary.** What do an ant, a crow and a gecko have in common with you? In this lesson you will hunt for the animals that share your home, test which of your teeth bite and which chew, and play a feeding card game.
 
-**Intro.** *Who lives in your home? Count everyone. Did you count the ants, the gecko and the spider?* Most families count only the people. But many other animals live in a flat too. Ants live in tiny cracks, a gecko hides behind a cupboard, and a spider sits in a corner. In this unit we find the animals in our home, and then we look at our own teeth.
+**Intro.** *Who lives in your home? Count everyone. Did you count the ants, the gecko and the spider?* Most families count only the people. But many other animals live in a flat too. Ants live in tiny cracks, a gecko hides behind a cupboard, and a spider sits in a corner. In this lesson we find the animals in our home, and then we look at our own teeth.
 
 ## Learning outcomes
 0. By the end I can name animals who live in or near my home, and I know that humans are animals too.
@@ -63,7 +63,7 @@ A gecko waits by the tube light every night, because moths come there. A crow tr
 - Many wild animals live in towns and cities, right next to us. *How we know:* Crows, pigeons, sparrows, squirrels, geckos, ants and spiders live in Indian cities. When people count the birds in a city, they find dozens of kinds.
 
 ## How we found out
-**Mary Anning, an English fossil hunter, with her brother Joseph; William Buckland, who named coprolites, The ichthyosaur skeleton about 1811 to 1812; coprolites named in 1829.** About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton. She grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary was not allowed to join the Geological Society of London, because she was a woman.  
+**Mary Anning, an English fossil hunter, with her brother Joseph; William Buckland, who named coprolites, The ichthyosaur skeleton about 1811 to 1812; coprolites named in 1829.** About 200 years ago, in Lyme Regis, a seaside town in England, a girl called Mary Anning hunted for fossils. Fossils are the remains of living beings from long ago, turned to stone. Mary's family was poor, and she sold fossils to visitors to earn money. Her brother Joseph dug up the skull of an ichthyosaur, and Mary found the rest of the skeleton. She grew up to be a famous fossil hunter. Ichthyosaurs were big sea animals with long jaws full of pointed teeth. Pointed teeth are good for gripping slippery fish. On the same beach, people found odd round stones. They called them bezoar stones, and nobody knew what they were. Mary noticed that these stones often lay inside the belly of an ichthyosaur skeleton. When she broke them open, she found tiny fish bones and fish scales inside. The stones were fossil poo! In 1829, the scientist William Buckland named them coprolites. Now people could see what ichthyosaurs ate: fish, just as their teeth suggested. Mary had noticed it first and worked it out. Even so, she was not allowed to join the Geological Society of London, because she was a woman.  
 *What people believed before:* People thought the 'bezoar stones' on the beach were just odd stones. Mary Anning found them inside ichthyosaur skeletons, broke them open and found fish bones and scales. They were fossil poo, which showed what ichthyosaurs ate.
 
 ## Challenging perspectives
@@ -409,11 +409,11 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 - Knowing where mosquitoes lay their eggs helps families stop them breeding in still water.
 
 ## Spotted around us
-- A crow taking a ball of rice from a window ledge, a sight in many homes across Tamil Nadu and beyond.
-- A cow on a city street in Varanasi or Madurai, chewing slowly for a long time. Grass is tough, so a cow chews a lot.
-- Pigeons walking and nodding on the steps of a railway station in Kolkata.
-- A squirrel running along an electric wire in Bengaluru.
-- A gecko on the wall beside a street lamp at a tea stall in Guwahati.
+- A crow taking a ball of rice from a window ledge.
+- A cow on a city street, chewing slowly for a long time. Grass is tough, so a cow chews a lot.
+- Pigeons walking and nodding on the steps of a railway station.
+- A squirrel running along an electric wire.
+- A gecko on the wall beside a street lamp at a tea stall.
 
 ## Open questions
 - **What does a gecko feel when the gecko catches a moth?** Geckos sense, choose and learn. But nobody knows what being a gecko feels like from the inside.
@@ -447,11 +447,16 @@ Who Lives in Our Home? (sci.animals.L1): Topic-level song for Animals L1
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph an animal from your window or balcony and find out their name.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: One of the largest zoos in India, with animals from all over the country.
-- [Sanjay Gandhi National Park]() · place · Mumbai: A forest inside a big city, where leopards, deer and many birds live next to millions of people.
-- [Nehru Zoological Park]() · place · Hyderabad: A large zoo in Hyderabad where children can see many Indian animals.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: One of the largest zoos in India, with animals from all over the country.
+- Sanjay Gandhi National Park · place · Mumbai: A forest inside a big city, where leopards, deer and many birds live next to millions of people.
+- Nehru Zoological Park · place · Hyderabad: A large zoo in Hyderabad where children can see many Indian animals.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Chewing Test: which teeth do you use for each food?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1. Get it before The Chewing Test: which teeth do you use for each food?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Invent an Animal Who Could Live in Our Flat. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Invent an Animal Who Could Live in Our Flat.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Animal Puppet Show: eat, live, move. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Animal Puppet Show: eat, live, move.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Animal Puppet Show: eat, live, move. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in p1. Get it before Animal Puppet Show: eat, live, move.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Are you an animal? → Yes. Humans are animals.

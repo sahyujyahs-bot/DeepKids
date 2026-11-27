@@ -1,9 +1,9 @@
 # Solids, liquids and gases: why water takes the shape of its glass
 `sci.states.solids-liquids-gases.L2`
 
-**Summary.** If you pour water from a tumbler into a tall bottle, does it become more water? In this unit you will pour one tumbler of water into three different shapes and check, sort things into solids, liquids and gases, and look closely at a boiling kettle to see where the steam is.
+**Summary.** If you pour water from a tumbler into a tall bottle, does it become more water? In this lesson you will pour one tumbler of water into three different shapes and check, sort things into solids, liquids and gases, and look closely at a boiling kettle to see where the steam is.
 
-**Intro.** *Fill a glass tumbler halfway with water. If you pour that water into a tall, thin bottle, will there be more water, less water, or the same?* Many children say the thin bottle will have more, because the water will stand taller. Some say less. You are going to pour it and find out. Water can change its shape in a moment. An ice cube cannot. Why is that? This unit answers that question, and you will test the answer yourself.
+**Intro.** *Fill a glass tumbler halfway with water. If you pour that water into a tall, thin bottle, will there be more water, less water, or the same?* Many children say the thin bottle will have more, because the water will stand taller. Some say less. You are going to pour it and find out. Water can change its shape in a moment. An ice cube cannot. Why is that? This lesson answers that question, and you will test the answer yourself.
 
 ## Learning outcomes
 0. By the end I can sort things into solids, liquids and gases, and say why.
@@ -32,6 +32,8 @@ Put a steel spoon in a tumbler, then in a bowl, then on a plate. It is the same 
 - e.g. A stone keeps its shape in your hand or in a bucket.
 - e.g. An ice cube would not go into the thin bottle.
 - e.g. A wooden block stays a block wherever you put it.
+- **Everyday view:** A solid keeps its shape for ever.
+- **Closer look:** Some solids flow very slowly. The ice of a glacier creeps downhill, and pitch drips in an old experiment, a drop about once a decade. Window glass does not flow noticeably, which is a common mistake.
 ### Liquids flow and take the shape of their container · *defined*
 **Definition:** A liquid flows. It has no shape of its own, so it takes the shape of whatever holds it. Its amount stays the same.
 
@@ -39,6 +41,8 @@ In the thin bottle, the water stood tall. In the wide bowl, it spread out low an
 - e.g. Water from the thin bottle filled the tumbler back to the bindi line.
 - e.g. Rasam poured from a pot takes the shape of each bowl.
 - e.g. Coconut water takes the shape of the inside of the coconut.
+- **Everyday view:** A liquid flows and takes the shape of its container.
+- **Physicists:** Find in-between things. Honey, ketchup and a mix of cornflour and water flow in odd ways. The cornflour mix is hard when hit and runny when poured slowly.
 ### Gases spread out to fill every corner · *defined*
 **Definition:** A gas spreads out to fill all the space it can get to. It has no shape of its own, and it does not settle at the bottom.
 
@@ -46,6 +50,8 @@ In the Three Bags activity, the water lay at the bottom of its bag. The air fill
 - e.g. Air fills a balloon to its round shape.
 - e.g. Air filled the tied bag up to every corner.
 - e.g. Bubbles in a glass of soda are a gas.
+- **Everyday view:** A gas spreads to fill every space.
+- **Physicists and mountaineers:** Know that Earth's gravity holds air near the ground. The air gets thinner as you climb, and climbers carry oxygen on Everest because the gas does not fill space evenly.
 ### Ice, water and steam are the same water · *defined*
 **Definition:** Ice is water as a solid. Liquid water is water as a liquid. Steam is water as a gas. Cooling and warming change water from one state to another.
 
@@ -53,6 +59,8 @@ Water freezes into ice when it gets very cold. Ice melts back into water when it
 - e.g. Ice cubes melt into water in a glass of nannari sherbet.
 - e.g. Water in an idli pot boils, and steam cooks the idlis.
 - e.g. Snow on the Himalayas melts and flows down into the Ganga.
+- **Aristotle:** Taught that water and air are two different elements, so water that turns into vapour changes into air.
+- **Chemists:** Show that ice, water and steam are all the same molecule, H2O, in three arrangements. They also add other states, such as plasma, the glowing gas of the Sun and of lightning.
 ### Why are they so different? Tiny particles · *defined*
 **Definition:** Everything is made of tiny particles, far too small to see. How tightly they hold on to each other decides whether something is a solid, a liquid or a gas.
 
@@ -60,6 +68,8 @@ In a solid, the particles hold on tight and stay in their places. That is why a 
 - e.g. Ice: water particles holding on tight.
 - e.g. Water: the same particles sliding past each other.
 - e.g. Steam: the same particles flying apart.
+- **Democritus:** Said that things differ because their atoms differ in shape and in how they link.
+- **The Vaisheshika school:** Taught that earth atoms make solids, water atoms make liquids, and so on. Modern science keeps the idea of atoms, and says the difference comes from how tightly the same particles hold each other.
 
 ## Mostly agreed
 - A solid keeps its own shape, a liquid takes the shape of its container, and a gas spreads out to fill its container. *How we know:* In the Three Bags activity, the stone stayed a stone shape, the water lay at the bottom of its bag, and the air filled the whole bag.
@@ -384,7 +394,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 ## Worksheets
 ### Keep, Flow or Spread? (core) (core, 12 questions)
 1. (match) Draw a line from each word to what it does.  
-   **Answer:** Solid → keeps its own shape; Liquid → flows and takes the shape of its container; Gas → spreads out to fill all the space; Steam → water as a gas. *Why:* These are the main words in this unit. Each state does something different with its shape.
+   **Answer:** Solid → keeps its own shape; Liquid → flows and takes the shape of its container; Gas → spreads out to fill all the space; Steam → water as a gas. *Why:* These are the main words in this lesson. Each state does something different with its shape.
 2. (mcq) In the pouring test, the water went into the thin bottle and then back into the tumbler. Where did it come to?  
    Options: Far above the bindi / Right at the bindi, or a hair below / Far below the bindi  
    **Answer:** Right at the bindi, or a hair below. *Why:* It was the same water all along, so it came back to the same line. A few drops may stay in the bottle. If you picked 'far above', you may be thinking that the bottle made more water.
@@ -483,11 +493,11 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 - Cooking gas is squeezed into a cylinder until it turns into a liquid, so a lot fits in. When it comes out of the pipe, it turns back into a gas.
 
 ## Spotted around us
-- Kulfi set in cone-shaped moulds at a kulfi cart in Mumbai or Lucknow. The milk took the shape of the mould, then froze.
-- Steam cooking idlis in an idli pot in a Madurai kitchen.
-- Coconut water inside a tender coconut at a stall in Kerala, taking the shape of the inside of the nut.
-- Ice stupas in Ladakh: tall cones of ice that farmers build in winter. They melt slowly in spring and water the fields.
-- Morning fog over the hills of Shillong in Meghalaya. It is tiny drops of liquid water floating in the air.
+- Kulfi set in cone-shaped moulds at a kulfi cart. The milk took the shape of the mould, then froze.
+- Steam cooking idlis in an idli pot in a kitchen.
+- Coconut water inside a tender coconut at a stall, taking the shape of the inside of the nut.
+- Tall cones of ice that farmers build in winter, in a picture. They melt slowly in spring and water the fields.
+- Morning fog over the hills. It is tiny drops of liquid water floating in the air.
 
 ## Open questions
 - **How many states of matter are there?** Solid, liquid and gas are the three we see most. Lightning and the Sun are made of plasma, a fourth state. Some very cold states were predicted from the work of Satyendra Nath Bose of Kolkata, and scientists first made one in 1995. Scientists keep finding new ones, so nobody can say how many there are.
@@ -522,9 +532,13 @@ Same Water, New Shape (sci.states.L2): Topic-level song for Solids, liquids, gas
 ## Links
 - [PhET States of Matter: Basics](https://phet.colorado.edu/en/simulations/states-of-matter-basics) · simulation: A free online simulation for the parent to explore with the child. Heat or cool water and watch it turn from a solid to a liquid to a gas.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on exhibits and a science park for children.
+- Nehru Science Centre · place · Mumbai: A science centre with hands-on exhibits and a science park for children.
 
 ## Things to buy
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in One Tumbler, Three Shapes: does the amount of water change?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e1. Get it before One Tumbler, Three Shapes: does the amount of water change?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in The Ice Glove: what shape will frozen water be?. About ₹20 to ₹60. Used in e2. Get it before The Ice Glove: what shape will frozen water be?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in One Tumbler, Three Shapes: does the amount of water change?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e1. Get it before One Tumbler, Three Shapes: does the amount of water change?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name a solid in this room. → A chair, a book, a steel tumbler, a door.

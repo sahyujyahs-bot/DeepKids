@@ -1,9 +1,9 @@
 # Elements: the 118 kinds of atom, metals and non-metals, and the elements in your body
 `sci.chemistry.elements.L4`
 
-**Summary.** Your body is made of just a few kinds of atom, out of 118 known. Which ones? In this unit you will fill a hundred square with the elements you are made of, test kitchen things for carbon, and test which metal tests pencil lead passes.
+**Summary.** Your body is made of just a few kinds of atom, out of 118 known. Which ones? In this lesson you will fill a hundred square with the elements you are made of, test kitchen things for carbon, and test which metal tests pencil lead passes.
 
-**Intro.** *Sugar is white. Salt is white. A grown-up heats a pinch of each on a tawa, and one of them turns black. Which one, and where did the black come from?* The black is an element called carbon. It was inside the sugar before the heating, joined with two other elements. There is carbon in rice, in cotton, in paper and in you. In this unit you find out which kitchen things hold carbon. You colour the elements of your own body on a hundred square. You number all 118 elements on a grid and see how many are metals. You also put pencil lead through three tests for a metal.
+**Intro.** *Sugar is white. Salt is white. A grown-up heats a pinch of each on a tawa, and one of them turns black. Which one, and where did the black come from?* The black is an element called carbon. It was inside the sugar before the heating, joined with two other elements. There is carbon in rice, in cotton, in paper and in you. In this lesson you find out which kitchen things hold carbon. You colour the elements of your own body on a hundred square. You number all 118 elements on a grid and see how many are metals. You also put pencil lead through three tests for a metal.
 
 ## Learning outcomes
 0. I can say what an element is, that 118 are known, and that about 90 are found in nature.
@@ -136,7 +136,7 @@ The universe began about 13.8 billion years ago. In its first few minutes it mad
   Against: Laboratories in several countries are trying to make elements 119 and 120. Nothing known forbids them.
 
 ## Roots
-In this unit you found the elements of your own body and counted them in two ways. Here we ask what those two counts say about you and about the world.
+In this lesson you found the elements of your own body and counted them in two ways. Here we ask what those two counts say about you and about the world.
 
 **Deep truth.** In the Body Hundred Square, you coloured 65 squares for oxygen when you counted by weight. When you counted atoms instead, 62 squares in 100 were hydrogen. Both counts are correct, because one oxygen atom weighs as much as 16 hydrogen atoms. So the question 'what are you mostly made of?' has two true answers, one for each way of counting.  
 *Habit it breaks:* We expect a question such as 'what is this mostly made of?' to have only one answer. But the answer depends on whether you weigh the parts or count them. So how you ask the question changes the answer.  
@@ -719,6 +719,12 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [The Elements: A Visual Exploration of Every Known Atom in the Universe, a book by Theodore Gray (2009)](https://www.amazon.in/s?k=The+Elements+Theodore+Gray) (book): For the child and parent: a large photograph of every element, with what it is used for. Used in a3. After the 118 Grid, the child looks up five squares of the grid in the book. The photographs show what each element looks like.
 - [A periodic table wall chart](https://www.amazon.in/s?k=periodic+table+wall+chart) (tool): For checking the cards in Three of a Kind and the numbers in the 118 Grid. A free chart printed from the internet works as well. Used in g1, a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Black Test: which kitchen things hold carbon?, The Body Hundred Square: which elements are you made of?, The 118 Grid: how many of the elements are metals?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a3. Get it before The Black Test: which kitchen things hold carbon?.
+- [AA batteries or torch cells (a few)](https://www.amazon.in/s?k=AA+battery+pack) (material): Used in Elements on the Label: how many of the 118 are in your home?. About ₹10 to ₹30 each. A used torch cell still works for many circuits. Used in a2. Get it before Elements on the Label: how many of the 118 are in your home?.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Shine, Bend, Ring: which metal tests does pencil lead pass?. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in e2. Get it before Shine, Bend, Ring: which metal tests does pencil lead pass?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Blindfold Sorter: tell metal from non-metal without looking. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Blindfold Sorter: tell metal from non-metal without looking.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in The Drying Potato: how much of a living thing is water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in p1. Get it before The Drying Potato: how much of a living thing is water?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an element? → A substance made of only one kind of atom.

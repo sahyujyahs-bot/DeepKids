@@ -1,9 +1,9 @@
 # Black holes: where gravity is so strong that light cannot get out
 `sci.story-of-universe.black-holes.L3`
 
-**Summary.** A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this unit you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.
+**Summary.** A black hole is where gravity is so strong that even light cannot get out. Does it suck things in? In this lesson you will make a hole that looks blacker than black paper, squeeze bread to see what a huge mass in a tiny space means, and play an escape game.
 
-**Intro.** *Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.* In this unit you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.
+**Intro.** *Black paper is the darkest thing in most homes. But a small hole in a closed cardboard box looks even darker than black paper. Why? The answer shows what black really means: no light coming back to your eyes. A black hole is black in that way too, for an even stronger reason.* In this lesson you make a hole that is blacker than black paper, and find out why. Then you find out what a black hole is: a place where gravity holds on to everything, even light. You squeeze a slice of bread to see how a black hole forms, work out whether a black hole could swallow the Earth, and meet Andrea Ghez, who found the black hole at the centre of our galaxy without ever seeing it.
 
 ## Learning outcomes
 0. I can explain that a black hole is a place where gravity is so strong that nothing, not even light, can get out.
@@ -433,7 +433,7 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 12. (odd) Which one sends back the most light, and so is the odd one out?  
    Options: A black hole / The pupil of your eye / A hole into a closed box / A white wall  
    **Answer:** 3. *Why:* A white wall is the odd one out. It reflects most of the light that falls on it. The other three send back little or no light, so they look black.
-13. (write) Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this unit.  
+13. (write) Some people say: 'If we can never see a black hole, it might not be real.' Write what you think, with a reason from this lesson.  
    **Answer:** A strong answer gives a view and evidence. For example: it is real, because stars swing round it and gas glows near it. In the Hidden Partner activity, the watcher found the hidden partner in the same way. Or: we should keep testing, because we only know it from clues.. *Why:* This asks how we can know something we cannot see. Any side is fine if it uses evidence.
 14. (write) Design a game or a model that would show a younger child why nothing can get out of a black hole. Describe it in 3 or 4 sentences.  
    **Answer:** A strong answer uses escape speed: something must go faster than a place's escape speed to get away, and at a black hole even light is not fast enough. It could be a ramp, a throwing game or a card game.. *Why:* Explaining an idea to someone younger is a good test of whether you understand it.
@@ -490,10 +490,10 @@ That night Karthik took the Mysore pak box to bed and put it on his shelf, with 
 ## Spotted around us
 - The pupil of your eye, in a mirror. It is a hole into your eye, and it looks black because the light that goes in does not come back out.
 - The opening of a deep village well or a temple tank's dark steps, seen from above on a sunny day.
-- A railway tunnel on a ghat section, such as the hill railways of the Nilgiris or the Konkan line, looking black inside at noon.
+- A railway tunnel on a hill section, looking black inside at noon.
 - The windows of a tall building far away at noon, which often look dark even though the rooms inside are lit.
-- A sky show about black holes at a planetarium, such as the Jawaharlal Nehru Planetarium in Bengaluru, the B. M. Birla Planetarium in Chennai or the M. P. Birla Planetarium in Kolkata.
-- News about LIGO-India, the gravitational-wave detector being built near Aundha Nagnath in Hingoli district, Maharashtra.
+- A sky show about black holes at a planetarium.
+- News about a gravitational-wave detector, an instrument that catches ripples from far-off black holes.
 
 ## Open questions
 - **What happens at the very centre of a black hole?** Einstein's theory of gravity gives impossible answers there, like an endless squeeze. Physicists think a new theory that joins gravity with quantum physics is needed, and nobody has one that works yet.
@@ -542,6 +542,11 @@ City of Stars (sci.story-of-universe.L3):
 - [B. M. Birla Planetarium, Chennai](https://en.wikipedia.org/wiki/Birla_Planetarium,_Chennai) · place · Chennai: A planetarium at the Periyar Science and Technology Centre, with sky shows. Check show times before visiting.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Squeeze the Bread: same stuff, much smaller. About ₹10 to ₹30. Any school ruler is fine. Used in a1. Get it before Squeeze the Bread: same stuff, much smaller.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Blackest Black: is a hole in a box darker than black paper?, Make the Blackest Black You Can. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, c1. Get it before The Blackest Black: is a hole in a box darker than black paper?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Squeeze the Bread: same stuff, much smaller. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in a1. Get it before Squeeze the Bread: same stuff, much smaller.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Squeeze the Bread: same stuff, much smaller. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Squeeze the Bread: same stuff, much smaller.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What can never get out of a black hole? → Anything that falls in, even light.

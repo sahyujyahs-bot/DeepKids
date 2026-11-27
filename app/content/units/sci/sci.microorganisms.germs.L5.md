@@ -1,9 +1,9 @@
 # Infectious and non-infectious diseases: how they differ, how they spread and how to prevent them
 `sci.microorganisms.germs.L5`
 
-**Summary.** You can sit beside a grandmother with diabetes, but you are kept away from a cousin with chickenpox. Why? In this unit you will list illnesses in your own family, mark ill houses on two maps with dice to see which illness is catching, and play a card game on how germs travel.
+**Summary.** You can sit beside a grandmother with diabetes, but you are kept away from a cousin with chickenpox. Why? In this lesson you will list illnesses in your own family, mark ill houses on two maps with dice to see which illness is catching, and play a card game on how germs travel.
 
-**Intro.** *You may sit beside a grandmother who has diabetes all day. But you are kept away from a cousin who has chickenpox. Both are ill. Why is one illness passed on and the other not? And how did anyone find out which is which?* Some diseases are caused by germs, and many of those pass from one person to the next. They are called infectious diseases. Colds, chickenpox, cholera, malaria and tuberculosis are infectious. Other diseases have no germ behind them, and nobody catches them. They are called non-infectious diseases. Diabetes, asthma, heart disease and most cancers are non-infectious. In this unit you find out how people tell the two kinds apart. You make two maps of 36 houses with dice, one for an illness that is catching and one for an illness that is not. You roll dice for two groups of 30 people to see what a risk does. You fill bottles with smoke to find out how fresh air clears a room. By the end you can name the road each common germ travels and the protection that blocks that road. You can also say what raises the chance of a heart attack, a stroke, diabetes and cancer.
+**Intro.** *You may sit beside a grandmother who has diabetes all day. But you are kept away from a cousin who has chickenpox. Both are ill. Why is one illness passed on and the other not? And how did anyone find out which is which?* Some diseases are caused by germs, and many of those pass from one person to the next. They are called infectious diseases. Colds, chickenpox, cholera, malaria and tuberculosis are infectious. Other diseases have no germ behind them, and nobody catches them. They are called non-infectious diseases. Diabetes, asthma, heart disease and most cancers are non-infectious. In this lesson you find out how people tell the two kinds apart. You make two maps of 36 houses with dice, one for an illness that is catching and one for an illness that is not. You roll dice for two groups of 30 people to see what a risk does. You fill bottles with smoke to find out how fresh air clears a room. By the end you can name the road each common germ travels and the protection that blocks that road. You can also say what raises the chance of a heart attack, a stroke, diabetes and cancer.
 
 ## Learning outcomes
 0. By the end I can say what infectious and non-infectious diseases are, and sort common diseases into the two groups.
@@ -56,7 +56,7 @@ A contagious disease passes from person to person through the air, by touch, or 
 ### The five roads germs travel · *defined*
 **Definition:** Germs reach a new person by five main roads: the air, water and food, insects and ticks, touch, and blood and other body fluids.
 
-In this unit we call each way a germ can travel a road. A road is simply the route from one body to the next. Each germ uses mostly one road, and the road decides the protection. Air: the germs leave in coughs, sneezes and speech, and the next person breathes them in. Water and food: the germs leave in the stools of an ill person and reach water, hands, flies or food. The next person swallows them. Insects and ticks: a mosquito or tick takes the germ in with blood and passes the germ on with her next bite. Touch: the germs pass by skin, or by things such as towels, combs and door handles. Blood and body fluids: the germs pass when the blood of an infected person enters another body. A doctor who knows the road can stop a disease without a medicine. Boiling water blocks the water road. A net blocks the mosquito road. An open window thins out the germs on the air road.
+In this lesson we call each way a germ can travel a road. A road is simply the route from one body to the next. Each germ uses mostly one road, and the road decides the protection. Air: the germs leave in coughs, sneezes and speech, and the next person breathes them in. Water and food: the germs leave in the stools of an ill person and reach water, hands, flies or food. The next person swallows them. Insects and ticks: a mosquito or tick takes the germ in with blood and passes the germ on with her next bite. Touch: the germs pass by skin, or by things such as towels, combs and door handles. Blood and body fluids: the germs pass when the blood of an infected person enters another body. A doctor who knows the road can stop a disease without a medicine. Boiling water blocks the water road. A net blocks the mosquito road. An open window thins out the germs on the air road.
 - e.g. Air: cold, flu, measles, chickenpox, tuberculosis, pneumonia, COVID-19.
 - e.g. Water and food: cholera, typhoid, diarrhoea, dysentery, hepatitis A, polio.
 - e.g. Insects and ticks: malaria, dengue, chikungunya, filariasis, Kyasanur Forest disease.
@@ -210,7 +210,7 @@ We have made two maps with dice and learned how people tell a catching illness f
 A doctor examines one patient, and that is how most of us think about illness. But the two maps showed that some facts are about the connections between people. A catching illness passes from one person to the next. You cannot see that by looking at one ill person. A risk is a difference between two groups. You cannot see that in one person either. So health is something people share, as well as something each person has alone. Clean water, clean air and vaccines work this way: each protects a person by protecting everyone around them.
 
 - **Charaka Samhita, Vimana Sthana, chapter 3:** A student asks how one disease can strike a whole town at once, when the people differ in body, food and habits. The teacher answers that they share four things: the air, the water, the place and the season. (This is the reasoning of the Two Maps Test, written down in India roughly two thousand years ago. When many different people fall ill together, look for what they share.)
-- **The story of Kisa Gotami, in the commentary on the Dhammapada, verse 114:** A mother whose child has died asks the Buddha for medicine. He asks her to bring a mustard seed from a house where nobody has ever died. She goes from door to door and finds no such house. (Kisa Gotami learned something about her own loss only by visiting many houses. In this unit too, some truths about one illness appear only when many homes are looked at together.)
+- **The story of Kisa Gotami, in the commentary on the Dhammapada, verse 114:** A mother whose child has died asks the Buddha for medicine. He asks her to bring a mustard seed from a house where nobody has ever died. She goes from door to door and finds no such house. (Kisa Gotami learned something about her own loss only by visiting many houses. In this lesson too, some truths about one illness appear only when many homes are looked at together.)
 - **Hippocrates, On Airs, Waters and Places, opening section:** A doctor who arrives in a new town should first study its winds, its water, its soil and the way its people live. (The Greek doctors did not know about germs. But they saw that the diseases of a town follow what the whole town breathes, drinks and eats.)
 - Science (settled): Whether a disease passes from person to person is found by studying the pattern of many cases, and then confirmed by finding the germ.
 - Science (settled): A vaccinated person protects the people around them, because the germ cannot pass on through that person to the next one.
@@ -792,13 +792,13 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 - A district health office draws a chart of new fever cases each week. A sharp rise after the monsoon tells it to look for standing water.
 
 ## Spotted around us
-- A mosquito net over a bed, or a net across a window, in a home in Kerala, Odisha or Assam.
+- A mosquito net over a bed, or a net across a window.
 - A packet of ORS at a chemist, a health centre or an anganwadi, with the instructions printed on it.
 - A health poster in a clinic about hand washing, TB, dengue or the signs of a stroke.
 - A warning on a tobacco packet or gutka packet with a picture of a diseased mouth.
 - A vaccination card that every baby has, with dates and signatures for each shot.
 - Salt packets that say iodised on the front.
-- Covered water pots with a long ladle, in homes across Tamil Nadu, Karnataka and Andhra Pradesh.
+- Covered water pots with a long ladle, in homes.
 - Windows opposite doors, and small jali screens high on a wall, in older houses and school buildings in many states.
 
 ## Open questions
@@ -851,6 +851,11 @@ The Smallest Neighbours (sci.microorganisms.L5): Topic-level song
 - [Non-communicable diseases (Wikipedia)](https://en.wikipedia.org/wiki/Non-communicable_disease) · interactive: For the parent: an overview of heart disease, stroke, diabetes, cancer and lung disease.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two Maps Test: can a map show whether an illness is catching?, Incubation Detective: when did the germ get in?, The Clinic Register: which chart shows a catching illness?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, a4, p1. Get it before The Two Maps Test: can a map show whether an illness is catching?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Two Maps Test: can a map show whether an illness is catching?, Incubation Detective: when did the germ get in?, The Clinic Register: which chart shows a catching illness?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, a2, a4, c1. Get it before The Two Maps Test: can a map show whether an illness is catching?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Waiting Room: where should eight people sit?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in c1. Get it before The Waiting Room: where should eight people sit?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Our Emergency Card: who to call and what to say. About ₹5 to ₹20. Cut card from a cereal box. Used in a3. Get it before Our Emergency Card: who to call and what to say.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the difference between an infectious and a non-infectious disease? → A germ causes an infectious disease. No germ causes a non-infectious disease, and nobody catches it.

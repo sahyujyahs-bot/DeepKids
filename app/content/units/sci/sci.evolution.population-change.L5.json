@@ -3069,6 +3069,62 @@
     "e2"
    ],
    "plan": "Read it together over a week, after the two bean experiments."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?, Sixteen Islands: repeat a famous fly experiment with beans, The Wide Crossing: build a road that animals can walk under. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?, The Bridge Test: can one traveller in each round keep two islands alike?, Four From Eight: does a blind handful match the whole?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a5",
+    "a6",
+    "p1"
+   ],
+   "plan": "Get it before The Lucky Tumbler Test: when nobody chooses, do the colours stay half and half?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Sixteen Islands: repeat a famous fly experiment with beans. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Sixteen Islands: repeat a famous fly experiment with beans."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -3374,6 +3374,70 @@
     "a2"
    ],
    "plan": "For the parent to read alongside the unit. The chapter on Robert Paine goes well with Take the Snakes Away and the card on how we found out."
+  },
+  {
+   "id": "b-a-magnetic-compass",
+   "item": "A magnetic compass",
+   "kind": "tool",
+   "why": "Used in The Leaky Bottle: what keeps a level steady?. About ₹30 to ₹150. A phone compass app also works.",
+   "url": "https://www.amazon.in/s?k=magnetic+compass+school",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Leaky Bottle: what keeps a level steady?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Two Webs Test: which web loses more when three beings go?, The Leaky Bottle: what keeps a level steady?, Two Out of Thousands: why prey animals have many young. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3",
+    "a4",
+    "c2"
+   ],
+   "plan": "Get it before The Two Webs Test: which web loses more when three beings go?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Two Webs Test: which web loses more when three beings go?, Two Out of Thousands: why prey animals have many young. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a3"
+   ],
+   "plan": "Get it before The Two Webs Test: which web loses more when three beings go?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in The Leaky Bottle: what keeps a level steady?. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Leaky Bottle: what keeps a level steady?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

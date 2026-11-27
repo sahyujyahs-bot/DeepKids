@@ -3170,6 +3170,60 @@
     "p1"
    ],
    "plan": "After the Milk Survey, a parent can read aloud from the chapters on microbes and the gut."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Run Test: what stops saliva from digesting starch?, Starch or Fibre: can saliva thin every thick food?, The Gut Ladder: string lengths for a cat, a person, a rabbit and a cow. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Run Test: what stops saliva from digesting starch?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Listen to a Gut: is the food tube busier before lunch or after?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before Listen to a Gut: is the food tube busier before lunch or after?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Listen to a Gut: is the food tube busier before lunch or after?, Mouth Waters: how fast do your saliva glands wake up?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e3",
+    "a1"
+   ],
+   "plan": "Get it before Listen to a Gut: is the food tube busier before lunch or after?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3425,7 +3479,10 @@
     "source": "Bhagavad Gita 15.14",
     "teaching": "The text says that the divine becomes the fire of digestion, called vaishvanara, in the body of every living being. With the breath it digests the four kinds of food.",
     "link": "Many traditions saw digestion as a kind of fire, which turns food into the stuff of life. Today we see that the work is done by enzymes, at body warmth and in the right acidity, and not by a flame. Both pictures say that digesting is more than breaking food into lumps.",
-    "verse": ["अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।", "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"],
+    "verse": [
+     "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।",
+     "प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।"
+    ],
     "verse_lang": "sa"
    },
    {

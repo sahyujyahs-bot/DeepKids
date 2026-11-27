@@ -1,9 +1,9 @@
 # Taking without emptying: how much can we take and still leave enough?
 `sci.environment.conservation.L4`
 
-**Summary.** Fish and grass grow back, so how can people empty a lake that refilled itself for thousands of years? In this unit you will estimate the beans in a jar without counting them all, run a village pond where everyone shares the fish, and model how rain soaks into the ground.
+**Summary.** Fish and grass grow back, so how can people empty a lake that refilled itself for thousands of years? In this lesson you will estimate the beans in a jar without counting them all, run a village pond where everyone shares the fish, and model how rain soaks into the ground.
 
-**Intro.** *Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting every bean, how many beans are in the jar?* You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 out of every 40 beans in the jar have a dot. You marked 40 beans in all, and those 40 are about 6 out of every 40 in the jar. So the whole jar holds about 40 times 40 divided by 6 beans, which is about 270. Scientists use this method to count fish in a lake and tigers in a forest, where nobody can count every one. In this unit you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?
+**Intro.** *Fill a jar with beans. Take out 40, mark each with a dot, and shake them back in. Now scoop out 40 beans again. Only 6 have a dot. Without counting every bean, how many beans are in the jar?* You can work it out. If 6 of the 40 beans in the second scoop have a dot, then about 6 out of every 40 beans in the jar have a dot. You marked 40 beans in all, and those 40 are about 6 out of every 40 in the jar. So the whole jar holds about 40 times 40 divided by 6 beans, which is about 270. Scientists use this method to count fish in a lake and tigers in a forest, where nobody can count every one. In this lesson you use it, and then you look at a harder question: if fish, grass and trees all grow back, why do they still run out?
 
 ## Learning outcomes
 0. I can explain why something that regrows, such as fish, trees or clams, can still run out if we take it faster than it renews.
@@ -851,14 +851,21 @@ Downstream (sci.environment.L4): Topic-level song for Caring for the environment
 - [Bombay Natural History Society](https://www.bnhs.org) · interactive: For the parent. One of India's oldest nature groups, which counted vultures and works on birds, wetlands and species at risk.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent. A free site where anyone can record the plants and animals they see, and look at records from across India.
 - [Central Ground Water Board](https://cgwb.gov.in) · interactive: For the parent. The government body that measures groundwater levels in India, with maps and reports for each state.
-- [Guindy National Park]() · place · Chennai, Tamil Nadu: One of the few national parks inside a city. A good place to see spotted deer and blackbuck. Check the opening days and times before you go.
-- [Mawphlang Sacred Forest]() · place · Near Shillong, Meghalaya: A sacred grove kept by local people for hundreds of years. Visit with a local guide, and follow the rules of the grove.
+- Guindy National Park · place · Chennai, Tamil Nadu: One of the few national parks inside a city. A good place to see spotted deer and blackbuck. Check the opening days and times before you go.
+- Mawphlang Sacred Forest · place · Near Shillong, Meghalaya: A sacred grove kept by local people for hundreds of years. Visit with a local guide, and follow the rules of the grove.
 
 ## Things to buy
 - [White chickpeas (kabuli chana), about 500 grams](https://www.amazon.in/s?k=kabuli+chana+500g) (material): For the Beans in the Jar test. White chickpeas show the marker dots clearly. Most kitchens already have them. Used in e1. 
 - [Whole green moong (sabut moong), about 250 grams](https://www.amazon.in/s?k=whole+green+moong+250g) (material): For the Second Life of Water test and the Kitchen Seed Bank. Buy whole moong, not split dal. Used in e2, p1. 
 - [Clean fine sand, about 1.5 kilograms](https://www.amazon.in/s?k=aquarium+sand+1+kg) (material): For the Rain Pit Model and the Borewell in a Tub. Washed river sand from a hardware shop or aquarium sand is fine. Rinse dusty sand in a bucket and dry it first. You need about 6 cups in all. Used in e3, a2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Optional. To look at fingerprints, seeds and flower parts closely. A cheap one from a stationery shop is enough. Used in a4, a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Second Life of Water: which used water can still grow a plant?, Ask an Elder: what was here when you were my age?, Borewell in a Tub: how pumping lowers the water for everyone nearby. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, a2. Get it before Second Life of Water: which used water can still grow a plant?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Borewell in a Tub: how pumping lowers the water for everyone nearby. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a2. Get it before Borewell in a Tub: how pumping lowers the water for everyone nearby.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Rain Home: send the roof's rain into the ground. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Rain Home: send the roof's rain into the ground.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Second Life of Water: which used water can still grow a plant?. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before Second Life of Water: which used water can still grow a plant?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Rain Pit Model: which layer lets rain soak in fastest?, Rain Home: send the roof's rain into the ground. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3, c1. Get it before The Rain Pit Model: which layer lets rain soak in fastest?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Rain Home: send the roof's rain into the ground. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before Rain Home: send the roof's rain into the ground.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a stock? → How many of something there are right now.
@@ -877,8 +884,8 @@ Downstream (sci.environment.L4): Topic-level song for Caring for the environment
 - Core: e1, g1, e3, ws-core, a1
 
 ## Sources
-- The Class 3 unit on conservation, which this unit builds on: from useful animals, regrowth and rain harvesting to counting, shared resources and seed saving
-- NIOS Level A Lesson 5 (conservation of the environment) and Level B Lesson 9 (conservation of soil and forests), used to map the topics this unit goes beyond
+- The Class 3 unit on conservation, which this lesson builds on: from useful animals, regrowth and rain harvesting to counting, shared resources and seed saving
+- NIOS Level A Lesson 5 (conservation of the environment) and Level B Lesson 9 (conservation of soil and forests), used to map the ideas this lesson goes beyond
 - Founder's notes in ideas/by_topic/caring-for-the-environment.md on balance and human impact, and the SCI Card for M. S. Swaminathan in ideas/by_topic/food-and-a-balanced-diet.md, used for the seed varieties explanation
 - Pauly, D. (1995). Anecdotes and the shifting baseline syndrome of fisheries. Trends in Ecology and Evolution 10: 430
 - Hardin, G. (1968). The Tragedy of the Commons. Science 162: 1243 to 1248

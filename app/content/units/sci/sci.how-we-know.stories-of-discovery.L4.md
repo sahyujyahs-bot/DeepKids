@@ -1,9 +1,9 @@
 # From 'I saw it' to 'we know it': how a discovery wins belief
 `sci.how-we-know.stories-of-discovery.L4`
 
-**Summary.** A discovery is not finished until someone else can repeat it. How can you write steps that a stranger can follow? In this unit you will make a water-drop lens, test your steps on someone else, repeat Redi's jar test with a banana, and put discoveries in order.
+**Summary.** A discovery is not finished until someone else can repeat it. How can you write steps that a stranger can follow? In this lesson you will make a water-drop lens, test your steps on someone else, repeat Redi's jar test with a banana, and put discoveries in order.
 
-**Intro.** *You tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?* In the 1670s this really happened to Antoni van Leeuwenhoek, a Dutch cloth seller. He made tiny lenses, looked at water and saw tiny living beings. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this unit you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.
+**Intro.** *You tell your class that one drop of water holds living beings too small to see. You are the only person with a lens strong enough to look. Would your class believe you? Should they?* In the 1670s this really happened to Antoni van Leeuwenhoek, a Dutch cloth seller. He made tiny lenses, looked at water and saw tiny living beings. The Royal Society in London, the most famous group of scientists of the time, did not believe what he wrote. A discovery is not finished when one person sees something. In this lesson you make your own water-drop lens, find out if a stranger can follow your steps and see what you saw, and meet people whose ideas took years to be believed.
 
 ## Learning outcomes
 0. I can explain why a discovery is not finished until other people can repeat it by following the steps.
@@ -721,6 +721,13 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the water-drop lenses. Most kitchens already have one. Used in e1, c1. 
 - [A piece of thin cotton muslin cloth](https://www.amazon.in/s?k=muslin+cloth+kitchen) (material): To cover the cloth jar in Redi's Jars. A thin cotton scarf or dupatta also works. Used in e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (material): To check your water-drop lens against a glass one, and for the Size Card challenge. Used in c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in A String of Years: how long does belief take?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before A String of Years: how long does belief take?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Water-Drop Lens: can someone else see what you saw?, A String of Years: how long does belief take?, Describe It, Then Draw It: steps that carry a picture. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, a4, p1. Get it before The Water-Drop Lens: can someone else see what you saw?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in The Size Card: report how big something looks, so anyone can check. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in c1. Get it before The Size Card: report how big something looks, so anyone can check.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Fit the Coasts: how much does a puzzle prove?. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a2. Get it before Fit the Coasts: how much does a puzzle prove?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in My Sprout Notebook: watch, draw and write for a stranger, The Size Card: report how big something looks, so anyone can check. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1, c1. Get it before My Sprout Notebook: watch, draw and write for a stranger.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Fit the Coasts: how much does a puzzle prove?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2. Get it before Fit the Coasts: how much does a puzzle prove?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - When is a discovery finished? → When others can repeat it by following the steps.
@@ -741,7 +748,7 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 ## Sources
 - The founder's Fringe Science concept grid for Grades 3 and 4 (belief should track evidence; replication; many anomalies fade but some lead to real discoveries), used for the ideas about repeating a test and about good ideas that were doubted.
 - The founder's SCI Cards on credit and who is left out (Rosalind Franklin, Bibha Chowdhuri, Marietta Blau and others), which shaped the card on the hands behind discoveries. Marie Tharp, Maria Sibylla Merian and Anna Mani were chosen as further examples.
-- The Class 3 unit on stories of discovery, which this unit builds on: accidents, mistakes and credit. This unit adds how a discovery wins belief.
+- The Class 3 unit on stories of discovery, which this lesson builds on: accidents, mistakes and credit. This lesson adds how a discovery wins belief.
 - Antoni van Leeuwenhoek, letters to the Royal Society, 1674 to 1677, and Robert Hooke's report of repeating the observations, 1677
 - Robert Hooke, Micrographia, 1665
 - Francesco Redi, Esperienze intorno alla generazione degl'insetti, 1668

@@ -1,7 +1,7 @@
 # Living light: how fireflies and other living things make their own light
 `sci.light.living-light.L3`
 
-**Summary.** A firefly makes light, and it does not get hot. How does it do that? In this unit you will snap a glow stick, test whether warmth changes its glow, tell made light from the stored light in glow-in-the-dark stars, and invent a deep-sea creature.
+**Summary.** A firefly makes light, and it does not get hot. How does it do that? In this lesson you will snap a glow stick, test whether warmth changes its glow, tell made light from the stored light in glow-in-the-dark stars, and invent a deep-sea creature.
 
 **Intro.** *Switch off every light in the room tonight. Wait a little. Now snap a glow stick. It shines, but it has no battery, no wire and no flame. Where is its light coming from?* On summer nights before the monsoon, the trees near Bhandardara in Maharashtra begin to sparkle. Thousands of tiny lights blink on and off. They are not lamps. They are fireflies, small beetles that make light inside their own bodies. Far away, deep in the sea, an anglerfish hangs a glowing lure in front of their mouth, in total darkness. How can a living thing make light? And what does the light do for them?
 
@@ -182,7 +182,7 @@ We have been learning about living light: fireflies, mushrooms and sea animals t
 
 Plants catch sunlight and store its energy as food. Firefly young eat snails and worms, which fed on plants. Some of that stored energy later leaves the firefly as a flash. The glow stick test showed that a store of energy can come out fast and bright, or slow and dim. At every step the energy changes form, but it is never destroyed.
 
-- **Katha Upanishad 2.2.15 (also Mundaka Upanishad 2.2.10):** “न तत्र सूर्यो भाति न चन्द्रतारकं / नेमा विद्युतो भान्ति कुतोऽयमग्निः / तमेव भान्तमनुभाति सर्वं / तस्य भासा सर्वमिदं विभाति” There the Sun does not shine, nor the Moon and stars, nor lightning, let alone this fire. When That shines, everything shines after it. By its light, all this is lit. (The verse says every light we see shines by a light behind it. In this unit, a firefly's flash is energy that came from the Sun, through plants and food. Science can follow that chain back to the Sun. The verse asks what lights even the Sun.)
+- **Katha Upanishad 2.2.15 (also Mundaka Upanishad 2.2.10):** “न तत्र सूर्यो भाति न चन्द्रतारकं / नेमा विद्युतो भान्ति कुतोऽयमग्निः / तमेव भान्तमनुभाति सर्वं / तस्य भासा सर्वमिदं विभाति” There the Sun does not shine, nor the Moon and stars, nor lightning, let alone this fire. When That shines, everything shines after it. By its light, all this is lit. (The verse says every light we see shines by a light behind it. In this lesson, a firefly's flash is energy that came from the Sun, through plants and food. Science can follow that chain back to the Sun. The verse asks what lights even the Sun.)
 - **The Buddha, speaking to Ananda near the end of his life, in the Mahaparinibbana Sutta (Digha Nikaya 16):** “Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.” Be a lamp for yourselves. Be a refuge for yourselves. The Pali word 'dipa' can mean both lamp and island, and scholars translate it both ways. (A firefly does not borrow their light from the Sun or the Moon. They make it in their own body. The Buddha asked people to find their way by their own understanding, not by leaning on others.)
 - Science (settled): Living light comes from a chemical reaction of luciferin with oxygen. The energy in the food that powers it first came from sunlight caught by plants.
 - Science (idea): Living light began separately at least 94 times in the history of life. Scientists worked this out by comparing family trees of living things.
@@ -797,10 +797,10 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 
 ## Spotted around us
 - Fireflies, called jugnu in Hindi and minmini poochi in Tamil, blinking over fields, gardens and trees on warm nights from late May to July, before and during the first rains.
-- Firefly festivals near Bhandardara and Purushwadi in Maharashtra, where whole trees blink in the pre-monsoon weeks.
-- Glowing mushrooms on fallen bamboo near Mawlynnong in Meghalaya, in the monsoon.
-- Glowing fungi on rotting logs in the Western Ghats forests of Goa, Karnataka and Kerala, in the rainy season.
-- Blue glowing waves of sea sparkle on some nights at beaches near Mumbai, Goa, Mangaluru, Kerala and Chennai.
+- Fireflies blinking in whole trees in the pre-monsoon weeks, in a village away from city lights.
+- Glowing mushrooms on fallen bamboo, in the monsoon.
+- Glowing fungi on rotting logs in a forest, in the rainy season.
+- Blue glowing waves of sea sparkle on some nights at a beach.
 - Glow sticks at wedding processions, Ganesh festivals and New Year parties.
 - Glow-in-the-dark stars on bedroom ceilings, and glowing hands on old clocks and switches.
 - Glow-worms, the young of fireflies, glowing steadily on wet leaves and grass at the edge of fields after rain.
@@ -860,6 +860,10 @@ Follow the Light (sci.light.L3): Topic-level song
 - [A pack of glow sticks, same colour and size](https://www.amazon.in/s?k=glow+sticks) (material): Glow sticks of one colour and size. Used in e1, e2, a1, a5. 
 - [Glow-in-the-dark stars](https://www.amazon.in/s?k=glow+in+the+dark+stars) (material): Small glow-in-the-dark stars. Used in e3, c2. 
 - [Glow-in-the-dark paint](https://www.amazon.in/s?k=glow+in+the+dark+paint) (material): Glow-in-the-dark paint, if you do not use stars. Used in a3, c1. 
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Cold Light Test: is a glow hot?. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in e2. Get it before Cold Light Test: is a glow hot?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Made or Stored? Glow-in-the-dark stars, Firefly Night Walk (if you live near a park, field or garden), Firefly Count for Science (if you live near a park, field or garden). About ₹150 to ₹400. A phone stopwatch works well. Used in e3, a2, p1. Get it before Made or Stored? Glow-in-the-dark stars.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Invent a Deep-Sea Creature. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Invent a Deep-Sea Creature.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Light made by a living thing is called ____. → Living light, or bioluminescence.

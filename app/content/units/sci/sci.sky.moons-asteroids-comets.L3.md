@@ -1,9 +1,9 @@
 # Moons, asteroids and comets: the smaller worlds, and why shooting stars glow
 `sci.sky.moons-asteroids-comets.L3`
 
-**Summary.** A shooting star is not a star, so what is it? In this unit you will compare a grain of rava with a map to see how small it is, make ice comets and watch what the sun does to them, and sort space rocks.
+**Summary.** A shooting star is not a star, so what is it? In this lesson you will compare a grain of rava with a map to see how small it is, make ice comets and watch what the sun does to them, and sort space rocks.
 
-**Intro.** *Have you ever seen a shooting star? It is not a star at all. Most shooting stars are made by grains of dust no bigger than a grain of rava. So how can something so small make a light you can see from 100 kilometres away?* In this unit you find out. You meet the smaller worlds of the solar system: moons, asteroids and comets. You make a comet from ice and dirt, and watch what happens to it in the sun. And you find out where the dust that makes shooting stars comes from.
+**Intro.** *Have you ever seen a shooting star? It is not a star at all. Most shooting stars are made by grains of dust no bigger than a grain of rava. So how can something so small make a light you can see from 100 kilometres away?* In this lesson you find out. You meet the smaller worlds of the solar system: moons, asteroids and comets. You make a comet from ice and dirt, and watch what happens to it in the sun. And you find out where the dust that makes shooting stars comes from.
 
 ## Learning outcomes
 0. I can say that most planets have moons, and name the moons of Mars and the four big moons of Jupiter.
@@ -404,7 +404,7 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
   - Ask: What did the buttons look like from the side? (good: They moved left and right in a line.; Sometimes one hid behind the plate.)
   - Note: From the side, a button going round in a circle looks like it moves left and right along a line, exactly like Galileo's dots.
 - **s4 (3 min)**  
-  *Parent does:* Watch the short NASA Juno video in this unit's video list, if you can.  
+  *Parent does:* Watch the short NASA Juno video in this lesson's video list, if you can.  
   *Parent says:* Galileo worked out that these were four moons going round Jupiter. That was a big surprise. Many people then taught that everything in the sky goes round the Earth. Here were four things going round something else.  
   *Child mode:* Galileo found four moons going round Jupiter. Not everything goes round the Earth!
   - Ask: Why did this surprise people in 1610? (good: They thought everything went round the Earth.; These moons went round Jupiter instead.)
@@ -686,10 +686,10 @@ As they rolled up the mats, Arjun opened his fist. The grain of rava was still t
 - Meteor cameras around the world record fireballs and work out where any meteorites landed, so people can find them.
 
 ## Spotted around us
-- Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach in Tamil Nadu, Kerala or Odisha.
+- Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach.
 - Jupiter as a bright, steady dot in the evening sky, with tiny moons beside it if you use binoculars.
-- Lonar Lake in Buldhana district, Maharashtra, a round lake inside a crater made by a meteorite.
-- Meteorites on display in museums and science centres, such as the Geological Survey of India's collections.
+- A round lake inside a crater made by a meteorite, in a picture.
+- Meteorites on display in a museum or science centre.
 - The word 'vaal natchathiram', the tail star, in old Tamil stories and in grandparents' memories of Halley's Comet in 1986.
 
 ## Open questions
@@ -743,6 +743,15 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 
 ## Things to buy
 - [A pair of 7x50 or 10x50 binoculars](https://www.amazon.in/s?k=10x50+binoculars) (tool): Ordinary binoculars show Jupiter's four big moons as tiny dots, just as Galileo saw them. They also show craters on our Moon. Borrowing a pair works just as well. Used in p1. 
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in How Small Is a Shooting Star? A grain of rava and a map, Magnet Dust Hunt: could any of this dust be from space?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1, a5. Get it before How Small Is a Shooting Star? A grain of rava and a map.
+- [A bar magnet or two, and a few small magnets](https://www.amazon.in/s?k=bar+magnet+school) (tool): Used in Magnet Dust Hunt: could any of this dust be from space?, Is This Stone from Space? Plan the tests. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests. Used in a5, c2. Get it before Magnet Dust Hunt: could any of this dust be from space?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Ice Comet: what happens to its dirt in the sun?, Land on a Comet Without Bouncing. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c1. Get it before The Ice Comet: what happens to its dirt in the sun?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Land on a Comet Without Bouncing. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Land on a Comet Without Bouncing.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in How Small Is a Shooting Star? A grain of rava and a map. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a1. Get it before How Small Is a Shooting Star? A grain of rava and a map.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Galileo's Dots: stars or moons?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Galileo's Dots: stars or moons?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Is This Stone from Space? Plan the tests. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in c2. Get it before Is This Stone from Space? Plan the tests.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Fan and Tail: does a comet's tail stream out behind it?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before Fan and Tail: does a comet's tail stream out behind it?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the two moons of Mars. → Phobos and Deimos.

@@ -1,9 +1,9 @@
 # Transparent, translucent and opaque: which things we can see through
 `sci.light.transparent-opaque.L3`
 
-**Summary.** Why can you see clearly through glass, but not through a paper? In this unit you will test which things let light through, find how far words can be from the paper before they blur, and make an oil spot window.
+**Summary.** Why can you see clearly through glass, but not through a paper? In this lesson you will test which things let light through, find how far words can be from the paper before they blur, and make an oil spot window.
 
-**Intro.** *A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. Light gets through, so why does the picture of the tree not get through too?* Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know what happens to the picture inside a translucent material. You will also see why a few drops of oil can make some of these materials clear again.
+**Intro.** *A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. Light gets through, so why does the picture of the tree not get through too?* Light gets through frosted glass, but the picture of the tree is lost on the way. In this lesson you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know what happens to the picture inside a translucent material. You will also see why a few drops of oil can make some of these materials clear again.
 
 ## Learning outcomes
 0. I can say what transparent, translucent and opaque mean, and sort real things into the three groups by testing them with light.
@@ -169,11 +169,11 @@ We have been learning how light goes straight through some things, is scattered 
 - *what is life:* Some animals hide by being almost transparent. A glass frog even packs most of their red blood cells into their liver while they sleep, so the red does not give them away.
 - *what is this world:* The whole universe was once like a thick fog. Then it cleared, and light could travel. That first light still reaches us today.
 
-In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light stayed the same, and what happened depended on the material. Transparent, translucent and opaque name what happens when light meets a material.
+In this lesson, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light stayed the same, and what happened depended on the material. Transparent, translucent and opaque name what happens when light meets a material.
 
 - **Chandogya Upanishad 6.13:** “लवणमेतदुदकेऽवधायाथ मा प्रातरुपसीदथा इति / तं होवाच । यद्दोषा लवणमुदकेऽवाधा अङ्ग तदाहरेति / तद्धावमृश्य न विवेद / मध्यादाचामेति । कथमिति । लवणमिति / तं होवाचात्र वाव किल तत्सोम्य न निभालयसेऽत्रैव किलेति” A father, Uddalaka, asks his son to put salt in water overnight. In the morning the son cannot see the salt. But every sip tastes salty. The father says: in the same way, what is finest is everywhere, unseen. 'You are that.' (Sugar stirred into water becomes clear and invisible, but it is still there in every sip. Not seeing something does not mean it is not there.)
 - **Isha Upanishad 15:** “हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् / तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये” The face of truth is covered by a golden lid. The seeker asks for the lid to be taken away, so the truth can be seen. (A golden lid is opaque. Gold sends light back, so it hides what is under it, however beautiful it looks. The verse asks what might be covering what is true.)
-- **The Bible, 1 Corinthians 13:12:** “βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι / τότε δὲ πρόσωπον πρὸς πρόσωπον” 'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly. (In this unit, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view.)
+- **The Bible, 1 Corinthians 13:12:** “βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι / τότε δὲ πρόσωπον πρὸς πρόσωπον” 'For now we see through a glass, darkly.' The Greek word Paul used means a mirror. Mirrors then were polished metal, and showed only a dim, blurry picture. Paul says what we know now is like that picture, and one day we may see clearly. (In this lesson, a blurry picture came from light being scattered on its way. An old metal mirror gave a dim, blurry picture because its surface was never perfectly smooth, so it scattered some of the light. Paul uses that blur to say that what we know now is not yet the clear view.)
 - Science (settled): Whether a material is see-through depends on its thickness, its tiny edges and the kind of light. Glass passes the light we see but stops much ultraviolet light. A brick wall stops the light we see but lets radio waves through.
 - Science (settled): For about 380,000 years, the young universe was opaque, like fog. Then it became transparent, and that first light still reaches us.
 - Other view, The Charvaka thinkers of ancient India, and many scientists today: Transparency is just atoms and light, and nothing more. There is nothing deeper behind it. Light passes through glass because of electrons and energy, and that is the whole story. This is an honest view, and many careful people hold it.
@@ -758,12 +758,12 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 
 ## Spotted around us
 - A frosted glass bathroom window, glowing in the morning.
-- A paper kandil glowing over a shop door at Diwali, or a big paper star on a Kerala porch at Christmas.
+- A paper kandil glowing over a shop door at Diwali, or a big paper star on a porch at Christmas.
 - A carved stone jaali in an old fort or tomb, throwing a pattern of light on the floor.
 - Brown medicine bottles at the chemist's shop.
 - A thin white veshti or saree drying on a balcony, glowing in the sun.
 - Glass bangles in a market stall, some clear, some coloured.
-- Morning fog over a paddy field in winter, or mist over a tea garden in Darjeeling or Munnar, so thick you can't see the trees.
+- Morning fog over a paddy field in winter, or mist over a tea garden, so thick you can't see the trees.
 - A glass of water on the table, with the light from the window shining through it.
 - A kite of thin paper glowing when it flies between you and the Sun.
 
@@ -822,6 +822,11 @@ Follow the Light (sci.light.L3): Topic-level song
 - [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): A small torch makes fingers glow, casts shadows and lets you test containers. Used in a1, g2, c1, a6. 
 - [Butter paper or tracing paper sheets](https://www.amazon.in/s?k=butter+paper+sheets) (material): The best translucent paper for the gap test, the lantern and the night-light. Used in e1, p1, c2. 
 - [Battery LED tealights](https://www.amazon.in/s?k=led+tealight+candles) (tool): A safe light with no flame, for paper lanterns and shades. Used in p1, c2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Gap Test: how far until the words blur?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Gap Test: how far until the words blur?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in The Oil Spot Window. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e2. Get it before The Oil Spot Window.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Gap Test: how far until the words blur?, The Soft Night-Light. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, c2. Get it before The Gap Test: how far until the words blur?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Gap Test: how far until the words blur?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1. Get it before The Gap Test: how far until the words blur?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Glass you can see clearly through is called ____. → transparent

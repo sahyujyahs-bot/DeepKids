@@ -1,9 +1,9 @@
 # Germs, medicines and vaccines: how the body and medicine meet an infection
 `sci.microorganisms.germs.L4`
 
-**Summary.** Two children have a sore throat, and the doctor gives tablets to only one. Why? In this unit you will test which kitchen things slow a living microbe, play a rice and dal game in which a medicine leaves a few tough germs behind, and see how a vaccine prepares the body.
+**Summary.** Two children have a sore throat, and the doctor gives tablets to only one. Why? In this lesson you will test which kitchen things slow a living microbe, play a rice and dal game in which a medicine leaves a few tough germs behind, and see how a vaccine prepares the body.
 
-**Intro.** *A child in a class has measles. Most of the other children sit in the same room and do not catch it. Their bodies were ready for the germ before the germ arrived. What made them ready?* In this unit you find out what happens inside a body when germs get in, and what medicines can and cannot do. You test which kitchen things slow down a living microbe. You play a game with rice and dal in which a medicine leaves a few tough germs behind, and see what those survivors do next. And you learn, in plain words, how a vaccine works and why it protects people who never had it.
+**Intro.** *A child in a class has measles. Most of the other children sit in the same room and do not catch it. Their bodies were ready for the germ before the germ arrived. What made them ready?* In this lesson you find out what happens inside a body when germs get in, and what medicines can and cannot do. You test which kitchen things slow down a living microbe. You play a game with rice and dal in which a medicine leaves a few tough germs behind, and see what those survivors do next. And you learn, in plain words, how a vaccine works and why it protects people who never had it.
 
 ## Learning outcomes
 0. I can sort illnesses by their cause, which may be bacteria, a virus, a fungus, a parasite or no germ at all, and say which ones pass from person to person.
@@ -873,6 +873,12 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 - [A sachet of dry baking yeast](https://www.amazon.in/s?k=dry+baking+yeast+sachet) (material): The living microbe in the Yeast Test. A sachet costs a few rupees at a grocer's, supermarket or bakery supplier. If you cannot find one, ask a local baker for a spoonful. Used in e1. 
 - [A digital thermometer](https://www.amazon.in/s?k=digital+thermometer+for+kids) (tool): For A Day of Temperatures. Many homes already have one, and a neighbour or health worker may lend one. A digital one costs roughly Rs 100 to 200 at a medical shop and is safer than a glass one. Used in a5. 
 - [A packet of ORS powder](https://www.amazon.in/s?k=ORS+powder+sachet) (material): To compare with the home-made drink in the ORS activity, and to keep in the first-aid box. Chemists and health centres sell and give it. Used in a4. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Memory Cards: how a vaccine saves time. About ₹150 to ₹400. A phone stopwatch works well. Used in a2. Get it before Memory Cards: how a vaccine saves time.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Yeast Test: which kitchen things really slow down a living microbe?, The Medicine Reminder Chart. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c2. Get it before The Yeast Test: which kitchen things really slow down a living microbe?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Ask the Health Worker: a one-page health sheet for our home, The Vaccine Carrier: keep an ice cube cold for two hours, The Medicine Reminder Chart. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c1, c2. Get it before Ask the Health Worker: a one-page health sheet for our home.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in The Yeast Test: which kitchen things really slow down a living microbe?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1. Get it before The Yeast Test: which kitchen things really slow down a living microbe?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Rice and Dal: what is left after the medicine?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Rice and Dal: what is left after the medicine?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one illness caused by bacteria and one caused by a virus. → Bacteria: typhoid or tuberculosis. Virus: a cold or measles.
@@ -895,7 +901,7 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 - ideas/by_topic/microorganisms.md: the founder's picture of bacteria as beings who sense, decide and act, and who pass genes to each other by horizontal gene transfer, used in the explanation of resistance
 - SCI Cards in ideas/scientists.json: Esther Lederberg (replica plating, her credit left out), Gagandeep Kang (an Indian rotavirus vaccine) and Katalin Karikó (modified mRNA), used in how_we_found_out and the vaccine cards
 - Curriculum entry sci.microorganisms.germs.L4: infectious diseases, medicines and when to use them, vaccines in simple words; Cambridge Stage 4 1.5 Medicines and infectious diseases
-- The Level 3 unit on germs, which this unit builds on: the idea of a chain of germs is carried on to rings of vaccinated people, and the doubling of bacteria is carried on to survivors of a medicine
+- The Level 3 unit on germs, which this lesson builds on: the idea of a chain of germs is carried on to rings of vaccinated people, and the doubling of bacteria is carried on to survivors of a medicine
 - Luria and Delbrück, 'Mutations of bacteria from virus sensitivity to virus resistance', Genetics 28, 1943
 - Lederberg and Lederberg, 'Replica plating and indirect selection of bacterial mutants', Journal of Bacteriology 63, 1952
 - Jenner, An Inquiry into the Causes and Effects of the Variolae Vaccinae, London, 1798; Lady Mary Wortley Montagu, Turkish Embassy Letters (written 1717 and 1718), and her daughter's variolation in London in 1721

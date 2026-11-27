@@ -1,9 +1,9 @@
 # Our ears: how we hear, how to protect hearing, and the sounds animals hear that we can't
 `sci.sound.hearing.L3`
 
-**Summary.** A phone can be playing music while you hear nothing at all. Why? In this unit you will find the quietest sound you can hear, test which ear cover blocks the most sound, and check how high a note each person in your family can hear.
+**Summary.** A phone can be playing music while you hear nothing at all. Why? In this lesson you will find the quietest sound you can hear, test which ear cover blocks the most sound, and check how high a note each person in your family can hear.
 
-**Intro.** *Try this. Play a song on a phone and turn the volume all the way down, but leave the song playing. Put the phone on a table across the room. Can you hear it? The song is playing, and the phone is sending out sound. So why can't you hear it?* Your ears catch only sounds that are loud enough, and only sounds of certain pitches. In this unit you find the quietest sound you can hear, and you test which ear covers block sound best. You follow a sound from your ear flap to your brain. You find out why very loud sounds can harm hearing for ever, and how to keep your ears safe. You also meet animals that hear sounds we never notice: bats, moths, elephants and more.
+**Intro.** *Try this. Play a song on a phone and turn the volume all the way down, but leave the song playing. Put the phone on a table across the room. Can you hear it? The song is playing, and the phone is sending out sound. So why can't you hear it?* Your ears catch only sounds that are loud enough, and only sounds of certain pitches. In this lesson you find the quietest sound you can hear, and you test which ear covers block sound best. You follow a sound from your ear flap to your brain. You find out why very loud sounds can harm hearing for ever, and how to keep your ears safe. You also meet animals that hear sounds we never notice: bats, moths, elephants and more.
 
 ## Learning outcomes
 0. I can follow a sound through my ear: ear flap, ear canal, eardrum, three tiny bones, cochlea, hair cells, nerve and brain.
@@ -41,52 +41,70 @@
 When a bell rings, it vibrates, and the air around it vibrates too. Your ear flap collects some of that vibrating air and sends it down the ear canal. At the end, the eardrum vibrates. The three tiny bones pass the vibration on to the cochlea. The bones make the push stronger, because the cochlea is full of liquid and liquid is harder to move than air. In the cochlea the liquid ripples, and the tufts on the hair cells bend. Each bend makes a hair cell send a signal along the auditory nerve. Only then does the brain make the sound you hear.
 - e.g. A pressure cooker whistle makes the steam and the air vibrate. The vibration then passes through your eardrum, the three tiny bones, the cochlea, the hair cells and the nerve, and your brain hears the whistle.
 - e.g. Your mother calling you from the kitchen reaches your brain through the same chain in much less than one second.
+- **Hermann von Helmholtz:** In 1863 he proposed that each part of the cochlea is tuned to one pitch, like the strings of a piano.
+- **Georg von Bekesy:** In the 1940s and 50s he saw through a microscope that sound makes a wave that travels along the cochlea and peaks at different places for different pitches. He won the Nobel Prize in 1961.
 ### The quietest sound you can hear · *defined*
 **Definition:** Every ear has a quietest sound it can catch, called the hearing threshold. A softer sound still reaches the ear, but it does not make a strong enough signal to be heard.
 
 In the Quietest Sound experiment, you turned a phone up one step at a time from across the room. At the lowest steps the phone was playing, but you heard nothing. The sound was there in the air. It was too soft for your hair cells to send a clear signal. When the volume went up, you heard it. Covering the ear raised the step you needed, because less sound got in. An audiologist tests hearing this way. They play soft beeps of different pitches and find the quietest one you hear for each pitch.
 - e.g. At night the road is quiet, so you can hear a wall clock tick. In the day the road is noisy, and the tick is too soft to hear.
 - e.g. A child may hear a whisper from 3 metres away. A grandparent may need the speaker to come closer.
+- **Audiologists:** Measure the quietest sound a person can hear, and find that it is near the limit set by the random jiggling of air itself.
+- **Barn owl researchers:** Found that owls can hear sounds quieter than people can. They hunt mice in darkness by sound, with a face shaped like a dish to gather it.
 ### Pitch, and the band of sounds people hear · *defined*
 **Definition:** Pitch depends on how many times each second a thing vibrates. People hear from about 20 to about 20,000 vibrations each second. This is written as 20 to 20,000 hertz.
 
 A big drum skin vibrates slowly and makes a low pitch. A small bell vibrates very fast and makes a high pitch. Young people hear from about 20 hertz up to about 20,000 hertz. Sounds above that are called ultrasound. Sounds below it are called infrasound. They are real sounds, but our hair cells do not respond to them. Different hair cells pick up different pitches. Those for high sounds sit near the start of the coil in the cochlea, and those for low sounds sit deep inside it.
 - e.g. A mosquito's whine is a few hundred hertz. You hear it well.
 - e.g. A dog whistle is above 20,000 hertz. A dog hears the whistle, and you hear nothing.
+- **Physicists:** Count vibrations each second, called hertz, and say people hear about 20 to 20,000 of them.
+- **Indian music theory:** The old text Natya Shastra divides the octave into 22 steps, called shrutis. Singers and players can tell very small differences in pitch, and keep them as part of raga.
 ### Why the highest sounds go first as we grow older · *defined*
 **Definition:** The hair cells for the highest pitches wear out first, so most people hear less of the top of the band as they grow older.
 
 High-pitch hair cells sit at the start of the cochlea, where every sound passes. Over many years, more of them stop working. A child may hear a tone of 17,000 hertz that most grown-ups over 40 cannot. Many grandparents hear deep voices well but miss high sounds, like the 's' and 'f' in words. So 'fifty' and 'sixty' can sound the same to them. Loud places and some illnesses make this happen sooner.
 - e.g. A grandmother may hear the low temple drum well, but miss the high beep of the microwave.
 - e.g. In the family pitch test, a tone rises higher and higher. The children usually keep hearing it after the parents have stopped.
+- **Audiologists:** Say that the hair cells for the highest pitch sit at the start of the cochlea and take the most wear.
+- **Researchers of the Mabaan people:** In 1962 a study in Sudan found that elders who lived in a very quiet place kept good hearing into old age. It suggests that much of hearing loss is caused by noise, not age alone.
 ### Loud sound and hair cells · *defined*
 **Definition:** Very loud sound, or loud sound for a long time, can bend and break hair cells. In people, broken hair cells never grow back.
 
 Loudness is measured in decibels. Talking is about 60 decibels. Sounds above about 85 decibels, heard for hours, slowly harm hearing. Very loud sounds close by, like a firecracker bursting near you, can harm it at once. After a loud wedding band or crackers, your ears may ring or sound muffled. That is a warning that hair cells were hurt. Most of it gets better in a day or so, but damage that happens again and again adds up. Birds can grow new hair cells, but people cannot.
 - e.g. If you must shout to be heard by someone an arm's length away, the place is loud enough to harm hearing over time.
 - e.g. Earphones at full volume for hours each day can cause hearing loss that lasts.
+- **Human doctors:** Find that broken hair cells in people do not grow back, so hearing loss from noise is permanent.
+- **Bird and fish researchers:** Showed in the 1980s that birds regrow their hair cells and hear again within weeks. Scientists study them hoping to find a way to heal human ears.
 ### Keeping your ears safe · *defined*
 **Definition:** You protect your hearing by keeping loud sound short, staying away from the thing that makes it, covering your ears, and never pushing anything into the ear canal.
 
 Moving away from a loud sound helps a lot, because sound spreads out and gets weaker with distance. Covering the ears helps, and a cover that seals the ear hole helps most. With earphones, keep the volume low enough to hear someone talking next to you. Earwax keeps the canal clean and moves out by itself as you chew and talk. A cotton bud can push wax deeper or scratch the eardrum. Doctors say to put nothing in your ear, not a bud, a hairpin, a matchstick or oil. If an ear hurts, leaks or feels blocked, see a doctor.
 - e.g. At Deepavali, stand far back from the crackers and press your ear flaps shut when they burst.
 - e.g. After a bath, wipe only the outside of your ear with a cloth.
+- **Public health scientists:** Advise that sound over about 85 decibels for hours can harm ears, and give limits. Ear plugs, distance and short times protect.
+- **Indian traditions of silence:** Value mauna, a time of silence, for calm and clear thought. Resting the ears, as well as the voice, is an old practice.
 ### Hearing through your bones · *defined*
 **Definition:** Vibrations can reach the cochlea through the bones of the head, without passing through the eardrum. This is called bone conduction.
 
 When you talk, your voice reaches your cochlea in two ways: through the air into your ears, and through the bones of your head. The bones carry the low parts of your voice well. That is why your voice sounds deeper to you than to others, and why a recording of your voice sounds strange. When you hum with your ears shut, the hum gets louder. Less sound escapes from the closed ear canal, and the hum still arrives through the bones.
 - e.g. Your recorded voice sounds higher and thinner than the voice you hear when you talk.
 - e.g. Bhramari, the humming bee breath of yoga, is done with the ears shut, and the hum fills your head.
+- **Audiologists:** Use the fact that sound reaches the cochlea through the skull to test hearing, and to make hearing aids that sit on the bone.
+- **Evelyn Glennie:** This Scottish percussionist has been deaf since childhood and plays by feeling sound through her whole body, with bare feet on the floor. Hearing is wider than the ear.
 ### Animals that hear what we can't · *defined*
 **Definition:** Many animals hear pitches that people cannot. Each one hears the sounds that matter for their way of living.
 
 A moth flying at night has a problem: bats hunt moths in the dark. Many moths have ears on their bodies that hear the bats' ultrasound calls. When a bat comes close, the moth dives or zigzags away. Bats themselves call in ultrasound and listen to the echoes to find insects. A mouse is hunted by owls and cats, and mice call to each other in ultrasound. Cats and dogs hear higher sounds than we do. Elephants live in herds that spread out across a forest. Their low rumbles, partly infrasound, travel far, and other elephants hear them from kilometres away. A cricket hears with ears on her front legs.
 - e.g. A dog hears a dog whistle that people cannot.
 - e.g. Pigeons hear infrasound, far below the lowest sound we can hear.
+- **Lazzaro Spallanzani and Donald Griffin:** Spallanzani in 1793 found that blinded bats could still fly. In 1938 Griffin showed that bats make and hear sounds above our range, called ultrasound.
+- **Katy Payne:** In 1984 she found that elephants call in sounds below our hearing, called infrasound, which can travel for kilometres across the ground and air.
 ### What does a bat hear when the echoes come back? · *idea*
 A bat hears echoes of their own calls and knows where a moth is, how fast she flies and even her size. Nobody knows what this is like for the bat. Does it feel like seeing, or like hearing, or like something people have no word for? In 1974 the philosopher Thomas Nagel asked this question in an essay called 'What Is It Like to Be a Bat?'. Scientists can measure what a bat's ears and brain do. They have no way yet to know what the bat experiences. Some blind people learn to click with their tongue and find walls and doorways from the echoes. They describe it in their own ways.
 - e.g. A bat catches a moth in the dark in less than a second.
 - e.g. Some blind people find a doorway by clicking and listening to the echo.
+- **Donald Griffin (1938) and bat researchers:** Showed that bats make high sounds and use the echoes to find things, and can measure what their brains do.
+- **Philosopher Thomas Nagel:** Said we can know a bat's body and brain, but we can never know what it is like to be a bat.
 
 ## Mostly agreed
 - The ear passes sound from the eardrum, through three tiny bones, to hair cells in the cochlea, which send signals to the brain. *How we know:* Doctors and scientists have studied ears for centuries. Georg von Békésy watched the inside of the cochlea move with sound, and won the Nobel Prize in 1961.
@@ -678,10 +696,10 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 - Soundproof rooms and thick doors in recording studios
 
 ## Spotted around us
-- A traffic policeman at a busy junction in Bengaluru, standing in the noise of horns all day.
+- A traffic policeman at a busy junction, standing in the noise of horns all day.
 - Bats flying around a street light at dusk, catching insects with calls we can't hear.
 - A dog suddenly looking up and barking when nobody else heard a thing.
-- Your ears popping in a lift or on the ghat road to Kodaikanal.
+- Your ears popping in a lift or on a ghat road.
 - A grandparent turning up the TV, or leaning in to hear a child.
 - Earmuffs on the ground crew next to an aeroplane at the airport.
 - A neighbour's music: you hear the drum through the wall, but not the words.
@@ -731,6 +749,12 @@ Everything Hums (sci.sound.L3): Topic-level song
 
 ## Things to buy
 - [A pair of foam earplugs (sold at chemists)](https://www.amazon.in/s?k=foam+ear+plugs) (material): To try beside your home-made ear protectors, and to keep for loud festivals. Not for children under 5, who could swallow them. Used in c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Quietest Sound: which ear cover blocks the most?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before The Quietest Sound: which ear cover blocks the most?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Build a Model Ear. About ₹20 to ₹60. Used in a4. Get it before Build a Model Ear.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Build a Model Ear. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a4. Get it before Build a Model Ear.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Model Ear. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a4. Get it before Build a Model Ear.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Earmuffs for the Festival. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before Earmuffs for the Festival.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which part of the ear vibrates first? → The eardrum.

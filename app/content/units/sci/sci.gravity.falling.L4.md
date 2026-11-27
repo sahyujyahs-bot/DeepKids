@@ -1,9 +1,9 @@
 # Falling: why a falling thing speeds up, and why it stops speeding up
 `sci.gravity.falling.L4`
 
-**Summary.** A falling thing gains about 10 metres a second of speed every second, yet it stops speeding up in air. Why? In this unit you will drop stacks of paper liners, drop a ball while walking, make dents in dough, and build cube animals to see why a mouse survives a fall.
+**Summary.** A falling thing gains about 10 metres a second of speed every second, yet it stops speeding up in air. Why? In this lesson you will drop stacks of paper liners, drop a ball while walking, make dents in dough, and build cube animals to see why a mouse survives a fall.
 
-**Intro.** *A raindrop falls from a cloud about 2 kilometres up. A pebble dropped from a first-floor balcony, only 3 metres up, would sting your toe. How can a raindrop that falls so much farther be so gentle?* If nothing slowed it, the raindrop would hit the ground at about 700 kilometres an hour. That is almost as fast as an aeroplane. But something does slow it. In this unit you find out what, by dropping paper cupcake liners and a ball of dough. You will also find out why a ball that you drop while walking does not land at your feet.
+**Intro.** *A raindrop falls from a cloud about 2 kilometres up. A pebble dropped from a first-floor balcony, only 3 metres up, would sting your toe. How can a raindrop that falls so much farther be so gentle?* If nothing slowed it, the raindrop would hit the ground at about 700 kilometres an hour. That is almost as fast as an aeroplane. But something does slow it. In this lesson you find out what, by dropping paper cupcake liners and a ball of dough. You will also find out why a ball that you drop while walking does not land at your feet.
 
 ## Learning outcomes
 0. I can say that a falling thing gains the same extra speed every second, about 10 metres a second more, and use this to find its speed after 1, 2 and 3 seconds.
@@ -701,6 +701,12 @@ Gravity (sci.gravity.L4): Topic-level song
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the Walking Drop, if you prefer clay to atta dough. A small pack from a stationery shop is enough. Used in e2. 
 - [Glass shooter marbles or small steel balls, and a bright tennis ball](https://www.amazon.in/s?k=glass+marbles+shooter) (material): For the dents test, the video project and the marble challenge. A heavy shooter marble makes clearer dents; marbles cost a few rupees at a toy shop. The tennis ball is optional: a lime or any bright ball works. Used in e3, p1, c1. 
 - [A box of sugar cubes or small wooden cubes](https://www.amazon.in/s?k=wooden+cubes+for+kids) (material): For Cube Animals. You need 27 cubes that are all the same size. Sugar cubes (supermarkets, some kirana shops) are cheap; dice, building blocks or cubes cut from stiff dough work as well. Used in a2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Walking Drop: where does a ball land if you drop it while walking?, Falling on Video: find how fast a ball speeds up, Marble to the Cup: hit a hidden target. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, p1, c1. Get it before The Walking Drop: where does a ball land if you drop it while walking?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Liner Stacks: does a heavier stack fall faster in air?, The Walking Drop: where does a ball land if you drop it while walking?, Swings: does a heavy swing swing faster?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, a3. Get it before Liner Stacks: does a heavier stack fall faster in air?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Walking Drop: where does a ball land if you drop it while walking?, Dents in Dough: does a faster hit dig deeper?, Swings: does a heavy swing swing faster?. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, a3, p1, c1. Get it before The Walking Drop: where does a ball land if you drop it while walking?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Liner Stacks: does a heavier stack fall faster in air?, The Walking Drop: where does a ball land if you drop it while walking?, Dents in Dough: does a faster hit dig deeper?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, e2, e3, a3, p1, c1. Get it before Liner Stacks: does a heavier stack fall faster in air?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Walking Drop: where does a ball land if you drop it while walking?, Marble to the Cup: hit a hidden target. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e2, c1. Get it before The Walking Drop: where does a ball land if you drop it while walking?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - About how much speed does a falling thing gain each second, with no air? → About 10 metres a second.
@@ -720,9 +726,9 @@ Gravity (sci.gravity.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/gravity.md: the Sideways Velocity activity, the Impact Force and elastic energy activity, the pendulum-period experiment and the experiment of dropping objects from different heights, used in Toss on the Move, the Walking Drop, Dents in Dough and Swings
-- The Class 3 unit sci.gravity.falling.L3, which this unit builds on. This unit goes a step deeper (speeding up in numbers, top speed, sideways speed, movement energy, size) and does not repeat its experiments or story
+- The Class 3 unit sci.gravity.falling.L3, which this lesson builds on. This lesson goes a step deeper (speeding up in numbers, top speed, sideways speed, movement energy, size) and does not repeat its experiments or story
 - The Combined lessons sci-C3-gravity and sci-C5-gravity (sideways speed ideas), taken and improved here
-- The curriculum entry for sci.gravity.orbits.L4 (the Moon falls around the Earth), which this unit prepares for without teaching orbits
+- The curriculum entry for sci.gravity.orbits.L4 (the Moon falls around the Earth), which this lesson prepares for without teaching orbits
 - Galileo, letter to Paolo Sarpi, 16 October 1604 (speed proportional to distance fallen, later corrected)
 - Galileo, Discourses and Mathematical Demonstrations Relating to Two New Sciences, 1638 (speed grows with time, the curved path of thrown things)
 - Galileo, Dialogue Concerning the Two Chief World Systems, 1632, Second Day (the ship's cabin and the relativity of motion)

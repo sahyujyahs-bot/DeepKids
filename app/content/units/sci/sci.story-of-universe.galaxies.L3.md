@@ -636,6 +636,10 @@ City of Stars (sci.story-of-universe.L3):
 - [Vainu Bappu Observatory](https://www.iiap.res.in/) · place · Kavalur, Tamil Nadu: An observatory of the Indian Institute of Astrophysics in the Javadhu Hills. It has held public viewing nights. Check before visiting.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Pinhole Galaxy: when do two lights become one?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Pinhole Galaxy: when do two lights become one?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Pinhole Galaxy: when do two lights become one?, A Kolam of the Milky Way: our galaxy from above and from the side. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, p1. Get it before The Pinhole Galaxy: when do two lights become one?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Pinhole Galaxy: when do two lights become one?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1. Get it before The Pinhole Galaxy: when do two lights become one?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is our galaxy called? → The Milky Way.

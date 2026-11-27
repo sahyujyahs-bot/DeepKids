@@ -2974,6 +2974,58 @@
     "p1"
    ],
    "plan": "Read it together before day 1 of Ten Neighbours on One Time Tree, to help your child choose neighbours from several branches."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in Ten Neighbours on One Time Tree. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Ten Neighbours on One Time Tree."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Dice Clock Test: can chance mistakes tell time?, Fewest Changes: three possible trees for a shark, a dolphin and a cow, The Brinjal Family on a Ruler: a time tree from the kitchen. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a2",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before The Dice Clock Test: can chance mistakes tell time?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Dice Clock Test: can chance mistakes tell time?, Fast Gene, Slow Gene: is a faster clock always a better clock?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Dice Clock Test: can chance mistakes tell time?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

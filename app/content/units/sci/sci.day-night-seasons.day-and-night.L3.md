@@ -1,7 +1,7 @@
 # Day and night: how the spinning Earth makes them
 `sci.day-night-seasons.day-and-night.L3`
 
-**Summary.** The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this unit you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.
+**Summary.** The Sun seems to cross the sky, but it is not really moving. So what makes day and night? In this lesson you will show day and night with a ball and a torch, follow a shadow stick, and swing a pendulum to see the Earth turn.
 
 **Intro.** *Right now, as you read this, you are moving faster than an aeroplane. You are not in a car or a train. You are sitting still. So how can that be?* In most of India, the ground under your feet is moving at about 1,500 kilometres an hour. A passenger jet flies at about 900. Your house, the trees, the air and you all move together, so you feel nothing. When it is afternoon here, it is night for children in America. The Sun has not gone anywhere. Their side of the Earth is facing away from it. So why can't we feel the Earth spin, and how does the spin give us day and night?
 
@@ -115,7 +115,7 @@ Jupiter is the biggest planet, yet it spins fastest. Its day is only about 10 ho
 ### Midnight Sun and long nights near the poles · *defined*
 **Definition:** Near the North and South Poles, there are weeks when the Sun never sets, and weeks when it never rises.
 
-The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another unit.
+The Earth's axis is tilted, like a top leaning a little to one side. For part of the year, the North Pole leans towards the Sun. Then places near it stay in sunlight all the way round the spin, for weeks on end. The Sun just circles around the sky, low down, all day and all night. People call this the midnight Sun. Half a year later, the North Pole leans away, and the Sun does not rise for weeks. India has a research station called Himadri, in Svalbard, far up in the Arctic. Indian scientists there work under the midnight Sun in summer. Why the tilt also gives us seasons is the subject of another lesson.
 - e.g. In Svalbard, the Sun does not set from about the middle of April to late August.
 - e.g. At India's Antarctic stations, Maitri and Bharati, scientists have long dark weeks in the southern winter.
 ### Twilight, and the Sun you see after it has set · *defined*
@@ -676,7 +676,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 7. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
    **Answer:** True. *Why:* True. The equator is the fattest part of the Earth, so it has the longest circle to go round in the same 24 hours.
 8. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Suppose you lived then, with no pendulum and no photos from space.  
-   **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this unit, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
+   **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this lesson, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
 9. (match) Match each world to its day.  
    **Answer:** Jupiter → about 10 hours; Earth → 24 hours; Mars → a little more than 24 hours; Venus → longer than 100 of our days. *Why:* Every planet spins at its own speed. Jupiter is the fastest. Venus is very slow, and spins backwards.
 10. (mcq) After sunset, the sky stays light for a while. Why?  
@@ -800,11 +800,11 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 ## Spotted around us
 - The sunrise and sunset times printed in the newspaper's weather box.
 - Long shadows in the morning and evening, and tiny ones at noon, on any street.
-- The Samrat Yantra at Jantar Mantar in Jaipur, a sundial as tall as a nine-storey building.
-- Zero Shadow Day, when the noon Sun is straight overhead. In Bengaluru it comes in late April and mid-August.
+- A big stone sundial in a park, as tall as a tall building, or any sundial you can find.
+- Your own shadow at noon in late April or mid-August. On Zero Shadow Day, the Sun is straight overhead and shadows nearly vanish.
 - Roosters crowing before dawn, and koels calling at first light.
 - Owls and fruit bats setting out at dusk, and flowers like night jasmine giving out their scent at night.
-- Sunrise watchers at Kanyakumari, where you can see the Sun rise from the sea and set into the sea.
+- The Sun rising out of the sea, or setting into it, if you live near the coast.
 - Street lamps switching on at dusk, many of them by a light sensor.
 
 ## Open questions
@@ -854,17 +854,22 @@ Turning Into the Light (sci.day-night-seasons.L3): One song for the whole topic 
 - [Stellarium Web](https://stellarium-web.org/) · simulation: A free planetarium in your browser. Speed up time and watch the stars wheel round the Pole Star, or the Sun cross the sky.
 - [NASA Space Place](https://spaceplace.nasa.gov/) · interactive: Free games and explainers about the Sun, the Earth and the planets, from NASA.
 - [Motions of the Sun simulator, University of Nebraska-Lincoln](https://astro.unl.edu/naap/motion3/animations/sunmotions.html) · simulation: Shows the Sun's path across the sky from any place on Earth, at any time of day or year. Best with a parent.
-- [Jantar Mantar, Jaipur]() · place · Jaipur: Giant stone instruments built by Maharaja Sawai Jai Singh II, finished in 1734. The Samrat Yantra sundial tells the time to within about 2 seconds.
-- [Jantar Mantar, New Delhi]() · place · New Delhi: An older, smaller set of Jai Singh's stone instruments, in the middle of the city at Connaught Place.
+- Jantar Mantar, Jaipur · place · Jaipur: Giant stone instruments built by Maharaja Sawai Jai Singh II, finished in 1734. The Samrat Yantra sundial tells the time to within about 2 seconds.
+- Jantar Mantar, New Delhi · place · New Delhi: An older, smaller set of Jai Singh's stone instruments, in the middle of the city at Connaught Place.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Sky shows about the Sun, the Earth's spin and the stars.
-- [M.P. Birla Planetarium]() · place · Kolkata: One of the oldest and largest planetariums in Asia, with shows about the night sky.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru: Sky shows, and events on Zero Shadow Day each year.
+- M.P. Birla Planetarium · place · Kolkata: One of the oldest and largest planetariums in Asia, with shows about the night sky.
+- Jawaharlal Nehru Planetarium · place · Bengaluru: Sky shows, and events on Zero Shadow Day each year.
 - [Kodaikanal Solar Observatory, Indian Institute of Astrophysics](https://www.iiap.res.in) · place · Kodaikanal: An observatory that has photographed the Sun almost every day for more than a hundred years. It has a small museum for visitors.
 
 ## Things to buy
 - [A small spinning globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe already has an axis and real places on it, so the torch and ball experiment shows exactly which cities see the Sun first. An orange works too. Used in e1, a4. 
 - [What Makes Day and Night, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Makes+Day+and+Night+Franklyn+Branley) (book): A clear picture book that explains the spinning Earth with a lamp and a ball, for ages 4 to 8. Read it after the torch and ball experiment. Used in e1. 
 - [The Sun Is Kind of a Big Deal, by Nick Seluk](https://www.amazon.in/s?k=The+Sun+Is+Kind+of+a+Big+Deal+Nick+Seluk) (book): A funny, comic-style book about the Sun and the planets, for ages 5 to 9. Read it before the game Who Sees the Sun First? Used in g1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Shadow Stick: does the Sun really move across the sky?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Shadow Stick: does the Sun really move across the sky?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Day and Night You Can Feel. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in c2. Get it before Day and Night You Can Feel.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Shadow Stick: does the Sun really move across the sky?, Build a Sundial and Find Your Own Noon. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2, p1. Get it before The Shadow Stick: does the Sun really move across the sky?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Build a Sundial and Find Your Own Noon. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Build a Sundial and Find Your Own Noon.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Day and night happen because the Earth ____. → spins

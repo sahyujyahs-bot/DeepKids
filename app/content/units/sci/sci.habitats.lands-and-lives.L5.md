@@ -1,9 +1,9 @@
 # India's ecological regions: why each land has its own plants, animals and knowledge
 `sci.habitats.lands-and-lives.L5`
 
-**Summary.** Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this unit you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.
+**Summary.** Mangaluru and Bengaluru get the same monsoon wind, but Mangaluru gets more than three times as much rain. Why? In this lesson you will draw India's ecological regions on a map, test how buttress roots help a tall tree stand, and build paper towers for still air and windy air.
 
-**Intro.** *In Meghalaya, people cross some rivers on bridges that are alive. Nobody cut a single plank for them. Why would anyone grow a bridge when they could build one?* The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this unit you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.
+**Intro.** *In Meghalaya, people cross some rivers on bridges that are alive. Nobody cut a single plank for them. Why would anyone grow a bridge when they could build one?* The answer is in the rain. The hills of southern Meghalaya get about 12 metres of rain a year, more than almost any place on Earth. A bridge of cut wood or bamboo rots there in a few years. A living root gets thicker and stronger every year. So Khasi and Jaintia villagers guide the roots of a rubber fig tree across the stream. Then they wait up to 15 years. The bridge fits that land. In this lesson you find out what makes one land differ from another. You meet living beings who are found in only one place. You also test whether a good design for one land still works when it is moved to another.
 
 ## Learning outcomes
 0. I can say what an ecological region is, and name four things that make regions differ: rain, height, salt and soil.
@@ -201,7 +201,7 @@ The ground of India rides on a huge slab of rock called a plate. Long ago this p
   Against: Each square metre of ground in Jaisalmer still receives about 250 litres of rain a year. A kund with a wide saucer of hard ground collects enough for a family. People have lived this way in the Thar for centuries.
 
 ## Roots
-In this unit you tilted paper trees and built towers for a still land and a windy land. Here we ask what it means for a way of doing things to be right.
+In this lesson you tilted paper trees and built towers for a still land and a windy land. Here we ask what it means for a way of doing things to be right.
 
 **Deep truth.** In the Two Lands Test, the tall thin tower won in still air and fell under the fan. The short wide tower stood under the fan but lost in still air. Each design had been improved by the tests of one land only. So knowledge that is right for one land can be wrong for another.  
 *Habit it breaks:* We rank ways of doing things as modern or backward, as if one list fitted every place. But each tower was right only for the land that had tested it. A ranking forgets to ask where the way of doing things is used.  
@@ -214,7 +214,7 @@ In this unit you tilted paper trees and built towers for a still land and a wind
 One wind brings rain to the whole west coast. One range of hills turns that wind into a wet side and a dry side. From that single difference come different forests, different animals and different roofs. So the many ways of living in India are answers to the same few things: rain, height, salt and soil. Tamil poets noticed this about 2,000 years ago, when they divided their land into five landscapes. The Two Lands Test shows the same idea with paper towers.
 
 - **Tolkappiyam, Porulatikaram, the chapter Akattinaiyiyal (Tamil, about 2,000 years old, though scholars disagree on the exact date):** “மாயோன் மேய காடுறை உலகமுஞ் / சேயோன் மேய மைவரை உலகமும் / வேந்தன் மேய தீம்புனல் உலகமும் / வருணன் மேய பெருமணல் உலகமும் / முல்லை குறிஞ்சி மருத நெய்தலெனச் / சொல்லிய முறையாற் சொல்லவும் படுமே.” The Tolkappiyam divides the Tamil country into five landscapes: hills, forest, farmland, seashore and dry land. Each landscape has its own flower, tree, animals, work and way of life. The hills are named kurinji, after the flower that blooms there. (This is close to the idea of an ecological region. The poets saw that the land, the living beings and the people's lives go together. They used it to write poems, and scientists use it to plan protected areas.)
-- **Udana 6.4, the Buddha's story of the blind men and the elephant:** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi kumbho. / ediso, deva, hatthī seyyathāpi thūṇo. / ediso, deva, hatthī seyyathāpi sammajjanī.” Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled. (The Buddha told this story about people who argue over what is true. It fits this unit in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.)
+- **Udana 6.4, the Buddha's story of the blind men and the elephant:** “ediso dhammo, nediso dhammo; / nediso dhammo, ediso dhammo. / ediso, deva, hatthī seyyathāpi kumbho. / ediso, deva, hatthī seyyathāpi thūṇo. / ediso, deva, hatthī seyyathāpi sammajjanī.” Several men who had been blind from birth each touched one part of an elephant. One said an elephant is like a pot, another like a pillar, another like a broom. Each was sure, and they quarrelled. (The Buddha told this story about people who argue over what is true. It fits this lesson in one small way. The knowledge of one land is true for the part of the world that tested it. It goes wrong when people use it to describe every land.)
 - Science (settled): Ferdinand Ludwig's team surveyed more than 70 living root bridges in Meghalaya. Where two roots cross and press together, they grow into each other, so an old bridge becomes one connected frame.
 - Science (open): Rain, sea level and temperature are now changing within one lifetime. Nobody knows how much traditional knowledge will still fit, or how quickly new knowledge can be built.
 - Other view, Meera Nanda, an Indian historian of science, in her book Prophets Facing Backward (2003), and many working scientists: The laws of nature are the same in every land. A claim that has been tested fairly is true in Ladakh and in Kerala alike. On this view, calling local knowledge 'right for its own place' can protect mistaken beliefs from being tested. The fair course is to test every practice, old or new, in the same way.
@@ -617,7 +617,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
   - Note: Good examples are clay pots for cool water, buttermilk and ragi in summer, and sloping tiled roofs. Others are inner courtyards, and drying fish or vegetables before the rains. If the reason is unclear, write that down too. It is something to test.
   - Wait: Carry on tomorrow
 - **s4 (25 min)**  
-  *Parent does:* Your child chooses one very different region from this unit, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.  
+  *Parent does:* Your child chooses one very different region from this lesson, such as Ladakh, the Thar or the Sundarbans. On page 4 they draw a table with two columns and five rows: rain, height, a plant, an animal and a way of building. Then they present the file to the family in three minutes.  
   *Parent says:* Choose a region as different from ours as you can. Fill in the table for both. Then tell us about our own land in three minutes.  
   *Child mode:* Choose a very different region. Fill in the table. Present your file in three minutes.
   - Ask: Would the local knowledge on page 3 work in the other region? (good: No. A clay pot would not cool water in the damp Sundarbans air.; Yes. Both places flood, so stilts would help in both.)
@@ -836,13 +836,13 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 
 ## Spotted around us
 - A banyan or peepal in a city, with roots hanging from the branches. Root bridges are grown from hanging roots like these.
-- A sloping tiled roof on an old house in Kerala or coastal Karnataka, beside a flat concrete roof.
+- A sloping tiled roof on an old house, beside a flat concrete roof.
 - A clay pot of drinking water on a window sill in a dry, hot town.
 - Wide feet on a table fan, a crane or a water tank tower. They do what buttress roots do.
 - Different kinds of banana or rice at the market, each with its own name and its own district.
 - Mist on a cold steel tumbler, or on a mirror when you breathe on it. Cool air holds less water vapour, so the extra turns into drops. The same thing happens to air that rises up a mountain.
-- Clouds piled against the hills on the road up to Munnar, Ooty or Mahabaleshwar, and clear sky beyond.
-- Mangrove trees along a creek in Mumbai, Chennai, Kochi or Kolkata, with roots standing out of the mud.
+- Clouds piled against the hills on a hill road, and clear sky beyond.
+- Mangrove trees along a creek, with roots standing out of the mud.
 
 ## Open questions
 - **How many kinds of living beings in the Western Ghats and the North-East are still unknown to science?** New frogs, fish and plants are described from these regions almost every year. Nobody knows how many remain.
@@ -899,6 +899,14 @@ Fit for This Place (sci.habitats.L5): Topic-level song
 - [Sticky tape, one roll](https://www.amazon.in/s?k=cello+tape) (material): For the paper trees, the newspaper towers and the water channels. Most homes have a roll already. Used in e1, e2, c1, c2. 
 - [Whole green moong, a small packet](https://www.amazon.in/s?k=whole+green+moong) (material): For the Guided Root Test. Whole green moong from the kitchen sprouts well. Split moong does not sprout. Used in e3. 
 - [The Radiant Raindrops of Rajasthan, by Anupam Mishra, translated by Maya Jani](https://www.amazon.in/s?k=The+Radiant+Raindrops+of+Rajasthan+Anupam+Mishra) (book): For the parent: how the people of the Thar catch and keep rain in kunds, tanks and wells. Used in p1. Read a chapter before day 3 of My Region File. It gives good questions to ask an older person about water.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Two Lands Test: does the best tower for still air also win in wind?, Pass It On: make your best tower outlive you. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2, c2. Get it before The Two Lands Test: does the best tower for still air also win in wind?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Leaning Tree Test: how much do buttress roots help a tall tree stand?, The Two Lands Test: does the best tower for still air also win in wind?, The Guided Root Test: can a slope lead a growing root across a gap?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, c1, c2. Get it before The Leaning Tree Test: how much do buttress roots help a tall tree stand?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Two Sides of One Hill: compare the rain on both sides of the Western Ghats. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a2. Get it before Two Sides of One Hill: compare the rain on both sides of the Western Ghats.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Guided Root Test: can a slope lead a growing root across a gap?. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before The Guided Root Test: can a slope lead a growing root across a gap?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Split the Stream: water three plants from one trickle. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Split the Stream: water three plants from one trickle.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Two Sides of One Hill: compare the rain on both sides of the Western Ghats. About ₹10 to ₹30. Draw squares on plain paper. Used in a2. Get it before Two Sides of One Hill: compare the rain on both sides of the Western Ghats.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Guided Root Test: can a slope lead a growing root across a gap?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e3. Get it before The Guided Root Test: can a slope lead a growing root across a gap?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an ecological region? → A large area with its own climate, landforms, plants and animals.

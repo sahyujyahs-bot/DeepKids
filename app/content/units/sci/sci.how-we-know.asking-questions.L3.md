@@ -1,7 +1,7 @@
 # Finding out: planning a test and watching slow changes
 `sci.how-we-know.asking-questions.L3`
 
-**Summary.** A cut apple turns brown, yet nobody can see it happen. How can you catch a change that is too slow to watch? In this unit you will look at an apple every ten minutes, plan your own apple test, and follow a banana for five days.
+**Summary.** A cut apple turns brown, yet nobody can see it happen. How can you catch a change that is too slow to watch? In this lesson you will look at an apple every ten minutes, plan your own apple test, and follow a banana for five days.
 
 **Intro.** *Cut a slice of apple and put it on a plate. Now stare at it for one whole minute without looking away. Did it change? Leave it on the plate, and look again in half an hour.* In half an hour the cut side has gone yellow or brown. Yet in the minute you stared, you saw nothing happen. The change was real, but too slow for one look. To catch a slow change, you need a plan: look again and again at set times, and write down what you see each time. That is how scientists watch things that change slowly, from a cut apple to a growing child to a star.
 
@@ -758,6 +758,8 @@ Look Again (sci.how-we-know.L3):
 
 ## Things to buy
 - [A hand lens (magnifying glass), about 5 to 7 cm across](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Not needed, but it helps children observe small details, like the veins on a leaf or the first brown on an apple slice. It is cheap at stationery shops and online. Used in a2. 
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Catch the Sunny Patch. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Catch the Sunny Patch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is it called when you look at something carefully, with all your senses? → Observing.

@@ -1,9 +1,9 @@
 # Born knowing and learning: what animals can do from birth, and what they learn
 `sci.animal-behaviour.born-knowing.L2`
 
-**Summary.** Can you stop your own knee from kicking when it is tapped, just by trying? In this unit you will test it and count your results, play a game of a baby turtle finding the sea in the dark, and race through what a baby knows from birth and what it must learn.
+**Summary.** Can you stop your own knee from kicking when it is tapped, just by trying? In this lesson you will test it and count your results, play a game of a baby turtle finding the sea in the dark, and race through what a baby knows from birth and what it must learn.
 
-**Intro.** *Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does each baby know how?* Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this unit you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?
+**Intro.** *Many spider mothers leave before their babies hatch. Nobody ever shows the babies how to spin a web. Yet each one spins a web of the right shape. How does each baby know how?* Some things you could do on the day you were born. You could cry, drink milk and hold a finger tight. Nobody taught you. Other things you learned later, like talking and brushing your teeth. Other animals are the same. A spider is born ready to spin. A kitten learns to hunt by watching her mother. In this lesson you meet animals who are born knowing, and animals who learn. Then you test a born-with action in your own body: can you stop it if you try?
 
 ## Learning outcomes
 0. By the end I can say that an animal can do some things from birth, with no teaching, and that this is called instinct.
@@ -498,12 +498,12 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 - Engineers study how spiders spin silk and build webs, to design light, strong nets and threads.
 
 ## Spotted around us
-- Round spider webs on balcony grills and between plant pots in flats in Bengaluru and Chennai, spun fresh at dusk.
-- Hanging grass nests of baya weavers on palm trees beside fields and wells in Tamil Nadu and Andhra Pradesh.
-- Olive ridley turtle hatchlings crawling to the sea at Rushikulya in Odisha, after the mass nesting.
-- A newborn calf standing up beside her mother in a cowshed in a village in Kerala.
-- A cat in a Kolkata lane teaching her kittens to pounce on a moving leaf.
-- Children in a Guwahati park learning to cycle, wobbling and falling, then riding off a week later.
+- Round spider webs on balcony grills and between plant pots, spun fresh at dusk.
+- Hanging grass nests of baya weaver birds on palm trees beside fields and wells.
+- Baby sea turtles crawling to the sea straight after hatching, in a video or on a beach.
+- A newborn calf standing up beside her mother in a cowshed.
+- A cat in a lane teaching her kittens to pounce on a moving leaf.
+- Children in a park learning to cycle, wobbling and falling, then riding off a week later.
 
 ## Open questions
 - **How do genes carry the know-how to spin a web of the right shape?** Scientists know that each kind of spider spins her own kind of web, and that this is passed on from parents. Nobody knows how tiny instructions inside cells become the steps of spinning a web.
@@ -540,11 +540,14 @@ Born Knowing, Learning Too (sci.animal-behaviour.L2):
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a spider or a bird at home and find out their name.
 - [India Biodiversity Portal](https://indiabiodiversity.org/) · interactive: For the parent: pictures and notes on Indian spiders, birds and turtles.
-- [Turtle walks with the Students' Sea Turtle Conservation Network]() · place · Chennai: Volunteers walk the beach at night in the nesting season, usually January to March, and protect turtle nests. Families can sometimes join a walk.
-- [Rushikulya turtle nesting beach]() · place · Ganjam district, Odisha: One of the places where thousands of olive ridley turtles nest together, and where hatchlings crawl to the sea.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: Watch mothers and babies of many animals, and see which babies stay close and which already move about on their own.
+- Turtle walks with the Students' Sea Turtle Conservation Network · place · Chennai: Volunteers walk the beach at night in the nesting season, usually January to March, and protect turtle nests. Families can sometimes join a walk.
+- Rushikulya turtle nesting beach · place · Ganjam district, Odisha: One of the places where thousands of olive ridley turtles nest together, and where hatchlings crawl to the sea.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: Watch mothers and babies of many animals, and see which babies stay close and which already move about on their own.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Web Watch: a web that nobody taught (if you find a web). About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before Web Watch: a web that nobody taught (if you find a web).
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Beak Weaving: weave like a baya. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c1. Get it before Beak Weaving: weave like a baya.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - An animal can do some things from birth, without being taught. What is this called? → An instinct.
@@ -561,7 +564,7 @@ Born Knowing, Learning Too (sci.animal-behaviour.L2):
 - Core: e1, g2, g1, ws-core
 
 ## Sources
-- There is no ideas/by_topic notebook file for animal behaviour. The notebook items for this subtopic (bio:92 Behavioral Biology and Ethology, bio:94 Innate vs learned behaviours, bio:95 Fixed action patterns, bio:96 Imprinting, bio:97 Reflexes and instincts, bio:98 Habituation) are titles only. At level 2 this unit takes innate and learned behaviour and reflexes, and leaves imprinting and fixed action patterns for level 4 and habituation for level 5.
+- There is no ideas/by_topic notebook file for animal behaviour. The notebook items for this subtopic (bio:92 Behavioral Biology and Ethology, bio:94 Innate vs learned behaviours, bio:95 Fixed action patterns, bio:96 Imprinting, bio:97 Reflexes and instincts, bio:98 Habituation) are titles only. At level 2 this lesson takes innate and learned behaviour and reflexes, and leaves imprinting and fixed action patterns for level 4 and habituation for level 5.
 - No board chapters are listed. Nearby units were checked so nothing repeats: sci.evolution.inheritance.L2 (practice test with throws and a thumb, born or learned sort, seven-day kolam), sci.animal-behaviour.animal-learning.L3 (useless step test, born-or-learned sort game, termite fishing), sci.animals.animal-babies.L2 (chick mouths in a dark nest, walking line), sci.animals.insects.L2 (crumb test, web builder on a hanger), sci.animals.animals-around-us.L2 (dough legs).
 - Skylab student experiment ED52, web formation in zero gravity, proposed by Judith Miles of Lexington, Massachusetts; spiders Arabella and Anita (Araneus diadematus), 1973; NASA photographs and captions.
 - Patellar (knee-jerk) reflex: a monosynaptic stretch reflex through the spinal cord, present in newborns.

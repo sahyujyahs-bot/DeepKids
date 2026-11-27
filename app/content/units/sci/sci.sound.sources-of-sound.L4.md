@@ -1,9 +1,9 @@
 # Sources of sound: shaking, blowing, popping and rubbing
 `sci.sound.sources-of-sound.L4`
 
-**Summary.** Tap a bottle with water in it and more water gives a lower note. Blow across it and more water gives a higher note. Why? In this unit you will test tapping and blowing, find when a finger squeaks on glass, and hunt for sounds that shake, blow, pop or rub.
+**Summary.** Tap a bottle with water in it and more water gives a lower note. Blow across it and more water gives a higher note. Why? In this lesson you will test tapping and blowing, find when a finger squeaks on glass, and hunt for sounds that shake, blow, pop or rub.
 
-**Intro.** *Line up three glass bottles with different amounts of water. Tap each one with a spoon and listen. The fullest bottle gives the lowest note. Now blow gently across the top of each bottle, like blowing across a flute. Listen again. Is the fullest bottle still the lowest?* When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this unit you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.
+**Intro.** *Line up three glass bottles with different amounts of water. Tap each one with a spoon and listen. The fullest bottle gives the lowest note. Now blow gently across the top of each bottle, like blowing across a flute. Listen again. Is the fullest bottle still the lowest?* When you blow across the bottles, the fullest bottle is not the lowest. It is the highest. The same bottle makes a low note when you tap it and a high note when you blow across it. In this lesson you find out what shakes in each case, and why that matters. You also meet three other ways to make a sound, by popping, by rubbing and by whispering, and you test them with things from your kitchen and your window.
 
 ## Learning outcomes
 0. I can name four different ways a sound can start: a solid thing shaking, air shaking in a space, a sudden pop and rubbing that sticks and slips.
@@ -136,7 +136,7 @@ Some pairs of notes sound smooth and pleasing together, and some sound rough and
   Against: In 2016 a team led by Josh McDermott found that the Tsimane people of Bolivia, who live far from Western music, did not prefer sweet pairs of notes to rough ones. What counts as sweet may be partly learned.
 
 ## Roots
-This unit found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.
+This lesson found four ways to start a sound, and showed that the space around a source shapes the sound as much as the source does. Now we ask where a sound really comes from, and whether an empty space counts as part of a thing.
 
 **Deep truth.** In the Whisper Vowels activity, the listener could still tell 'ee' from 'oo' with no buzz from the throat. Only a hiss left the throat, and the mouth shaped it. In the Tap or Blow test, tapping and blowing gave opposite orders of notes from the same bottles. So a sound comes from what starts it and also from the space that shapes it.  
 *Habit it breaks:* We say a sound comes from its source: the drum, the string or the throat. But the same source sounds different when the space around it changes. So the source alone does not fix the sound.  
@@ -149,7 +149,7 @@ This unit found four ways to start a sound, and showed that the space around a s
 A string, a skin, a stream of air and a squeeze all push on the air. The air is the same air in every case. What changes is how it is pushed and what empty space it is in. A bottle, a throat, a hall and a flute are all empty spaces with a shape, and the shape picks out the notes. So the empty part of a thing matters to its sound as much as the solid part. It is hard to say where one stops and the other begins.
 
 - **Tao Te Ching 11:** “埏埴以為器，當其無，有器之用。 / 故有之以為利，無之以為用。” Clay is shaped into a pot, and it is the empty space inside that makes the pot useful. We profit from what is there, and we use what is not there. (In the story The Moan in the Courtyard, a clay jar moans only because of the air inside it. The clay gives the space its shape, and the air in that space gives the note.)
-- **Brihadaranyaka Upanishad 2.4.7:** “स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय / दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः” When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina. (This unit finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.)
+- **Brihadaranyaka Upanishad 2.4.7:** “स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय / दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः” When a drum is beaten, we cannot grasp the sounds as they spread out. But if we grasp the drum or the person who beats it, we have grasped the sound. The text gives the same teaching for a conch and a vina. (This lesson finds that a sound cannot be understood apart from what makes it and the space that shapes it. The Upanishad says something similar: to understand the sound, look at the drum and the person who beats it.)
 - **Taittiriya Upanishad 1.2:** “ॐ शीक्षां व्याख्यास्यामः / वर्णः स्वरः । मात्रा बलम् । साम सन्तानः” This is the opening of an old Indian study of the sounds of speech. It names the parts of a spoken sound: the letter, the pitch, the length, the strength, the evenness and the joining. (Indian teachers studied for centuries how the mouth shapes speech. Today's source and filter picture of the voice finds the same two parts.)
 - Science (settled): The voice has a source, the buzz of the vocal folds, and a filter, the shape of the throat, mouth and nose. A whisper uses a hiss as its source.
 - Science (debated): Why some pairs of notes sound sweet to nearly everyone is not settled. Physics, the ear and learning may all play a part.
@@ -717,6 +717,12 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 - [A small toy keyboard (optional)](https://www.amazon.in/s?k=kids+keyboard+piano+37+keys) (tool): Only for tuning the bottles to Sa, Re, Ga, Pa and Dha if you have no harmonium and no phone. A free keyboard app on a phone does the same job and costs nothing. Used in p1. 
 - [A pack of cardboard tubes](https://www.amazon.in/s?k=cardboard+tubes+craft) (material): For the One Tube, Three Notes challenge. The tube from a kitchen foil roll also works, and costs nothing. Used in c1. 
 - [Sounds All Around, by Wendy Pfeffer](https://www.amazon.in/s?k=Sounds+All+Around+Wendy+Pfeffer) (book): A clear picture book for ages 5 to 9 about how sounds are made and how they travel. Read it before the unit, and talk about the four ways afterwards. Used in a1. Read it aloud over two evenings before starting, or after the Four-Way Sound Hunt.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Tap or Blow: which way do the notes go?, The Pot That Hums Back: finding the hidden note of a space. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3. Get it before Tap or Blow: which way do the notes go?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Squeak Test: when does a finger squeak on glass?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e2. Get it before The Squeak Test: when does a finger squeak on glass?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in One Tube, Three Notes. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before One Tube, Three Notes.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in One Tube, Three Notes. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in c1. Get it before One Tube, Three Notes.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Squeak Test: when does a finger squeak on glass?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Squeak Test: when does a finger squeak on glass?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does one hertz count? → One vibration each second.
@@ -736,7 +742,7 @@ Everything Has a Beat (sci.sound.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Sound: the concept activities on Sound and Vibration and on Waves and Oscillation. Used ideas include tapping glasses with different water levels, straw panpipes, rubbing a glass rim for a tone, and the Chladni plate with sand, which became the bottle test, the squeak test and the section on plates.
-- The Class 3 unit on where sounds come from, which this unit builds on. It showed that every sound starts with a vibration. This unit asks how many different ways the air can be pushed, and what shapes the note.
+- The Class 3 unit on where sounds come from, which this lesson builds on. It showed that every sound starts with a vibration. This lesson asks how many different ways the air can be pushed, and what shapes the note.
 - The founder's idea that a sound belongs to its source and to the space around it, used for the deep truth and the Roots card.
 - Marin Mersenne, Harmonie universelle, 1636 (laws for vibrating strings, overtones, and the speed of sound for all pitches)
 - Galileo Galilei, Discourses and Mathematical Demonstrations Concerning Two New Sciences, 1638 (lines scraped by a chisel and the idea that pitch is the number of vibrations)

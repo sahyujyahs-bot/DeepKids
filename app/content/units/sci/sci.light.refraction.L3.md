@@ -1,9 +1,9 @@
 # Refraction: why light bends in water and lenses
 `sci.light.refraction.L3`
 
-**Summary.** Why does a pencil in a glass of water look broken when it is really straight? In this unit you will test whether the broken pencil is bent, find which water drop makes letters look biggest, and make a hidden coin appear.
+**Summary.** Why does a pencil in a glass of water look broken when it is really straight? In this lesson you will test whether the broken pencil is bent, find which water drop makes letters look biggest, and make a hidden coin appear.
 
-**Intro.** *Put a pencil in a glass of water and look at it from the side. It looks snapped in two at the water line. Pull it out. It is whole. Why does the pencil look broken in the water, when it is not?* About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. Fish are not quite where they look, and a spear thrown straight at them passes above them. In this unit you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.
+**Intro.** *Put a pencil in a glass of water and look at it from the side. It looks snapped in two at the water line. Pull it out. It is whole. Why does the pencil look broken in the water, when it is not?* About two thousand years ago, a Roman writer called Seneca noticed something odd. Small letters looked bigger and clearer when he read them through a glass ball filled with water. People who fish with spears know another puzzle. Fish are not quite where they look, and a spear thrown straight at them passes above them. In this lesson you will find out what happens to light at the edge of water and glass, and why it causes both of these surprises.
 
 ## Learning outcomes
 0. I can say what refraction is: light bending as it goes from one see-through material into another, like from water into air.
@@ -523,7 +523,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Ask: What shapes did you see? (good: A ring of light.; Curved lines, like bananas or eyebrows.; Two little lights instead of one.)
   - Note: Exactly in line, the light spreads into a bright ring. A little to one side, it becomes one or two bright curved arcs. How clear the ring is depends on your glass. If you only see a smudge, go on to the next step. Space telescopes photograph exactly these shapes. They are called Einstein rings and arcs. In space, the 'glass' is the gravity of a huge galaxy or cluster of galaxies, bending light from galaxies far behind it.
 - **s3 (5 min)**  
-  *Parent does:* Show your child a photograph of a gravitational lens, from the NASA Hubble link in this unit or the Einstein ring video. Compare it with the glass.  
+  *Parent does:* Show your child a photograph of a gravitational lens, from the NASA Hubble link in this lesson or the Einstein ring video. Compare it with the glass.  
   *Parent says:* This is a real photo from a space telescope. The bright arcs are a galaxy far behind. Its light was bent by the gravity of the galaxies in front. Do you see the same shapes as in our glass?  
   *Child mode:* Look at the space photo. Find the bright arcs. Do they look like your glass shapes? In space, gravity bends the light.
   - Check: The wine glass bent the torch light into rings and arcs. In space, what bends the light of far galaxies into rings and arcs? → **The gravity of huge clusters of galaxies**
@@ -712,7 +712,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    **Answer:** No, because the Moon has no air to bend the starlight. *Why:* Twinkling is caused by air. The Moon has almost no air, so starlight comes straight through and the stars shine steadily. A strong answer uses the cause to predict the new case.
 12. (match) Match each real person to what they found out about bending light.  
    **Answer:** Ibn Sahl, in Baghdad, about 984 → used the correct rule of bending to design lenses; Ibn al-Haytham, in Cairo, about 1011 to 1021 → tested bending light with experiments and studied how a glass ball magnifies; Antonie van Leeuwenhoek, in Delft, from the 1670s → made tiny bead microscopes and saw bacteria; Priyamvada Natarajan, born in Coimbatore → maps invisible dark matter from how it bends light. *Why:* People in many lands, over a thousand years, worked out how light bends and how to use it.
-13. (write) Name another time, outside this unit's tests, when your eyes could be fooled because light bends. How would you check what is really there?  
+13. (write) Name another time, outside this lesson's tests, when your eyes could be fooled because light bends. How would you check what is really there?  
    **Answer:** For example: my feet look close to the top when I stand in a pool, or the road far ahead looks wet on a hot day. I could check by touching, by measuring with a stick, or by looking from straight above or walking closer.. *Why:* A strong answer gives a real example of bending light and a check that does not rely on the same view. That is how science tests the senses.
 14. (sort) Light can change direction in different ways. Sort each moment by what changes the light's path.  
    **Answer:** a straw looks broken in a glass of nimbu pani → Bent by passing into another material; a far galaxy looks stretched into an arc → Bent by gravity; you see your face in a steel plate → Bounced back; the air above a hot road shimmers → Bent by passing into another material; stars near the eclipsed Sun look shifted → Bent by gravity; the Moon shines with sunlight → Bounced back. *Why:* Refraction is bending as light passes into a different material, like water, glass or warmer air. Gravity bends light near very heavy things in space. Bouncing back is reflection. A strong sorter asks what the light passed through or near.
@@ -782,7 +782,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - A watch-repair woman in the market with a small lens held against one eye.
 - The fish in a round fish bowl looking fat and moving strangely as the fish swims.
 - The air shimmering above a hot road in May, bending the light from things behind it.
-- A big, squashed orange Sun setting over the sea at Kanyakumari, or rising over the sea at Puri.
+- A big, squashed orange Sun setting over the sea, or rising over the sea.
 - A pied kingfisher hovering, then diving straight down into a pond.
 
 ## Open questions
@@ -832,6 +832,10 @@ Follow the Light (sci.light.L3): Topic-level song
 
 ## Things to buy
 - [Magnifying glass for children, about 75 to 90 mm wide, glass or acrylic](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at small things, throwing a picture of a window onto paper, and making the drop microscope. Used in a2, a3, p1, g2. 
+- [Clear plastic ruler, 30 centimetres](https://www.amazon.in/s?k=clear+plastic+ruler+30+cm) (tool): It is used to look at a straight line through water in the Water-Drop Magnifier test, and as a stick in the coin challenge. About ₹20 to ₹60 at a stationery shop. A clear plastic bag works for the first test, and a long wooden spoon works in the coin challenge. Used in e2, a1, c2. Buy it before the Water-Drop Magnifier test.
+- [Modelling clay, one small block](https://www.amazon.in/s?k=modelling+clay) (material): It holds the coin down to the bottom of the cup in the Appearing Coin test. About ₹40 to ₹100 for a small block at a stationery or toy shop. A small ball of atta dough does the same job. Used in e3. Buy it before the Appearing Coin test.
+- [Clear glass marble, one or two](https://www.amazon.in/s?k=clear+glass+marble) (material): It works as a small lens in the bottle lens activity and in the tiny print challenge. About ₹20 to ₹60 for a few marbles at a toy or stationery shop. A clear glass bead from a craft shop works in its place. Used in a5, c1. Buy them before the bottle lens activity.
+- [Printed pages for the situation cards, mats, tokens and worksheets, about 20 pages]() (material): The games use 24 situation cards, three mats, 20 lens tokens and 16 mystery cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹20 to ₹40. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print these before the first game.
 
 ## Warm-up
 - Light bending as it goes from water into air is called ____. → refraction
@@ -856,7 +860,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - DeepKids HomeSchooling Track, Physics: 'Gravitational bending of light' row (recreate lensing with a wine-glass base, a clear marble over a page, use a magnifying glass to distort a printed image)
 - Founder sheets: 'Magnifying glass: big versus small view', 'Particles: lens on dust', and 'Magnifying glass burns paper: dangerous unsupervised, demo only' (kept as a safety warning)
 - ideas/by_topic/light-seeing-and-shadows.md: gravitational lensing concept grid, Priyamvada Natarajan's SCI card ('you can map something you cannot see by watching how it bends the light')
-- Combined lesson sci-C4-light-seeing-and-shadows: light travels in straight lines, used as the starting point that this unit bends
+- Combined lesson sci-C4-light-seeing-and-shadows: light travels in straight lines, used as the starting point that this lesson bends
 - Dyson, Eddington and Davidson, Philosophical Transactions of the Royal Society A, 1920 (1919 eclipse and the bending of starlight)
 - Rashed, Isis 1990 (Ibn Sahl's law of refraction, about 984)
 - Barnett, Physical Review Letters 2010 (resolution of the Abraham-Minkowski dilemma)

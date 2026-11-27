@@ -1,9 +1,9 @@
 # From one living being to the whole Earth: how the levels of life depend on each other
 `sci.ecology.levels-of-life.L5`
 
-**Summary.** The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this unit you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.
+**Summary.** The air of Mars and Venus is almost all carbon dioxide, but one fifth of Earth's air is oxygen, and nearly all of it was made by living beings. In this lesson you will run a paper planet of dark and pale daisies, and test whether a dark cloth gets warmer in sunlight.
 
-**Intro.** *Take one slow breath in. About one fifth of the air you just took in is oxygen. Who made that oxygen, and where? Say what you think, and why.* Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this unit you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.
+**Intro.** *Take one slow breath in. About one fifth of the air you just took in is oxygen. Who made that oxygen, and where? Say what you think, and why.* Most people answer 'the trees near my home'. That is only a small part of the answer. The oxygen in your breath was made over a very long time by green plants, by seaweeds and by tiny green cells who float in the sea. So one breath joins you to living beings far away, and to living beings from long ago. In this lesson you find out how one living being depends on the whole living Earth. You also test whether living beings can keep a planet steady.
 
 ## Learning outcomes
 0. By the end I can name the five levels of life in order, and give an example of each.
@@ -100,7 +100,7 @@ In the 1960s, the scientist James Lovelock was asked to help look for life on Ma
 - **Toby Tyrrell (2013):** The Earth may have stayed fit for life partly through luck. We could only be here to ask the question on a planet where things went well. So a long steady record is not proof of a steadying system.
 - **Earth system scientists (Amsterdam Declaration, 2001):** Scientists from four international research programmes agreed on this statement: the Earth behaves as a single, self-regulating system made of physical, chemical, biological and human parts. They did not say the system is sure to stay good for us.
 ### The Daisy Planet: what a model can show, and what it cannot · *idea*
-Critics said Gaia would need living beings to plan together for the good of the planet. In 1983, Andrew Watson and James Lovelock answered with a model called Daisyworld. Their planet has only dark daisies and pale daisies, under a Sun that slowly gets brighter. Dark daisies take in more sunlight, so they warm the ground. Pale daisies reflect more, so they cool it. Daisies only grow where the warmth suits them. Yet in the model, the planet's temperature stays almost level for a long time. The Daisy Planet Test in this unit is a simple paper version of that model. The model shows one thing clearly. Steadying can come from living beings who only grow where it suits them. No planning together is needed. But a model shows what could happen. It does not show what does happen on the real Earth. The real Earth has millions of species, and many of them push conditions away from steady.
+Critics said Gaia would need living beings to plan together for the good of the planet. In 1983, Andrew Watson and James Lovelock answered with a model called Daisyworld. Their planet has only dark daisies and pale daisies, under a Sun that slowly gets brighter. Dark daisies take in more sunlight, so they warm the ground. Pale daisies reflect more, so they cool it. Daisies only grow where the warmth suits them. Yet in the model, the planet's temperature stays almost level for a long time. The Daisy Planet Test in this lesson is a simple paper version of that model. The model shows one thing clearly. Steadying can come from living beings who only grow where it suits them. No planning together is needed. But a model shows what could happen. It does not show what does happen on the real Earth. The real Earth has millions of species, and many of them push conditions away from steady.
 - e.g. In the Daisy Planet Test, the bare planet warms from 8 to 47 degrees. The planet with daisies stays between 20 and 27 degrees for twelve rounds.
 - e.g. The model has a limit. When every square is full of pale daisies, the daisies can cool the planet no further, and the temperature starts to climb.
 - **Andrew Watson and James Lovelock (1983):** The model proves that a planet can regulate its temperature without foresight or planning. The daisies only follow their own needs.
@@ -160,7 +160,7 @@ We have learned that life is arranged in levels, and that living beings have cha
 - *what is life:* Life does not only live on the Earth. Life has changed the Earth's air, soil and rain, and those changes have changed life in turn.
 - *what is this world:* The world around you is partly made by the living. The air in this room would be a different air if nothing had ever lived on the Earth.
 
-A crow looks like one separate thing. Zoom out, and the crow is part of a population, then a community, then an ecosystem, then the biosphere. At no step do you reach a place where the crow stops and the rest begins. The crow's breath is the forest's air, and the forest's air is the whole Earth's air. Consciousness is in everything, and so it is in the Earth as a whole. Many scientists who accept everything else in this unit say the Earth is a system and not a mind.
+A crow looks like one separate thing. Zoom out, and the crow is part of a population, then a community, then an ecosystem, then the biosphere. At no step do you reach a place where the crow stops and the rest begins. The crow's breath is the forest's air, and the forest's air is the whole Earth's air. Consciousness is in everything, and so it is in the Earth as a whole. Many scientists who accept everything else in this lesson say the Earth is a system and not a mind.
 
 - **Atharva Veda 12.1.12:** “यत्ते मध्यं पृथिवि यच्च नभ्यं यास्त ऊर्जस्तन्वः संबभूवुः । / तासु नो धेह्यभि नः पवस्व माता भूमिः पुत्रो अहं पृथिव्याः पर्जन्यः पिता स उ नः पिपर्तु” The Earth is my mother, and I am her son. (This hymn was sung long before anyone could measure the air. The science agrees with the plain part of it. Every atom of your body, and every breath, came to you from the Earth and the living beings on the Earth.)
 - **Marcus Aurelius, Meditations 4.40:** “Ὡς ἓν ζῷον τὸν κόσμον, μίαν οὐσίαν καὶ ψυχὴν μίαν ἐπέχον, συνεχῶς ἐπινοεῖν / καὶ πῶς ὁρμῇ μιᾷ πάντα πράσσει καὶ πῶς πάντα πάντων τῶν γινομένων συναίτια” Always think of the universe as one living being, with one substance and one soul. See how all things work together to cause all that happens. (Marcus Aurelius was a Roman emperor who wrote this about 1,850 years ago. The Gaia hypothesis asks a smaller question about just one planet: do the living and the non-living parts of the Earth work together as one system?)
@@ -494,7 +494,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
   *Child mode:* Open the card called 'The Gaia hypothesis'. Read the six voices. After each one, say the main point in your own words.
   - Note: The six are Lovelock and Margulis, Doolittle and Dawkins, Kirchner, Ward, Tyrrell, and the Earth system scientists. If six is too many for one sitting, read the first two and the last one.
 - **s2 (10 min)**  
-  *Parent does:* 1. Your child chooses one voice to speak for. You choose a voice who disagrees. 2. Each of you speaks for 2 minutes, using evidence from this unit. 3. Each of you then asks the other one question. 4. Swap voices and do it again, more briefly.  
+  *Parent does:* 1. Your child chooses one voice to speak for. You choose a voice who disagrees. 2. Each of you speaks for 2 minutes, using evidence from this lesson. 3. Each of you then asks the other one question. 4. Swap voices and do it again, more briefly.  
   *Parent says:* Choose a voice to speak for. I will take someone who disagrees. Use evidence: the three planets, the Daisy Planet, the frozen Earth. Afterwards we swap sides.  
   *Child mode:* Choose one voice. Your partner takes a voice who disagrees. Speak for 2 minutes with evidence. Ask each other one question. Then swap sides.
   - Ask: What evidence would make your scientist change their mind? (good: For Lovelock: finding that most feedback from life makes things less steady.; For Dawkins: a clear way that natural selection could favour beings who steady the planet.; For Tyrrell: finding other planets with life that also stayed steady for a very long time.)
@@ -766,11 +766,11 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 ## Spotted around us
 - A crow on a wire is an organism. The flock gathering at dusk on one big tree is part of a population.
 - A temple tank or a village pond is an ecosystem you can walk round in five minutes.
-- Mist rising from a forested hill after rain, in Munnar, Coorg or Cherrapunji, is water that the trees are sending back to the air.
+- Mist rising from a forested hill after rain is water that the trees are sending back to the air.
 - A black umbrella in the sun gets hot to touch. A white cotton veshti or dupatta stays cooler. That is albedo.
 - A pressure cooker's whistle lifts when the pressure is high and drops when it falls. That is balancing feedback in the kitchen.
 - A steaming compost heap or a warm heap of cut grass shows that the microbes inside are respiring.
-- A termite mound by a roadside in Telangana or Karnataka is built and cooled by a whole colony. No single termite could build one.
+- A termite mound by a roadside is built and cooled by a whole colony. No single termite could build one.
 - The green layer on a pond or an old tank in summer is made of algae and cyanobacteria. The ancestors of cyanobacteria were the first makers of the oxygen in the air.
 
 ## Open questions
@@ -816,13 +816,19 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [NetLogo Web](https://www.netlogoweb.org) · simulation: A free site of science models that run in the browser. For the parent: search its models library for 'Daisyworld' to run the real model behind the Daisy Planet Test.
 - [earth.nullschool.net](https://earth.nullschool.net) · interactive: A live map of the winds of the whole Earth. Turn the globe to India in June and watch the monsoon wind come in from the sea.
 - [NASA Climate Kids](https://climatekids.nasa.gov) · interactive: Short, clear pages and games about the Earth's air, sea, ice and living beings as one system.
-- [Nilgiri Biosphere Reserve]() · place · Around Ooty and Mudumalai in Tamil Nadu, with parts in Kerala and Karnataka: A very large protected region where forests, grasslands, streams and villages are looked after together, as one whole.
-- [Pichavaram mangrove forest]() · place · Near Chidambaram, Tamil Nadu: A boat ride through a mangrove shows a community of trees, crabs, fish and birds, and the tide and mud they depend on.
-- [Jawaharlal Nehru Planetarium]() · place · Bengaluru, Karnataka: A good place to compare the Earth with Venus and Mars, after doing Three Planets' Air.
+- Nilgiri Biosphere Reserve · place · Around Ooty and Mudumalai in Tamil Nadu, with parts in Kerala and Karnataka: A very large protected region where forests, grasslands, streams and villages are looked after together, as one whole.
+- Pichavaram mangrove forest · place · Near Chidambaram, Tamil Nadu: A boat ride through a mangrove shows a community of trees, crabs, fish and birds, and the tide and mud they depend on.
+- Jawaharlal Nehru Planetarium · place · Bengaluru, Karnataka: A good place to compare the Earth with Venus and Mars, after doing Three Planets' Air.
 
 ## Things to buy
 - [A simple thermometer that reads from about 0 to 100 degrees Celsius](https://www.amazon.in/s?k=laboratory+thermometer) (tool): Useful, but not needed, for Dark Cloth, Pale Cloth. Fingers can feel the difference without one. Shops that sell school laboratory goods have them. Used in e2. 
 - [A kitchen scale that reads to 1 gram](https://www.amazon.in/s?k=digital+kitchen+scale) (tool): Useful, but not needed, for A World in a Jar. It shows that the sealed jar's weight does not change. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, The Balancing Stick: what does a steady system need?, Three Planets' Air: which planet is the odd one out?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, a2, a3. Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A World in a Jar: a sealed ecosystem for three weeks. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before A World in a Jar: a sealed ecosystem for three weeks.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in A World in a Jar: a sealed ecosystem for three weeks. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before A World in a Jar: a sealed ecosystem for three weeks.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, When the Daisies Run Out of Room: how far can a system steady itself?, The Faster Sun: tune the Daisy Planet. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a4, c1. Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in The Daisy Planet Test: can daisies change the temperature of a whole planet?, Three Planets' Air: which planet is the odd one out?. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, a2. Get it before The Daisy Planet Test: can daisies change the temperature of a whole planet?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five levels of life, from smallest to biggest. → Organism, population, community, ecosystem, biosphere.
@@ -845,7 +851,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - The same notes: 'build a cooperative board game where players must keep Earth's energy budget stable' and 'story of a planet that lost its balance', the starting points for the Daisy Planet Test and When the Daisies Run Out of Room
 - The same notes: 'host a balance the planet role-play council', the starting point for the Gaia Council; and the line 'harmony requires give and take; too much imbalance brings instability; invisible flows maintain life', used for the feedback explanation
 - The Combined lesson sci-C5-living-in-harmony.json: its ideas 'energy flows through once, but atoms go round and round' and 'balance in nature is movement, not stillness' are taken further here
-- The Level 5 units on food webs and biodiversity of the same topic, read so that this unit leads on from them without repeating
+- The Level 5 units on food webs and biodiversity of the same topic, read so that this lesson leads on from them without repeating
 - Lovelock, Nature 207, 1965, 'A physical basis for life detection experiments'
 - Hitchcock and Lovelock, Icarus 7, 1967, 'Life detection by atmospheric analysis'
 - Lovelock and Margulis, Tellus 26, 1974, 'Atmospheric homeostasis by and for the biosphere: the Gaia hypothesis'

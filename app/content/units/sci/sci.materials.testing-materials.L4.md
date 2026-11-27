@@ -1,7 +1,7 @@
 # Testing materials: how sure can a test make us?
 `sci.materials.testing-materials.L4`
 
-**Summary.** A rubber ball dropped ten times from the same height bounces to ten slightly different heights. So when a marble bounces lower, is it really worse, or is that just the usual wobble? In this unit you will drop balls again and again, plot every bounce as a dot, and test wear and secret-coded materials.
+**Summary.** A rubber ball dropped ten times from the same height bounces to ten slightly different heights. So when a marble bounces lower, is it really worse, or is that just the usual wobble? In this lesson you will drop balls again and again, plot every bounce as a dot, and test wear and secret-coded materials.
 
 **Intro.** *You drop a rubber ball from the height of your hip, and it bounces to 31 centimetres. You drop a table-tennis ball from the same height, and it bounces to 33 centimetres. So the table-tennis ball is bouncier. Is that right? Now drop the rubber ball again. This time it bounces to 34.* The same ball gave two different numbers, with nothing changed. So can one drop tell you anything at all? This is the next question in testing materials. In the Class 3 unit you learned to change one thing at a time and to repeat a test three times. Here you go a step further. You will repeat a test ten times, draw every result as a dot, and ask how big the ordinary wobble is. Only a difference bigger than the wobble can be believed. You will also learn why your own eyes and hopes can fool you, and why scientists hide from the tester which sample is which.
 
@@ -167,7 +167,7 @@ A test can show that a rope held 500 kilograms ten times. Does that prove it wil
   Against: Real life changes every day, so a real-life trial is hard to compare. A simple test in the kitchen can be repeated ten times and compared fairly. Good testers use both: the fair test to compare, the real-life trial to check.
 
 ## Roots
-In this unit you drop balls, draw every bounce as a dot, and learn that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.
+In this lesson you drop balls, draw every bounce as a dot, and learn that no test gives the same number twice. Now we ask what that means for the things around us, and for ourselves.
 
 **Deep truth.** Drop one ball ten times and you get ten different heights. Often the wobble in one ball is wider than the gap between two balls. So a ball does not have one single bounce height. It has a usual way of bouncing, which shows up as a range of heights.  
 *Habit it breaks:* We say 'this ball bounces 31 centimetres' or 'this paper holds 14 coins' as if one number belonged to the thing, like its colour. That leaves out the wobble every test shows.  
@@ -177,7 +177,7 @@ In this unit you drop balls, draw every bounce as a dot, and learn that no test 
 - *what is life:* Seeds from one packet sprout on different days, in the same pot. Because of this variation, some of a group of living beings can get through a late monsoon, a new disease or a hot summer.
 - *what is this world:* Even a ball, which makes no choices, does not do exactly the same thing twice. Many tiny causes, such as a speck of dust or a slightly different touch, add up. The world repeats its patterns, but never exactly.
 
-Every test in this unit gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a usual way of behaving, which shows up as a range of numbers. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the usual result, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.
+Every test in this lesson gave a spread. The same ball, strips from the same roll and grains of the same rice each gave a range of numbers. A material does not have one bounce, one strength or one length. It has a usual way of behaving, which shows up as a range of numbers. We learned to describe that range with dots, a range and a middle value. And we learned that our own hopes and tools add their own wobble. A believable result states the usual result, the wobble and how sure we are. Saying 'it is exactly this' is a small untruth, even when it is a handy one.
 
 - **Heraclitus of Ephesus, a Greek thinker of about 500 BCE (reported by later writers):** “δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης.” Heraclitus is reported to have said that you cannot step into the same river twice, because new water keeps flowing past whoever steps in. (The same ball dropped from the same hand is a different drop each time. The pattern stays the same, but each drop is new.)
 - **Richard Feynman, in a talk to graduates at Caltech, 1974:** The first principle is that you must not fool yourself, and you are the easiest person to fool. (A blind test with secret codes is a way of not fooling yourself. It stops your hopes from changing the result.)
@@ -663,7 +663,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **problem:** Write a recipe for a simple test so clear that another child, who has never seen it, gets close to your answer without asking you anything.
 - **your turn:** Write the recipe and do the test yourself first. Give it to your friend. Compare the ranges. Where did the recipe leave something out? Fix it, and test again. How close were your answers the second time?
 - **constraints:** The test must use only things found in most homes.; The recipe must name every amount, size and time.; Your friend must follow only the written recipe, with no help from you.; Both of you must do at least five tries.
-- **general:** Write the recipe as numbered steps, with every size and amount.; Draw a picture for each step, like the step pictures in this unit.; Add a results table to the recipe so the friend writes in the same format.
+- **general:** Write the recipe as numbered steps, with every size and amount.; Draw a picture for each step, like the step pictures in this lesson.; Add a results table to the recipe so the friend writes in the same format.
 - **creative:** Film yourself doing the test, and send only the film, not the words.; Write the recipe in two languages, such as English and Tamil or Hindi.; Ask two friends to test it, and compare all three results.
 - **s1 (8 min)**  
   *Parent does:* Pick a simple test, such as how far a rubber band stretches with 10 coins. Do it five times yourself. Write the five numbers and the range, from the smallest to the biggest.  
@@ -704,7 +704,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 6. (sort) Sort each pair of ranges. Do the two ranges overlap, or are they apart?  
    **Answer:** 10 to 14 and 13 to 17 → Overlap; 20 to 25 and 30 to 35 → Apart; 5 to 9 and 9 to 12 → Overlap; 40 to 50 and 51 to 60 → Apart; 7 to 12 and 3 to 8 → Overlap; 14 to 18 and 15 to 16 → Overlap. *Why:* Ranges overlap when they share at least one number. 5 to 9 and 9 to 12 share the 9. 14 to 18 holds all of 15 to 16. 40 to 50 and 51 to 60 miss each other by one.
 7. (match) Match each word to what it means.  
-   **Answer:** Range → The gap from the smallest to the biggest result; Middle value → The result in the middle when all are in order; Zero error → A fault in a tool that is the same size on every reading; Blind test → The tester does not know which sample is which; Control → A sample where you do nothing to the thing you test. *Why:* Each word names one idea in the unit: how far results spread, the middle of the results, a steady fault in a tool, a test that stops hopes from pushing, and a sample that shows what happens anyway.
+   **Answer:** Range → The gap from the smallest to the biggest result; Middle value → The result in the middle when all are in order; Zero error → A fault in a tool that is the same size on every reading; Blind test → The tester does not know which sample is which; Control → A sample where you do nothing to the thing you test. *Why:* Each word names one idea in the lesson: how far results spread, the middle of the results, a steady fault in a tool, a test that stops hopes from pushing, and a sample that shows what happens anyway.
 8. (write) A friend says: 'I dropped a rubber ball once and it bounced to 31 centimetres. I dropped a marble once and it bounced to 25. So the rubber ball is bouncier.' Write two things you would say to your friend.  
    **Answer:** One drop of each is only one drop. Drop each ten times and draw a dot plot. If the two ranges do not touch, you can say there is a real difference. If the ranges overlap, you cannot tell.. *Why:* One drop shows no spread. Many drops show the spread, and the ranges decide whether the difference is real.
 9. (mcq) Ten bounces in order are 30, 30, 31, 31, 32, 32, 33, 33, 34, 35. What is the middle value?  
@@ -927,6 +927,13 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [Three sheets of coarse sandpaper, grit 60 to 100](https://www.amazon.in/s?k=sandpaper+sheets+coarse) (material): For the Rub Test. Three sheets from a hardware shop cost a few rupees. Used in e3. 
 - [Matchboxes or small identical boxes](https://www.amazon.in/s?k=small+empty+boxes) (material): For the Eight Matchboxes activity. Empty matchboxes work well. Used in a3. 
 - [Medicine cups or a measuring cup with millilitre marks](https://www.amazon.in/s?k=measuring+cup+ml+marks) (tool): To measure the water in Wet or Dry? and to check small amounts of water. Used in a6. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bounce Test: ten drops, four balls, Two Rulers, One Strip: how rough is our measuring?, Rice Lengths: are two kinds of rice really different?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a2, a6, p1. Get it before The Bounce Test: ten drops, four balls.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Bounce Test: ten drops, four balls. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before The Bounce Test: ten drops, four balls.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Bounce Test: ten drops, four balls, The Rub Test: which cloth wears through first?, Steady Hands: shrink the wobble of a drop. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, e3, c1. Get it before The Bounce Test: ten drops, four balls.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Steady Hands: shrink the wobble of a drop. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Steady Hands: shrink the wobble of a drop.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Wet or Dry? Does the strongest paper stay the strongest?, Our Family Test Report: a claim, tested properly. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a6, p1. Get it before Wet or Dry? Does the strongest paper stay the strongest?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Bounce Test: ten drops, four balls. About ₹10 to ₹40. Small round stones or dried chana. Used in e1. Get it before The Bounce Test: ten drops, four balls.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Why do we repeat a test? → To see how much the results vary.
@@ -947,7 +954,7 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/materials-and-their-properties.md: the SCI card for Dan Shechtman (an odd result that was right, and the quarrel over it), used in the challenging view about odd results. The notes on testing sound and light through different materials, used as the idea of comparing materials by measuring.
 - Founder's SCI card for Agnes Pockels, used in the Class 3 unit and not repeated here.
-- DeepKids Combined Class 4 lessons on Materials and the Class 3 unit on testing materials: the fair test, repeating, the middle value and the results table, which this unit builds on and goes beyond. No experiment or story is repeated.
+- DeepKids Combined Class 4 lessons on Materials and the Class 3 unit on testing materials: the fair test, repeating, the middle value and the results table, which this lesson builds on and goes beyond. No experiment or story is repeated.
 - Oskar Pfungst, Clever Hans (The Horse of Mr. von Osten), 1907
 - Ronald A. Fisher, The Design of Experiments, 1935, and his 1926 paper 'The Arrangement of Field Experiments'
 - Karl Popper, Logik der Forschung (The Logic of Scientific Discovery), 1934

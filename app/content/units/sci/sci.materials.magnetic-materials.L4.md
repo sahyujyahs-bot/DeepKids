@@ -1,9 +1,9 @@
 # Magnetic materials: the magnet that sorts metals, even the ones it does not attract
 `sci.materials.magnetic-materials.L4`
 
-**Summary.** A magnet ignores an aluminium can on the table, yet the can rolls after a magnet swished quickly past it. Why? In this unit you will test where a magnet sticks on kitchen steel, make a can follow a magnet, and swing a magnet over four plates to see which one stops it.
+**Summary.** A magnet ignores an aluminium can on the table, yet the can rolls after a magnet swished quickly past it. Why? In this lesson you will test where a magnet sticks on kitchen steel, make a can follow a magnet, and swing a magnet over four plates to see which one stops it.
 
-**Intro.** *Hold a magnet against an aluminium cold-drink can. Nothing happens, because aluminium is not magnetic. Now lay the can on its side and swish a strong magnet quickly past it, without touching. The can rolls after the magnet. If the can is not magnetic, what is pushing it?* In Class 3 you found out that a magnet attracts iron, nickel and cobalt, and that most other materials seem to ignore it. This unit goes one step deeper. You find out that the word 'ignore' was only true for a magnet that sits still. You also look closely at steel, which is not one material but a family, and at how a scrap yard or a recycling centre uses these facts to sort metal at high speed.
+**Intro.** *Hold a magnet against an aluminium cold-drink can. Nothing happens, because aluminium is not magnetic. Now lay the can on its side and swish a strong magnet quickly past it, without touching. The can rolls after the magnet. If the can is not magnetic, what is pushing it?* In Class 3 you found out that a magnet attracts iron, nickel and cobalt, and that most other materials seem to ignore it. This lesson goes one step deeper. You find out that the word 'ignore' was only true for a magnet that sits still. You also look closely at steel, which is not one material but a family, and at how a scrap yard or a recycling centre uses these facts to sort metal at high speed.
 
 ## Learning outcomes
 0. I can explain that materials answer a magnet in three ways: strong attraction, very weak attraction and very weak repulsion.
@@ -158,7 +158,7 @@ In school we say 'iron is magnetic and aluminium is not.' But aluminium answers 
   Against: Materials answer in three ways, and the answer can depend on temperature, shaping and whether the magnet moves. Many scientists see a scale, not two boxes.
 
 ## Roots
-In this unit you mapped where a magnet sticks on kitchen steel, made an aluminium can follow a magnet, and swung a magnet over four plates. Now we ask what these tests tell us about materials, and about ourselves.
+In this lesson you mapped where a magnet sticks on kitchen steel, made an aluminium can follow a magnet, and swung a magnet over four plates. Now we ask what these tests tell us about materials, and about ourselves.
 
 **Deep truth.** A still magnet ignores an aluminium can. A magnet swished past it makes the can roll. So what a material does near a magnet depends on what the magnet is doing, as well as on the material.  
 *Habit it breaks:* We say a material is magnetic or is not magnetic, as if that were a fixed label like its colour. But the label only reports how the material answered one test, with a still magnet.  
@@ -460,7 +460,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   *Child mode:* Ask your questions politely. Listen carefully. Write the answers.
   - Note: Stay by your child. Do not touch sharp or dirty scrap. Treat the person as an expert, because they are. Offer a small thanks, such as chai or a few rupees for their time, if appropriate. If they say no, that is fine.
 - **s3 (5 min)**  
-  *Parent does:* At home, wash hands. Compare what the sorter said with what this unit says. Which of their ways use a magnet? Which use sound, weight or colour? Which ways did they know that we did not?  
+  *Parent does:* At home, wash hands. Compare what the sorter said with what this lesson says. Which of their ways use a magnet? Which use sound, weight or colour? Which ways did they know that we did not?  
   *Parent says:* What did they say that you did not know? Which of their ways match what we learned about magnets? Which are completely different?  
   *Child mode:* What did the sorter tell you? Which ways use a magnet? Which do not?
   - Check: A sorter says, 'I tap it. Brass rings long and warm, and steel rings short and dull.' Is this a good way to tell them apart? → **Yes, because different metals ring differently, and a trained ear can hear it**
@@ -876,13 +876,22 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [Eddy current (Wikipedia)](https://en.wikipedia.org/wiki/Eddy_current) · interactive: For the parent: a clear article on eddy currents, with pictures of a magnet falling through a pipe.
 - [Eddy current separator (Wikipedia)](https://en.wikipedia.org/wiki/Eddy_current_separator) · interactive: For the parent: how recycling centres throw aluminium off a belt.
 - [Induction cooking (Wikipedia)](https://en.wikipedia.org/wiki/Induction_cooking) · interactive: For the parent: how an induction stove heats a pan, and which pans work.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A large science museum with galleries on electricity and magnets. Look for the exhibits on induction.
-- [A waste pickers' cooperative]() · place · Pune: Waste pickers in Pune have formed a cooperative to be counted and paid for their work. Ask before you visit, and learn what they sort.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A large science museum with galleries on electricity and magnets. Look for the exhibits on induction.
+- A waste pickers' cooperative · place · Pune: Waste pickers in Pune have formed a cooperative to be counted and paid for their work. Ask before you visit, and learn what they sort.
 
 ## Things to buy
 - [A set of school magnets: ceramic discs and bar magnets](https://www.amazon.in/s?k=magnet+set+for+school+science) (tool): A ceramic or bar magnet holds well on steel and works for the steel tests. Bendy fridge magnets are often too weak. Used in e1, a1, a2, a5, p1, c2. 
 - [One strong neodymium magnet, a disc or cube about 15 to 20 millimetres across](https://www.amazon.in/s?k=neodymium+magnet+disc+20mm) (tool): For the Can That Follows and the Pendulum That Stops. Only a strong magnet makes the moving-magnet effect large enough to see. Keep it away from children under five, phones and bank cards, and do not let two snap together. Used in e2, e3. 
 - [A flat aluminium sheet or plate, 2 to 3 millimetres thick, from a hardware shop](https://www.amazon.in/s?k=aluminium+sheet+3mm+plate) (material): For the Pendulum That Stops. A thicker plate gives a bigger effect than a thin vessel. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Can That Follows: does a moving magnet push aluminium?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Can That Follows: does a moving magnet push aluminium?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Columns: sort the world by how it answers a magnet, Plan a Sorting Line on Paper. About ₹10 to ₹30. Any school ruler is fine. Used in a3, a4. Get it before Three Columns: sort the world by how it answers a magnet.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Ask a Kabadiwala or Waste Picker: how do you tell metals apart?, Plan a Sorting Line on Paper, Six Mystery Pieces: name them with the fewest tests. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in a2, a4, c1. Get it before Ask a Kabadiwala or Waste Picker: how do you tell metals apart?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Will It Work on an Induction Stove? Test with a magnet. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before Will It Work on an Induction Stove? Test with a magnet.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Our Kitchen's Metal Map: a poster of what sticks. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in p1. Get it before Our Kitchen's Metal Map: a poster of what sticks.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Pocket Induction Tester: a card that checks a pan in ten seconds. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before The Pocket Induction Tester: a card that checks a pan in ten seconds.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Three Columns: sort the world by how it answers a magnet, Plan a Sorting Line on Paper. About ₹100 to ₹200. A marble or a round torch cell works. Used in a3, a4. Get it before Three Columns: sort the world by how it answers a magnet.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Does Rust Stick? An old nail and its flakes, Six Mystery Pieces: name them with the fewest tests. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a5, c1. Get it before Does Rust Stick? An old nail and its flakes.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three common metals a still magnet strongly attracts. → Iron, nickel and cobalt.
@@ -903,7 +912,7 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/materials-and-their-properties.md: the magnet test on household metals and the idea that materials show their nature when tested. Used here to go deeper: three kinds of response, steel as a family, and sorting by magnets and eddy currents
-- The Class 3 unit on magnetic materials, which this unit builds on and does not repeat: its sixteen-object magnet test, the brass-plate story and the court game are not used again
+- The Class 3 unit on magnetic materials, which this lesson builds on and does not repeat: its sixteen-object magnet test, the brass-plate story and the court game are not used again
 - Founder's notes in ideas/by_topic/magnets.md on forces that act without touching, and the SCI Card for Michael Faraday, used for the moving magnet and induction
 - Faraday, Experimental Researches in Electricity, first series, 1831 (electromagnetic induction)
 - Arago, Annales de chimie et de physique, 1824 (magnetism of rotation, the spinning copper disc and the compass needle)

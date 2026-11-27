@@ -1,7 +1,7 @@
 # Water and salt: how humans, fish and desert animals keep the balance
 `sci.body.kidneys-and-waste.L5`
 
-**Summary.** A sea fish swims in water all day, yet she must keep drinking so that she does not dry out. A river fish hardly ever drinks. Why are they so different? In this unit you will pull water out of cucumber slices using only salt, find out why sea water cannot quench thirst, and see how kidneys, gills and the white cap on a gecko's dropping all deal with the same two problems.
+**Summary.** A sea fish swims in water all day, yet she must keep drinking so that she does not dry out. A river fish hardly ever drinks. Why are they so different? In this lesson you will pull water out of cucumber slices using only salt, find out why sea water cannot quench thirst, and see how kidneys, gills and the white cap on a gecko's dropping all deal with the same two problems.
 
 **Intro.** *A sailor's boat has run out of drinking water. The sea is all around her, as far as she can see. Should she drink the sea water? Say yes or no, and say why you think so.* Almost everyone answers no. Very few people can say the reason. Sea water is water, after all, and the sailor's body is short of water. First you will taste three waters. Then you will run a test with cucumber and salt, and the result will give you the reason. By the end you will be able to answer for the sailor. You will also be able to answer for a hilsa swimming from the sea into a river, and for a camel walking across the Thar.
 
@@ -717,11 +717,11 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 - Urea is made in factories as a fertiliser. Plants take up its nitrogen and build it into new protein.
 
 ## Spotted around us
-- A house gecko's dropping below a tube light, anywhere in India: a dark pellet with a white cap of nitrogen waste.
+- A house gecko's dropping below a tube light: a dark pellet with a white cap of nitrogen waste.
 - The pool of liquid under a bowl of salted cucumber or onion salad that has stood for half an hour.
-- Rows of salted fish drying in the sun at Kasimedu in Chennai or on the beach at Rameswaram. The salt has drawn the water out.
-- Salt pans at Thoothukudi in Tamil Nadu or in the Little Rann of Kutch in Gujarat, where the sun dries sea water until the salt is left.
-- Salt crystals on the leaves of grey mangrove trees at Pichavaram in Tamil Nadu or in the Sundarbans of West Bengal.
+- Rows of salted fish drying in the sun. The salt has drawn the water out.
+- Salt pans by the sea, where the sun dries sea water until the salt is left.
+- Salt crystals on the leaves of mangrove trees.
 - The thin pipe of waste water running from an RO water purifier in a kitchen. That water carries the salts the membrane held back.
 - Hilsa, or pulasa, on sale at Rajahmundry on the Godavari in the monsoon, when the fish have come up from the sea.
 - White marks on a dark T-shirt after a long game in the sun. The water of the sweat has gone, and its salt has stayed.
@@ -781,6 +781,11 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [A 10 millilitre medicine measuring cup, or a 5 millilitre syrup spoon or dropper](https://www.amazon.in/s?k=medicine+measuring+cup+10+ml) (tool): For measuring small amounts of liquid. Most homes have one from a bottle of syrup, so buy it only if you have none. Used in e1, e2, c1. 
 - [White vinegar, a 500 millilitre bottle](https://www.amazon.in/s?k=white+vinegar+500+ml) (material): For dissolving the shells of two eggs. Any plain white vinegar from a grocery shop works. Used in p1. 
 - [The Camel's Nose: Memoirs of a Curious Scientist, a book by Knut Schmidt-Nielsen (1998)](https://www.amazon.in/s?k=The+Camel%27s+Nose+Knut+Schmidt-Nielsen) (book): For the parent or an older child: the scientist's own account of studying kangaroo rats, camels and seabirds. Used in a4. After the Cool Nose Test, a parent can read aloud the pages about the kangaroo rat's nose or the camels in the Sahara.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Read a Dropping: the dark part and the white part. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a2. Get it before Read a Dropping: the dark part and the white part.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Two Eggs, Two Waters: a model of a river fish and a sea fish. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Two Eggs, Two Waters: a model of a river fish and a sea fish.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Read a Dropping: the dark part and the white part. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2. Get it before Read a Dropping: the dark part and the white part.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Water Accounts: your water day in beans, The Raita That Does Not Go Watery. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a6, c1. Get it before Water Accounts: your water day in beans.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which way does water move through a cell membrane? → Towards the side with more dissolved in it. This is called osmosis.
@@ -800,9 +805,9 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis'. The experiment 'Salty Sip: taste tiny pinches of salt in water to feel osmosis thirst signals (safe amounts)' became the opening activity Salty Sip, with one water mixed to the strength of blood and one to the strength of the sea.
 - From the same notes: 'Thirsty Planet' (a town saves water) and 'Water Token Tag' (earning sips as tokens) shaped the board game Cross the Thar, where water is counted in beans. 'Puddle Patrol' (a puddle shrinking in wind and sun) became the Burrow Test.
-- The curriculum entry for this unit (notebook item bio:24): excretion and balancing water and salt in humans, fish and desert animals.
-- sci.body.kidneys-and-waste.L4, which this unit builds on. Level 4 covers the wastes, the three ways out, filtering and taking back, urine, dialysis and transplants. None of its experiments is repeated. This unit adds osmosis as the cause, the loop of Henle, ADH, the three nitrogen wastes, fish, desert animals, salt glands and ORS.
-- Other units were checked for overlap. Potato strips in salt water are in sci.what-is-life.cells.L4, so this unit measures the liquid drawn out of cucumber by different amounts of salt. The ADH loop appears as a loop card in sci.body.keeping-balance.L5, and here the mechanism in the kidney is explained. Solar stills are in the water units and are not repeated.
+- The curriculum entry for this lesson (notebook item bio:24): excretion and balancing water and salt in humans, fish and desert animals.
+- sci.body.kidneys-and-waste.L4, which this lesson builds on. Level 4 covers the wastes, the three ways out, filtering and taking back, urine, dialysis and transplants. None of its experiments is repeated. This lesson adds osmosis as the cause, the loop of Henle, ADH, the three nitrogen wastes, fish, desert animals, salt glands and ORS.
+- Other units were checked for overlap. Potato strips in salt water are in sci.what-is-life.cells.L4, so this lesson measures the liquid drawn out of cucumber by different amounts of salt. The ADH loop appears as a loop card in sci.body.keeping-balance.L5, and here the mechanism in the kidney is explained. Solar stills are in the water units and are not repeated.
 - The Combined lesson sci-C5-body-parts-and-skeleton.json was read. Its kidney material (filtering model blood, one kidney is enough) is at the level of the Class 4 unit and was not reused.
 - Schmidt-Nielsen B., Schmidt-Nielsen K., Brokaw A., Schneiderman H. (1948). Water conservation in desert rodents. Journal of Cellular and Comparative Physiology 32: 331-360.
 - Schmidt-Nielsen K., Schmidt-Nielsen B., Jarnum S.A., Houpt T.R. (1957). Body temperature of the camel and its relation to water economy. American Journal of Physiology 188: 103-112.

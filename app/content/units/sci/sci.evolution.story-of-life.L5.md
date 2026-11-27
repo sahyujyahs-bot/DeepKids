@@ -1,9 +1,9 @@
 # How life might have begun: hot vents, the RNA world and deep time
 `sci.evolution.story-of-life.L5`
 
-**Summary.** Every living cell today comes from another living cell. So the first cell had no parent cell, and nobody saw how they began. Scientists have two main ideas about the place: hot vents on the sea floor, or warm pools on land. In this unit you will test whether a soap skin can form in sea-salty water, which is one of the arguments between the two ideas. You will also fit the whole age of the Earth onto your own arm span.
+**Summary.** Every living cell today comes from another living cell. So the first cell had no parent cell, and nobody saw how they began. Scientists have two main ideas about the place: hot vents on the sea floor, or warm pools on land. In this lesson you will test whether a soap skin can form in sea-salty water, which is one of the arguments between the two ideas. You will also fit the whole age of the Earth onto your own arm span.
 
-**Intro.** *A hen comes from an egg, and the egg comes from a hen. Every cell comes from a cell. Follow that back far enough and you reach a first cell with no parent. Where could that cell have come from?* Nobody knows the answer yet. But scientists do not just guess. They look for places on Earth where the chemistry of life could start without any living being, and they test each step in the laboratory. In this unit you will meet two such places, and test one of the arguments yourself with soap, salt and water. You will also see why the question is so hard. It happened about four billion years ago, and you will measure how long ago that is.
+**Intro.** *A hen comes from an egg, and the egg comes from a hen. Every cell comes from a cell. Follow that back far enough and you reach a first cell with no parent. Where could that cell have come from?* Nobody knows the answer yet. But scientists do not just guess. They look for places on Earth where the chemistry of life could start without any living being, and they test each step in the laboratory. In this lesson you will meet two such places, and test one of the arguments yourself with soap, salt and water. You will also see why the question is so hard. It happened about four billion years ago, and you will measure how long ago that is.
 
 ## Learning outcomes
 0. By the end I can say what a first cell needed: a skin, instructions that can be copied, and a steady supply of energy.
@@ -653,10 +653,10 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
 - Geologists, map makers and model builders all use scale. One unit on the model always stands for the same amount of the real thing.
 
 ## Spotted around us
-- Bath soap makes very little lather in sea water. Try it with a cup of sea water at Marina Beach in Chennai or at Kovalam in Kerala.
+- Bath soap makes very little lather in sea water. Try it with a cup of sea water at a beach.
 - Borewell water in many Indian towns is hard. Soap forms a white scum in it and lathers poorly, for a reason close to the salt effect.
-- At the salt pans of Thoothukudi in Tamil Nadu and the Rann of Kutch in Gujarat, sea water dries in the sun. The salt is left crowded together as crystals.
-- Hot springs rise from the ground at Manikaran in Himachal Pradesh, Bendru Theertha in Karnataka and Taptapani in Odisha. Water heated inside the rock comes up, as at a vent.
+- At salt pans, sea water dries in the sun. The salt is left crowded together as crystals.
+- A hot spring, where water heated inside the rock comes up, as at a vent.
 - When water heats in a steel pot, bits of dal or tea leaves rise in the middle and sink at the sides. Hot water rising is what you saw in the jar.
 - A spoon of curd holds millions of bacteria. Each has a fatty membrane, ribosomes and the same genetic code as you, inherited from LUCA.
 - Turmeric stains on a white shirt turn red when you wash them with soap. The soap is alkaline, like the water of an alkaline vent.
@@ -706,15 +706,24 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - [Woods Hole Oceanographic Institution](https://www.whoi.edu) · interactive: The home of the submarine Alvin, with pictures and stories of the first vent dives in 1977.
 - [OneZoom tree of life explorer](https://www.onezoom.org) · interactive: Zoom from any living being back to the shared root of the tree, where LUCA sits.
 - [National Centre for Polar and Ocean Research](https://ncpor.res.in) · interactive: For the parent: news of India's own search for vents in the Indian Ocean.
-- [Government Museum, Egmore]() · place · Chennai: The geology galleries show rocks, minerals and fossils, good for talking about how old rocks are.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A hands-on science museum. Look for the exhibits on heat, water and living cells.
-- [Indian Museum]() · place · Kolkata: The fossil galleries show how life changed over hundreds of millions of years.
-- [Manikaran hot springs]() · place · Manikaran, Himachal Pradesh: A place to see water heated inside the Earth come to the surface. Stay well back from the hot water.
+- Government Museum, Egmore · place · Chennai: The geology galleries show rocks, minerals and fossils, good for talking about how old rocks are.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A hands-on science museum. Look for the exhibits on heat, water and living cells.
+- Indian Museum · place · Kolkata: The fossil galleries show how life changed over hundreds of millions of years.
+- Manikaran hot springs · place · Manikaran, Himachal Pradesh: A place to see water heated inside the Earth come to the surface. Stay well back from the hot water.
 
 ## Things to buy
 - [A plain bath soap bar](https://www.amazon.in/s?k=bathing+soap+bar) (material): The Salt Water Skin Test needs a true soap, not a detergent bar, liquid handwash or shampoo. Most ordinary bath soaps work. Used in e1, c1. 
 - [A six-sided die](https://www.amazon.in/s?k=dice) (tool): Needed for the game Copy or Crash. A die from any board game at home will do. Used in g2. 
 - [Life Ascending: The Ten Great Inventions of Evolution, by Nick Lane](https://www.amazon.in/s?k=Life+Ascending+Nick+Lane) (book): For the parent. The first chapter explains the alkaline vent idea, written by one of the scientists in the debate. Used in p1. Read the first chapter before day 2 of the Origin Case File, and share one finding from it with your child.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Deep Time on Your Arms: work out your own scale. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a1. Get it before Deep Time on Your Arms: work out your own scale.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Salt Water Skin Test: can a soap skin form in sea-salty water?, Deep Time on Your Arms: work out your own scale, Foam in the Sea: make a skin that lasts in salty water. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, c1. Get it before The Salt Water Skin Test: can a soap skin form in sea-salty water?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Hot Vent in a Jar: where does hot water go in cold water?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e2. Get it before Hot Vent in a Jar: where does hot water go in cold water?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Deep Time on Your Arms: work out your own scale. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before Deep Time on Your Arms: work out your own scale.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Origin Case File: vents or pools?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Origin Case File: vents or pools?.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in Acid Sea, Alkaline Vent: the turmeric test. About ₹20 to ₹40. Check the kitchen first. Used in a2. Get it before Acid Sea, Alkaline Vent: the turmeric test.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Acid Sea, Alkaline Vent: the turmeric test. About ₹40 to ₹80. Lemon juice works for many tests. Used in a2. Get it before Acid Sea, Alkaline Vent: the turmeric test.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Acid Sea, Alkaline Vent: the turmeric test. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2. Get it before Acid Sea, Alkaline Vent: the turmeric test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three things a first cell needed. → A skin, instructions that can be copied, and a steady supply of energy.
@@ -735,7 +744,7 @@ Endless Forms (sci.evolution.L5): Topic-level song for Evolution L5
 - Curriculum entry sci.evolution.story-of-life.L5: how life might have begun (hydrothermal vents, RNA world), and deep time on a scale model. Notebook items bio:45, bio:46, bio:49, bio:52 and chem:135.
 - Founder's picture book 'RNA's story of life', narrated by RNA (ideas/by_topic/evolution-the-tree-of-life.md): hydrothermal vents with a warm zone of 50 to 90 degrees, RNA chains that copy themselves, RNA folding into shapes with functions, lipid bubbles sheltering RNA as the first protocells.
 - DeepKids Combined lesson sci-C5-how-life-began: the vents-or-pools debate, the Drying Drops activity (improved here as a4), the idea behind the evidence card game (Origin Detectives), LUCA and the shared genetic code, and the ribosome as a machine made of RNA.
-- DeepKids Combined lesson sci-C3-how-life-began, and the Level 2 and Level 3 units of this subtopic, which this unit builds on without repeating their experiments or stories.
+- DeepKids Combined lesson sci-C3-how-life-began, and the Level 2 and Level 3 units of this subtopic, which this lesson builds on without repeating their experiments or stories.
 - Maths links from the curriculum entry: math.number-sense.big-numbers.L5 and math.measurement-basics.scale-models.L5.
 - Corliss J.B. et al. (1979). Submarine thermal springs on the Galápagos Rift. Science 203, 1073-1083.
 - Cavanaugh C.M., Gardiner S.L., Jones M.L., Jannasch H.W., Waterbury J.B. (1981). Prokaryotic cells in the hydrothermal vent tube worm Riftia pachyptila Jones: possible chemoautotrophic symbionts. Science 213, 340-342.

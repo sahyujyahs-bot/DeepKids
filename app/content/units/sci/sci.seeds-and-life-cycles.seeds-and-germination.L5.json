@@ -3333,6 +3333,65 @@
     "e2"
    ],
    "plan": "After No Going Back, a parent can read aloud from the chapters on how seeds wait."
+  },
+  {
+   "id": "b-kabuli-chana",
+   "item": "Whole kabuli chana, about 10 grains, uncooked",
+   "kind": "material",
+   "why": "The seeds are soaked and drawn over four days, to see what happens inside a waking seed. About ₹80 to ₹120 a kilogram at a grocery shop, so a small handful costs only a few rupees.",
+   "url": "https://www.amazon.in/s?k=kabuli+chana",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Buy it before the Four Days, Four Drawings activity."
+  },
+  {
+   "id": "b-magnifier-seeds",
+   "item": "Hand lens or magnifying glass, about 60 to 75 millimetres wide",
+   "kind": "tool",
+   "why": "It lets the children look closely at the inside of a waking chana in the drawing activity. About ₹50 to ₹150 at a stationery or science shop. A phone camera zoomed in as far as it goes works as the household alternative.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Buy it before the Four Days, Four Drawings activity."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Squared graph paper, a few sheets",
+   "kind": "material",
+   "why": "It is used to draw the line graph of the three jars in the Three Jars project. About ₹5 to ₹15 a sheet at a stationery shop. A notebook page ruled into squares works as well.",
+   "url": "https://www.amazon.in/s?k=graph+paper",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy it before you start the Three Jars project."
+  },
+  {
+   "id": "b-cotton-wool-seeds",
+   "item": "Cotton wool, one small roll",
+   "kind": "material",
+   "why": "It is packed around the sample to keep it cold in the power cut challenge. About ₹40 to ₹80 for a small pack at a chemist. Newspaper or an old towel does the same job.",
+   "url": "https://www.amazon.in/s?k=cotton+wool",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Buy it before the Power Cut challenge."
+  },
+  {
+   "id": "b-print-seeds",
+   "item": "Printed pages for the game cards, tokens and worksheets, about 15 pages",
+   "kind": "material",
+   "why": "The two games use five mix cards, 24 seed fate cards and three answer tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹15 to ₹30.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

@@ -1,9 +1,9 @@
 # Floating and sinking: why a steel ship floats and a pebble sinks
 `sci.states.floating-and-sinking.L4`
 
-**Summary.** A steel ship floats, but a small pebble sinks. A ball of foil sinks, but the same foil folded into a boat floats. Why? In this unit you will build foil boats that carry coins, sort ten kitchen things, and find when a potato floats in salty water.
+**Summary.** A steel ship floats, but a small pebble sinks. A ball of foil sinks, but the same foil folded into a boat floats. Why? In this lesson you will build foil boats that carry coins, sort ten kitchen things, and find when a potato floats in salty water.
 
-**Intro.** *Drop a ball of kitchen foil into a bucket of water. It sinks. Now fold the same piece of foil into a little boat and set it on the water. It floats. It is the same foil, with the same weight. What changed?* Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this unit you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.
+**Intro.** *Drop a ball of kitchen foil into a bucket of water. It sinks. Now fold the same piece of foil into a little boat and set it on the water. It floats. It is the same foil, with the same weight. What changed?* Nothing was added and nothing was taken away. Only the shape changed. A boat shape holds a big pocket of air, and the pocket pushes aside a lot of water. In this lesson you find out how much water a thing must push aside to float. You test foil boats with coins, you float a potato in salty water, and you make a bottle diver that sinks and rises when you squeeze it.
 
 ## Learning outcomes
 0. I can explain that a thing floats when it is lighter than the same amount of water, which scientists call less dense.
@@ -40,6 +40,8 @@ When you put something into water, it pushes some water out of the way. Think of
 - e.g. A cork floats because a piece of cork is lighter than the same amount of water.
 - e.g. A steel spoon sinks because steel is much heavier than the same amount of water.
 - e.g. A big ship floats because the water it pushes aside weighs as much as the ship.
+- **Archimedes (about 250 BCE):** Found the rule: a thing floats if it is lighter than the water it pushes aside. The story of the king's crown is a famous but uncertain tale.
+- **Al-Biruni (about 1000 CE):** Measured the densities of many metals and jewels with great care using this rule.
 ### Density: how much stuff is packed into a space · *defined*
 **Definition:** Density tells you how much mass there is in a certain volume. Something dense is heavy for its size.
 
@@ -47,6 +49,8 @@ A litre of water has a mass of 1 kilogram. So one millilitre of water has a mass
 - e.g. Aluminium is denser than water, by about 2.7 times. That is not very much, so a thin sheet of aluminium foil can be folded into a boat that holds enough air to float.
 - e.g. Most woods are between half as dense as water and nearly as dense, so they float.
 - e.g. Cooking oil is about nine tenths as dense as water, so oil floats on water.
+- **Archimedes:** The old story says he found out whether a crown was pure by testing how much water it pushed aside compared with gold.
+- **Ernest Rutherford:** In 1911 showed that an atom is almost all empty space with a tiny, dense centre. The nucleus is about a hundred million million times denser than water.
 ### Upthrust: the water pushes up · *defined*
 **Definition:** Upthrust is the upward push of a liquid on anything in it. It equals the weight of the liquid that the thing pushes aside.
 
@@ -54,6 +58,8 @@ Water pushes in every direction on a thing sitting in it, but the push from belo
 - e.g. A floating boat sits down in the water until the upthrust equals the weight of the boat and its cargo.
 - e.g. A rock feels lighter when you lift it under water, because the upthrust does part of the lifting.
 - e.g. A person feels almost weightless in a swimming pool.
+- **Archimedes:** The push on a thing equals the weight of the water it pushes aside.
+- **Fluid scientists:** Explain that the push comes from pressure that grows with depth. It is the same fact seen from the side of the water's pressure.
 ### Why shape matters: a hollow boat holds air · *defined*
 **Definition:** A hollow shape that holds air pushes aside more water than a solid lump of the same material. If it pushes aside enough water, the shape floats.
 
@@ -61,6 +67,8 @@ Foil is denser than water, so a ball of foil sinks. When you fold the same foil 
 - e.g. A foil ball sinks, but a foil boat floats.
 - e.g. A steel katori floats when it is set on the water with its mouth up, but it sinks when it fills with water.
 - e.g. A steel ship floats because most of its hull is air.
+- **Beypore boat builders of Kerala:** Build large wooden ships, the uru, by skill handed down for centuries, using no drawings. Their hulls are shaped to push aside enough water.
+- **Pierre Bouguer:** In 1746 he explained how a ship stays upright, with a point he called the metacentre. Calculation joined craft in designing ships.
 ### Salt water holds things up better · *defined*
 **Definition:** Salty water is denser than fresh water, because the dissolved salt adds mass without adding much volume.
 
@@ -68,6 +76,8 @@ When salt dissolves in water, the salt particles fit in between the water partic
 - e.g. A raw potato sinks in plain water and floats in very salty water.
 - e.g. A swimmer floats more easily in the sea than in a swimming pool.
 - e.g. A ship sits higher in the sea than in a river.
+- **Dead Sea bathers:** Float without effort because the water is about a third salt by weight, and denser than the human body.
+- **Sailors in river ports:** Know that a ship loaded in fresh water sinks lower than it does in the sea, and so its allowed load differs for different waters.
 ### Why ice floats, and why oil floats · *defined*
 **Definition:** Ice floats on water because ice is less dense than liquid water. Oil floats on water because oil is less dense than water.
 
@@ -75,6 +85,8 @@ Almost every solid is denser than its own liquid, so it sinks in it. Ice is diff
 - e.g. An ice cube floats in a glass of water, with a little of it above the surface.
 - e.g. In a dal that has too much oil, the oil forms a layer on top.
 - e.g. Ponds in cold places freeze from the top, and fish live under the ice.
+- **Aristotle:** Taught that ice floats because of its flat shape.
+- **Galileo:** Argued in 1612 that ice floats because it is lighter for its size than water, 'rarefied water'. Chemists later explained it with the open, six-sided pattern of the molecules in ice.
 ### Liquid layers: the density tower · *defined*
 **Definition:** Liquids that do not mix will sit in layers, with the densest liquid at the bottom and the least dense at the top.
 
@@ -82,6 +94,8 @@ If you pour oil, water and thick sugar syrup into a glass, they sit one above th
 - e.g. Honey sinks to the bottom of a glass of water.
 - e.g. Oil floats on top of water.
 - e.g. Shake oil and water together in a bottle and then leave it still. The oil floats back up and forms a layer on top.
+- **Chemists:** Make rainbow density towers in a glass from honey, soap, water and oil.
+- **Oceanographers:** Find the same layering in the sea. Warm or fresh water floats above cold or salty water, and layers can stay apart for a long time. It shapes the way fish and nutrients move.
 ### Fish, submarines and balloons change how dense they are · *defined*
 **Definition:** To rise or sink, a fish, a submarine or a balloon changes how dense it is overall, by changing how much gas or water it holds.
 
@@ -89,6 +103,8 @@ Many fish have a swim bladder, a bag of gas inside their body. A fish that wants
 - e.g. A rohu fish adds or removes gas in her swim bladder to stay at the right depth.
 - e.g. A submarine fills its tanks with water to sink.
 - e.g. A hot air balloon rises when the burner heats the air inside it.
+- **Biologists:** Explain that a fish changes its density with a gas bag, and a nautilus changes the gas and liquid in the chambers of its shell.
+- **Submarine designers:** Copy the same idea. In 1620 Cornelis Drebbel built a rowing boat that travelled under the Thames. Modern submarines fill tanks with water to sink and blow them out with air to rise.
 ### Boats of India and the load line · *defined*
 **Definition:** A boat is built to hold air and push aside water. A load line is painted on a ship to show how deep it may sit when it carries cargo.
 
@@ -96,6 +112,8 @@ People in India have built boats from whatever floats and is easy to find. At Ho
 - e.g. A coracle on the Kaveri is round, wide and shallow.
 - e.g. A banana-stem raft floats because the stems are full of air spaces.
 - e.g. A ship's load line sits lower on the hull for sea water than for fresh river water.
+- **Samuel Plimsoll:** A British politician who led a law in 1876 that marked a line on every ship's side showing how deeply it could sit. It was meant to stop overloaded ships from sinking.
+- **Indian Ocean boat builders:** Gujarat and Kerala shipwrights have long known how deep a loaded boat may sit, by experience and by marks on the hull, long before written laws.
 ### Measuring density: the hydrometer · *defined*
 **Definition:** A hydrometer is a weighted tube that floats upright in a liquid. The denser the liquid, the higher the tube floats.
 
@@ -103,6 +121,8 @@ A hydrometer floats lower in a liquid that is less dense and higher in a liquid 
 - e.g. A milk hydrometer floats lower in milk mixed with water, because the mixture is less dense.
 - e.g. A tube with clay in the bottom floats upright in a glass of water.
 - e.g. The same tube floats higher in salty water.
+- **Hypatia of Alexandria:** A letter from her student Synesius, about 400 CE, describes a hydrometer, a weighted tube that floats in a liquid, and tradition credits her with its design.
+- **Modern laboratories:** Use a thin glass tube filled with liquid that is made to hum. The pitch of the hum changes with the liquid's density, and a machine reads it with no need for floating.
 
 ## Mostly agreed
 - A thing floats in a liquid when it is less dense than the liquid, and sinks when it is denser. *How we know:* Scientists have measured the mass and volume of many materials. The ones that are less dense than water float, and the ones that are denser sink.
@@ -134,7 +154,7 @@ A hydrometer floats lower in a liquid that is less dense and higher in a liquid 
   Against: Ice is lighter than water, not heavier. An iceberg sits mostly under the water because ice is only a little lighter than sea water. If it were much lighter, it would sit higher.
 
 ## Roots
-In this unit you tested foil boats, a potato in salty water and a bottle diver, and learned what makes things float. This part asks what floating shows about things, and about us.
+In this lesson you tested foil boats, a potato in salty water and a bottle diver, and learned what makes things float. This part asks what floating shows about things, and about us.
 
 **Deep truth.** In the Potato and the Salt test, the same potato sank in tap water and floated in salty water. The potato had not changed at all. The liquid had. So floating describes the potato and the liquid together.  
 *Habit it breaks:* We say 'this floats' and 'that sinks' as if floating belonged to the thing alone, like its colour. That leaves out the liquid.  
@@ -693,6 +713,10 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 ## Things to buy
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the Foil Boats test and the Cargo Ship challenge. Most kitchens already have one. Used in e1, c1. 
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): For the straw hydroscope and the bottle diver. Ask for plasticine or modelling clay at a stationery shop; a small pack is usually cheap and enough. Do not use dough that dissolves in water. Used in a3, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Foil Boats: which shape carries the most coins?, Make a Hydroscope: a floating density meter, Cargo Ship: carry the most coins with one sheet of foil. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, c1. Get it before Foil Boats: which shape carries the most coins?.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Density Tower: three liquids that will not mix. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a2. Get it before Density Tower: three liquids that will not mix.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Make a Hydroscope: a floating density meter, Bottle Diver: a diver that sinks when you squeeze. About ₹10 to ₹40. Small round stones or dried chana. Used in a3, p1. Get it before Make a Hydroscope: a floating density meter.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a thing need to do to float? → Be lighter than the water it pushes aside.
@@ -712,7 +736,7 @@ Heavy for Its Size (sci.states.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/forces-and-movement.md: floating objects in water to test buoyancy, and watching boats to see buoyancy in action, used in the foil boat test and the spotted items
-- The Class 2 unit on floating and sinking, which this unit builds on: the idea that what a thing is made of decides, now extended to density, shape and the liquid
+- The Class 2 unit on floating and sinking, which this lesson builds on: the idea that what a thing is made of decides, now extended to density, shape and the liquid
 - NCERT Class 4, Chapter 7, 'How Things Work', and Cambridge Stage 4 materials on floating and sinking, for coverage only. Their text is not copied
 - Archimedes, On Floating Bodies, about 250 BCE
 - Vitruvius, De Architectura, Book 9, preface (the bath and crown story, written about two hundred years later)

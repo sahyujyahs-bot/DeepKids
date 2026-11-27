@@ -3095,6 +3095,112 @@
     "a4"
    ],
    "plan": "For the parent to read alongside the unit. It goes well with The Nitrogen Relay and the card on how people have changed the nitrogen cycle."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Browns, Greens or Both: which bottle rots best?, Read the Keeling Curve: 65 years of air on one page. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "a5"
+   ],
+   "plan": "Get it before Browns, Greens or Both: which bottle rots best?."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It in the Field: stop the rain from washing fertiliser away."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It in the Field: stop the rain from washing fertiliser away."
+  },
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in Keep It in the Field: stop the rain from washing fertiliser away. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "c2"
+   ],
+   "plan": "Get it before Keep It in the Field: stop the rain from washing fertiliser away."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Browns, Greens or Both: which bottle rots best?, Two Heaps: sort one day's waste, Rescue the Smelly Bottle. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e1",
+    "a1",
+    "c1"
+   ],
+   "plan": "Get it before Browns, Greens or Both: which bottle rots best?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Root Dig: look for nodules (if you have a garden, a park or a farm nearby). Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before Root Dig: look for nodules (if you have a garden, a park or a farm nearby)."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in The Nitrogen Relay: pass one atom all the way round. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Nitrogen Relay: pass one atom all the way round."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Rescue the Smelly Bottle. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before Rescue the Smelly Bottle."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [
@@ -3350,7 +3456,13 @@
     "source": "Chandogya Upanishad 5.10.6",
     "teaching": "The text follows what leaves a body at death. It becomes mist, then cloud, then rain. It falls to the earth and is born as grain, herbs, trees, sesame and beans. Whoever eats that food carries it on.",
     "link": "The Upanishad is speaking of the journey of a soul, not of atoms. But the path it describes is the path of a matter cycle: air, rain, plant, eater. Its authors had watched closely where a body goes.",
-    "verse": ["वायुर्भूत्वा धूमो भवति", "धूमो भूत्वाभ्रं भवति", "अभ्रं भूत्वा मेघो भवति", "मेघो भूत्वा प्रवर्षति", "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"],
+    "verse": [
+     "वायुर्भूत्वा धूमो भवति",
+     "धूमो भूत्वाभ्रं भवति",
+     "अभ्रं भूत्वा मेघो भवति",
+     "मेघो भूत्वा प्रवर्षति",
+     "त इह व्रीहियवा ओषधिवनस्पतयस्तिलमासा इति जायन्ते"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3362,7 +3474,10 @@
     "source": "Thirukkural 1038",
     "teaching": "Manuring does a field more good than ploughing. And once the weeding is done, guarding the crop does more good than watering.",
     "link": "Thiruvalluvar wrote for Tamil farmers well over a thousand years ago. Nobody then knew of nitrogen. The farmers had learned from their fields that what a crop takes from the soil must be given back.",
-    "verse": ["ஏரினும் நன்றால் எருவிடுதல் கட்டபின்", "நீரினும் நன்றதன் காப்பு."],
+    "verse": [
+     "ஏரினும் நன்றால் எருவிடுதல் கட்டபின்",
+     "நீரினும் நன்றதன் காப்பு."
+    ],
     "verse_lang": "ta"
    }
   ],

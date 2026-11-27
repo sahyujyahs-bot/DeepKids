@@ -493,6 +493,8 @@ Grow, Go and Protect (sci.food.L2): Topic-level song for Food L2
 
 ## Things to buy
 - [Gregory, the Terrible Eater by Mitchell Sharmat](https://www.amazon.in/s?k=Gregory+the+Terrible+Eater) (book): A young goat wants to eat fruit and vegetables instead of tin cans, which worries his parents. It gives the child a laugh about trying new foods. Used in a1. Read it together before the food plate activity.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Make Poha: one breakfast, three jobs. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Make Poha: one breakfast, three jobs.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one grow food. → Dal, milk, curd, egg, fish, paneer or groundnuts.

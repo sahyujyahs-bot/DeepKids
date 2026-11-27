@@ -545,6 +545,8 @@ Room Between (sci.space-time.L2): Topic-level song for Space, time and dimension
 - M. P. Birla Planetarium · place · Kolkata: One of the oldest planetariums in India, with sky shows in several languages.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Mirror Tunnel: does the row go on for ever?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e2. Get it before The Mirror Tunnel: does the row go on for ever?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is space? → The room around things and between them.

@@ -1,7 +1,7 @@
 # Sorting waste: why we separate it the moment we throw it
 `sci.waste.sorting-waste.L3`
 
-**Summary.** What happens to dry paper when wet kitchen waste is mixed in with it? In this unit you will test it with two jars, set up a sorting station at home, race to sort waste as you throw it or later, and wrap up dangerous waste safely.
+**Summary.** What happens to dry paper when wet kitchen waste is mixed in with it? In this lesson you will test it with two jars, set up a sorting station at home, race to sort waste as you throw it or later, and wrap up dangerous waste safely.
 
 **Intro.** *Take one sheet of newspaper and tear it in half. Dip one half in a bowl of water for a minute. Now pull each half gently from both ends. Which one tears first?* Every home in India throws out two very different kinds of waste. Wet waste is food and other things that rot, like peels, leftover rice and used tea leaves. Dry waste is things that do not rot quickly, like paper, plastic, metal and glass. Dry waste that is clean can be sold and made into new things. But when the two kinds go into one bag, the wet soaks into the dry. Can we ever separate them again afterwards? The Two-Jar Test will show you.
 
@@ -676,7 +676,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 ## Spotted around us
 - Green and blue dustbins at railway stations, bus stands and parks: green for wet waste, blue for dry.
 - The waste collector's auto or cart with separate parts for wet and dry waste.
-- Women of the Haritha Karma Sena in Kerala, in green uniforms, collecting dry waste from homes.
+- Women in green uniforms collecting dry waste from homes.
 - Hospital bins in yellow, red and other colours, each for a different kind of waste.
 - Banana leaves or sal-leaf plates folded and carried to a bin after a feast or a wedding meal.
 - Signs in apartment buildings asking residents to hand over waste sorted.
@@ -725,10 +725,13 @@ There Is No Away (sci.waste.L3): Topic-level song
 - [SWaCH, the waste pickers' cooperative of Pune](https://swachcoop.com) · interactive: Read about the waste pickers, most of them women, who collect sorted waste from homes in Pune.
 - [Swachh Bharat Mission (Urban)](https://sbmurban.org) · interactive: For the parent. India's cleanliness mission, with the rules and campaigns for sorting waste at home.
 - [Minamata Disease Museum and the National Institute for Minamata Disease](https://nimd.env.go.jp/english/) · interactive: For the parent. The Japanese government institute on Minamata disease, with an English archive about what happened and how mercury moves through fish.
-- [A dry waste collection centre in your city]() · place · Bengaluru, Pune, Chennai and many other cities: Many wards have one. Ask your city or a waste picker group whether a family can visit and watch the sorting.
-- [Your apartment's compost unit, if it has one]() · place · anywhere: See where the building's wet waste goes, and how it turns into compost.
+- A dry waste collection centre in your city · place · Bengaluru, Pune, Chennai and many other cities: Many wards have one. Ask your city or a waste picker group whether a family can visit and watch the sorting.
+- Your apartment's compost unit, if it has one · place · anywhere: See where the building's wet waste goes, and how it turns into compost.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two-Jar Test: what does wet waste do to dry waste?, A Picture Sorting Guide for Our Building, A Bin That Fits a Small Kitchen. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1, c1. Get it before The Two-Jar Test: what does wet waste do to dry waste?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Set Up a Sorting Station at Home, A Picture Sorting Guide for Our Building, A Bin That Fits a Small Kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a1, p1, c1. Get it before Set Up a Sorting Station at Home.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a banana peel wet waste or dry waste? → Wet waste. It rots.
@@ -749,7 +752,7 @@ There Is No Away (sci.waste.L3): Topic-level song
 ## Sources
 - DeepKids notebook topic page for waste (app/content/ideas/by_topic/waste.md): the weekly journeys 'Waste is not a waste' and 'Things Are More Than What They Seem', and the Semmelweis card's whisper that the healer can be the carrier, which became the idea that the person holding the waste carries the choice
 - DeepKids board pack NCERT Class 3 Chapter 12 'Taking Charge of Waste' (app/content/ncert/sci-L3-12.json): keeping and sorting a day's waste, the green and blue bins, keeping batteries and broken glass separate, clean places like Mysuru and Indore, and the people who keep places clean
-- DeepKids unit Reduce, reuse, recycle (Class 3): read so that this unit adds new experiments, a new story and a new deep truth instead of repeating the rot jar test, the kabadiwala visit or the newspaper bag
+- DeepKids unit Reduce, reuse, recycle (Class 3): read so that this lesson adds new experiments, a new story and a new deep truth instead of repeating the rot jar test, the kabadiwala visit or the newspaper bag
 - Government of India, Solid Waste Management Rules 2016 (three streams: biodegradable, non-biodegradable and domestic hazardous waste; sorting at source)
 - Harada, M. (1995), 'Minamata disease: methylmercury poisoning in Japan caused by environmental pollution', Critical Reviews in Toxicology 25(1)
 - Ministry of the Environment, Japan, 'Minamata Disease: The History and Measures' (official recognition in 1968)

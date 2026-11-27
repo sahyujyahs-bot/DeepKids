@@ -1,9 +1,9 @@
 # Going round: what keeps a thing in a circle, and why it flies off straight when the pull stops
 `sci.motion.spinning.L4`
 
-**Summary.** Whirl a bag on a string twice as fast and the string pulls about four times as hard. Let go, and it flies off straight. In this unit you will whirl a sock on a string, test the speed for each pull, and see which coin on a turntable slides off first.
+**Summary.** Whirl a bag on a string twice as fast and the string pulls about four times as hard. Let go, and it flies off straight. In this lesson you will whirl a sock on a string, test the speed for each pull, and see which coin on a turntable slides off first.
 
-**Intro.** *Whirl a small bag on a string. Your fingers feel a pull, and the faster you whirl, the stronger the pull gets. Now let go. Does the bag fly straight on, curve round, or go outward? Nobody pushes the bag outward, so why do your fingers feel a pull at all?* The string pulls the bag towards your hand all the time. That pull bends the bag's path into a circle. When the pull stops, the bag goes straight on. In this unit you measure how the pull changes with speed, you slide coins off a turntable, and you watch a spin dryer throw water out through its holes. You find out why a car slows for a bend, why a lab spins blood and a dairy spins milk, and why the Moon keeps falling towards the Earth without ever getting closer.
+**Intro.** *Whirl a small bag on a string. Your fingers feel a pull, and the faster you whirl, the stronger the pull gets. Now let go. Does the bag fly straight on, curve round, or go outward? Nobody pushes the bag outward, so why do your fingers feel a pull at all?* The string pulls the bag towards your hand all the time. That pull bends the bag's path into a circle. When the pull stops, the bag goes straight on. In this lesson you measure how the pull changes with speed, you slide coins off a turntable, and you watch a spin dryer throw water out through its holes. You find out why a car slows for a bend, why a lab spins blood and a dairy spins milk, and why the Moon keeps falling towards the Earth without ever getting closer.
 
 ## Learning outcomes
 0. I can explain that a thing going round needs a pull towards the middle all the time, and that without it, the thing flies off in a straight line.
@@ -738,6 +738,11 @@ Round and Round (sci.motion.L4): Topic-level song
 ## Things to buy
 - [A small bag of glass marbles (goli)](https://www.amazon.in/s?k=glass+marbles+goli) (material): For Marble in the Kadai. A marble rolls smoothly, so it goes round the kadai in a clean circle. A few marbles cost a few rupees in toy and stationery shops; a foil ball also works. Used in a2. 
 - [A lazy Susan or a revolving cake stand](https://www.amazon.in/s?k=lazy+susan+turntable) (tool): For Coins on the Turntable and the Coin Keeper. A turntable that turns smoothly by hand is easier to use than a swivel stool. A swivel stool or chair works if you have one. Used in e2, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1, p1. Get it before The Whirler: how fast must a bag go round for each size of pull?.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Whirler: how fast must a bag go round for each size of pull?, Planets on a String: do far planets go round slower?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, p1. Get it before The Whirler: how fast must a bag go round for each size of pull?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Whirler: how fast must a bag go round for each size of pull?, Coins on the Turntable: which one slides off first?, Planets on a String: do far planets go round slower?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1. Get it before The Whirler: how fast must a bag go round for each size of pull?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Coins on the Turntable: which one slides off first?, The Coin Keeper: keep three coins on a plate at one turn a second. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, c1. Get it before Coins on the Turntable: which one slides off first?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a thing going round in a circle always need? → A pull towards the middle.
@@ -757,7 +762,7 @@ Round and Round (sci.motion.L4): Topic-level song
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md, 'Motion can be uniform, oscillatory, circular or chaotic' (observe ceiling fan blades for circular motion) and the Rotational Motion row (rotate on a swivel chair, a carnival with spinning rides): used in the swivel chair turntable of Coins on the Turntable and in the spotted list
-- The Level 3 unit on spinning tops and wheels (sci.motion.spinning.L3), which this unit builds on and does not repeat: its tops, rolling race and merry-go-round are not used here
+- The Level 3 unit on spinning tops and wheels (sci.motion.spinning.L3), which this lesson builds on and does not repeat: its tops, rolling race and merry-go-round are not used here
 - Nearby units checked so the experiments and the story are new: sci.motion.newtons-laws.L3 (swinging a sock and letting go), sci.forces.changing-motion.L2 (the marble in a curved wall), sci.motion.swings-and-pendulums.L4
 - Rene Descartes, Principia Philosophiae, 1644 (a stone in a sling tries to go straight)
 - Christiaan Huygens, De vi centrifuga, written about 1659 and printed in 1703 (the rule for the pull of a circle)

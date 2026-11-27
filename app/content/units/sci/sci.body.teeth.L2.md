@@ -1,7 +1,7 @@
 # Teeth: two sets for a lifetime, and what wears them away
 `sci.body.teeth.L2`
 
-**Summary.** Enamel is the hardest part of your body, so how can a sour drink wear it away? In this unit you will drop eggshell into five kitchen liquids to see which ones make it go soft, find out why a milk tooth wobbles, and make a tooth in layers from dough.
+**Summary.** Enamel is the hardest part of your body, so how can a sour drink wear it away? In this lesson you will drop eggshell into five kitchen liquids to see which ones make it go soft, find out why a milk tooth wobbles, and make a tooth in layers from dough.
 
 **Intro.** *Hold a clean piece of eggshell. Press it gently with your thumb. It is hard. Your tooth enamel is even harder. Could a drink from your kitchen make something so hard go soft?* Enamel is the white outside layer of your teeth. It is the hardest part of your whole body, harder than bone. An eggshell is hard too, and it is made with calcium, like enamel. So an eggshell is a good stand-in for a tooth in a test. Before you read on, guess. Which drink would harm a hard shell: sugar water, or lemon juice? Say why you think so. You are going to find out.
 
@@ -605,7 +605,7 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
 - Scientists who study bones and teeth can tell roughly how old a child was from which teeth were in the jaw.
 
 ## Spotted around us
-- A child with a gap-toothed smile at a school assembly. Almost every Class 2 in India has one.
+- A child with a gap-toothed smile at a school assembly. Almost every Class 2 has one.
 - A datun seller at a market, with bundles of neem and babool twigs.
 - A tooth custom: in some families, a child throws a fallen milk tooth onto a roof, or a grandmother keeps it safe in a box.
 - Sour treats sold outside schools: raw mango with chilli, tamarind sweets and amla.
@@ -651,10 +651,15 @@ Two Sets of Teeth (sci.body.L2): Topic-level song for Our bodies L2
 - [KidsHealth: Your Teeth](https://kidshealth.org/en/kids/teeth.html) · interactive: A clear page for children about the parts of a tooth and how to look after teeth, from a children's hospital group.
 - [KidsHealth: Going to the Dentist](https://kidshealth.org/en/kids/go-dentist.html) · interactive: Explains what happens at a dental check-up, for a child who is nervous.
 - [National Institute of Dental and Craniofacial Research: Tooth Decay](https://www.nidcr.nih.gov/health-info/tooth-decay) · interactive: For the parent: how bacteria, sugar and acid cause tooth decay, and how fluoride helps.
-- [A dental check-up at your local dentist or a dental college hospital]() · place · Your town or city: Many cities have a government dental college hospital. Ask the dentist to show your child the mirror, the X-ray and a model of a tooth.
+- A dental check-up at your local dentist or a dental college hospital · place · Your town or city: Many cities have a government dental college hospital. Ask the dentist to show your child the mirror, the X-ray and a model of a tooth.
 
 ## Things to buy
 - [a small bottle of white vinegar]() (material): Vinegar gives the clearest bubbles and the softest shell in the eggshell test. It costs little and is sold in most grocery shops. If you can't get it, use extra lemon juice. Used in e1. Used in the eggshell test, and handy for kitchen use afterwards.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Root Test: why does a milk tooth wobble?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Root Test: why does a milk tooth wobble?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Torch Tour: your teeth and a grown-up's teeth, Gap Watch: a new tooth coming in (if you have a wobbly tooth or a gap), Twig Brush: try a datun (if you can get a neem or babool twig). About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1, a4, a5. Get it before Torch Tour: your teeth and a grown-up's teeth.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in A Tooth in Layers: make one from dough. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a2. Get it before A Tooth in Layers: make one from dough.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Eggshell Test: which drinks make a hard shell go soft?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1. Get it before The Eggshell Test: which drinks make a hard shell go soft?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many milk teeth does a child have? → 20.
@@ -673,7 +678,7 @@ Two Sets of Teeth (sci.body.L2): Topic-level song for Our bodies L2
 ## Sources
 - ideas/by_topic/body-parts-and-skeleton.md: read for this topic. It has nothing on human teeth, so no founder activity was used here.
 - Cambridge Primary Science Stage 2, Unit 4.5 'Teeth' (match incisors, canines and molars to their jobs; 20 milk teeth and 32 adult teeth; an egg shell in a sugary drink). The eggshell test here compares five liquids and keeps a plain-water glass, so the child sees that acid, not sugar itself, softens the shell.
-- Ladder: sci.health.hygiene.L1 (the biscuit test, plaque bacteria and acid, the tooth worm story), sci.animals.animals-around-us.L1 (the chewing test) and sci.animals.animal-bodies.L2 (teeth map, cow's teeth). This unit does not repeat their experiments, stories or deep truths. It leads on from hygiene L1: there the child learned that bacteria make acid from leftovers; here the child tests what acid does to a hard material.
+- Ladder: sci.health.hygiene.L1 (the biscuit test, plaque bacteria and acid, the tooth worm story), sci.animals.animals-around-us.L1 (the chewing test) and sci.animals.animal-bodies.L2 (teeth map, cow's teeth). This lesson does not repeat their experiments, stories or deep truths. It leads on from hygiene L1: there the child learned that bacteria make acid from leftovers; here the child tests what acid does to a hard material.
 - Primary dentition: 20 teeth (8 incisors, 4 canines, 8 molars), erupting from about 6 months to about 3 years. Permanent dentition: up to 32 (8 incisors, 4 canines, 8 premolars, 12 molars). First permanent molars and incisors erupt at about 6 to 7. Any dental anatomy textbook.
 - Root resorption of primary teeth by odontoclasts as the successor tooth erupts.
 - Mamelons on newly erupted permanent incisors wear away with use.

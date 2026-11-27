@@ -1,9 +1,9 @@
 # Caring for the place we share: litter, plants and small animals
 `sci.environment.caring.L1`
 
-**Summary.** A toffee wrapper dropped on the road does not stay where it falls. In this unit you will pour a mug of water as pretend rain over litter in the bathroom to see where it goes, and make one corner of your home cleaner.
+**Summary.** A toffee wrapper dropped on the road does not stay where it falls. In this lesson you will pour a mug of water as pretend rain over litter in the bathroom to see where it goes, and make one corner of your home cleaner.
 
-**Intro.** *Drop a scrap of paper in front of the fan. Where does the paper land?* The paper does not stay where you dropped it. The moving air carries it across the room. Rain does the same thing to litter outside. Litter is rubbish left where it does not belong. In this unit we find out where litter goes, and who it meets on the way. Then we learn how to care for the plants and small animals who live near us.
+**Intro.** *Drop a scrap of paper in front of the fan. Where does the paper land?* The paper does not stay where you dropped it. The moving air carries it across the room. Rain does the same thing to litter outside. Litter is rubbish left where it does not belong. In this lesson we find out where litter goes, and who it meets on the way. Then we learn how to care for the plants and small animals who live near us.
 
 ## Learning outcomes
 0. By the end I can say what our environment is: everything around us, living and not living.
@@ -506,10 +506,10 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 
 ## Spotted around us
 - Wrappers and bags piled up on a drain grill after rain, in almost any Indian city.
-- Green and blue bins for wet and dry waste, outside homes and shops in Bengaluru and Indore.
-- Clay pots of water for birds on balconies in Hyderabad and Ahmedabad in the hot months.
-- Cloth bags and banana-leaf packing at vegetable markets in Kerala and Tamil Nadu.
-- Sikkim, in the northeast, was one of the first states in India to ban plastic bags, in 1998.
+- Green and blue bins for wet and dry waste, outside homes and shops.
+- Clay pots of water for birds on balconies in the hot months.
+- Cloth bags and banana-leaf packing at vegetable markets.
+- A shop that gives out cloth or paper bags instead of plastic ones.
 
 ## Open questions
 - **Where does all the tiny plastic go when bags and wrappers break into small pieces?** Tiny bits of plastic have been found in rivers, seas, fish and even rain. Scientists are still finding out where they all end up, and what they do to living bodies.
@@ -544,11 +544,14 @@ Where Did the Wrapper Go? (sci.environment.L1): Topic-level song for Caring for 
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a small visitor, like a beetle or a moth, and find out their name before you carry them out.
-- [Guindy National Park]() · place · Chennai: A forest inside the city, home to blackbuck, spotted deer and many birds, and a good place to see why clean surroundings matter to wild animals.
-- [Sanjay Gandhi National Park]() · place · Mumbai: A big forest with lakes inside the city, where wild plants and animals live right next to a big city.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees and a lake in the middle of the city, cared for by gardeners for more than two hundred years.
+- Guindy National Park · place · Chennai: A forest inside the city, home to blackbuck, spotted deer and many birds, and a good place to see why clean surroundings matter to wild animals.
+- Sanjay Gandhi National Park · place · Mumbai: A big forest with lakes inside the city, where wild plants and animals live right next to a big city.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees and a lake in the middle of the city, cared for by gardeners for more than two hundred years.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Beat the Fan: a bin that keeps its litter in. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Beat the Fan: a bin that keeps its litter in.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Kind Hands: moving a small visitor outside. About ₹5 to ₹20. Cut card from a cereal box. Used in a3. Get it before Kind Hands: moving a small visitor outside.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is our environment? → Everything around us: air, water, soil, plants, animals and people.
@@ -567,7 +570,7 @@ Where Did the Wrapper Go? (sci.environment.L1): Topic-level song for Caring for 
 - ideas/by_topic/caring-for-the-environment.md: the concept activities are about climate zones and the greenhouse effect, which fit higher levels. The SCI Card on Rachel Carson was used for how_we_found_out. Eunice Foote and Svante Arrhenius were not used at this level.
 - ideas/by_topic/waste.md: the 'Waste is not a waste' week was not used here; it fits the waste units.
 - Cambridge Stage 2, 1.5 'How can we care for our environment?': litter harms animals and plants; caring for habitats. Its litter-in-soil test is left for Level 2.
-- Ladder: sci.environment.caring.L3 uses a closed box of moong seedlings and the idea that Earth's water and air go round. This unit does not repeat it, and gives the idea that litter travels with wind and rain.
+- Ladder: sci.environment.caring.L3 uses a closed box of moong seedlings and the idea that Earth's water and air go round. This lesson does not repeat it, and gives the idea that litter travels with wind and rain.
 - Light, buoyant plastic litter is carried by runoff into storm drains, and blocked drains worsen urban flooding (widely reported for Indian cities during the monsoon).
 - Plastic bags are found in the rumen of stray cattle in Indian towns, causing impaction (many veterinary case reports from India).
 - Aedes mosquitoes, which spread dengue, lay eggs in small containers holding rainwater, such as discarded cups, caps and tyres.

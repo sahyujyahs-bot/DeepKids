@@ -1,9 +1,9 @@
 # Carbon: how one kind of atom builds sugar, fuel, plastic and living things
 `sci.chemistry.carbon-chemistry.L4`
 
-**Summary.** Heat a piece of sugar, bread or wax and it turns black. What is the black stuff? In this unit you will heat kitchen things to see which hold carbon, compare glucose, cornflour and cotton, and put carbon chains in order from cooking gas to candle wax.
+**Summary.** Heat a piece of sugar, bread or wax and it turns black. What is the black stuff? In this lesson you will heat kitchen things to see which hold carbon, compare glucose, cornflour and cotton, and put carbon chains in order from cooking gas to candle wax.
 
-**Intro.** *Sugar is white, and a cotton thread is white. Heat either one on a hot tawa and it turns black. Where does the black come from?* Many things go black when they get too hot: a forgotten dosa, a roti left on the flame, milk that boils dry. Salt never does. In this unit you find out what the black solid is and why only some things leave it. You heat eight kitchen things side by side. You build molecules on paper with atoms that make one, two or four bonds. You also test glucose, cornflour and cotton, which are three materials built from one and the same ring of atoms.
+**Intro.** *Sugar is white, and a cotton thread is white. Heat either one on a hot tawa and it turns black. Where does the black come from?* Many things go black when they get too hot: a forgotten dosa, a roti left on the flame, milk that boils dry. Salt never does. In this lesson you find out what the black solid is and why only some things leave it. You heat eight kitchen things side by side. You build molecules on paper with atoms that make one, two or four bonds. You also test glucose, cornflour and cotton, which are three materials built from one and the same ring of atoms.
 
 ## Learning outcomes
 0. I can say that carbon is an element, and that each carbon atom makes four bonds.
@@ -134,7 +134,7 @@ Every living being found so far is built on carbon. Scientists have asked whethe
   Against: Silicon chains break easily and form far fewer shapes. Even on the Earth, with all that silicon, life chose carbon. No silicon life has been found.
 
 ## Roots
-In this unit you found carbon inside sugar, cotton, paper, wood, fuel and plastic. Here we ask what it means that one kind of atom is the frame of so many things, including you.
+In this lesson you found carbon inside sugar, cotton, paper, wood, fuel and plastic. Here we ask what it means that one kind of atom is the frame of so many things, including you.
 
 **Deep truth.** In The Black Inside, sugar, atta, cotton thread and paper each left a black solid when heated. That black solid is mostly carbon. Each carbon atom makes four bonds, so carbon atoms join into long chains and rings. That is why one element can be the frame of food, cloth, fuel and every living body.  
 *Habit it breaks:* We treat food, cloth, fuel, plastic and living bodies as different kinds of matter. They share one frame, which is carbon atoms joined in chains and rings. What differs is the pattern of the joins.  
@@ -611,7 +611,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 13. (write) Burning petrol and breathing both put carbon dioxide into the air. Why is the carbon from petrol a bigger problem?  
    **Answer:** The carbon you breathe out was taken from the air by a plant a short time ago. So it only goes round. The carbon in petrol was buried for millions of years. Burning it adds carbon to the air that was not there before.. *Why:* A strong answer separates carbon that goes round quickly from carbon that was locked away for a very long time.
 14. (perspective) Could there be living things built on something other than carbon?  
-   **Answer:** Any view with a reason. A strong answer uses the facts about four bonds and strong chains. It may say that one example is too few to be sure.. *Why:* Nobody knows the answer. A strong answer uses the chemistry of this unit and admits what is not known.
+   **Answer:** Any view with a reason. A strong answer uses the facts about four bonds and strong chains. It may say that one example is too few to be sure.. *Why:* Nobody knows the answer. A strong answer uses the chemistry of this lesson and admits what is not known.
 15. (draw) Draw a ring of six carbon atoms. Add hydrogen atoms until every carbon atom has four bonds.  
    **Answer:** Six C atoms joined in a closed loop by six lines. Each carbon atom uses two bonds in the ring and holds 2 H atoms. That is 12 H atoms in all.. *Why:* A strong drawing gives every carbon atom exactly four lines. A ring has no ends, so no atom holds 3 hydrogen atoms.
 
@@ -717,13 +717,19 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - [Carbon (Royal Society of Chemistry periodic table)](https://www.rsc.org/periodic-table/element/6/carbon) · interactive: For the parent: the facts about the element, with its history and uses.
 - [Organic chemistry (Wikipedia)](https://en.wikipedia.org/wiki/Organic_chemistry) · interactive: For the parent: an overview, including the story of Wöhler and the life force.
 - [Carbon cycle (Wikipedia)](https://en.wikipedia.org/wiki/Carbon_cycle) · interactive: For the parent: the real journeys behind the game Carbon Trail, with how long carbon stays in each place.
-- [Keeladi Museum]() · place · Keeladi, near Madurai, Tamil Nadu: To see black-and-red bowls more than 2,000 years old. The story The Pot That Came Out Red is about such a bowl.
+- Keeladi Museum · place · Keeladi, near Madurai, Tamil Nadu: To see black-and-red bowls more than 2,000 years old. The story The Pot That Came Out Red is about such a bowl.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with galleries on materials and engines, where carbon-chain fuels are put to work.
 - [Birla Industrial and Technological Museum](https://bitm.gov.in/) · place · Kolkata: A science museum with a model coal mine that visitors can walk through.
 
 ## Things to buy
 - [Glucose powder, a small plain pack](https://www.amazon.in/s?k=glucose+powder) (material): For One Ring, Three Materials. Any chemist or grocery shop sells it. Table sugar works in its place, so buy it only if you want to. Used in e2. 
 - [Aluminium kitchen foil, one small roll](https://www.amazon.in/s?k=aluminium+kitchen+foil) (material): For The Black Inside, Foil Packet Charcoal and The Drawing Stick. Most kitchens already have it. Used in e1, e3, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Drawing Stick: make charcoal that draws dark and does not snap. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before The Drawing Stick: make charcoal that draws dark and does not snap.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Drawing Stick: make charcoal that draws dark and does not snap. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before The Drawing Stick: make charcoal that draws dark and does not snap.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in One Ring, Three Materials: glucose, cornflour and cotton. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before One Ring, Three Materials: glucose, cornflour and cotton.
+- [Baking soda](https://www.amazon.in/s?k=baking+soda) (material): Used in The Black Inside: which kitchen things turn black when heated?. About ₹20 to ₹40. Check the kitchen first. Used in e1. Get it before The Black Inside: which kitchen things turn black when heated?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Paper Chain Starch: join eight glucose rings and count the water. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Paper Chain Starch: join eight glucose rings and count the water.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many bonds does a carbon atom make? → A carbon atom makes four bonds.
@@ -741,7 +747,7 @@ Hold On Tight (sci.chemistry.L4): Topic-level song
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources
-- Founder's notebook, Chemistry list, item 47 (Organic Chemistry) and item 50 (alkanes, alkenes, alkynes, aromatics). This unit takes the first step: carbon's four bonds, chains, branches and rings, and the chain-length ladder of the alkanes.
+- Founder's notebook, Chemistry list, item 47 (Organic Chemistry) and item 50 (alkanes, alkenes, alkynes, aromatics). This lesson takes the first step: carbon's four bonds, chains, branches and rings, and the chain-length ladder of the alkanes.
 - Chemistry list items 49, 51, 52 and 83 to 88 (functional groups, alcohols and acids, reaction mechanisms, named reactions, handedness of molecules) are left for sci.chemistry.carbon-chemistry.L5, as the curriculum says. Item 79 (metals bonded to carbon) is not used at this level.
 - No Class 1 to 3 unit exists for this subtopic. These units were read so that nothing repeats: sci.chemistry.bonds.L3 (Wax or Sugar, Build Molecules with Chana and Toothpicks, Pencil Sheets), sci.chemistry.elements.L2 (the pencil and diamond story), sci.chemistry.polymers.L3 and L4, sci.changes.fire.L3 and L4 (soot and water from a candle), sci.changes.chemical-reactions.L4, sci.food.nutrients.L4 (Burning Nuts) and sci.plants.photosynthesis.L4 (lamp black). The experiments, games and story here are new.
 - Wöhler F. (1828). Ueber künstliche Bildung des Harnstoffs. Annalen der Physik und Chemie 88: 253-256.

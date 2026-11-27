@@ -1,7 +1,7 @@
 # Fractals and spirals: how rough a coast is, and how leaves turn round a plant stem
 `sci.patterns-symmetry.fractals-and-spirals.L4`
 
-**Summary.** How long is a crinkly coast, and what number says how rough it is? In this unit you will count the squared-paper boxes a drawn coast touches as the boxes get smaller, grow a Koch curve, and measure how far each leaf turns round a real plant stem.
+**Summary.** How long is a crinkly coast, and what number says how rough it is? In this lesson you will count the squared-paper boxes a drawn coast touches as the boxes get smaller, grow a Koch curve, and measure how far each leaf turns round a real plant stem.
 
 **Intro.** *Draw a straight line across a squared page. Now draw a crinkly coast across it. Count the little squares each one touches. Then use squares half as wide and count again. The straight line touches twice as many squares. A page that is coloured in completely would need four times as many squares. So how many will the crinkly coast need?* In Class 3 you measured a coast with long and short strips, and you counted the spirals on a pineapple. Now you go one step deeper. You will give a rough edge a number, by counting boxes. You will draw a line that gets longer and longer inside the same small space. You will tag the leaves on a real stem and find how far each leaf turns from the last. At the end you find out what spiral shapes in shells, storms and galaxies have in common, and what they do not.
 
@@ -17,7 +17,7 @@
 ## Terms
 - **Scale**: The size at which you look at or measure something. Changing the scale means making the measuring step or the picture bigger or smaller. *e.g.* A map of India on a page and a map of Chennai on a page are drawn at different scales.
 - **Dimension**: A number that tells how fast a shape's size grows when you make the shape twice as big in every direction. A line has dimension 1, a flat page has dimension 2 and a solid block has dimension 3. A rough edge can have a dimension in between. *e.g.* A straight string has dimension 1. A crumpled ball of foil is somewhere between 2 and 3.
-- **Roughness number**: Another name used in this unit for the dimension of a rough edge, such as a coast. A straight line has roughness number 1 and a very crinkly coast has a roughness number above 1, but always less than 2. *e.g.* The west coast of Britain has a roughness number of about 1.25.
+- **Roughness number**: Another name used in this lesson for the dimension of a rough edge, such as a coast. A straight line has roughness number 1 and a very crinkly coast has a roughness number above 1, but always less than 2. *e.g.* The west coast of Britain has a roughness number of about 1.25.
 - **Box counting**: A way to measure roughness. You cover a drawing with boxes, count the boxes that touch the line, and then repeat with smaller boxes. *e.g.* A straight line touches 5 boxes of 4 centimetres and 10 boxes of 2 centimetres. The count doubles when the boxes halve.
 - **Iteration**: Doing the same step again and again, each time on the result of the last. Making a fractal is often iteration of one rule. *e.g.* Folding a paper strip in half, then in half again, then again, is iteration of one fold.
 - **Koch curve**: A line made by one rule repeated: take every straight piece, cut out its middle third and replace it with two sides of a tent. The line gets longer each time and never stops growing. *e.g.* A 27 centimetre line becomes 36 centimetres after one round and 48 after two.
@@ -567,7 +567,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    Options: It is rougher than a straight line, and between a line and a page / It is a straight line / It is a filled page / It has no roughness  
    **Answer:** It is rougher than a straight line, and between a line and a page. *Why:* A straight line gives 2 times and a filled page 4 times. A ratio of 3 is in between, so the coast is rougher than a line but does not fill the page.
 6. (match) Match each word to what it means.  
-   **Answer:** Archimedean spiral → Equal gaps between the turns; Logarithmic spiral → Each turn a fixed fraction wider; Iteration → Repeating one step on its own result; Dimension → How size grows when a shape is doubled; Cluster → A growing group of things stuck together. *Why:* These five words are the vocabulary of this unit. A strong answer could give an example of each: a rope coil, a shell, folding a strip again and again, a line, and the shape from the Stick and Wander game.
+   **Answer:** Archimedean spiral → Equal gaps between the turns; Logarithmic spiral → Each turn a fixed fraction wider; Iteration → Repeating one step on its own result; Dimension → How size grows when a shape is doubled; Cluster → A growing group of things stuck together. *Why:* These five words are the vocabulary of this lesson. A strong answer could give an example of each: a rope coil, a shell, folding a strip again and again, a line, and the shape from the Stick and Wander game.
 7. (sort) Sort each spiral by how its coils grow.  
    **Answer:** a coiled rope → Equal gaps (adds the same amount); a snail shell → Growing gaps (multiplies by a fraction); an unlit mosquito coil → Equal gaps (adds the same amount); a nautilus shell → Growing gaps (multiplies by a fraction); a murukku made with a press → Equal gaps (adds the same amount); a long pointed shell → Growing gaps (multiplies by a fraction). *Why:* A coil that is pressed or laid down evenly has equal gaps. A shell adds to her opening, a bit wider each time, so the gaps grow.
 8. (order) Put the steps for making one round of a Koch curve in order.  
@@ -729,9 +729,9 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - A cauliflower or broccoli in the kitchen, where each floret looks like a small copy of the whole.
 - The branching of a banyan, a peepal or a neem tree against the sky, with branches splitting into twigs.
 - A potted hibiscus, chilli or curry plant on the balcony, with leaves climbing the stem round and round.
-- The spiral of a snail shell or shankha at a temple, or a shell stall on a beach such as Rameswaram or Marina.
-- A satellite picture of a cyclone over the Bay of Bengal in the news, with arms of cloud winding in.
-- The branching rivers of a delta, such as the Ganga delta in Bengal, in an atlas or on a map.
+- The spiral of a snail shell or shankha at a temple, or a shell stall on a beach.
+- A satellite picture of a cyclone over the sea in the news, with arms of cloud winding in.
+- The branching rivers of a delta, in an atlas or on a map.
 - The branching of lightning, or the veins of a leaf held up to the window.
 - A coil of coir rope, a mosquito coil or a murukku with equal gaps between the turns.
 
@@ -790,6 +790,10 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 - [A squared notebook with 1 centimetre squares](https://www.amazon.in/s?k=graph+paper+notebook+1+cm+squares) (material): For the box counting test, the Chaos Game and the Water for Every Pot challenge. An A4 sheet of squared paper also works. Used in e1, a4, c1. 
 - [A geometry box with a set square, a protractor and a ruler](https://www.amazon.in/s?k=geometry+box+set+square+protractor) (tool): For drawing the tents of the Koch curve and the triangles of the wall hanging. Most children already have one. Used in a1, p1. 
 - [A pad of small sticky notes](https://www.amazon.in/s?k=small+sticky+notes) (material): To tag the leaves of a plant in the Leaf Staircase test. Small squares of paper and a little tape also work. Used in e2. 
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in Grow a Koch Curve: a 27 centimetre line that keeps getting longer. About ₹30 to ₹150. A phone compass app also works. Used in a1. Get it before Grow a Koch Curve: a 27 centimetre line that keeps getting longer.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Sierpinski Wall Hanging: 27 triangles in three days. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Sierpinski Wall Hanging: 27 triangles in three days.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in How Rough Is Your Coast? Count the boxes it touches, Water for Every Pot: one pipe to sixteen plants. About ₹10 to ₹30. Draw squares on plain paper. Used in e1, c1. Get it before How Rough Is Your Coast? Count the boxes it touches.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many times as big is a square when its sides are doubled? → 4 times.
@@ -810,7 +814,7 @@ Pattern After Pattern (sci.patterns-symmetry.L4): Topic-level song
 ## Sources
 - ideas/by_topic/patterns-and-symmetry.md: Crystalline Structures row (grow salt or sugar crystals, branching frost, order emerging from chaos) and science journal pages p38 (Mandalas: count the shapes, fractals) and p39 (crystal growing, fractals), used for the random-walker cluster game and the branching ideas
 - ideas/by_topic/order-chaos-and-chance.md: Grade 3 row naming fractals among patterns made by simple rules, used for the chaos game and the dragon curve
-- The Class 3 fractals and spirals unit, which this unit builds on: it measured a coast with strips, counted pineapple spirals and drew a Fibonacci spiral. Level 4 gives roughness a number, grows curves by rule and measures leaf turns. Its experiments and story are not reused
+- The Class 3 fractals and spirals unit, which this lesson builds on: it measured a coast with strips, counted pineapple spirals and drew a Fibonacci spiral. Level 4 gives roughness a number, grows curves by rule and measures leaf turns. Its experiments and story are not reused
 - Mandelbrot, B., 'How Long Is the Coast of Britain?', Science 156, 1967 (using Richardson's data; a dimension of about 1.25 for the west coast)
 - Mandelbrot, B., The Fractal Geometry of Nature, 1982
 - Koch, H. von, 'Sur une courbe continue sans tangente', Arkiv for Matematik 1, 1904

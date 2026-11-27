@@ -1,9 +1,9 @@
 # Birds: how beaks and feet fit their food, and why birds are dinosaurs
 `sci.animals.birds.L4`
 
-**Summary.** A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this unit you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.
+**Summary.** A beak can crack a seed or sip nectar, and scientists say birds are dinosaurs. What shows that? In this lesson you will watch a bird's beak and feet, test where a beak bites hardest with a lever, match clue cards, and find the dinosaur in a bird.
 
-**Intro.** *A sparrow's beak is short and thick. A godwit's beak is as long as a pencil. Why can the sparrow crack a hard seed when the godwit cannot?* A beak has two halves joined at a hinge, like a pair of scissors. In this unit you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.
+**Intro.** *A sparrow's beak is short and thick. A godwit's beak is as long as a pencil. Why can the sparrow crack a hard seed when the godwit cannot?* A beak has two halves joined at a hinge, like a pair of scissors. In this lesson you cut stacks of newspaper with scissors, near the hinge and at the tips. You find out which part cuts hardest and which part reaches farthest. That explains why birds with different foods have different beaks. Then you read feet, nests and migration in the same way. Last, you look for a dinosaur's features on a bird at your window.
 
 ## Learning outcomes
 0. I can look at a beak and say what food that beak fits, and why.
@@ -144,7 +144,7 @@ The asteroid that struck 66 million years ago set off fires and filled the sky w
   Against: Skin prints from Tyrannosaurus show small scales on several parts of the body. A full-grown Tyrannosaurus may have had few feathers or none.
 
 ## Roots
-In this unit you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.
+In this lesson you tested a model beak and looked for a dinosaur's features on a bird. Here we ask what it means that a kind of animal can change, and still be the same family.
 
 **Deep truth.** In Find the Dinosaur in a Bird, you saw scaly feet, three front toes and a walk on tiptoe. Fossils show small meat-eating dinosaurs with the same feet, and with feathers and wishbones too. Birds are the one branch of the dinosaur family that lived through the asteroid strike. So dinosaurs are still alive, and one may be sitting on your window grill now.  
 *Habit it breaks:* We say 'the dinosaurs died out' and treat birds as a separate kind of animal. The family tree puts birds inside the dinosaurs. So that sentence is true only of the other dinosaurs.  
@@ -712,6 +712,13 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 ## Things to buy
 - [Birds of the Indian Subcontinent, a field guide by Richard Grimmett, Carol Inskipp and Tim Inskipp](https://www.amazon.in/s?k=Birds+of+the+Indian+Subcontinent+Grimmett) (book): Clear paintings of every Indian bird, so a child can compare beaks and feet. A library copy or the free Merlin app does the same job. Used in a1, g1. After Beak and Feet Watch, find your bird in the guide. Then find one bird with a very different beak.
 - [The Beak of the Finch, a book by Jonathan Weiner (1994)](https://www.amazon.in/s?k=The+Beak+of+the+Finch+Jonathan+Weiner) (book): For the parent or an older child: the story of the Grants' finch study, told for general readers. Used in e1. After the Beak Lever Test, a parent can read aloud a few pages about the drought of 1977.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Beak Lever Test: where does a beak bite hardest?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Beak Lever Test: where does a beak bite hardest?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Stick a Nest to a Wall: build with pellets like a swallow. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Stick a Nest to a Wall: build with pellets like a swallow.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Frozen Mud Test: can a probing beak find food in frozen ground?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e2. Get it before The Frozen Mud Test: can a probing beak find food in frozen ground?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Frozen Mud Test: can a probing beak find food in frozen ground?, Stick a Nest to a Wall: build with pellets like a swallow. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, c1. Get it before The Frozen Mud Test: can a probing beak find food in frozen ground?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Stick a Nest to a Wall: build with pellets like a swallow. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before Stick a Nest to a Wall: build with pellets like a swallow.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Beak Lever Test: where does a beak bite hardest?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before The Beak Lever Test: where does a beak bite hardest?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where along a beak is the bite strongest? → Near the hinge, at the back of the mouth.
@@ -730,10 +737,10 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 
 ## Sources
 - Founder's notebook for The world of birds: the evolution picture book, whose timeline has dinosaurs from about 230 million years ago, birds from dinosaurs about 150 million years ago, and the dinosaur extinction 66 million years ago. Its introduction says that evolution is a branching tree in which every kind keeps changing. That idea shapes the family tree project and the section on finch beaks.
-- The Combined Class 4 lesson sci-C4-the-world-of-birds was read. From it this unit takes natural selection of beaks (the Grants' finches), birds as living dinosaurs, feathers before flight and migration. Its story, its drought game and its feather, wing and egg activities are not reused. Flight, feathers and eggs are left to sci.forces.flight and sci.animals.animal-life-cycles.
-- The Class 1 unit sci.animals.birds.L1 was read so that nothing repeats. It has the bean count of bird calls, the feather zip, the sunbird straw, the bird café, the window bird book, the tailorbird cradle and the bulbul story. This unit's experiments, games, activities and story are new.
+- The Combined Class 4 lesson sci-C4-the-world-of-birds was read. From it this lesson takes natural selection of beaks (the Grants' finches), birds as living dinosaurs, feathers before flight and migration. Its story, its drought game and its feather, wing and egg activities are not reused. Flight, feathers and eggs are left to sci.forces.flight and sci.animals.animal-life-cycles.
+- The Class 1 unit sci.animals.birds.L1 was read so that nothing repeats. It has the bean count of bird calls, the feather zip, the sunbird straw, the bird café, the window bird book, the tailorbird cradle and the bulbul story. This lesson's experiments, games, activities and story are new.
 - NCERT Class 4, chapter 3, Nature Trail: guessing a bird's food from the beak and claws, and keeping a bird diary. Beak and Feet Watch and the clue card game cover both.
-- Other units were checked for overlap. Mouth Tools Buffet is in sci.animals.animal-bodies.L3 and The Mudflat Buffet is in sci.animal-behaviour.migration.L4, so this unit tests the lever rule of a beak instead of matching tools to foods. Footprint Detective is in sci.evolution.fossils-and-extinction.L2, so footprints are not tested here.
+- Other units were checked for overlap. Mouth Tools Buffet is in sci.animals.animal-bodies.L3 and The Mudflat Buffet is in sci.animal-behaviour.migration.L4, so this lesson tests the lever rule of a beak instead of matching tools to foods. Footprint Detective is in sci.evolution.fossils-and-extinction.L2, so footprints are not tested here.
 - Herrel A., Podos J., Huber S.K., Hendry A.P. (2005). Bite performance and morphology in a population of Darwin's finches: implications for the evolution of beak shape. Functional Ecology 19: 43-48.
 - Boag P.T., Grant P.R. (1981). Intense natural selection in a population of Darwin's finches (Geospizinae) in the Galápagos. Science 214: 82-85.
 - Grant P.R., Grant B.R. (2002). Unpredictable evolution in a 30-year study of Darwin's finches. Science 296: 707-711.

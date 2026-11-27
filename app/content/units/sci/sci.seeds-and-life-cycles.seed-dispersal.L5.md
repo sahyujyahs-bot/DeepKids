@@ -1,9 +1,9 @@
 # How seeds travel: wings and wind, water, animals and people, and why people save seeds
 `sci.seeds-and-life-cycles.seed-dispersal.L5`
 
-**Summary.** A tree cannot walk, yet young trees of its kind appear across a valley and on far islands. How do its seeds get there? In this unit you will test paper winged seeds in the wind of a fan, see where 30 drops of one spinner land, and trace where ten foods came from.
+**Summary.** A tree cannot walk, yet young trees of its kind appear across a valley and on far islands. How do its seeds get there? In this lesson you will test paper winged seeds in the wind of a fan, see where 30 drops of one spinner land, and trace where ten foods came from.
 
-**Intro.** *A plate of idli and sambar looks as South Indian as food can be. But the tomato and the chilli in the sambar came from the Americas, about 500 years ago. The tamarind came from Africa, long before that. The onion came from Central Asia. None of these plants can walk. So how did their seeds reach your kitchen?* Every seed has to leave the parent plant somehow. Some seeds have wings. Some float. Some are swallowed, and some are thrown. Some ride with people. In this unit you first read the shapes of seeds from your kitchen, and guess how each one travels. Then you build three paper fliers and test them in front of a fan. The result tells you what a wing really does. After that you follow the longest journeys of all, and meet the people who save seeds.
+**Intro.** *A plate of idli and sambar looks as South Indian as food can be. But the tomato and the chilli in the sambar came from the Americas, about 500 years ago. The tamarind came from Africa, long before that. The onion came from Central Asia. None of these plants can walk. So how did their seeds reach your kitchen?* Every seed has to leave the parent plant somehow. Some seeds have wings. Some float. Some are swallowed, and some are thrown. Some ride with people. In this lesson you first read the shapes of seeds from your kitchen, and guess how each one travels. Then you build three paper fliers and test them in front of a fan. The result tells you what a wing really does. After that you follow the longest journeys of all, and meet the people who save seeds.
 
 ## Learning outcomes
 0. I can give two reasons why a seed often does better away from the parent plant.
@@ -170,7 +170,7 @@ A plant has some control over dispersal. Seeds do not all fall as soon as they a
   Against: It is very hard to test what an animal who no longer lives used to eat. Some of these trees are also dispersed by water, by rodents or by people. Many scientists accept the idea for a few trees and doubt it for others.
 
 ## Roots
-In this unit you tested paper fliers in the wind of a fan, and followed seeds across seas and kitchens. Here we ask what those journeys show about plants, about the world and about us.
+In this lesson you tested paper fliers in the wind of a fan, and followed seeds across seas and kitchens. Here we ask what those journeys show about plants, about the world and about us.
 
 **Deep truth.** In the Fan Lane Test, the packed strip and the spinner were the same paper with the same clip. The fan blew equally on both. The spinner landed far away, because the wings gave the moving air more to push on and more time to push. So a winged seed does not fly. The wing only slows the fall, and the wind does all the carrying.  
 *Habit it breaks:* We say that seeds fly and that plants spread, as if they went by their own power. We think that to travel, a being must move themself. A plant travels by being ready for something else that is already moving.  
@@ -872,16 +872,20 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 ## Links
 - [Svalbard Global Seed Vault](https://www.seedvault.no) · interactive: See photographs of the vault inside the frozen mountain, and look up which countries have sent seeds.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: For the parent and an older child: read about the long study of hornbills and the trees they plant in Arunachal Pradesh.
-- [Flowers of India](https://www.flowersofindia.net) · interactive: Look up tridax, calotropis, balsam and other plants from this unit, with clear photographs of the fruits.
+- [Flowers of India](https://www.flowersofindia.net) · interactive: Look up tridax, calotropis, balsam and other plants from this lesson, with clear photographs of the fruits.
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: Search the site for the Millennium Seed Bank, which stores the seeds of wild plants from all over the world.
-- [Pichavaram Mangrove Forest]() · place · Near Chidambaram, Tamil Nadu: Take a boat among the mangroves and look for the long green seedlings hanging from the branches and floating in the channels.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Walk under the old silk cotton, mahogany and rain trees, and collect fallen pods and winged seeds from the paths to test at home.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: See the Great Banyan, one tree that covers more ground than a football field. It began as a single tiny seed.
+- Pichavaram Mangrove Forest · place · Near Chidambaram, Tamil Nadu: Take a boat among the mangroves and look for the long green seedlings hanging from the branches and floating in the channels.
+- Lalbagh Botanical Garden · place · Bengaluru: Walk under the old silk cotton, mahogany and rain trees, and collect fallen pods and winged seeds from the paths to test at home.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: See the Great Banyan, one tree that covers more ground than a football field. It began as a single tiny seed.
 
 ## Things to buy
 - [A measuring tape, 3 metres or longer](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): For measuring how far each paper flier lands from the start mark. A ruler and a long piece of string do the same job, so the tape is helpful but not needed. Used in e1, e2. 
 - [A hand lens (magnifying glass), about 5 times or 10 times](https://www.amazon.in/s?k=magnifying+glass+10x) (tool): For seeing the tiny hooks and barbs on seeds from the Sock Walk. A phone camera on zoom does the same job. Used in a3. 
 - [The Triumph of Seeds, by Thor Hanson (2015)](https://www.amazon.in/s?k=The+Triumph+of+Seeds+Thor+Hanson) (book): A clear and lively book for the parent on how seeds feed, travel, wait and defend themselves. Used in a4, p1. Read the chapters on how seeds travel and on coffee and chilli, and retell one story to your child during Where Did My Dinner Come From? or Seed Keeper.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?, The Slow Fall Challenge: design a paper seed that takes the longest to fall 2 metres. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, c1. Get it before The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?, The Seed Shadow Test: where do 30 drops of the same spinner land?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2. Get it before The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Read the Shape: how would these kitchen seeds travel with no person to carry them?. About ₹20 to ₹50. Torn clean cloth works. Used in a1. Get it before Read the Shape: how would these kitchen seeds travel with no person to carry them?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does seed dispersal mean? → The movement of seeds away from the parent plant.

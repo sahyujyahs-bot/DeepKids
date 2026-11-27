@@ -1,9 +1,9 @@
 # Decomposers: how worms, moulds and bacteria turn dead things into soil
 `sci.ecology.cycles-and-decomposers.L3`
 
-**Summary.** Dead leaves and old food slowly turn into soil. Who does the work, and what does mould need to grow? In this unit you will test damp and dry chapatis, look at mould up close through a closed box, and see if salt keeps it away.
+**Summary.** Dead leaves and old food slowly turn into soil. Who does the work, and what does mould need to grow? In this lesson you will test damp and dry chapatis, look at mould up close through a closed box, and see if salt keeps it away.
 
-**Intro.** *Look in your fruit basket or vegetable tray. Is there an onion with a black spot, a soft tomato, or a lemon with a green patch? Don't touch the patch. Just look. Something is eating that food. Who is it, and where did they come from?* Rotting is not food falling apart by itself. Living things called decomposers are eating it. On a soft tomato they are mostly moulds and bacteria. In the soil, earthworms, fungi and bacteria do the same work with fallen leaves and dead animals. In this unit you find out who the decomposers are, what they need, and how their meals become new soil.
+**Intro.** *Look in your fruit basket or vegetable tray. Is there an onion with a black spot, a soft tomato, or a lemon with a green patch? Don't touch the patch. Just look. Something is eating that food. Who is it, and where did they come from?* Rotting is not food falling apart by itself. Living things called decomposers are eating it. On a soft tomato they are mostly moulds and bacteria. In the soil, earthworms, fungi and bacteria do the same work with fallen leaves and dead animals. In this lesson you find out who the decomposers are, what they need, and how their meals become new soil.
 
 ## Learning outcomes
 0. I can say what a decomposer is, and name earthworms, fungi such as moulds and mushrooms, and bacteria as decomposers.
@@ -38,24 +38,32 @@ The main decomposers are bacteria and fungi. Bacteria are too small to see. Fung
 - e.g. Mushrooms growing on a fallen log after the monsoon rain.
 - e.g. Termites eating dead wood, and sometimes the wooden door frame of a house.
 - e.g. Earthworms pulling dead leaves into the soil.
+- **Old belief:** For long, many people thought that rot and maggots arose from dead things by themselves.
+- **Louis Pasteur:** In the 1860s he showed with careful flasks that rot starts only when living microbes reach the food. Rot is the work of living beings.
 ### A mould is a fungus, and grows from spores · *defined*
 **Definition:** A mould is a fungus who grows as threads called hyphae. Moulds make spores, tiny seed-like parts that float in the air. A spore that lands on damp food can grow into a new mould.
 
 Spores float in the air of every room, all the time. You cannot see them, because each one is far smaller than a grain of salt. When a spore lands on something damp that the mould can eat, the spore grows threads. In a few days there are so many threads that you see a fuzzy patch. Then the mould makes new spores of their own. These often give the patch its colour: black, green, blue or yellow.
 - e.g. Black bread mould first grows white fuzz, then tiny black dots. Each dot is a little round case full of spores.
 - e.g. The blue-green powder on an old orange is millions of spores of a mould called Penicillium.
+- **Old classifications:** Put fungi with the plants, because they stay in one place.
+- **Modern biology:** Fungi form their own kingdom, and are closer relatives of animals than of plants.
 ### How a fungus eats: digesting outside the body · *defined*
 **Definition:** A fungus has no mouth and no stomach. Their hyphae give out chemicals called enzymes onto the food. The enzymes break the food down into tiny pieces that dissolve in water. Then the hyphae soak up that watery food.
 
 You digest food inside your stomach. A fungus digests food outside their body, wherever their threads touch it. This is why a mouldy tomato goes soft and runny: the mould has broken the tomato down. It is also why a fungus needs water. Without water, the digested food cannot dissolve, and the threads cannot soak it up.
 - e.g. A mouldy tomato turns soft and leaks juice where the mould has been feeding.
 - e.g. A dry rusk on the shelf stays hard and clean for weeks.
+- **Old view:** Fungi were treated as plants with no green, because they grow in one place and have cell walls.
+- **Robert Whittaker:** In 1969 he placed fungi in their own kingdom. Later DNA studies showed fungi are closer cousins to animals than to plants. Both fungi and animals eat food made by others.
 ### What decomposers need: food, water, warmth and air · *defined*
 **Definition:** Most decomposers need food, water, warmth and air to grow and feed quickly. Take away any one of these, and rotting slows down or stops.
 
 In the chapati test, the damp piece grew mould in a few days. The dry piece stayed clean, though the same air had touched it. The damp piece in the fridge grew mould much more slowly, because cold slows decomposers down. It does not kill them. Most decomposers also need air, so a tight, airless heap rots slowly. Sealing alone does not keep food safe, because some bacteria need no air. Tinned food keeps because it is heated first to kill the decomposers, and then sealed.
 - e.g. Leaves on the ground stay crisp through a dry summer and rot within weeks once the monsoon comes.
 - e.g. A cut onion in the fridge keeps for days, and on a warm kitchen shelf it goes bad sooner.
+- **The usual view:** Decomposers need warmth, water, food and air. Without them, rot stops.
+- **Bog researchers:** Peat bogs have almost no oxygen and are acid, so rot is very slow. The Tollund Man, about 2,300 years old, was found in a Danish bog with his skin still preserved. Some microbes rot food without air, so air is not always needed.
 ### How people keep food from rotting · *defined*
 **Definition:** People preserve food by taking away something decomposers need. Drying takes away water. Salt and sugar pull water out of food and hold it, so decomposers cannot use it. Cooling slows them down. Boiling kills many of them.
 
@@ -63,28 +71,38 @@ Indian kitchens have used these ideas for thousands of years. Vadam, appalam and
 - e.g. Sun-dried vadam keep for months in a dry tin.
 - e.g. A lemon pickle in salt lasts for a year or more.
 - e.g. Boiled milk keeps for longer than milk that has not been boiled.
+- **Indian households:** Dried grains, salted fish, pickled mangoes and made ghee. Each way takes away water or changes the food so microbes cannot grow.
+- **Nicolas Appert:** A French confectioner who, around 1809, found that food heated in sealed jars stayed fresh. It was one of the first steps to canning, many years before microbes were known.
 ### How earthworms help to make soil · *defined*
 **Definition:** Earthworms swallow soil along with bits of dead leaves. Inside their body, a part called the gizzard grinds the food with tiny grains of sand. What comes out at the back end, the worm casts, is fine, crumbly soil rich in nutrients.
 
 An earthworm has no teeth, no legs and no eyes, and they dry out quickly. Their body is built for life in damp soil. They breathe through their wet skin, so they must stay damp. They feel light and vibration with their skin, so they stay underground in the day. At night or after rain they come up and pull dead leaves down into their burrows. Their burrows let air and rainwater into the soil, and their casts feed plants.
 - e.g. After rain, small curly heaps of worm casts appear on lawns and in flower beds.
 - e.g. Farmers across India use vermicompost, compost made by earthworms.
+- **Aristotle:** Called earthworms the intestines of the earth, a view that they work the soil.
+- **Charles Darwin:** Spent decades on worms. His last book, in 1881, measured that worms bring up and turn over tons of soil per acre every year. Many farmers had thought worms were pests.
 ### Nature's recycling: from a dead leaf to a new plant · *defined*
 **Definition:** When decomposers feed, some of the dead thing becomes their own bodies. Some is breathed out into the air as carbon dioxide gas. The rest is left in the soil as nutrients and dark, crumbly humus. Plants take in the nutrients through their roots and the carbon dioxide through their leaves.
 
 Nothing is wasted. A fallen badam leaf is chewed by a millipede, eaten by fungi and bacteria, and pulled underground by a worm. In a few months the leaf is gone. What it was made of is now in the soil, in the air and in the bodies of the decomposers. Next season, the badam tree's roots take some of those nutrients back in and grow new leaves.
 - e.g. Forests are never buried in their own dead leaves, because decomposers keep eating them.
 - e.g. Compost made from vegetable peels helps a balcony tomato plant grow.
+- **The Taittiriya Upanishad:** An old Indian text says that beings are born from food and return to the earth to become food. It sees life as one turning circle.
+- **Ecologists:** Trace the same cycle in atoms of carbon, nitrogen and others that pass from soil to plants to animals and back through decomposers. They also find that some leave the cycle for long times, as coal or limestone.
 ### Decomposers sense and choose · *defined*
 **Definition:** Decomposers sense their food and act on what they sense. Fungus threads sense food and grow towards the food. Earthworms choose which leaves to pull into their burrows.
 
 A fungus spreads their threads in the directions where they find food and water, and stops growing where there is none. Charles Darwin watched earthworms pull leaves into their burrows. They usually grabbed a leaf by the narrow tip, the end that slides in most easily. Some scientists say the fungus and the worm do these things automatically, without choosing. Either way, decomposers do not just wait for food to come to them. They find where their next meal is.
 - e.g. Mould threads on a chapati spread out over the food, not onto the dry steel of the box.
 - e.g. Earthworms pull some kinds of leaves into their burrows more often than others.
+- **Many biologists:** These responses are automatic chemistry in the body.
+- **Charles Darwin (1881):** Watched earthworms choose leaves, shape their burrows and plug holes, and said they act with something like intelligence. Whether to call it choice is still argued.
 ### How long things take to decompose · *idea*
 Soft, wet things like a ripe papaya decompose in days. Dry, tough things like twigs, coconut shells and wood take months or years. Scientists understand most of the reasons: water, warmth, how tough the material is, and which decomposers live nearby. But exactly how fast a leaf rots in one place is hard to predict. So many decomposers work together that scientists cannot calculate it. They have to measure it.
 - e.g. A papaya peel in a compost pot is gone in about a week or two in warm weather.
 - e.g. A coconut shell can stay in the soil for years.
+- **Label and brochure estimates:** Often give a single number, such as hundreds of years for a plastic bottle.
+- **Scientists measuring in soil, sea and landfills:** Find the time depends on warmth, wetness, air and living beings, and can vary hugely. Many estimates are guesses.
 
 ## Mostly agreed
 - Decomposers, mainly fungi and bacteria, break down dead plants and animals. Earthworms, millipedes and termites help by chewing. *How we know:* Scientists have watched decomposers at work under microscopes and in the soil. Dead leaves sealed away from them hardly change.
@@ -610,7 +628,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
    **Answer:** A fungus is made of thin threads with no mouth, so they cannot swallow food. *Why:* Hyphae are thinner than a hair. They cannot swallow pieces of food, so they digest food where they touch it and soak it up.
 14. (truefalse) When a dead animal decomposes, the atoms of their body (the tiny particles the body is made of) are destroyed.  
    **Answer:** False. *Why:* False. The atoms are not destroyed. They go into the decomposers, the air and the soil, and are used again.
-15. (write) Ask a question about decomposers that this unit did not answer. How could you test it at home?  
+15. (write) Ask a question about decomposers that this lesson did not answer. How could you test it at home?  
    **Answer:** Any honest question with a test. For example: does mould grow faster on rice or on chapati? Put a damp spoonful of each in two boxes on the same shelf and watch.. *Why:* Good scientists finish one test with a new question.
 
 ## Videos
@@ -715,13 +733,17 @@ Everybody Eats (sci.ecology.L3): Topic-level song for Living in harmony L3
 ## Links
 - [Darwin Online: The Formation of Vegetable Mould, through the Action of Worms](https://darwin-online.org.uk/) · interactive: For the parent. Darwin's whole worm book of 1881 is free to read here. Search for 'worms'. The first chapter, on how worms behave, is easy to follow.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a mushroom or mould and people around the world help you name them. Never touch or eat wild mushrooms.
-- [Guindy National Park]() · place · Chennai: A forest in the middle of the city. Look at the leaf litter under the trees, the fungi on fallen logs, and termite mounds.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, fallen leaves and logs. After the rains, look for mushrooms.
+- Guindy National Park · place · Chennai: A forest in the middle of the city. Look at the leaf litter under the trees, the fungi on fallen logs, and termite mounds.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, fallen leaves and logs. After the rains, look for mushrooms.
 
 ## Things to buy
 - [Small clear plastic boxes with lids (5)](https://www.amazon.in/s?k=small+clear+plastic+containers+with+lid) (material): You can watch the mould grow without opening the box. Clean jam jars or zip bags work just as well, so check the kitchen first. Used in e1, e2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the threads and spore cases of mould, and to look at worm casts. Used in a1, a2, a5. 
 - [A packet of balloons](https://www.amazon.in/s?k=balloons) (material): For the Balloon Bottle test. Any balloons that fit over a bottle neck will do. Used in e3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Bottle Compost: watch peels become soil. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Bottle Compost: watch peels become soil.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Balcony Compost Pot That Doesn't Smell, Keep a Tomato Fresh Without a Fridge. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1, c2. Get it before A Balcony Compost Pot That Doesn't Smell.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Balcony Compost Pot That Doesn't Smell. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Balcony Compost Pot That Doesn't Smell.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name a decomposer you can see without a microscope. → An earthworm, a mushroom, a mould, a millipede or a termite.

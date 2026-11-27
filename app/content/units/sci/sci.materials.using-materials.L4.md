@@ -1,9 +1,9 @@
 # Choosing materials: no material is best, so how do we choose?
 `sci.materials.using-materials.L4`
 
-**Summary.** Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this unit you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.
+**Summary.** Paper bends easily and dried flour paste snaps, but paper glued in layers with that paste makes a bar stronger than either alone. In this lesson you will load such bars until they fail, score materials for a job, and bury scraps in soil to see what rots.
 
-**Intro.** *A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?* There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this unit you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.
+**Intro.** *A steel tumbler never breaks, but it is heavy and it gets too hot to hold. A paper cup is light and cheap, but it goes soft and you throw it away. A clay cup keeps water cool, but it can crack. A plastic cup is light and tough, but it may stay in the ground for hundreds of years. Which cup is the best cup?* There is no best cup. Each one wins at something and loses at something else. In the Class 3 unit you matched properties to jobs, one job at a time. But a real job needs many things at once, and getting more of one often means getting less of another. In this lesson you will score materials for a job, see why mixing two weak materials can make a strong one, and follow a thing from where it comes from to where it goes. Then you will bury scraps in soil and see which ones rot.
 
 ## Learning outcomes
 0. I can list what a job needs, score two or more materials against it, and say why the best choice can change when the job or the place changes.
@@ -171,7 +171,7 @@ People often say 'recycle'. But recycling uses energy and often makes weaker mat
   Against: A cheap thing that breaks soon may cost more per year than a dearer thing that lasts. Cost per use is a fairer way to compare. It is also unfair that poorer families often cannot afford the dearer thing that would save them money.
 
 ## Roots
-In this unit you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.
+In this lesson you made bars from paper and paste, scored cups and followed things from the ground to the bin. This part asks what all of that tells us about materials, and about what we ourselves are made of.
 
 **Deep truth.** A strip of paper bends easily. A bar of dried paste snaps. Glue four layers of paper together with that paste, and the bar holds many times more than either one alone. The strength comes from how the parts are joined.  
 *Habit it breaks:* We name what a thing is made of, 'it is paper' or 'it is paste', and think that tells us what it can do. But this leaves out how the parts are put together. The same ingredients, put together in two ways, can give two very different things.  
@@ -181,7 +181,7 @@ In this unit you made bars from paper and paste, scored cups and followed things
 - *what is life:* Where two fig roots touch, they can join and grow into one thicker root. A living root bridge is mended by the same roots that make it, and not by anything brought in from outside.
 - *what is this world:* Mud with straw, steel in concrete, copper with tin: the world's most useful things are mixtures. What each mixture can do depends on how the parts are put together, as well as on the parts.
 
-Every question in this unit came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.
+Every question in this lesson came back to how things are joined. Paper and paste, straw and mud, copper and tin, and two fig roots are each more than their ingredients. What a thing is good for depends on how its parts are joined, where it is used and how many years it lasts. So knowing what a thing is made of is not enough. We also need to know how it is put together, where it is, and what becomes of it afterwards. Choosing a material is not like looking up a number in a table. It means looking at the whole picture.
 
 - **Chandogya Upanishad 6.1.4 to 6.1.6, an Indian text more than 2,500 years old:** “यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्यात् / वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम् / यथा सोम्यैकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्यात् / यथा सोम्यैकेन नखनिकृन्तनेन सर्वं कार्ष्णायसं विज्ञातं स्यात्” Uddalaka tells his son Shvetaketu that by knowing one lump of clay, you know everything made of clay, since the different shapes are only names and the clay is the same. He says the same of gold and of iron. (A pot, a cup and a kullad are different shapes of one clay. When we choose a material, we choose the stuff. But what we make from it, and how we make it, decides what it is used for.)
 - **Kabir, a poet-saint of the 15th century, in a well-known doha:** “माटी कहे कुम्हार से, तु क्या रौंदे मोय / एक दिन ऐसा आएगा, मैं रौंदूंगी तोय” The clay says to the potter, why do you trample me? One day I will trample you. (Everything made from the earth returns to the earth, including the potter. What happens after is part of what a thing is.)
@@ -860,6 +860,12 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [A set of small clear plastic or glass jars](https://www.amazon.in/s?k=small+clear+jars+set) (material): For the Burial Test. Seven clear cups of the same size also work. Used in e2. 
 - [A pair of washing-up gloves](https://www.amazon.in/s?k=washing+up+gloves) (material): To keep hands clean when digging up scraps in the Burial Test. Used in e2, c2. 
 - [A piece of fine mesh, such as mosquito netting, or a small fine sieve](https://www.amazon.in/s?k=mosquito+net+fabric) (material): For scooping pulp when making recycled paper. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Paper and Paste: is a layered bar stronger than its parts?, Recycled Paper: make new paper from old paper. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Score the Cup: a decision matrix for a drinking cup. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before Score the Cup: a decision matrix for a drinking cup.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Paper and Paste: is a layered bar stronger than its parts?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Paper and Paste: is a layered bar stronger than its parts?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Paper and Paste: is a layered bar stronger than its parts?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before Paper and Paste: is a layered bar stronger than its parts?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a trade-off? → Getting more of one good thing means giving up some of another.
@@ -878,9 +884,9 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - Core: e1, a1, g1, e2, a2, ws-core, c2
 
 ## Sources
-- Founder's notes in ideas/by_topic/materials-and-their-properties.md: the idea of testing and comparing materials around the home, used as the starting point for scoring cups, and the Class 3 materials unit's focus on properties and jobs, which this unit goes beyond.
-- DeepKids Combined Class 4 lessons on materials and the Class 3 unit on using materials: matching properties to jobs, conductors, the clay pot and composites in one line, which this unit builds on. No experiment or story is repeated.
-- Founder's SCI card for Dan Shechtman and other cards on materials, read for the idea of unexpected materials; not used in the text of this unit.
+- Founder's notes in ideas/by_topic/materials-and-their-properties.md: the idea of testing and comparing materials around the home, used as the starting point for scoring cups, and the Class 3 materials unit's focus on properties and jobs, which this lesson goes beyond.
+- DeepKids Combined Class 4 lessons on materials and the Class 3 unit on using materials: matching properties to jobs, conductors, the clay pot and composites in one line, which this lesson builds on. No experiment or story is repeated.
+- Founder's SCI card for Dan Shechtman and other cards on materials, read for the idea of unexpected materials; not used in the text of this lesson.
 - Per-Ingvar Brånemark, work on osseointegration of titanium in bone, from the 1950s, and the clinical use of titanium implants from the 1960s
 - Shosuke Yoshida and colleagues, 'A bacterium that degrades and assimilates poly(ethylene terephthalate)', Science, 2016
 - R. Balasubramaniam, work on the corrosion resistance of the Delhi iron pillar, published in Current Science and other journals, from about 2000

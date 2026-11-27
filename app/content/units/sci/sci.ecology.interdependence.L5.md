@@ -1,9 +1,9 @@
 # Partners and rivals: why very different living beings trade, and why seedlings of one kind compete
 `sci.ecology.interdependence.L5`
 
-**Summary.** A grey-green patch on an old tree is a lichen: a fungus and an alga living as one body. Why do such different beings join up, while seedlings of one kind get in each other's way? In this unit you will grow 4, 16 and 64 methi seeds in cups and study partners as trades.
+**Summary.** A grey-green patch on an old tree is a lichen: a fungus and an alga living as one body. Why do such different beings join up, while seedlings of one kind get in each other's way? In this lesson you will grow 4, 16 and 64 methi seeds in cups and study partners as trades.
 
-**Intro.** *Sixty-four methi seedlings in one cup all need the same light and water. A fungus and an alga inside a lichen need quite different things. Which of these two groups do you think gets along better, and why?* Living beings affect each other in many ways. Some eat others. Some compete, which means they need the same thing and there is not enough for all. And some are partners: each gives the other something, and both live better. In this unit you test competition yourself, with methi seeds in crowded and roomy cups. Then you look closely at three famous partnerships: bees and flowers, fungi and roots, and the lichens on rocks and trees. You find out what each partner gives and gets, and why partnerships are not always fair.
+**Intro.** *Sixty-four methi seedlings in one cup all need the same light and water. A fungus and an alga inside a lichen need quite different things. Which of these two groups do you think gets along better, and why?* Living beings affect each other in many ways. Some eat others. Some compete, which means they need the same thing and there is not enough for all. And some are partners: each gives the other something, and both live better. In this lesson you test competition yourself, with methi seeds in crowded and roomy cups. Then you look closely at three famous partnerships: bees and flowers, fungi and roots, and the lichens on rocks and trees. You find out what each partner gives and gets, and why partnerships are not always fair.
 
 ## Learning outcomes
 0. I can tell mutualism, competition, parasitism and commensalism apart by asking who gains and who loses.
@@ -60,7 +60,7 @@ Why are crowded seedlings often taller, when they have less of everything? Green
 ### A partnership is a trade · *defined*
 **Definition:** In a mutualism, each partner gives something that costs them little and gets something they could not easily get alone.
 
-Think about why a flower and a bee are good partners. A plant can make sugar from sunlight, air and water, so sugar is cheap for a plant. But a plant cannot walk to another plant to carry pollen. A bee can fly, so carrying pollen is cheap for a bee. But a bee cannot make sugar. Each has what the other lacks. This is true of every partnership in this unit. The two partners are very different kinds of living beings, and the difference is what gives them something to exchange. Every trade also has a cost. Nectar uses sugar the plant could have used to grow. So each partner does best by giving as little as they can and getting as much as they can. That is why partnerships are never perfectly fair.
+Think about why a flower and a bee are good partners. A plant can make sugar from sunlight, air and water, so sugar is cheap for a plant. But a plant cannot walk to another plant to carry pollen. A bee can fly, so carrying pollen is cheap for a bee. But a bee cannot make sugar. Each has what the other lacks. This is true of every partnership in this lesson. The two partners are very different kinds of living beings, and the difference is what gives them something to exchange. Every trade also has a cost. Nectar uses sugar the plant could have used to grow. So each partner does best by giving as little as they can and getting as much as they can. That is why partnerships are never perfectly fair.
 - e.g. Flower and bee: the flower gives sugar, and the bee gives transport for pollen.
 - e.g. Root and fungus: the plant gives sugar, and the fungus gives minerals and water from far-off soil.
 - e.g. Lichen: the alga gives sugar, and the fungus gives a body that holds water and grips the rock.
@@ -160,7 +160,7 @@ The early land was bare rock, sand and mud. The first small plants had no real r
 ## Roots
 We have learned how living beings compete and how they trade as partners. Now we ask what this tells us about ourselves and the world.
 
-**Deep truth.** In the Crowded Cup Test, 64 methi seedlings needed the same light, water and minerals from one cup. They grew thinner than the seedlings with room. A fungus and a root need different things, and each can get what the other lacks. Every partnership in this unit joins two beings who are very different in this way.  
+**Deep truth.** In the Crowded Cup Test, 64 methi seedlings needed the same light, water and minerals from one cup. They grew thinner than the seedlings with room. A fungus and a root need different things, and each can get what the other lacks. Every partnership in this lesson joins two beings who are very different in this way.  
 *Habit it breaks:* We expect those who are alike to get along best, and those who are very different to have little to do with each other. Among living beings sharing one place, likeness means needing the same things. Difference means having something the other lacks.  
 *Evidence:* In the Crowded Cup Test, the usual result is that seedlings of one kind grow thinner as their numbers rise. Use what you really saw. In the Trade Table, every pair of partners was made of two very different beings: a plant and an insect, a plant and a fungus, a fungus and an alga. In each pair, only one could make sugar.
 
@@ -168,7 +168,7 @@ We have learned how living beings compete and how they trade as partners. Now we
 - *what is life:* No kind of living being makes everything they need. Each one lives by exchanging with others who are different from them.
 - *what is this world:* The soil, the coral reefs and the green cover of the land were built by partners over hundreds of millions of years. Fungi and plants made the first soils together.
 
-Every partnership in this unit starts from one supply of food: sugar made from sunlight. The alga, the leaf and the flower make it. The fungus, the bee and the coral animal cannot, so each brings something else in exchange. In this way one supply of sugar passes through many very different bodies, and each body adds what the others lack. Long ago, some partners joined so closely that they became one cell. Every plant and every animal is built of such cells.
+Every partnership in this lesson starts from one supply of food: sugar made from sunlight. The alga, the leaf and the flower make it. The fungus, the bee and the coral animal cannot, so each brings something else in exchange. In this way one supply of sugar passes through many very different bodies, and each body adds what the others lack. Long ago, some partners joined so closely that they became one cell. Every plant and every animal is built of such cells.
 
 - **Bhagavad Gita 3.11:** “देवान्भावयतानेन ते देवा भावयन्तु वः। / परस्परं भावयन्तः श्रेयः परमवाप्स्यथ।।” Nourish the gods with this, and may the gods nourish you. By nourishing one another, you will reach the highest good. (The verse is about people and the gods, not about plants. But it describes the same pattern as a root and a fungus: each side feeds the other, and both do better than either could alone.)
 - **Tao Te Ching 2:** “故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。” Being and non-being give rise to each other. Long and short shape each other. High and low rest on each other. (The verse says that opposites need each other. In a lichen, the one who can make sugar and the one who cannot are opposites in this way, and that is why each has a use for the other. The verse is about ideas, so the likeness is in the pattern only.)
@@ -255,7 +255,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 - Ask: She tied up two pieces of bark, not one. Why did she need the clean piece?
 - Ask: A bean seed carries food and an orchid seed does not. What can an orchid plant do because her seeds are so light?
 - Ask: Muthu asked whether the feeder gets anything back. How could a scientist find out?
-- Ask: Where else in this unit does a living being depend on a partner right from the start of life?
+- Ask: Where else in this lesson does a living being depend on a partner right from the start of life?
 
 ## Games
 ### g1 · Partner, Rival or Robber? (20 min)
@@ -633,7 +633,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 11. (order) Put these partnerships in order, from the loosest to the closest.  
    **Answer:** ['A butterfly visiting a flower', 'A fungus joined to a tree root', 'A fungus and an alga in a lichen', 'Mitochondria inside a cell']. *Why:* The butterfly and flower meet for seconds. The root and fungus are joined but separate. The lichen partners share one body. Mitochondria can never leave the cell.
 12. (write) Some people say nature is only a fight. Give one piece of evidence for this and one against.  
-   **Answer:** For: crowded seedlings each get less, and predators kill prey. Against: most plants depend on root fungi and pollinators, and lichens and our own cells are partnerships.. *Why:* A strong answer treats both sides fairly and uses examples from the child's own tests or from this unit.
+   **Answer:** For: crowded seedlings each get less, and predators kill prey. Against: most plants depend on root fungi and pollinators, and lichens and our own cells are partnerships.. *Why:* A strong answer treats both sides fairly and uses examples from the child's own tests or from this lesson.
 13. (match) Match each partnership to something that can break it.  
    **Answer:** Coral and algae → the sea stays too warm; Root and fungus → the soil is heavily fertilised; Lichen partners → sulphur gases in the air; Flower and bee → sprays that kill insects; Orchid seed and fungus → the seed lands where the fungus is absent. *Why:* A partnership lasts only while both sides gain. Change the conditions and the trade can stop.
 14. (odd) Three of these pairs would compete strongly. Which pair would not?  
@@ -644,7 +644,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 
 ## Videos
 - **What's in a Lichen? How Scientists Got It Wrong for 150 Years | Short Film Showcase** (National Geographic, 4 min) id `Fkw_VF5zDT0`: Tells how Toby Spribille found a third partner, a yeast, inside lichens in 2016. *Check:* The address, title and channel were confirmed through YouTube's own lookup on 18 Nov 2026. Not yet watched by a person: watch it first.
-- **Symbiosis: A surprising tale of species cooperation - David Gonzales** (TED-Ed, 3 min) id `2AM3ARs9MMg`: A short animation about a bird and a pine tree who depend on each other. It is a partnership not covered in this unit, so it is a good one to sort: who gives what? *Check:* The address, title and channel were confirmed through YouTube's own lookup and the TED-Ed lesson page on 18 Nov 2026. The length was not confirmed. Not yet watched by a person: watch it first.
+- **Symbiosis: A surprising tale of species cooperation - David Gonzales** (TED-Ed, 3 min) id `2AM3ARs9MMg`: A short animation about a bird and a pine tree who depend on each other. It is a partnership not covered in this lesson, so it is a good one to sort: who gives what? *Check:* The address, title and channel were confirmed through YouTube's own lookup and the TED-Ed lesson page on 18 Nov 2026. The length was not confirmed. Not yet watched by a person: watch it first.
 - **Lessons from fungi on markets and economics | Toby Kiers** (TED, 16 min) id `NjwvaF3P_5Q`: For the parent, or for an older child with a parent. Toby Kiers explains how plants and root fungi trade, and how each rewards a better partner. *Check:* The address, title and channel were confirmed through YouTube's own lookup on 18 Nov 2026. The length is from a listing, not from the video page. Not yet watched by a person: watch it first.
 
 ## Quiz
@@ -692,12 +692,12 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 
 ## Spotted around us
 - Kalpasi in the masala box: a dried lichen that grew on a tree or a rock.
-- Grey-green, yellow or orange patches of lichen on old tree trunks, temple walls and rocks, most of all in hill towns such as Kodaikanal, Munnar and Shillong.
+- Grey-green, yellow or orange patches of lichen on old tree trunks, temple walls and rocks, most of all in cool hill towns.
 - A big, shiny black carpenter bee at a flower. Watch whether she goes in at the front or bites at the side.
-- Tiny black stingless bees going in and out of a small wax tube in a wall or a tree hollow, common in Kerala and Tamil Nadu.
+- Tiny black stingless bees going in and out of a small wax tube in a wall or a tree hollow.
 - Methi or mustard sown thickly in a tray for eating as greens: every seedling tall, thin and leaning.
 - Mushrooms that come up around trees after monsoon rain. Some are the fruiting parts of fungi joined to tree roots. Others belong to fungi who feed on dead leaves and wood.
-- Orchids growing on the branches of trees in Kodagu, Wayanad and Sikkim. Each one began as a dust-like seed fed by a fungus.
+- Orchids growing on the branches of trees. Each one began as a dust-like seed fed by a fungus.
 - A cattle egret walking beside a buffalo or a tractor in a field, catching the insects that fly up.
 
 ## Open questions
@@ -742,10 +742,10 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 ## Links
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a lichen, a bee or a flower near you and find out who they are. Useful for the Lichen Walk and for Honest Visitor or Robber?
 - [Botanical Survey of India: Lichens](https://bsi.gov.in/page/en/lichens) · interactive: For the parent: a short page on what lichens are and how many kinds grow in India.
-- [TED-Ed: Symbiosis, a surprising tale of species cooperation](https://ed.ted.com/lessons/symbiosis-a-surprising-tale-of-species-cooperation) · interactive: The lesson page for one of this unit's videos, with questions to think about after watching.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees with lichens on their trunks, flower beds busy with bees, and a hill of very old bare rock to look at closely.
-- [Government Botanical Garden]() · place · Udhagamandalam (Ooty): In the cool, damp air of the Nilgiris, tree trunks and stone walls carry leafy and bushy lichens that are rare in cities.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, near Thiruvananthapuram: A large garden with a collection of orchids, each of whom began life with the help of a fungus.
+- [TED-Ed: Symbiosis, a surprising tale of species cooperation](https://ed.ted.com/lessons/symbiosis-a-surprising-tale-of-species-cooperation) · interactive: The lesson page for one of this lesson's videos, with questions to think about after watching.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees with lichens on their trunks, flower beds busy with bees, and a hill of very old bare rock to look at closely.
+- Government Botanical Garden · place · Udhagamandalam (Ooty): In the cool, damp air of the Nilgiris, tree trunks and stone walls carry leafy and bushy lichens that are rare in cities.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, near Thiruvananthapuram: A large garden with a collection of orchids, each of whom began life with the help of a fungus.
 
 ## Things to buy
 - [Methi seeds (fenugreek, vendhayam), a small packet](https://www.amazon.in/s?k=methi+seeds) (material): For the Crowded Cup Test and Two Kinds in One Cup. The methi in your kitchen works. Buy only if you have none. Used in e1, p1. 
@@ -753,6 +753,9 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [Kalpasi (dagad phool, black stone flower), a small packet](https://www.amazon.in/s?k=kalpasi+dagad+phool) (material): A real dried lichen for Lichen from the Spice Box and Inside a Lichen. Most grocery shops keep it with the whole spices. Used in e2, a2. 
 - [A hand lens that magnifies about 10 times](https://www.amazon.in/s?k=hand+lens+10x+magnifying+glass) (tool): For looking at lichens, pollen and seedlings. A phone camera zoomed in also works. Used in e2, a3. 
 - [Entangled Life, by Merlin Sheldrake (for the parent)](https://www.amazon.in/s?k=Entangled+Life+Merlin+Sheldrake) (book): A readable book about fungi, with chapters on lichens and on the trade between fungi and roots. Used in e2, a3. For the parent to read alongside the unit. The chapter on lichens goes well with Lichen from the Spice Box and the Lichen Walk.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Crowded Cup Test: does a seedling grow better with 3 neighbours or with 63?, The Trade Table: what does each partner give?, Two Kinds in One Cup: do methi and mustard share better than methi and methi?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1. Get it before The Crowded Cup Test: does a seedling grow better with 3 neighbours or with 63?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Lichen from the Spice Box: which takes up water faster, a dry lichen or a dry leaf?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Lichen from the Spice Box: which takes up water faster, a dry lichen or a dry leaf?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is it called when two kinds of living beings both gain from each other? → Mutualism.
@@ -773,8 +776,8 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - ideas/by_topic/living-in-harmony.md: the notebook's line that harmony needs give and take, and that too much imbalance brings instability. It is the basis for treating every partnership as a trade with a cost, and for the card on partnerships that break down.
 - Notebook items bio:199 (species interactions: predation, competition, symbiosis), bio:192 (ecology and the importance of plants) and bio:226 (network biology), from the curriculum entry
 - Combined lesson sci-C3-living-in-harmony: the five ways living things live together and its seedlings-in-a-cup idea, taken further here as a three-cup test with counted seeds. Combined lessons C4 and C5 of the same topic for what comes before and after.
-- The Level 3 and Level 4 units of this subtopic (the tomato juice test, the fig and the fig wasp, the forest floor test, sacred groves), so that this unit leads on from them without repeating
-- Units that already cover root nodules and the 'Underground Market' game (what plants need, Level 4; soil and crops, Level 4), and the flower-parts unit on pollination (Level 5), so that this unit does not repeat them
+- The Level 3 and Level 4 units of this subtopic (the tomato juice test, the fig and the fig wasp, the forest floor test, sacred groves), so that this lesson leads on from them without repeating
+- Units that already cover root nodules and the 'Underground Market' game (what plants need, Level 4; soil and crops, Level 4), and the flower-parts unit on pollination (Level 5), so that this lesson does not repeat them
 - Darwin, On the Origin of Species (1859), chapter 3, on the struggle being most severe between individuals of the same species
 - Gause, The Struggle for Existence (1934), on two kinds of Paramecium that cannot share one food
 - Ollerton, Winfree and Tarrant, Oikos 2011, 'How many flowering plants are pollinated by animals?' (87.5 in 100 kinds)

@@ -1,9 +1,9 @@
 # Seeds: how a seed grows into a new plant
 `sci.seeds-and-life-cycles.seeds-and-germination.L1`
 
-**Summary.** What does a seed do first when it starts to grow: send up a shoot or send down a root? In this unit you will feel different seeds, plant one in a clear cup to peek at it each day, and play a root down, shoot up game.
+**Summary.** What does a seed do first when it starts to grow: send up a shoot or send down a root? In this lesson you will feel different seeds, plant one in a clear cup to peek at it each day, and play a root down, shoot up game.
 
-**Intro.** *Hold a dry chana seed. Is this hard little ball alive? Could a whole plant come out of this seed?* Many plants you know, from the tulsi on the balcony to the big neem tree on the road, began as a seed. Seeds look like small stones. But put a seed in damp soil, and a new plant grows out of the seed. In this unit we plant seeds and watch. We also peek under the soil, to find out what a seed does before we can see anything.
+**Intro.** *Hold a dry chana seed. Is this hard little ball alive? Could a whole plant come out of this seed?* Many plants you know, from the tulsi on the balcony to the big neem tree on the road, began as a seed. Seeds look like small stones. But put a seed in damp soil, and a new plant grows out of the seed. In this lesson we plant seeds and watch. We also peek under the soil, to find out what a seed does before we can see anything.
 
 ## Learning outcomes
 0. By the end I can say that a seed grows into a new plant.
@@ -28,6 +28,8 @@ A seed looks like a small stone, but the seed is alive. Inside the hard coat the
 - e.g. A dry chana seed in a jar stays the same for months. Soaked overnight, the chana is fat and soft by morning.
 - e.g. Rice, wheat, chana and dal are seeds that people eat.
 - e.g. A mango stone has the mango tree's seed inside.
+- **Botanists:** Say that a seed holds a plant embryo and a store of food, asleep until it has water and warmth.
+- **Seed-saving farmers of India:** In groups such as Navdanya, farmers keep and share old seeds as a living inheritance of their villages. A seed is the memory of generations of care.
 ### The root comes out first · *defined*
 **Definition:** When a seed sprouts, the root nearly always comes out first and grows down. The shoot comes later and grows up.
 
@@ -35,6 +37,8 @@ The root comes out first, through the seed coat. The root grows down into the so
 - e.g. In Peek Under the Soil, the chana grew a white root before any green showed above the soil.
 - e.g. Moong sprouts in the kitchen have a white tail. That tail is the root.
 - e.g. A young peepal plant growing out of a wall crack sends roots deep into the crack.
+- **Charles Darwin (1880):** Watched root tips and said the tip works like the brain of a lower animal, steering the root.
+- **Plant scientists today:** Found tiny heavy grains in the root tip that settle and sense which way is down. Some say a plant has a kind of intelligence, and some call it automatic.
 ### A seed grows into the same kind of plant as the plant that made the seed · *defined*
 **Definition:** A seed grows into the same kind of plant as the plant that made the seed.
 
@@ -42,6 +46,8 @@ Plant a pumpkin seed, and you get a pumpkin plant. Plant a chana seed, and you g
 - e.g. Seeds from a pumpkin grow into pumpkin plants.
 - e.g. A tamarind seed grows into a tamarind tree.
 - e.g. A mango stone grows into a mango tree, never a coconut palm.
+- **Gregor Mendel:** Showed that plants pass on features by rules, so a pea seed grows into a pea.
+- **Farmers with hybrid seed:** Know that seeds saved from a hybrid crop do not grow true. They give plants unlike the parent, so the same kind of plant is not always the same.
 
 ## Mostly agreed
 - Seeds are alive. Each seed holds a tiny baby plant. *How we know:* Open a soaked chana or rajma and you can see the baby plant at one edge. Dry seeds kept for months still sprout when they get water.
@@ -473,9 +479,9 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 
 ## Spotted around us
 - A small peepal or banyan plant growing out of a crack in a wall or on an old building, in almost any Indian city.
-- Moong sprouts with white tails in a steel bowl at home, or at a sundal stall in Chennai.
+- Moong sprouts with white tails in a steel bowl at home, or at a sundal stall.
 - Seed packets and seedlings in small black bags at a plant nursery on the roadside.
-- Young green paddy seedlings in a nursery bed, before farmers in Andhra Pradesh, Bengal or Punjab plant them out in the fields.
+- Young green paddy seedlings in a nursery bed, before farmers plant them out in the fields.
 - A tomato or chilli plant coming up in a pot from a seed in the kitchen waste, though nobody planted a seed there.
 
 ## Open questions
@@ -511,12 +517,16 @@ Root Goes Down (sci.seeds-and-life-cycles.L1): Topic-level song for Seeds and li
 
 ## Links
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a young plant growing out of a wall and find out their name.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees from all over the world, and a glass house. Look for seeds and seedlings under the big trees.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: Home of the Great Banyan Tree, which began as one tiny seed and now looks like a small forest.
-- [Jijamata Udyan (Veermata Jijabai Bhosale Udyan)]() · place · Mumbai: A large old garden with many kinds of trees.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees from all over the world, and a glass house. Look for seeds and seedlings under the big trees.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: Home of the Great Banyan Tree, which began as one tiny seed and now looks like a small forest.
+- Jijamata Udyan (Veermata Jijabai Bhosale Udyan) · place · Mumbai: A large old garden with many kinds of trees.
 
 ## Things to buy
 - [A small bag of potting soil or cocopeat]() (material): For planting seeds if you have no pot plant to borrow soil from. Plant nurseries and online shops sell small bags cheaply. Used in e1, p1. Only needed if there is no soil at home. Soil from any existing pot works just as well.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Peek Under the Soil: what does a seed do first?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before Peek Under the Soil: what does a seed do first?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Peek Under the Soil: what does a seed do first?, Big Seed, Small Seed: who sprouts first?, The Seed Feely Bag. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, a1, a2, a3, p1, c1. Get it before Peek Under the Soil: what does a seed do first?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Big Seed, Small Seed: who sprouts first?, Water While We Sleep. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2, c1. Get it before Big Seed, Small Seed: who sprouts first?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name two seeds that people eat. → For example chana, rajma, moong, rice or wheat.

@@ -1,9 +1,9 @@
 # Heart, blood and breath: how oxygen reaches every part of you
 `sci.body.heart-blood-breath.L3`
 
-**Summary.** Why does your heart beat faster when you run? In this unit you will find your pulse and count it before and after jumping, make a paper tube to listen to a heartbeat, build a bottle lung, and play a board game as a red blood cell going round the body.
+**Summary.** Why does your heart beat faster when you run? In this lesson you will find your pulse and count it before and after jumping, make a paper tube to listen to a heartbeat, build a bottle lung, and play a board game as a red blood cell going round the body.
 
-**Intro.** *Sit very still. Put your hand flat on the middle of your chest, a little to the left. Wait, and do not talk. Can you feel a beat under your hand? It started long before you were born, and it has never stopped. What is it doing?* About 400 years ago, an English doctor called William Harvey did a sum. He worked out roughly how much blood a heart pushes out with each beat. Then he counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. Where could all that blood come from? Where could it go? No body could make that much new blood so fast. So the same blood must go round and round, again and again. In this unit you will feel your heartbeat, count it and listen to it.
+**Intro.** *Sit very still. Put your hand flat on the middle of your chest, a little to the left. Wait, and do not talk. Can you feel a beat under your hand? It started long before you were born, and it has never stopped. What is it doing?* About 400 years ago, an English doctor called William Harvey did a sum. He worked out roughly how much blood a heart pushes out with each beat. Then he counted the beats. In half an hour, the heart pushed out more blood than the whole body holds. Where could all that blood come from? Where could it go? No body could make that much new blood so fast. So the same blood must go round and round, again and again. In this lesson you will feel your heartbeat, count it and listen to it.
 
 ## Learning outcomes
 0. I can say that the heart is a muscle that pumps blood, and that blood goes round the body in a loop and comes back.
@@ -55,7 +55,7 @@ Your heart has four hollow spaces inside, called chambers. Two are on the right 
 ### What blood is, and what it carries · *defined*
 **Definition:** Blood is a liquid made of watery plasma with trillions of tiny cells floating in it. It carries oxygen, food, water and warmth to every part of the body, and carries waste away.
 
-Blood looks like one red liquid. Under a microscope you can see that it is full of tiny things. Most of them are red blood cells. They are tiny round discs that carry oxygen. They contain iron, and that iron is what grabs the oxygen. There are also white blood cells, which fight germs. You will meet them properly in the unit on how the body fights germs. There are tiny pieces called platelets, which stick together to help plug a cut. All of these float in plasma, a pale yellow watery liquid. Plasma carries the food from your lunch, water and salts. An 8-year-old child has about 2 litres of blood, about the same as a big water bottle.
+Blood looks like one red liquid. Under a microscope you can see that it is full of tiny things. Most of them are red blood cells. They are tiny round discs that carry oxygen. They contain iron, and that iron is what grabs the oxygen. There are also white blood cells, which fight germs. You will meet them properly in the lesson on how the body fights germs. There are tiny pieces called platelets, which stick together to help plug a cut. All of these float in plasma, a pale yellow watery liquid. Plasma carries the food from your lunch, water and salts. An 8-year-old child has about 2 litres of blood, about the same as a big water bottle.
 - e.g. When you get a cut, platelets clump together to make a plug. The plug dries into a scab.
 - e.g. Red blood cells live only about four months. The soft inside of your bones, called marrow, makes new ones all the time. A grown-up makes about 2 million new red cells every second.
 - e.g. The food you ate at lunch soaks into your blood from your gut. Blood then carries it to your muscles and brain.
@@ -778,7 +778,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - A blood donation camp at a school, college or temple, with a red cross banner.
 - A doctor's stethoscope hanging round their neck at the local clinic.
 - A fingertip pulse oximeter at the chemist's shop, showing a pulse number and a heart that blinks.
-- Your breath making a little cloud on a cold winter morning in Ooty, Shillong or Delhi.
+- Your breath making a little cloud on a cold winter morning.
 - People doing slow yoga breathing in a park at sunrise.
 - An oxygen cylinder in the back of an ambulance.
 - An air quality board at a crossing showing how dirty the air is today.
@@ -845,6 +845,12 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Clear plastic tubing, about 2 metres, 6 to 10 mm wide, sold at hardware and aquarium shops](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): Cut into pieces of about 50 cm. For the funnel stethoscope, the stethoscope challenge and the upside-down bottle breath test. Used in a1, c2, e3. 
 - [A packet of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the bottle lung model and for valve flaps in the one-way pump challenge. Used in a2, c1. 
 - [A 1-litre measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+1+litre) (tool): For marking the bottle in the breath test, every 100 ml. Used in e3. 
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in Build a One-Way Pump. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in c1. Get it before Build a One-Way Pump.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Laennec's Paper Tube: make a stethoscope, The Best Home Stethoscope. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in a1, c2. Get it before Laennec's Paper Tube: make a stethoscope.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Pulse Watcher: see your heartbeat. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a4. Get it before The Pulse Watcher: see your heartbeat.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Our Family Heart Map. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Our Family Heart Map.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in A Jar of Blood (made from the kitchen). Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a6. Get it before A Jar of Blood (made from the kitchen).
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Your heart is about the size of your ____. → Fist.

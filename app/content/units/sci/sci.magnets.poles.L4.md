@@ -1,7 +1,7 @@
 # Magnet poles: the invisible field that pulls, pushes and cancels
 `sci.magnets.poles.L4`
 
-**Summary.** A paper clip starts sliding towards a magnet before anything touches it. How does the magnet reach across the gap? In this unit you will measure how far a magnet pulls a clip, walk a small compass around a magnet to draw its field, and test what blocks the pull.
+**Summary.** A paper clip starts sliding towards a magnet before anything touches it. How does the magnet reach across the gap? In this lesson you will measure how far a magnet pulls a clip, walk a small compass around a magnet to draw its field, and test what blocks the pull.
 
 **Intro.** *The magnet never touched the paper clip. So how did it move it? Slide a clip slowly across a smooth table towards a magnet. At some distance it suddenly jumps. What is reaching across the gap, and how far does it reach?* In the last unit on poles you found that a north pole and a south pole attract, and that two north poles repel. Now you ask what lies in the space between two magnets. Every magnet has a magnetic field around it, and you can find its shape with a compass. Make a guess now about how far a magnet can pull a clip, and keep it. You will test it soon.
 
@@ -40,6 +40,8 @@ When you push a trolley, your hand touches it. A magnet is different. It can pul
 - e.g. A fridge magnet holds a sheet of paper to the door, with the paper between the magnet and the steel.
 - e.g. A magnet outside a glass of water moves a clip inside the glass.
 - e.g. A compass in an aeroplane works high above the ground.
+- **Isaac Newton:** Found it hard to believe a force could act across empty space with nothing in between.
+- **Michael Faraday and James Clerk Maxwell:** Said the magnet fills the space around it with a field, and the field pushes on things inside it.
 ### The magnetic field: the space around a magnet · *defined*
 **Definition:** A magnetic field is the region around a magnet where its force can be felt. At every place in the field, the force has a strength and a direction.
 
@@ -47,6 +49,8 @@ Pick any spot near a magnet and ask which way a small north pole would be pushed
 - e.g. A compass near a magnet turns to point along the field at that spot.
 - e.g. The Earth has a magnetic field that reaches far into space.
 - e.g. A paper clip near a magnet becomes a small magnet itself, because it sits in the field.
+- **Michael Faraday:** Thought the lines of force are real things stretched through space.
+- **Maxwell and physicists today:** The field is a set of numbers at every point of space, and lines are only a drawing that helps us see it.
 ### Field lines: how we draw the field · *defined*
 **Definition:** A field line is a line drawn so that it points in the direction of the field at every spot it passes. Lines leave the north pole and enter the south pole. Where they are close together, the field is strong.
 
@@ -54,6 +58,8 @@ To draw a field line, put a small compass near the north pole. Its red end shows
 - e.g. Iron filings sprinkled on a paper above a magnet line up along the field lines and show the pattern.
 - e.g. The lines of a bar magnet look like a pair of loops, one on each side of the magnet.
 - e.g. Near a pole the lines bunch together, and far away they spread out.
+- **Michael Faraday:** In the 1830s he pictured lines in the space around a magnet, which he thought were real and pulled like stretched rubber.
+- **James Clerk Maxwell:** In the 1860s turned Faraday's lines into mathematics. He treated the field as something with a strength and a direction at every point, and the lines as a way to draw it.
 ### What a compass shows · *defined*
 **Definition:** A compass needle is a very small magnet on a pivot. It turns until it lines up with the field at that spot. Its north-seeking end, usually red, points along the direction of the field.
 
@@ -61,6 +67,8 @@ A compass needle has a north pole and a south pole. In a field, the pole at one 
 - e.g. A compass held next to the north pole of a bar magnet has its red end pointing away from that pole.
 - e.g. A compass held next to the south pole has its red end pointing towards that pole.
 - e.g. A compass held a metre from a bar magnet points almost exactly north, because the magnet's field is too weak to matter there.
+- **Chinese navigators and Shen Kuo (1088):** Used floating needles and spoons of lodestone to find south, and Shen Kuo noticed that the needle does not point exactly to the north.
+- **William Gilbert (1600):** Explained the compass: the Earth itself is a magnet, and the needle lines up with its field.
 ### Why a magnet is strongest at its poles · *defined*
 **Definition:** The field of a bar magnet is strongest at its ends, the poles, and weakest at the middle of its long side. This is why paper clips cluster at the ends of a magnet.
 
@@ -68,6 +76,8 @@ Scatter paper clips near a bar magnet and most cling to the two ends. Almost non
 - e.g. Paper clips gather at the two ends of a bar magnet.
 - e.g. A horseshoe magnet holds a clip across both poles much better than one pole alone.
 - e.g. The middle of a bar magnet's long side picks up almost nothing.
+- **Bar magnet:** Is strongest at its two ends, where the lines crowd together.
+- **The Earth:** Is also a magnet. Its field is about twice as strong near its poles as at the equator, which is why compasses point steeply downward near the poles.
 ### How quickly the pull fades with distance · *defined*
 **Definition:** The pull of a magnet fades much faster than the distance grows. For small magnets that are some way apart, doubling the distance can make the force around 16 times weaker.
 
@@ -75,6 +85,8 @@ If a magnet pulled half as hard each time you doubled the distance, it would sti
 - e.g. A fridge magnet holds paper but cannot lift a clip from 10 centimetres away.
 - e.g. A clip that jumps to a magnet from 3 centimetres might not move at all from 6 centimetres.
 - e.g. Two bar magnets held side by side reach a little further than one, not twice as far.
+- **Charles Coulomb:** In 1785 he measured the force between long magnetised needles and found that it falls with the square of the distance, for a single pole.
+- **Modern physicists:** Find that a whole magnet has two poles that partly cancel, so its field falls faster, with the cube of the distance for a small magnet. The shape of the magnet matters.
 ### Fields add and cancel · *defined*
 **Definition:** When two fields meet, they add at each spot as arrows do. If the arrows point the same way they add up, and if they point against each other they partly cancel.
 
@@ -82,6 +94,8 @@ At every spot, a field has a direction, so you can draw it there as an arrow. Tw
 - e.g. Two magnets with unlike poles together usually reach less far than one.
 - e.g. A pair of magnets with a steel keeper across the ends will not disturb a nearby compass.
 - e.g. The speaker in a headphone has a magnet whose field can disturb a compass placed near it.
+- **Physicists:** Say that fields add like arrows at every point, so two magnets can strengthen or cancel each other.
+- **Ship compass makers:** In 1838 George Airy placed iron and small magnets near ship compasses so that the ship's own magnetism cancelled out. It is the same adding of fields.
 ### What blocks a magnetic field and what does not · *defined*
 **Definition:** Magnetic fields pass through air, paper, plastic, wood, water, glass, aluminium, copper and the human body. Iron and steel gather the field into themselves. A thick iron sheet between a magnet and a clip can take most of the field away.
 
@@ -89,6 +103,8 @@ Hold a magnet on one side of a plate of glass, and put a clip on the other side.
 - e.g. A paper clip held on the other side of a plate of glass is still pulled by a magnet.
 - e.g. A thick iron lid between a magnet and a clip stops the clip from moving.
 - e.g. A tin box shields a compass inside it from a magnet outside.
+- **Everyday view:** Most people think that no wall can stop a magnet, apart from iron.
+- **Physicists:** Say that a layer of soft iron, or mu-metal, carries the field through itself and so shields what is inside. Superconductors push magnetic fields out completely, which is called the Meissner effect, found in 1933.
 ### One picture that explains both attract and repel · *idea*
 **Definition:** A model that works well is to imagine field lines as stretched rubber bands that also push sideways on each other. Lines joining unlike poles pull the poles together. Lines meeting between like poles push apart.
 
@@ -96,6 +112,8 @@ Faraday imagined the field lines as springy bands. A line from a north pole to a
 - e.g. Between unlike poles, the lines join the poles in short curved bridges.
 - e.g. Between like poles, the lines bunch and bend away.
 - e.g. Think of each field line as a stretched rubber band. That explains why unlike poles try to come closer.
+- **Michael Faraday's rubber bands:** Field lines pull along their length and push each other sideways. This one picture shows both pulling and pushing.
+- **Quantum physics:** Says magnets push and pull by passing tiny packets of light between them. The rubber band picture is a model that helps us see what happens.
 ### Where a magnet's field comes from · *defined*
 **Definition:** Every magnetic field is made by moving electric charge. In a magnet, it comes mostly from the spin of electrons. In iron, tiny regions called domains line up and add their fields together.
 
@@ -103,6 +121,8 @@ Every electron is a tiny magnet, because it has charge and spin. In most materia
 - e.g. An iron nail stroked with a magnet becomes a weak magnet because its domains line up.
 - e.g. A magnet dropped many times on a hard floor slowly weakens because its domains are shaken out of line.
 - e.g. Electric currents also make magnetic fields, which is how an electromagnet works.
+- **Hans Ørsted (1820) and Ampère:** Showed that an electric current in a wire makes a magnetic field.
+- **Physics today:** The field of a bar magnet comes mostly from the spin of electrons in its atoms, which act like tiny currents without any wire.
 
 ## Mostly agreed
 - A magnet's force acts across a gap, and it is stronger near the poles than in the middle of the side. *How we know:* Anyone can see paper clips cluster at the ends of a bar magnet and measure how far a magnet reaches.
@@ -742,6 +762,9 @@ Tiny Magnets, All in Line (sci.magnets.L4): Topic-level song
 - [A small compass](https://www.amazon.in/s?k=small+compass+for+kids+school) (tool): For the field map, the Fading Pull test and the Quiet Pair. A small magnetic compass costs about Rs 20 to 50 at a stationery or toy shop. Do not buy the maths compass from a geometry box. Check that the needle swings freely and is not stuck. Used in e1, e2, e3, c1. 
 - [A pair of bar magnets](https://www.amazon.in/s?k=bar+magnet+pair+school) (tool): Almost every activity needs two bar magnets with poles at their ends. A school pair costs about Rs 50 to 100 at a stationery or school-supply shop. Bendy fridge magnets will not work for the main tests. Used in e1, e2, e3, a1, a2, a4, p1, c1. 
 - [Iron filings in a small shaker](https://www.amazon.in/s?k=iron+filings+for+magnet+experiment) (material): Only needed for the optional iron filings picture. Many school science kits include a pot. A welding, lathe or grinding workshop will often give a spoonful for free. If you cannot find any, skip it: the compass map shows the same pattern. Used in a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Add or Cancel? How far does a paper clip jump?, Walk the Compass: draw the field of a magnet, The Fading Pull: how far away can a compass feel a magnet?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, a4, p1, c1. Get it before Add or Cancel? How far does a paper clip jump?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Ghost Maze: a clip that follows a hidden magnet. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The Ghost Maze: a clip that follows a hidden magnet.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the two ends of a magnet, where the force is strongest, called? → The poles.
@@ -762,7 +785,7 @@ Tiny Magnets, All in Line (sci.magnets.L4): Topic-level song
 ## Sources
 - ideas/by_topic/magnets.md: 'use a fridge magnet to move a paperclip without touching', 'observe fridge magnets' different strengths', 'sprinkle iron filings around a bar magnet to reveal field lines' and 'draw field lines around magnets' (used in the Floating Clip, the Home Magnet Survey, the iron filings picture and the field map)
 - The Combined Class 5 lesson on magnets: testing the strength of magnets fairly with repeated readings, a magnet's force acting across a gap, and an iron sheet blocking it (used in the reach tests and What Stands Between)
-- The Class 3 units on poles and on magnets and materials, which this unit builds on: poles, attract and repel, domains and the needle compass, now extended to fields, distance and cancelling
+- The Class 3 units on poles and on magnets and materials, which this lesson builds on: poles, attract and repel, domains and the needle compass, now extended to fields, distance and cancelling
 - Michael Faraday, 'On the physical character of the lines of magnetic force', Philosophical Magazine, 1852
 - James Clerk Maxwell, 'A dynamical theory of the electromagnetic field', Philosophical Transactions of the Royal Society, 1865
 - Hans Christian Oersted, experiments on a current turning a compass needle, 1820

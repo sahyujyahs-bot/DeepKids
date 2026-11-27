@@ -1,9 +1,9 @@
 # Perception: why your brain picks one reading of the world, and what it leaves out
 `sci.senses.perception.L4`
 
-**Summary.** Look at a cube drawn in plain lines and it suddenly flips, though the paper has not changed. Why can you only see one cube at a time? In this unit you will count the flips in a minute, count the F's in a sentence, and cut your own two-way picture.
+**Summary.** Look at a cube drawn in plain lines and it suddenly flips, though the paper has not changed. Why can you only see one cube at a time? In this lesson you will count the flips in a minute, count the F's in a sentence, and cut your own two-way picture.
 
-**Intro.** *Read this and count the letter F. FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS. Many people find three. There are six. Where did the others go?* Your eyes took in every letter. But your brain was busy reading for meaning, and it slid over the little word 'of' as if it were not there. The word 'of' appears three times, so three F's went uncounted. You did not choose to miss them. In this unit you meet other cases where the brain makes one reading and drops the rest. A cube drawing flips by itself. A big change in a tray goes unseen. You see faces in plug sockets and clouds. A paper beetle vanishes against a cloth. You test each one on yourself and on your family. Then you ask what it means that each of us gets only one reading of the world.
+**Intro.** *Read this and count the letter F. FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS. Many people find three. There are six. Where did the others go?* Your eyes took in every letter. But your brain was busy reading for meaning, and it slid over the little word 'of' as if it were not there. The word 'of' appears three times, so three F's went uncounted. You did not choose to miss them. In this lesson you meet other cases where the brain makes one reading and drops the rest. A cube drawing flips by itself. A big change in a tray goes unseen. You see faces in plug sockets and clouds. A paper beetle vanishes against a cloth. You test each one on yourself and on your family. Then you ask what it means that each of us gets only one reading of the world.
 
 ## Learning outcomes
 0. I can explain, using a cube drawing, that a picture can have two readings and that my brain shows me only one at a time.
@@ -831,6 +831,9 @@ The World Comes In (sci.senses.L4): Topic-level song
 ## Things to buy
 - [A small set of washable poster paints or watercolours](https://www.amazon.in/s?k=washable+poster+colours+for+kids) (material): For the Blot Gallery. A small set from a stationery shop is enough, and any washable paint will do. Used in p1. 
 - [Black chart paper or black craft paper](https://www.amazon.in/s?k=black+chart+paper+sheets) (material): For the Vase or Faces activity. One sheet is enough. Any dark paper will also do. Used in a2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Count the Flips: one cube drawing, two readings, Upside-Down Faces: which looks stranger?, Count the F's, and Spot the Extra Word. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e3, a1, a6, a7, c1. Get it before Count the Flips: one cube drawing, two readings.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Count the Flips: one cube drawing, two readings, Vase or Faces? Cut your own two-way picture, The Triangle That Isn't There. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a2, a3, c2. Get it before Count the Flips: one cube drawing, two readings.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a Necker cube do, though its lines never change? → It flips between two readings.

@@ -1,9 +1,9 @@
 # Healthy food and drink: why we need water, and where it hides
 `sci.food.healthy-food.L1`
 
-**Summary.** Squeeze a piece of cucumber in a clean hanky and water runs out. Squeeze a biscuit and nothing comes. In this unit you will squeeze different foods to find which hold water, sort foods into wet, damp and dry, and make a crunchy kosambari salad.
+**Summary.** Squeeze a piece of cucumber in a clean hanky and water runs out. Squeeze a biscuit and nothing comes. In this lesson you will squeeze different foods to find which hold water, sort foods into wet, damp and dry, and make a crunchy kosambari salad.
 
-**Intro.** *Hold a piece of cucumber in one hand and a biscuit in the other. Both feel dry on the outside. Is there water hiding inside either of them?* Your body needs water every day. You drink it from a tumbler. But some water also comes in your food. Which foods carry water inside them? Which carry almost none? In this unit we squeeze foods to find out. We also ask why we feel thirsty, and why we like some foods more than others.
+**Intro.** *Hold a piece of cucumber in one hand and a biscuit in the other. Both feel dry on the outside. Is there water hiding inside either of them?* Your body needs water every day. You drink it from a tumbler. But some water also comes in your food. Which foods carry water inside them? Which carry almost none? In this lesson we squeeze foods to find out. We also ask why we feel thirsty, and why we like some foods more than others.
 
 ## Learning outcomes
 0. By the end I can say why my body needs food and water: to grow, to move and to stay well.
@@ -410,7 +410,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 ## Spotted around us
 - Cucumber slices with salt and chilli powder, sold at railway stations and bus stands on hot days.
 - Tender coconut sellers at the roadside, cutting open green coconuts full of coconut water.
-- Buttermilk, called neer mor in Tamil Nadu and majjige in Karnataka, given out free at street stalls in summer.
+- Buttermilk given out free at street stalls in summer.
 - Watermelons piled high on carts in April and May.
 - A clay matka or paanai of drinking water in a kitchen corner, with a tumbler on top.
 
@@ -447,11 +447,14 @@ Water in My Food (sci.food.L1): Topic-level song for Food L1
 
 ## Links
 - [Eat Right India](https://eatrightindia.gov.in/) · interactive: For the parent: plain advice on safe and healthy food from India's food safety authority, with ideas for children.
-- [Devaraja Market]() · place · Mysuru: An old covered market with heaps of fruit, vegetables, flowers and spices. Count the watery fruits.
-- [Mahatma Jyotiba Phule Market (Crawford Market)]() · place · Mumbai: A big old market full of fruit stalls, with mangoes, watermelons and much more in season.
-- [New Market]() · place · Kolkata: A busy market where you can see fruit, vegetables and sweets from all over Bengal.
+- Devaraja Market · place · Mysuru: An old covered market with heaps of fruit, vegetables, flowers and spices. Count the watery fruits.
+- Mahatma Jyotiba Phule Market (Crawford Market) · place · Mumbai: A big old market full of fruit stalls, with mangoes, watermelons and much more in season.
+- New Market · place · Kolkata: A busy market where you can see fruit, vegetables and sweets from all over Bengal.
 
 ## Things to buy
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Squeeze Test: which foods have water inside?, Make Kosambari: a crunchy salad from Karnataka. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a2. Get it before The Squeeze Test: which foods have water inside?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Squeeze Test: which foods have water inside?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Squeeze Test: which foods have water inside?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which has more water inside: a cucumber or a biscuit? → A cucumber. It is mostly water.
@@ -468,7 +471,7 @@ Water in My Food (sci.food.L1): Topic-level song for Food L1
 
 ## Sources
 - ideas/by_topic/food-and-a-balanced-diet.md: the SCI Cards for Barry Marshall and M. S. Swaminathan. Both were kept for higher levels, because their stories (stomach bacteria, high-yield farming) are beyond Class 1. The founder's oneness line ('the food on a plate was sunlight, soil, rain, bees and someone's work', PHILOSOPHY.md) shaped the roots thread.
-- Cambridge Primary Science Stage 1, 1.4 Healthy food and drink: healthy lunch box, a healthy plate, drinking lots of water. This unit keeps those ideas but builds the investigation round water in food.
+- Cambridge Primary Science Stage 1, 1.4 Healthy food and drink: healthy lunch box, a healthy plate, drinking lots of water. This lesson keeps those ideas but builds the investigation round water in food.
 - Water content of foods: cucumber about 95%, watermelon about 91 to 92%, banana about 75%, cooked white rice about 68 to 70%, biscuits a few percent (USDA FoodData Central; Indian Food Composition Tables, National Institute of Nutrition, Hyderabad, 2017).
 - Food supplies roughly 20 to 30% of daily water intake in adults (European Food Safety Authority, Scientific Opinion on Dietary Reference Values for Water, 2010).
 - Body water: about 60% of an adult's body weight, a little more in children. Water is lost through skin, breath, urine and faeces.

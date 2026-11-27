@@ -1,9 +1,9 @@
 # What plants need, and how they grow towards the light
 `sci.plants.what-plants-need.L2`
 
-**Summary.** Turn a pot of sprouts round, and by the next day they have bent back towards the window. Why? In this unit you will grow rai sprouts by a window and turn one cup round to watch them, look inside soil in a glass, and find out what a plant needs to grow.
+**Summary.** Turn a pot of sprouts round, and by the next day they have bent back towards the window. Why? In this lesson you will grow rai sprouts by a window and turn one cup round to watch them, look inside soil in a glass, and find out what a plant needs to grow.
 
-**Intro.** *Look at a plant that lives indoors, near a window. Which way are the leaves and stems leaning?* Most plants indoors lean towards the nearest window. Nobody pulled them that way. The plant grew that way. What happens if we turn the pot round, so the plant leans away from the window? In this unit we find out. We also look at the five things a plant needs: light, water, air, warmth and soil.
+**Intro.** *Look at a plant that lives indoors, near a window. Which way are the leaves and stems leaning?* Most plants indoors lean towards the nearest window. Nobody pulled them that way. The plant grew that way. What happens if we turn the pot round, so the plant leans away from the window? In this lesson we find out. We also look at the five things a plant needs: light, water, air, warmth and soil.
 
 ## Learning outcomes
 0. By the end I can name five things a plant needs: light, water, air, warmth and soil.
@@ -509,9 +509,9 @@ Anu turned the tumbler very carefully. Then she leaned her own head towards the 
 ## Spotted around us
 - A money plant in a flat, with all the leaves turned towards the window.
 - Grass and weeds growing out of cracks in a wall, all bending towards the open sky.
-- Yellow mustard fields in Punjab and Rajasthan in winter, seen from a train window.
+- Yellow mustard fields in winter, seen from a train window.
 - A potato in the kitchen basket growing pale shoots towards a gap of light.
-- Young sunflower plants in a field in Karnataka, all facing the same way in the morning.
+- Young sunflower plants in a field, all facing the same way in the morning.
 
 ## Open questions
 - **What is it like for a sprout to feel where the light is?** Plants have light sensors, and they act on what they sense. Nobody knows what that feeling is like for a plant.
@@ -545,10 +545,15 @@ Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for P
 ## Links
 - [Phototropism, on Wikipedia](https://en.wikipedia.org/wiki/Phototropism) · interactive: For the parent: a short read on how plants grow towards light, with pictures.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a plant from your balcony and find out their name.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, near Thiruvananthapuram: A large garden in the Kerala forest, with plants from wet, warm places.
-- [Lloyd Botanical Garden]() · place · Darjeeling: A hill garden where plants grow in cool air, very different from the plains.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, near Thiruvananthapuram: A large garden in the Kerala forest, with plants from wet, warm places.
+- Lloyd Botanical Garden · place · Darjeeling: A hill garden where plants grow in cool air, very different from the plains.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Maze Box: can a shoot find the way out?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Maze Box: can a shoot find the way out?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Soil or No Soil? Two cups of rai. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before Soil or No Soil? Two cups of rai.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Turning Cup: will the sprouts turn back?, Soil or No Soil? Two cups of rai, Straight or Bent? Two trays of rai to eat. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, p1. Get it before The Turning Cup: will the sprouts turn back?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Turning Cup: will the sprouts turn back?, Soil or No Soil? Two cups of rai, Straight or Bent? Two trays of rai to eat. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, e2, p1. Get it before The Turning Cup: will the sprouts turn back?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the five things a plant needs. → Light, water, air, warmth and soil.
@@ -564,7 +569,7 @@ Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for P
 - Core: a1, e1, a2, g1, ws-core
 
 ## Sources
-- ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this unit has a seedling dance; the torch game g2 uses the idea of sprouts answering the light instead.
+- ideas/by_topic/plants.md: Photosynthesis and vision row ('grow a potted plant in varying light and record growth'; 'light is life's bridge'). Its sunbeam dance was not used, because Level 3 of this lesson has a seedling dance; the torch game g2 uses the idea of sprouts answering the light instead.
 - Leads on from Level 1 (methi in light and dark, plates) and leads to Level 3 (fair tests of light, water and warmth with moong). This level adds phototropism, air in soil, soil and warmth, with rai seeds.
 - Phototropism: shoots bend towards one-sided light because auxin is moved to the shaded side, where cells elongate faster (the Cholodny-Went model, widely accepted, details still studied). Any plant physiology textbook, for example Taiz and Zeiger, Plant Physiology.
 - Charles Darwin, assisted by Francis Darwin, The Power of Movement in Plants (London, 1880): canary grass (Phalaris canariensis) seedlings with their tips covered did not bend towards light.

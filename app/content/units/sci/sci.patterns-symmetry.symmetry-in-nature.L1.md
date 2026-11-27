@@ -561,6 +561,9 @@ Two Sides the Same (sci.patterns-symmetry.L1): Topic-level song for Patterns and
 ## Things to buy
 - [Seeing Symmetry by Loreen Leedy](https://www.amazon.in/s?k=Seeing+Symmetry) (book): Clear pictures of symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child many examples of the pattern she is looking for. Used in a1. Read it together after the symmetry hunt.
 - [Snowflake Bentley by Jacqueline Briggs Martin](https://www.amazon.in/s?k=Snowflake+Bentley) (book): The true story of Wilson Bentley, the farmer who photographed snowflakes and found that no two are the same. It shows how patient looking leads to discovery. Used in a1. Read it together on Day 5, after looking at symmetry in nature.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Mirror Test: can half a thing and a mirror make the whole?, Dal Butterfly: build the other half. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1, a2. Get it before The Mirror Test: can half a thing and a mirror make the whole?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Dal Butterfly: build the other half. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before Dal Butterfly: build the other half.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, old1, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call it when a shape's two halves match? → Symmetry.

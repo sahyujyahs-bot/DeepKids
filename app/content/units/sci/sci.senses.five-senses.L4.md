@@ -1,9 +1,9 @@
 # Senses in action: how long a signal takes, and how the brain guesses
 `sci.senses.five-senses.L4`
 
-**Summary.** A friend drops a ruler between your fingers, and you always catch it only after it has fallen a hand-length. Where does the delay happen? In this unit you will measure your reaction time with a falling ruler, test how fast a smell fades from your nose, and try the rubber hand trick.
+**Summary.** A friend drops a ruler between your fingers, and you always catch it only after it has fallen a hand-length. Where does the delay happen? In this lesson you will measure your reaction time with a falling ruler, test how fast a smell fades from your nose, and try the rubber hand trick.
 
-**Intro.** *Ask a friend to hold a ruler upright, with its bottom between your finger and thumb. Do not move. Your friend lets go without any warning. Close your fingers as fast as you can. Look at the number where you caught it. Did your fingers close at once?* They did not. The ruler fell a hand-length or so before you caught it, even though you saw it start to fall. In this unit you measure that delay for the eyes, the ears and the skin, and you find out where the time goes. Then you test how small a change a sense can notice, how a smell fades while you stand in it, and how your brain guesses what is about to happen. You also meet animals that sense magnetism and electricity.
+**Intro.** *Ask a friend to hold a ruler upright, with its bottom between your finger and thumb. Do not move. Your friend lets go without any warning. Close your fingers as fast as you can. Look at the number where you caught it. Did your fingers close at once?* They did not. The ruler fell a hand-length or so before you caught it, even though you saw it start to fall. In this lesson you measure that delay for the eyes, the ears and the skin, and you find out where the time goes. Then you test how small a change a sense can notice, how a smell fades while you stand in it, and how your brain guesses what is about to happen. You also meet animals that sense magnetism and electricity.
 
 ## Learning outcomes
 0. I can explain that every sense sends the brain tiny pulses, and that a stronger stimulus makes more pulses each second, not bigger pulses.
@@ -669,7 +669,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 ## Spotted around us
 - A cyclist or auto driver leaving a gap behind the vehicle in front, because it takes a moment to react.
 - The hum of a ceiling fan that you stop hearing until it is switched off.
-- A tea-tasting room in the Nilgiris or Darjeeling, where tasters sip and spit again and again to compare leaves.
+- A tea-tasting room, where tasters sip and spit again and again to compare leaves.
 - A smoke alarm or gas-leak alarm that uses a loud sound and a flashing light, so it does not depend on one sense.
 - A cricketer reaching for a catch before the ball seems to arrive, because the brain predicts where it will be.
 - A room that suddenly feels quiet when someone turns off a fan or a refrigerator stops humming. You did not notice the hum until it stopped.
@@ -732,7 +732,12 @@ The World Comes In (sci.senses.L4): Topic-level song
 - [A 30 centimetre plastic ruler](https://www.amazon.in/s?k=30+cm+plastic+ruler+school) (tool): For the Ruler Drop test and the Reaction Ruler. A plastic one is light and cannot hurt a foot. Most homes already have one. Used in e1, p1. 
 - [A measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+with+ml+marks+kitchen) (tool): For the Bottle Lift test, to measure the water. A kitchen measuring cup does the same job. A steel or plastic kitchen cup with ml marks costs well under Rs 100. Used in e2. 
 - [A set of soft paintbrushes and a pair of rubber kitchen gloves](https://www.amazon.in/s?k=soft+paint+brush+set+for+kids) (material): For the Rubber Hand activity. The brushes stroke both hands, and one glove is stuffed to become the rubber hand. Two soft brushes and one rubber glove cost about Rs 100 together at a stationery or kirana shop. Used in a2. 
-- [An Immense World, by Ed Yong](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Optional: nothing in the unit depends on it, and a library copy is fine. Used in g1. Read one animal chapter aloud over a week, after the unit.
+- [An Immense World, by Ed Yong](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): A book for parents about animal senses, including magnetism and electricity. Read short passages aloud. Optional: nothing in the lesson depends on it, and a library copy is fine. Used in g1. Read one animal chapter aloud over a week, after the unit.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in The Reaction Ruler: build a ruler that reads time, and hold a three-day family league. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in p1. Get it before The Reaction Ruler: build a ruler that reads time, and hold a three-day family league.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Rubber Hand: can your eyes fool your skin?, The Reaction Ruler: build a ruler that reads time, and hold a three-day family league. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2, p1. Get it before The Rubber Hand: can your eyes fool your skin?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Rubber Hand: can your eyes fool your skin?, Pulse Talk: send a message using only touch. About ₹20 to ₹50. Torn clean cloth works. Used in a2, c1. Get it before The Rubber Hand: can your eyes fool your skin?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Tired Nose: how fast does a smell fade, and how fast does the nose wake up?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1. Get it before The Tired Nose: how fast does a smell fade, and how fast does the nose wake up?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does a stronger touch make a nerve send bigger pulses or more pulses? → More pulses each second. All pulses are the same size.
@@ -753,7 +758,7 @@ The World Comes In (sci.senses.L4): Topic-level song
 ## Sources
 - Founder's notebook, Senses: the SCI Cards for Obaid Siddiqi (the genetics of taste and smell in fruit flies) and Ibn al-Haytham (testing ideas against reality). The Grade 3 and 4 concept grids on reality ('perception constructs experience'), used for the roots and the last explanation.
 - Founder's weekly journey 'All Perception Is Subjective': two people with different clues drawing the same word, which is the idea behind the Bouba or Kiki test and the Sense Detectives game.
-- The Class 3 unit on the five senses, which this unit builds on. It showed that every sense sends nerve signals. This unit asks how long they take, how big a change must be, why steady things fade and how the brain guesses.
+- The Class 3 unit on the five senses, which this lesson builds on. It showed that every sense sends nerve signals. This lesson asks how long they take, how big a change must be, why steady things fade and how the brain guesses.
 - Adrian and Zotterman, 'The impulses produced by sensory nerve endings', Journal of Physiology, 1926 (pulse rate and stimulus strength)
 - Helmholtz, measurements of the speed of nerve conduction in the frog, 1850
 - Hecht, Shlaer and Pirenne, 'Energy, quanta and vision', Journal of General Physiology, 1942

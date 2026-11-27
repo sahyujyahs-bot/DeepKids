@@ -1,9 +1,9 @@
 # Friction: how hard is the grip, and what decides it?
 `sci.forces.friction.L4`
 
-**Summary.** Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this unit you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.
+**Summary.** Wind a thread round a bottle and each extra turn makes the grip stronger. How many turns does it take to hold it? In this lesson you will pull things with a rubber band gauge, see how pressing harder changes friction, and compare sliding with rolling on marbles.
 
-**Intro.** *Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?* At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this unit you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.
+**Intro.** *Try this. Lay your hand flat on a table and press down gently. Slide your hand along. Now press down hard and slide again. When was it harder to slide, and why do you think so?* At a harbour, one person can stop a huge boat with a rope wound round an iron post. Nobody's arm is strong enough to do that alone. In this lesson you will find out how the rope and the post do it. First you will test a simpler question. If you put more weight in a box, how much harder is it to pull? And does it matter which side of the box faces the floor? The answers surprise most people, and they explain the rope too.
 
 ## Learning outcomes
 0. I can say that friction grows when two surfaces press together harder, and that it also depends on what the two surfaces are made of.
@@ -135,7 +135,7 @@ To drag a box across a floor, you must keep pushing, and you do work. Scientists
   Against: Some other experiments found no clear help. Scientists do not agree.
 
 ## Roots
-In this unit we pulled a box in the Press Harder test, wound thread round a pencil in the Wrap the Thread test, and watched a ruler stick and slip in the Walking Ruler activity. Now we ask what friction tells us about touching, and about ourselves.
+In this lesson we pulled a box in the Press Harder test, wound thread round a pencil in the Wrap the Thread test, and watched a ruler stick and slip in the Walking Ruler activity. Now we ask what friction tells us about touching, and about ourselves.
 
 **Deep truth.** Two surfaces that look like they touch all over really touch at only a few tiny spots. Press harder, and more spots touch. The grip of friction is the sum of all those tiny touching spots. So touching is not a matter of yes or no. It is a matter of how much.  
 *Habit it breaks:* We say two things 'touch' as if the whole face of one meets the whole face of the other. But every surface is a mountain range under a microscope, and only the peaks meet. When we say 'touching', we really mean 'looks like it touches'.  
@@ -506,7 +506,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
    **Answer:** I would ask: if the area does not change the friction for hard surfaces, why would it help here? For soft, sticky rubber the rule is not exact, so I would ask them to show a test with the same load and the same road.. *Why:* A strong answer notes that for hard dry surfaces area hardly matters, and asks for a fair test that keeps the load the same.
 6. (sort) Which of these do scientists agree about, and which are still debated or unknown?  
    **Answer:** On hard, dry surfaces, friction is roughly proportional to the pressing force → Scientists agree; Why fingers wrinkle in water → Still debated or unknown; Two surfaces touch only at the tips of their bumps → Scientists agree; A single theory that predicts friction from atoms for every material → Still debated or unknown; The work done against friction becomes heat → Scientists agree. *Why:* The rules for hard, dry surfaces, the tiny real contact and the heat are settled. The wrinkles and a complete atomic theory are not.
-7. (mcq) An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this unit does that match?  
+7. (mcq) An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this lesson does that match?  
    Options: Stick-slip / Rolling friction / Fluid friction  
    **Answer:** Stick-slip. *Why:* The rocks stick, the push builds up, and then they slip all at once. This is stick-slip on a giant scale.
 8. (perspective) A harbour has an old boatwoman who knows the rope rule by experience, and a young scientist who knows the rule as an equation.  
@@ -654,6 +654,12 @@ Grip and Glide (sci.forces.L4): Topic-level song
 - [Plain cotton string or thread, a ball of 50 metres](https://www.amazon.in/s?k=cotton+string+ball) (material): For the Wrap the Thread test and the Lower the Load challenge. Do not buy kite thread coated with glass, called manja. Used in e2, c1. 
 - [A bag of glass marbles](https://www.amazon.in/s?k=glass+marbles+for+kids) (material): For the Rollers and Marbles activity, and as the things to move in the Wrinkled Fingers activity. Used in a2, a4. 
 - [A box of 100 paper clips](https://www.amazon.in/s?k=paper+clips+box) (material): They are the small weights counted in the Wrap the Thread test. A box costs a few rupees at a stationery shop. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Slow Drop: friction inside liquids, Wrinkled Fingers: do they grip wet things better?. About ₹150 to ₹400. A phone stopwatch works well. Used in a3, a4. Get it before The Slow Drop: friction inside liquids.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Press Harder: how does the load change the pull?, The Walking Ruler: two fingers that take turns, Rollers and Marbles: sliding against rolling. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a2. Get it before Press Harder: how does the load change the pull?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Walking Ruler: two fingers that take turns. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before The Walking Ruler: two fingers that take turns.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Press Harder: how does the load change the pull?, Wrap the Thread: how many turns hold the bottle?, Lower the Load: hold a heavy bottle with one finger. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, e2, c1. Get it before Press Harder: how does the load change the pull?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Rollers and Marbles: sliding against rolling. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before Rollers and Marbles: sliding against rolling.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What happens to friction if you double the weight on a box? → It about doubles.
@@ -674,7 +680,7 @@ Grip and Glide (sci.forces.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/forces-and-movement.md, the Friction section: slide blocks on different surfaces and measure the pull, rolling against sliding with toy cars, kitchen cloths with a glass, and the thought 'resistance gives us grip and control'. Used in the Press Harder test, Rollers and Marbles and the roots.
 - The Combined Class 4 forces lesson (combined/sci-C4-forces-and-movement.json): ideas on force arrows and friction in a lesson on pushes and pulls, used for the Lower the Load challenge and the game cards.
-- The Class 3 Friction unit (sci.forces.friction.L3), which this unit builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated.
+- The Class 3 Friction unit (sci.forces.friction.L3), which this lesson builds on: from 'friction is a grip' to 'what decides the size of the grip'. Its experiments and its story are not repeated.
 - Amontons, G., Histoire de l'Academie Royale des Sciences, 1699 (the first two laws of friction)
 - Coulomb, C. A., Theorie des machines simples, 1785 (the difference between starting and sliding friction, and tests of the area rule)
 - Bowden, F. P. and Tabor, D., The Friction and Lubrication of Solids, Oxford, 1950 (real contact area and adhesion)

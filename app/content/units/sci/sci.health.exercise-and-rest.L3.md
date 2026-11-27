@@ -1,9 +1,9 @@
 # Exercise and rest: why muscles get tired, and what sleep does
 `sci.health.exercise-and-rest.L3`
 
-**Summary.** Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this unit you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.
+**Summary.** Squeeze a clothes peg again and again and your fingers ache, but after two minutes of rest the strength comes back. Why? In this lesson you will test how a muscle tires and recovers, try three yoga poses, and keep a sleep diary.
 
-**Intro.** *Try this. Hold a full one-litre water bottle in one hand. Stretch your arm straight out to the side, at shoulder height. At first it feels light. Keep holding. After a minute your arm shakes and burns. The bottle did not get any heavier. So what changed?* What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this unit you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.
+**Intro.** *Try this. Hold a full one-litre water bottle in one hand. Stretch your arm straight out to the side, at shoulder height. At first it feels light. Keep holding. After a minute your arm shakes and burns. The bottle did not get any heavier. So what changed?* What changed was inside your arm. The muscles holding the bottle were working hard without a break. In this lesson you find out what a muscle uses up when it works, and what rest gives back. You also find out what exercise does to your body over weeks, and what your body and brain do while you sleep.
 
 ## Learning outcomes
 0. I can explain that a working muscle uses up its quick store of fuel, and that blood brings oxygen to help refill it while I rest.
@@ -307,7 +307,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Let your arm hang down. Squeeze fast for one minute. Say 'now' when it starts to ache.
   - Note: Count quietly. At 30 seconds, note the count without stopping.
 - **s4 (11 min)**  
-  *Parent does:* 1. Rest for 10 minutes. Read or listen to this unit's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.  
+  *Parent does:* 1. Rest for 10 minutes. Read or listen to this lesson's story, 'The Night Before Pongal', if you like. 2. Then your child stands with the back to a wall and raises the squeezing arm straight up against the wall. 3. Time one minute, and count and note the ache in the same way.  
   *Parent says:* Now a long rest, so your fingers start fresh. Then the same test with your arm held straight up against the wall.  
   *Child mode:* Rest for 10 minutes. Then lean your back on the wall and raise your arm straight up. Squeeze fast for one minute. Say 'now' when it aches.
   - Note: Most children feel the ache sooner with the arm up. Resting the arm against the wall stops the shoulder tiring first.
@@ -358,7 +358,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* The bottle weighed the same all the time. So why did it feel heavier and heavier?  
   *Child mode:* The bottle did not get heavier. Think about your arm. What was it doing all that time?
   - Ask: Why did the bottle feel heavier and heavier? (good: My arm muscles got tired.; The muscles were working without a rest.)
-  - Note: Do not explain yet. Let your child guess. The Tired Peg experiment in this unit answers the question.
+  - Note: Do not explain yet. Let your child guess. The Tired Peg experiment in this lesson answers the question.
 - **s3 (3 min)**  
   *Parent does:* 1. Rest the arm for one minute. 2. Try again, timing it. 3. Compare the two times.  
   *Parent says:* Rest your arm for one minute. Then try again. Will you last as long as the first time?  
@@ -681,7 +681,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - Yoga is taught in many Indian schools, hospitals and offices to help people stay flexible and calm.
 
 ## Spotted around us
-- People doing yoga at sunrise on Marina Beach in Chennai, on a rooftop in Kolkata, or in a city park.
+- People doing yoga at sunrise on a beach, on a rooftop or in a city park.
 - A cricket bowler walking slowly back to the start of the run before bowling again.
 - A street dog asleep in the afternoon shade, paws twitching in a dream.
 - A delivery rider resting on the scooter at a tea stall between orders.
@@ -737,6 +737,12 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song for Health and well-be
 ## Things to buy
 - [A pack of spring clothes pegs (cloth clips)](https://www.amazon.in/s?k=cloth+clips+plastic) (material): Most homes already have them. If not, a pack costs very little at a hardware or plastic goods shop. Pick firm ones, because very soft pegs are too easy to tire the fingers. Used in e1, e2. 
 - [A yoga mat (optional)](https://www.amazon.in/s?k=yoga+mat+kids) (tool): A mat stops the feet slipping in tree pose. A folded bedsheet or a durrie on the floor works too. Used in a2, p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Taller in the Morning? A bedtime and wake-up measure, My Ten-Day Yoga Log: does practice make me steadier?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, p1. Get it before Taller in the Morning? A bedtime and wake-up measure.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in My Ten-Day Yoga Log: does practice make me steadier?. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before My Ten-Day Yoga Log: does practice make me steadier?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Taller in the Morning? A bedtime and wake-up measure. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e3. Get it before Taller in the Morning? A bedtime and wake-up measure.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Sleep Den: help someone fall asleep in a noisy city. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before The Sleep Den: help someone fall asleep in a noisy city.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Sleep Den: help someone fall asleep in a noisy city. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before The Sleep Den: help someone fall asleep in a noisy city.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does blood bring to a working muscle? → Oxygen and food.

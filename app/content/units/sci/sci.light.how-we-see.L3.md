@@ -1,9 +1,9 @@
 # How we see: light comes into our eyes
 `sci.light.how-we-see.L3`
 
-**Summary.** Is it light going into your eye that lets you see, or something coming out of it? In this unit you will try to see inside a dark box, watch your pupils change, find your blind spot, and draw the path light takes into your eye.
+**Summary.** Is it light going into your eye that lets you see, or something coming out of it? In this lesson you will try to see inside a dark box, watch your pupils change, find your blind spot, and draw the path light takes into your eye.
 
-**Intro.** *Close your eyes. Now open them. Did something go out of your eyes to the room? Or did something come into your eyes from the room?* Try this tonight with a grown-up. Go into the darkest room you have, such as a bathroom, switch off the light and shut the door. Push a towel against the gap under the door. Open your eyes as wide as you can, and hold your hand in front of your face. If no light gets in, you cannot see your hand at all, even though your eyes are healthy and open. Why not? By the end of this unit you will know what your eyes need, and what really happens when you look at something.
+**Intro.** *Close your eyes. Now open them. Did something go out of your eyes to the room? Or did something come into your eyes from the room?* Try this tonight with a grown-up. Go into the darkest room you have, such as a bathroom, switch off the light and shut the door. Push a towel against the gap under the door. Open your eyes as wide as you can, and hold your hand in front of your face. If no light gets in, you cannot see your hand at all, even though your eyes are healthy and open. Why not? By the end of this lesson you will know what your eyes need, and what really happens when you look at something.
 
 ## Learning outcomes
 0. I can say that we see things only when light comes into our eyes.
@@ -552,7 +552,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* Look at both drawings. What's different? What made you change your mind?  
   *Child mode:* Put your two drawings side by side. What changed? What made you change your mind?
   - Note: A good answer names one test. For example, in the dark box nothing could be seen with no light, so eyes cannot be sending out rays.
-  - Think: Scientists change their ideas when they find new evidence. What did you see or do in this unit that changed your drawing?
+  - Think: Scientists change their ideas when they find new evidence. What did you see or do in this lesson that changed your drawing?
 
 ## Projects
 ### p1 · Eye in a Box (50 min, 2 days)
@@ -851,6 +851,13 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru, Karnataka: A science museum with hands-on exhibits about light and seeing.
 
 ## Things to buy
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Find Your Blind Spot. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before Find Your Blind Spot.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Find Your Blind Spot. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before Find Your Blind Spot.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Watch Your Pupils Change. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e2. Get it before Watch Your Pupils Change.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Dark Box: can we see without light?, Night Eyes: 20 minutes in the dark, Light the Reading Corner Without a Bulb. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, a3, c1. Get it before The Dark Box: can we see without light?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Ibn al-Haytham's Lamps, Eye in a Box. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a4, p1. Get it before Ibn al-Haytham's Lamps.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Find Your Blind Spot. About ₹5 to ₹20. Cut card from a cereal box. Used in a2. Get it before Find Your Blind Spot.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Does the Moon make its own light? → No. Sunlight bounces off it.

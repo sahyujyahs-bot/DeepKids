@@ -1,9 +1,9 @@
 # Animal societies: how elephants, ants and wolves live and decide together
 `sci.animal-behaviour.animal-societies.L3`
 
-**Summary.** When ants find sugar, who decides which drop the colony chooses? In this unit you will watch an ant road for five minutes, put out weak and strong sugar and count the ants, draw an elephant family tree, and sort animals into herds, colonies and packs.
+**Summary.** When ants find sugar, who decides which drop the colony chooses? In this lesson you will watch an ant road for five minutes, put out weak and strong sugar and count the ants, draw an elephant family tree, and sort animals into herds, colonies and packs.
 
-**Intro.** *Put one drop of sugar water near a line of ants and watch. One ant finds the drop. A few minutes later there are five, then twenty. Nobody can see an ant giving orders. So how does a crowd of ants agree where to go?* Ants are not the only animals who act together. Elephants walk in families led by a grandmother. Wolves hunt as a family. In this unit you test how ants choose between two foods, and you find out who leads an elephant family and a wolf pack, and why. You also find out about a famous mistake scientists made about wolves.
+**Intro.** *Put one drop of sugar water near a line of ants and watch. One ant finds the drop. A few minutes later there are five, then twenty. Nobody can see an ant giving orders. So how does a crowd of ants agree where to go?* Ants are not the only animals who act together. Elephants walk in families led by a grandmother. Wolves hunt as a family. In this lesson you test how ants choose between two foods, and you find out who leads an elephant family and a wolf pack, and why. You also find out about a famous mistake scientists made about wolves.
 
 ## Learning outcomes
 0. I can explain what an animal society is, and name three: an elephant family, an ant colony and a wolf pack.
@@ -624,10 +624,10 @@ Doddamma had brought her family to the river again.
 ## Spotted around us
 - A line of ants on the kitchen platform or a window sill, walking to food and back.
 - Ants tapping antennae when they meet on a path.
-- Weaver ant nests made of leaves pulled together, in mango or cashew trees in Kerala, Goa, Odisha and the Northeast.
+- Weaver ant nests made of leaves pulled together, in mango or cashew trees.
 - A group of street dogs who sleep in the same spot every night and walk the street together.
 - Crows calling each other to food, or mobbing a cat together.
-- Elephant families in Nagarhole, Bandipur, Periyar, Kaziranga and Corbett, walking behind an old female.
+- Elephant families in a forest or a zoo, walking behind an old female.
 
 ## Open questions
 - **Is an ant colony one mind, or many minds working together?** Each ant senses and chooses, and the colony also makes choices. Scientists disagree on whether to call the colony a superorganism.
@@ -673,13 +673,16 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 - [AntWiki](https://www.antwiki.org) · interactive: For curious older children and parents: photos and facts on thousands of kinds of ants, including Indian ones.
 - [International Wolf Center](https://wolf.org) · interactive: Facts about wolf packs and families, from the centre David Mech helped to found.
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Look up ants, wasps, wolves and elephants seen in India, and add your own sightings.
-- [Nagarhole National Park and the Kabini river]() · place · Near Mysuru, Karnataka: In summer, hundreds of elephants gather along the Kabini river. Safari buses run from the forest department.
-- [Periyar Tiger Reserve]() · place · Thekkady, Kerala: Elephant families come down to drink at the lake. Boat rides let you watch from the water.
-- [Kaziranga National Park]() · place · Assam: Elephant families graze on the open grasslands, easy to watch from a jeep.
-- [Velavadar Blackbuck National Park]() · place · Near Bhavnagar, Gujarat: One of the best places in India to see Indian wolves hunting on open grassland.
-- [Bannerghatta Biological Park]() · place · Bengaluru: See Asian elephants up close and ask the keepers how the elephants get along with each other.
+- Nagarhole National Park and the Kabini river · place · Near Mysuru, Karnataka: In summer, hundreds of elephants gather along the Kabini river. Safari buses run from the forest department.
+- Periyar Tiger Reserve · place · Thekkady, Kerala: Elephant families come down to drink at the lake. Boat rides let you watch from the water.
+- Kaziranga National Park · place · Assam: Elephant families graze on the open grasslands, easy to watch from a jeep.
+- Velavadar Blackbuck National Park · place · Near Bhavnagar, Gujarat: One of the best places in India to see Indian wolves hunting on open grassland.
+- Bannerghatta Biological Park · place · Bengaluru: See Asian elephants up close and ask the keepers how the elephants get along with each other.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Weak Sugar or Strong Sugar: which drop does the colony choose?, Who Is in Charge? Watch an ant road for five minutes, The Ant Road Map: three days with our colony. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1, a1, p1. Get it before Weak Sugar or Strong Sugar: which drop does the colony choose?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Living Bridge. About ₹10 to ₹30. Any school ruler is fine. Used in c1. Get it before A Living Bridge.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Who leads an elephant family? → The matriarch, usually the oldest female.

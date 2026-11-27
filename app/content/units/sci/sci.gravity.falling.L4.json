@@ -2656,6 +2656,89 @@
    "used_in": [
     "a2"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Walking Drop: where does a ball land if you drop it while walking?, Falling on Video: find how fast a ball speeds up, Marble to the Cup: hit a hidden target. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e2",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Walking Drop: where does a ball land if you drop it while walking?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Liner Stacks: does a heavier stack fall faster in air?, The Walking Drop: where does a ball land if you drop it while walking?, Swings: does a heavy swing swing faster?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "e2",
+    "a3"
+   ],
+   "plan": "Get it before Liner Stacks: does a heavier stack fall faster in air?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Walking Drop: where does a ball land if you drop it while walking?, Dents in Dough: does a faster hit dig deeper?, Swings: does a heavy swing swing faster?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "e3",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Walking Drop: where does a ball land if you drop it while walking?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Liner Stacks: does a heavier stack fall faster in air?, The Walking Drop: where does a ball land if you drop it while walking?, Dents in Dough: does a faster hit dig deeper?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Liner Stacks: does a heavier stack fall faster in air?."
+  },
+  {
+   "id": "b-sticky-notes",
+   "item": "Sticky notes",
+   "kind": "material",
+   "why": "Used in The Walking Drop: where does a ball land if you drop it while walking?, Marble to the Cup: hit a hidden target. About ₹20 to ₹60. Small torn paper and tape do the same job.",
+   "url": "https://www.amazon.in/s?k=sticky+notes+pack",
+   "used_in": [
+    "e2",
+    "c1"
+   ],
+   "plan": "Get it before The Walking Drop: where does a ball land if you drop it while walking?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

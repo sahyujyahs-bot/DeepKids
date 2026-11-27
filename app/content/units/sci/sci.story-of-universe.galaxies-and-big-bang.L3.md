@@ -1,9 +1,9 @@
 # Galaxies and the Big Bang: the universe is growing, and it had a beginning
 `sci.story-of-universe.galaxies-and-big-bang.L3`
 
-**Summary.** Far galaxies are moving away from us faster than near ones. Does that put us at the centre of the universe? In this unit you will draw bindis on a balloon and blow it up to find out, tilt a spiral to see its shapes, and make a universe calendar on the wall.
+**Summary.** Far galaxies are moving away from us faster than near ones. Does that put us at the centre of the universe? In this lesson you will draw bindis on a balloon and blow it up to find out, tilt a spiral to see its shapes, and make a universe calendar on the wall.
 
-**Intro.** *Astronomers have found that almost every galaxy in the sky is moving away from us. Does that mean we are at the centre of the universe?* In this unit you stick bindis on a balloon and blow it bigger, to see how things move when the space between them grows. You meet the shapes that galaxies come in, and test how one galaxy can look like different shapes. You find out how Henrietta Leavitt and Edwin Hubble showed that our Milky Way is one galaxy among very many. And you learn why looking far away means looking back in time.
+**Intro.** *Astronomers have found that almost every galaxy in the sky is moving away from us. Does that mean we are at the centre of the universe?* In this lesson you stick bindis on a balloon and blow it bigger, to see how things move when the space between them grows. You meet the shapes that galaxies come in, and test how one galaxy can look like different shapes. You find out how Henrietta Leavitt and Edwin Hubble showed that our Milky Way is one galaxy among very many. And you learn why looking far away means looking back in time.
 
 ## Learning outcomes
 0. I can say what a galaxy is, and name the main shapes: spiral, barred spiral, elliptical and irregular.
@@ -429,7 +429,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 ### c1 · A Universe with No Centre (30 min)
 - **problem:** Make a model, from things at home, that shows three things at once. Far galaxies move apart more than near ones. There is no centre. And the galaxies themselves do not grow.
 - **your turn:** Now make your own model. Test it on someone in your family. Can they find all three things without your help?
-- **constraints:** Use only things you have at home.; Someone who has not done this unit must be able to see all three things in your model.; You must be able to explain it in 5 sentences or fewer.
+- **constraints:** Use only things you have at home.; Someone who has not done this lesson must be able to see all three things in your model.; You must be able to explain it in 5 sentences or fewer.
 - **general:** A balloon with bindis stuck on it, blown bigger.; Elastic with dots on it, stretched.; A stretchy cloth with buttons stitched or taped on, pulled from all sides.
 - **creative:** Take a phone photo of some dots and zoom in on it with two fingers. Every dot moves away from every other dot. But the dots also get bigger, so this model gets one thing wrong. Can you find it?; Use a stretchy cloth pulled by four people at four corners, so it stretches in every direction at once.; Draw dots on paper, then draw the same dots on a bigger sheet with every gap doubled.
 - **s1 (5 min)**  
@@ -606,7 +606,7 @@ Periamma had been listening from the doorway. 'That is exactly what astronomers 
 - The Milky Way, as a faint glowing band across the sky, on a clear night far from city lights, for example in a village or during a long power cut.
 - The Andromeda galaxy, a faint grey smudge high up in the eastern sky on November evenings, from a dark place only.
 - A swirl of milk in a tumbler of filter coffee, which looks like a spiral galaxy. The coffee's spiral forms in a different way.
-- The 30 big dishes of the Giant Metrewave Radio Telescope near Narayangaon in Pune district, which pick up radio waves from far galaxies.
+- A picture of big radio telescope dishes, which pick up radio waves from far galaxies.
 - Galaxy photos in the newspaper when a telescope such as AstroSat or Webb makes a new find.
 
 ## Open questions
@@ -657,6 +657,12 @@ Every Galaxy Moving Apart (sci.story-of-universe.L3): Topic-level song for The s
 
 ## Things to buy
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons) (material): For the Bindi Balloon experiment and the No Centre challenge. Any shop that sells party things has them. Light colours show the bindis best. Buy a few spare, in case one bursts. Used in e1, c1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Stretch the Elastic: does every mark move the same?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Stretch the Elastic: does every mark move the same?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Bindi Balloon: do far bindis move away faster than near ones?, A Grain of Sand of Sky: count the galaxies in one tiny patch, Stretch the Elastic: does every mark move the same?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, a3, c1. Get it before The Bindi Balloon: do far bindis move away faster than near ones?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Tilt the Spiral: can one galaxy look like different shapes?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e2. Get it before Tilt the Spiral: can one galaxy look like different shapes?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Tilt the Spiral: can one galaxy look like different shapes?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before Tilt the Spiral: can one galaxy look like different shapes?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in A Grain of Sand of Sky: count the galaxies in one tiny patch. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a1. Get it before A Grain of Sand of Sky: count the galaxies in one tiny patch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a galaxy? → A huge group of stars, gas and dust, held together by gravity.

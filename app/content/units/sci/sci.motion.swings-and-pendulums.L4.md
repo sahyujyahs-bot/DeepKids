@@ -1,9 +1,9 @@
 # Swings and pendulums: how a swing trades height for speed
 `sci.motion.swings-and-pendulums.L4`
 
-**Summary.** A bag of coins on a thread never swings back higher than where it started, even when a pencil stops the thread halfway. In this unit you will test this, see how far a box slides when a bag falls from higher up, and time many swings with a stopwatch.
+**Summary.** A bag of coins on a thread never swings back higher than where it started, even when a pencil stops the thread halfway. In this lesson you will test this, see how far a box slides when a bag falls from higher up, and time many swings with a stopwatch.
 
-**Intro.** *Hold a bag of coins on a thread at the height of your chin. Let go, without pushing. The bag swings down and across, and climbs up the other side. Does it come back as high as your chin, higher, or lower? Now put a pencil in the way of the thread, so the thread catches on it halfway down. Will the bag still climb as high?* An earlier unit on pendulums showed that the length of the thread sets the beat. This unit asks a different question. Where does a swing get its speed, and where does that speed go? Guess now whether the bag will climb as high when a pencil catches its thread, and write your guess down. You will test it in the first experiment, the Peg Test.
+**Intro.** *Hold a bag of coins on a thread at the height of your chin. Let go, without pushing. The bag swings down and across, and climbs up the other side. Does it come back as high as your chin, higher, or lower? Now put a pencil in the way of the thread, so the thread catches on it halfway down. Will the bag still climb as high?* An earlier unit on pendulums showed that the length of the thread sets the beat. This lesson asks a different question. Where does a swing get its speed, and where does that speed go? Guess now whether the bag will climb as high when a pencil catches its thread, and write your guess down. You will test it in the first experiment, the Peg Test.
 
 ## Learning outcomes
 0. I can explain that a swinging bob trades height for speed on the way down, and speed for height on the way up.
@@ -36,11 +36,13 @@
 ### Two forms of energy: height and movement · *defined*
 **Definition:** A thing high up has height energy, because it can fall. A moving thing has movement energy. A swing keeps swapping one for the other.
 
-Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this unit we say height energy and movement energy. Both are counted in a unit called the joule. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.
+Hold a bag of coins high and let go. It falls, and the further it falls, the faster it goes. The height it had is turning into speed. Scientists call the energy of height gravitational potential energy, and the energy of movement kinetic energy. In this lesson we say height energy and movement energy. Both are counted in a unit called the joule. A thing held higher has more height energy. A thing moving faster has more movement energy. Mass matters too, because a heavy thing held at the same height has more of both. But for the swing, the bob's mass stays the same, so only height and speed change.
 - e.g. A cricket ball held on the roof has height energy. After it falls, the same energy is in its movement.
 - e.g. A water tank on a roof has height energy. The water falls through the pipe and arrives at the tap with speed.
 - e.g. A child at the top of a slide has height energy. At the bottom the child has movement energy.
 - e.g. A swing at the end of its path has the most height energy. At the bottom it has the most movement energy.
+- **Gottfried Leibniz (1680s):** Said a moving thing carries 'living force', which grows with the square of its speed.
+- **Followers of Descartes and Newton:** Said the right quantity is momentum, which grows with speed alone. Later it was seen that both are real and useful, and they are different things.
 ### The swap: how a swing trades height for speed · *defined*
 **Definition:** On the way down, a bob loses height and gains speed. On the way up, it loses speed and gains height. The two add up to a total that stays almost the same.
 
@@ -49,6 +51,8 @@ Pull a bob to one side and you lift it, so it has height energy and no movement.
 - e.g. A bag of coins let go from chin height never touches your nose on its way back.
 - e.g. A marble rolled in a bowl climbs the far side to nearly the same height.
 - e.g. A skateboarder in a half-pipe rises to nearly the same height on both sides.
+- **Galileo:** Showed that a ball that swings down rises to nearly the same height. Height seems to be kept.
+- **Hermann von Helmholtz:** In 1847 stated that energy is never lost, only changed from one form to another. Height energy and motion energy are two forms.
 ### The peg: the path can change but the height stays · *defined*
 **Definition:** A bob that falls from a certain height rises again to that same height, whatever path it takes on the way up, as long as nothing steals its energy.
 
@@ -56,6 +60,8 @@ Galileo showed this with a pendulum and a nail. He hung a ball on a thread and l
 - e.g. A roller coaster car cannot climb a hill taller than the first hill, unless it gets another push.
 - e.g. A ball let go at the top of a curved slide rises to the same height up a steeper slide on the other side.
 - e.g. A bob on a thread with a peg swings faster around the short part but rises to the same height.
+- **Galileo:** In his book Two New Sciences he describes a pendulum catching on a nail. It rises to the same height whichever way it goes.
+- **Roller coaster designers:** Rely on the same fact. A car rolling down one hill can climb the next hill only up to the height it started at, less what friction takes.
 ### How long a swing takes: the rule for the period · *defined*
 **Definition:** For a small swing, the period in seconds is about twice the square root of the length in metres. A pendulum 1 metre long takes about 2 seconds, and one 25 centimetres long takes about 1 second.
 
@@ -63,6 +69,8 @@ A square root is the number that, multiplied by itself, gives the number you sta
 - e.g. A pendulum of 25 centimetres takes about 1 second. One of 100 centimetres takes about 2 seconds.
 - e.g. A clock pendulum that ticks once a second each way is about 1 metre long.
 - e.g. A long swing on 4 metre chains takes about 4 seconds for a full swing.
+- **Christiaan Huygens:** In 1673 he proved the rule for the time of a swing, which depends on the length and on gravity.
+- **Jean Richer:** In 1672 he took a clock from Paris to Cayenne near the equator and found that it ran slow. Gravity is a little weaker there, so the pendulum took longer.
 ### The Earth's pull sets the beat · *defined*
 **Definition:** A pendulum's period depends on the length and on the strength of gravity. Where gravity is weaker, the same pendulum swings more slowly.
 
@@ -70,6 +78,8 @@ On the Moon, gravity is about one sixth as strong as on Earth. The same pendulum
 - e.g. On the Moon a 1 metre pendulum would take about 5 seconds for a full swing, instead of 2.
 - e.g. A pendulum clock moved to a high mountain runs very slightly slow.
 - e.g. Geologists once used pendulums to look for rock structures hidden underground, because the pull differs by a tiny amount over them.
+- **Everyday view:** Gravity is the same everywhere, so a clock keeps the same time anywhere.
+- **Jean Richer (1672):** Took a pendulum clock to Cayenne near the equator and found it ran slow. Gravity is a little weaker there, because the Earth bulges at the equator.
 ### Why a swing dies down but keeps its beat · *defined*
 **Definition:** A pendulum loses a little energy on every swing to the air and to the pivot. Each swing gets smaller, but the beat stays almost the same. A clock gives the pendulum a tiny push each swing to replace what it loses.
 
@@ -77,6 +87,8 @@ The air pushes back on the bob as it moves, and the pivot rubs a little. The ene
 - e.g. A coin bag in a quiet room swings for a long time. With a postcard taped to it, the bag stops much sooner.
 - e.g. An old wall clock needs winding every day or every week, depending on the clock, to keep its pendulum going.
 - e.g. A pendulum swung in water stops after a few swings, because water pushes back far harder than air.
+- **Galileo:** Believed the time of a swing stayed the same however wide it was.
+- **Huygens:** Found that this is only close to true for small swings. The beat stays the same as the swing dies down only when it is small.
 ### Pumping a swing: adding energy with your body · *defined*
 **Definition:** A person on a swing can add energy by standing up and crouching down at the right moments. This makes the swing act like a slightly shorter and then a slightly longer pendulum, in time with the swing.
 
@@ -84,6 +96,8 @@ A swing is a pendulum, and you are the bob. When you stand up at the lowest poin
 - e.g. A child on a park swing standing up at the bottom and crouching at the top.
 - e.g. A trapeze artist leaning at the right moments of each swing.
 - e.g. In the cathedral of Santiago de Compostela in Spain, a team of men pull the rope of a huge incense burner in time with its swing, to make it fly very high.
+- **Physicists:** Describe pumping as a way to change the length of the pendulum at the right moments, called parametric pumping, rather than a push.
+- **The monks of Santiago de Compostela:** Swing a huge incense burner, the botafumeiro, by pulling the rope at the right moments. It travels in a wide arc, high in the church, by this same trick.
 ### Resonance in bigger things: pushes that add up · *defined*
 **Definition:** A thing with a natural beat grows a big swing if it is pushed at that beat. This is called resonance. It can make a very big thing sway.
 
@@ -91,6 +105,8 @@ A swing has a natural beat. Small pushes at the same beat add up, and the swing 
 - e.g. Pushing a friend on a swing every time they come back to you.
 - e.g. Soldiers breaking step on a bridge.
 - e.g. A heavy pendulum near the top of a tall building, which swings against the sway of the building in an earthquake or high wind.
+- **Textbooks for many years:** The Tacoma Narrows bridge fell in 1940 because winds pushed it at its natural beat.
+- **Engineers such as Billah and Scanlan (1991):** Said the bridge fell because of a twisting flutter, where the bridge's own motion draws energy from the wind. Resonance is real but is not the whole story.
 ### Stiff pendulums: when the whole thing swings · *defined*
 **Definition:** A stiff swinging thing such as a ruler is a pendulum too. Its weight is spread along its length, so it swings as if its length were shorter than it really is.
 
@@ -98,6 +114,8 @@ A ruler hung from one end swings like a pendulum, but the weight is spread out a
 - e.g. A 30 centimetre ruler hung by its end swings like a 20 centimetre pendulum.
 - e.g. A gibbon hanging from a branch swings her whole body like a stiff pendulum.
 - e.g. Your arm swings freely when you walk, at about the same beat as your legs.
+- **Christiaan Huygens:** In 1673 worked out where a stiff pendulum acts as if all its weight sat at one point.
+- **Henry Kater:** In 1817 used a stiff pendulum with two pivots to measure gravity very exactly. The shape of the pendulum was part of the result.
 ### Timing many swings gives a better answer · *defined*
 **Definition:** Everyone presses a stopwatch a little early or late. That mistake is about the same size whether you time one swing or thirty, so it matters much less when the total time is long.
 
@@ -105,6 +123,8 @@ Say your reaction is a fifth of a second late each time you press the button. If
 - e.g. A time of 1.3 seconds for one swing can be wrong by 0.3 seconds. A time of 30.4 seconds for 30 swings is only wrong by about 1 percent.
 - e.g. A runner's lap time is more trustworthy if you time ten laps and divide by ten.
 - e.g. Scientists who keep the exact second today count the beats of atoms, billions of them, for the same reason: the more beats you count, the smaller the share of the mistake.
+- **Galileo:** Used his pulse as a clock to time swings. A body is not exact, but it served.
+- **Statisticians:** Say that errors of timing go up and down, so many measures averaged give a better answer than any one. Timing many swings spreads the error of start and stop.
 
 ## Mostly agreed
 - A thing high up has energy of height, and a moving thing has energy of movement. In a swing the two swap, and the total stays almost the same. *How we know:* A bob let go from a height rises on the far side to almost the same height. This has been measured for centuries.
@@ -136,7 +156,7 @@ Say your reaction is a fifth of a second late each time you press the button. If
   Against: The energy has not vanished. It has turned into a tiny amount of warmth in the air and in the pivot. Energy is never lost, only changed.
 
 ## Roots
-In this unit you followed energy through a swing and tested how high a bob climbs. This part asks what the swap between height and speed tells us about the world, and about ourselves.
+In this lesson you followed energy through a swing and tested how high a bob climbs. This part asks what the swap between height and speed tells us about the world, and about ourselves.
 
 **Deep truth.** In the Peg Test, a pencil peg shortened the thread, yet the bag still climbed to the same height. How high a bob climbs depends on how far it fell, not on the path. Its height turned into speed on the way down, and the speed turned back into height on the way up. So the path can change a lot while the height stays the same.  
 *Habit it breaks:* We think the path decides where something ends up, so a tighter, quicker curve should fling the bob higher. In a swing the path does not matter. Only the height it fell from sets the height it reaches.  
@@ -734,6 +754,11 @@ Back and Forth (sci.motion.L4): Topic-level song
 ## Things to buy
 - [A simple digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch+for+kids) (tool): A phone stopwatch works, but a separate stopwatch with a big button is easier for a child to press at exactly the right moment. Used in e3, a3, p1, c1. 
 - [A flexible measuring tape](https://www.amazon.in/s?k=tailor+measuring+tape) (tool): For measuring thread lengths and slide distances. A tailor's tape from a sewing shop is enough. Used in e1, e2, p1, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Peg Test: does a bob rise to the same height?, Height and Hit: how far does a box slide?, How Many Swings Should You Time?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a1, a2, a3, a4, p1, c1. Get it before The Peg Test: does a bob rise to the same height?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Peg Test: does a bob rise to the same height?, Three-Quarter Pendulum: where must the peg go?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, c1. Get it before The Peg Test: does a bob rise to the same height?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Marble in a Bowl: how high does it climb?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before Marble in a Bowl: how high does it climb?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Marble in a Bowl: how high does it climb?. About ₹10 to ₹40. Small round stones or dried chana. Used in a1. Get it before Marble in a Bowl: how high does it climb?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the weight at the end of a pendulum called? → The bob.
@@ -755,7 +780,7 @@ Back and Forth (sci.motion.L4): Topic-level song
 - ideas/by_topic/energy.md: 'swing a pendulum to see energy swap between kinetic and potential' and 'mime of a pendulum's swing' (used in Swap Shop and the Peg Test)
 - ideas/by_topic/gravity.md: 'measure pendulum period to see gravity's effect' and 'build a DIY Foucault pendulum' (used in the project on the pull of the Earth and in the explanations)
 - ideas/by_topic/forces-and-movement.md: 'use a pendulum to measure length and period' and 'create double pendulum to show chaos' (used in the timing test and in the open questions)
-- The Class 3 unit on swings and pendulums, which this unit builds on: the idea that length sets the beat, now extended to energy, the period rule and timing error
+- The Class 3 unit on swings and pendulums, which this lesson builds on: the idea that length sets the beat, now extended to energy, the period rule and timing error
 - Galileo Galilei, Discourses and Mathematical Demonstrations Relating to Two New Sciences, 1638 (the pendulum with a nail, rising to the same height)
 - Christiaan Huygens, Horologium Oscillatorium, 1673 (the period of a pendulum, and the first pendulum clock of 1656)
 - Willem 's Gravesande, experiments dropping brass balls into soft clay, about the 1720s

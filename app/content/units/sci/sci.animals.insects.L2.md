@@ -1,9 +1,9 @@
 # Insects and small creatures: counting legs, and how a tiny ant carries so much
 `sci.animals.insects.L2`
 
-**Summary.** An ant is tiny, so how big a crumb can it carry? In this unit you will test which crumbs ants carry and count what is left, race to count whether small creatures have six legs, eight or none, and build an insect and a spider from dough.
+**Summary.** An ant is tiny, so how big a crumb can it carry? In this lesson you will test which crumbs ants carry and count what is left, race to count whether small creatures have six legs, eight or none, and build an insect and a spider from dough.
 
-**Intro.** *A crumb is moving across the kitchen floor by itself. Look closer. An ant is carrying the crumb. How can something so small carry so much?* Small creatures live all around us, even in a flat. Ants walk in lines in the kitchen. A spider waits in a corner of the bathroom. A butterfly visits the curry leaf plant on the balcony. Some of these small creatures are insects, and some are not. You can tell them apart by counting their legs. In this unit you count legs on ants, spiders and butterflies. Then you test how big a crumb an ant can carry.
+**Intro.** *A crumb is moving across the kitchen floor by itself. Look closer. An ant is carrying the crumb. How can something so small carry so much?* Small creatures live all around us, even in a flat. Ants walk in lines in the kitchen. A spider waits in a corner of the bathroom. A butterfly visits the curry leaf plant on the balcony. Some of these small creatures are insects, and some are not. You can tell them apart by counting their legs. In this lesson you count legs on ants, spiders and butterflies. Then you test how big a crumb an ant can carry.
 
 ## Learning outcomes
 0. By the end I can say that an insect has six legs, three body parts and two feelers, and name some insects: ants, bees and butterflies.
@@ -97,7 +97,7 @@ We have counted legs, met insects, spiders and worms, and watched ants carry cru
 
 An ant colony carries home far more food than any one ant could. Each ant brings a crumb, and thousands of sisters together feed the whole nest. A honeybee brings home a tiny drop of nectar, and many trips make a comb of honey. Worms move a little soil each, and together they turn over whole fields. Each small creature does a little, and millions of them together feed the colony, fill the hive and turn the soil.
 
-- **Acharanga Sutra 1.2.3:** “सव्वे पाणा पियाउया / सुह-साया दुक्ख-पडिकूला / अप्पिय-वहा पिय-जीविणो जीविउ-कामा / सव्वेसिं जीवियं पियं” This old Jain text says that all beings love their life. They want to be happy and do not want to be hurt. To all of them, life is dear. (An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this unit says: watch the ants, but do not spray or squash them.)
+- **Acharanga Sutra 1.2.3:** “सव्वे पाणा पियाउया / सुह-साया दुक्ख-पडिकूला / अप्पिय-वहा पिय-जीविणो जीविउ-कामा / सव्वेसिं जीवियं पियं” This old Jain text says that all beings love their life. They want to be happy and do not want to be hurt. To all of them, life is dear. (An ant who carries a crumb home is working for her own life and her sisters' lives. The Jain teaching asks us to care for the smallest beings, which is why this lesson says: watch the ants, but do not spray or squash them.)
 - **Proverbs 6:6-8:** “לֵךְ־אֶל־נְמָלָה עָצֵל רְאֵה דְרָכֶיהָ וַחֲכָם / אֲשֶׁר אֵין־לָהּ קָצִין שֹׁטֵר וּמֹשֵׁל / תָּכִין בַּקַּיִץ לַחְמָהּ אָגְרָה בַקָּצִיר מַאֲכָלָהּ” The Bible says: go to the ant and watch her ways. She has no ruler or boss, yet she gathers her food in summer. (In the crumb test, no ant gave orders. Each ant carried what she could, and the colony's food arrived anyway.)
 - **The Quran, Surah An-Naml 27:18:** “قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ” The Quran tells of an ant who sees King Solomon's army coming. She calls to the other ants to go into their homes, so that they are not crushed. (In this story an ant notices danger, thinks of her sisters and warns them. Real ants also warn and call each other, with smells and touches of their antennae.)
 - Science (settled): When a body is made bigger, the weight grows faster than the strength. This is why small animals can carry more for their size. Galileo worked this out in 1638.
@@ -538,13 +538,13 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - Scientists study spider silk, which is very strong for how thin it is, to make new strong threads.
 
 ## Spotted around us
-- Huge hanging honeycombs of rock bees under water tanks and balconies of tall buildings in Bengaluru and Chennai.
-- Weaver ants' nests of leaves, stitched together with silk, in mango and cashew trees in Kerala and Odisha.
-- In Mayurbhanj in Odisha, some families make a chutney from red weaver ants, called kai chutney.
-- Earthworms on the roads of Mumbai after the first heavy monsoon rain.
-- Plain tiger butterflies drinking from flowers in a park in Hyderabad.
-- Long webs of giant wood spiders, with golden silk, strung between trees in the forests of the Western Ghats, near Agumbe.
-- A small jumping spider on a window frame in a flat in Guwahati, turning to look at you.
+- Huge hanging honeycombs of rock bees under water tanks and balconies of tall buildings.
+- Weaver ants' nests of leaves, stitched together with silk, in mango and cashew trees.
+- Red weaver ants on a mango or cashew tree. Some families make a chutney from them.
+- Earthworms on the road after the first heavy monsoon rain.
+- Plain tiger butterflies drinking from flowers in a park.
+- Long webs of giant wood spiders, with golden silk, strung between trees in a forest.
+- A small jumping spider on a window frame, turning to look at you.
 
 ## Open questions
 - **Why do earthworms come up out of the soil after rain?** Scientists have several ideas. The soil may have too little air when it is full of water. Or the wet ground lets worms travel far without drying out. Nobody is sure which matters most.
@@ -584,12 +584,15 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph a small creature at home and find out their name.
 - [Butterflies of India](https://www.ifoundbutterflies.org/) · interactive: For the parent: photographs of Indian butterflies, with their names and the plants their caterpillars eat.
 - [India Biodiversity Portal](https://indiabiodiversity.org/) · interactive: For the parent: pictures and notes on Indian insects, spiders and other small creatures.
-- [Butterfly Park, Bannerghatta Biological Park]() · place · Bengaluru: Walk among live butterflies and see their eggs, caterpillars and cocoons.
-- [Tropical Butterfly Conservatory, Srirangam]() · place · Tiruchirappalli: A big butterfly garden on an island in the Kaveri, with many kinds of butterflies.
-- [Ovalekar Wadi Butterfly Garden]() · place · Thane, near Mumbai: A family-run butterfly garden where you can watch butterflies feeding and laying eggs.
+- Butterfly Park, Bannerghatta Biological Park · place · Bengaluru: Walk among live butterflies and see their eggs, caterpillars and cocoons.
+- Tropical Butterfly Conservatory, Srirangam · place · Tiruchirappalli: A big butterfly garden on an island in the Kaveri, with many kinds of butterflies.
+- Ovalekar Wadi Butterfly Garden · place · Thane, near Mumbai: A family-run butterfly garden where you can watch butterflies feeding and laying eggs.
 
 ## Things to buy
 - [A hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Ant legs and spider eyes are tiny. A magnifying glass makes counting legs easy. A phone camera, zoomed in, also works. Used in e1, a1, p1. Keep the glass by the window, so it is ready whenever a small creature visits.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Web Builder: make a web that catches the most paper flies. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in c1. Get it before Web Builder: make a web that catches the most paper flies.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Build an Insect and a Spider from Dough. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a2. Get it before Build an Insect and a Spider from Dough.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many legs does an insect have? → Six.

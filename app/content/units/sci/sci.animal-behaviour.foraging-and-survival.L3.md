@@ -1,9 +1,9 @@
 # Finding food and staying alive: how animals hunt, graze and hide
 `sci.animal-behaviour.foraging-and-survival.L3`
 
-**Summary.** Why do cows and elephants spend most of the day eating? In this unit you will cut paper caterpillars to test which ones a hunter misses, hide a paper animal at home, and play a game of hunt, graze or hide.
+**Summary.** Why do cows and elephants spend most of the day eating? In this lesson you will cut paper caterpillars to test which ones a hunter misses, hide a paper animal at home, and play a game of hunt, graze or hide.
 
-**Intro.** *Cut 20 small strips from a newspaper and 20 from plain paper. Scatter them all over an open newspaper on the floor. Now pick up as many as you can in 20 seconds, one at a time. Which ones did you miss?* Picking small strips off a newspaper is like what a bird does every day when she hunts insects on a tree. The insects stay alive only if the bird misses them. In this unit you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.
+**Intro.** *Cut 20 small strips from a newspaper and 20 from plain paper. Scatter them all over an open newspaper on the floor. Now pick up as many as you can in 20 seconds, one at a time. Which ones did you miss?* Picking small strips off a newspaper is like what a bird does every day when she hunts insects on a tree. The insects stay alive only if the bird misses them. In this lesson you find out how animals find their food: by grazing, browsing, chasing, waiting and trapping. You also find out how prey animals stay alive, and why a body that is hidden in one place can be easy to see in another.
 
 ## Learning outcomes
 0. I can explain what foraging means, and name ways animals get food: grazing, browsing, hunting, scavenging and filtering.
@@ -131,7 +131,7 @@ We have learned how animals find food, and how prey stay alive by watching, keep
 
 Sunlight feeds the grass, the grass feeds the chital, and the chital feed the tiger. Over millions of years, the tiger's stripes and quiet paws were shaped by the deer's sharp eyes and ears. The deer's watchfulness was shaped by the tiger. So you cannot explain a tiger without the deer, or a deer without the tiger. The same energy from sunlight passes from the grass to the deer to the tiger, and each animal's body was shaped by the others.
 
-- **Taittiriya Upanishad 3.10.6:** “अहमन्नमहमन्नमहमन्नम् / अहमन्नादो३ऽहमन्नादो३ऽअहमन्नादः” The one who understands sings: I am food, I am food, I am food. I am the eater of food, I am the eater of food, I am the eater of food. (Every forager in this unit is both. The chital eat grass and are food for the tiger. When the tiger dies, her body feeds vultures, beetles and the soil, and the soil feeds the grass.)
+- **Taittiriya Upanishad 3.10.6:** “अहमन्नमहमन्नमहमन्नम् / अहमन्नादो३ऽहमन्नादो३ऽअहमन्नादः” The one who understands sings: I am food, I am food, I am food. I am the eater of food, I am the eater of food, I am the eater of food. (Every forager in this lesson is both. The chital eat grass and are food for the tiger. When the tiger dies, her body feeds vultures, beetles and the soil, and the soil feeds the grass.)
 - **Thirukkural 490, in the chapter on knowing the right time:** “கொக்கொக்க கூம்பும் பருவத்து மற்றதன் / குத்தொக்க சீர்த்த இடத்து.” When the time is not right, wait, as still as the heron. When the time is right, strike, as surely as the heron strikes. (This is hunting by ambush. The pond heron in the paddy field, the gecko by the tube light and the tiger in the grass all wait, still, and strike only when the prey comes close.)
 - **Nagarjuna, Mulamadhyamakakarika 24.18:** “यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे / सा प्रज्ञप्तिरुपादाय प्रतिपत् सैव मध्यमा” Whatever comes into being by depending on other things has no being of its own, apart from them. (Being hidden depends on other things in the same way. It needs a body, a place and eyes that look, all together. Take away any one of them, and the hiding is gone.)
 - Science (settled): In experiments with wild birds and paper or pastry prey, prey who matched the background were eaten less often.
@@ -679,15 +679,19 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 
 ## Links
 - [PhET Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection) · simulation: A free simulation. Rabbits with brown or white fur live on snow or on bare ground, and wolves hunt them. Watch which fur colour survives in each place over many generations.
-- [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Look up the Indian animals in this unit, such as the jungle nightjar, the chital and the dhole, with photos from across India.
+- [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: Look up the Indian animals in this lesson, such as the jungle nightjar, the chital and the dhole, with photos from across India.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a gecko, spider or bird at home and others help you name them. A grown-up should set up the account.
-- [Bandipur Tiger Reserve]() · place · Bandipur, Karnataka, near Mysuru: Chital, langurs, dholes and tigers live here. On a forest safari, listen for alarm calls.
-- [Arignar Anna Zoological Park, Vandalur]() · place · Chennai: See predators and prey close up, and look for camouflage in the reptile and bird sections.
-- [Kaziranga National Park]() · place · Assam: Herds of deer, buffalo and rhinos graze in tall grass, and tigers hunt there too.
-- [The Rann of Kutch in winter]() · place · Kutch, Gujarat: Huge flocks of flamingos come to filter-feed in the shallow water.
-- [Sundarbans Tiger Reserve]() · place · West Bengal: Mangrove forests where archerfish, mudskippers and tigers hunt.
+- Bandipur Tiger Reserve · place · Bandipur, Karnataka, near Mysuru: Chital, langurs, dholes and tigers live here. On a forest safari, listen for alarm calls.
+- Arignar Anna Zoological Park, Vandalur · place · Chennai: See predators and prey close up, and look for camouflage in the reptile and bird sections.
+- Kaziranga National Park · place · Assam: Herds of deer, buffalo and rhinos graze in tall grass, and tigers hunt there too.
+- The Rann of Kutch in winter · place · Kutch, Gujarat: Huge flocks of flamingos come to filter-feed in the shallow water.
+- Sundarbans Tiger Reserve · place · West Bengal: Mangrove forests where archerfish, mudskippers and tigers hunt.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Paper Caterpillars: which ones does a hungry hunter miss?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1. Get it before Paper Caterpillars: which ones does a hungry hunter miss?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Antlion's Trap: a pit of rava. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a4. Get it before The Antlion's Trap: a pit of rava.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Graze or Hunt? A one-minute food race. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1. Get it before Graze or Hunt? A one-minute food race.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the word for searching for food and getting it? → Forage.

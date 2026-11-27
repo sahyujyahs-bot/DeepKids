@@ -1,9 +1,9 @@
 # Heat on the move: why smoke rises and the Sun warms you across empty space
 `sci.energy.heat-moves.L4`
 
-**Summary.** The Sun's warmth reaches your face across empty space, where there is no air to carry it. How? In this unit you will watch hot and cold drops of coloured water move in opposite ways, feel the warmth around a diya flame, and play a game to work out which way heat travelled.
+**Summary.** The Sun's warmth reaches your face across empty space, where there is no air to carry it. How? In this lesson you will watch hot and cold drops of coloured water move in opposite ways, feel the warmth around a diya flame, and play a game to work out which way heat travelled.
 
-**Intro.** *Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But when you hold your hand above the flame, a card held beside the flame changes nothing. Why does the card block one kind of warmth but not the other?* Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this unit you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.
+**Intro.** *Hold your hand beside a lit diya, 10 centimetres away. It feels warm. Now hold a card between the flame and your hand. The warmth stops at once. But when you hold your hand above the flame, a card held beside the flame changes nothing. Why does the card block one kind of warmth but not the other?* Last year you saw that heat creeps through a steel spoon from part to part. That is conduction. But air barely carries heat that way, and the Sun's warmth crosses empty space where there is nothing to creep through. So heat must have other ways to travel. In this lesson you find them. You send hot and cold drops through a glass of water, you spin a paper spiral with rising air, and you test which wrapping lets the Sun warm a tumbler the most.
 
 ## Learning outcomes
 0. I can name the three ways heat travels, conduction, convection and radiation, and show each one with something at home.
@@ -151,7 +151,7 @@ In Colour Currents, a hot drop of red water rose and an ice-cold drop sank in th
 Where everything is the same temperature, nothing flows. Every wind, current, cloud and living body keeps going because two places are at different temperatures. Heat flows from the warmer place to the cooler one, and that makes the two places more alike. The Sun keeps making new differences, so the flowing never stops. Wind, rain, rivers and life all depend on the temperature differences that the Sun keeps making.
 
 - **Heraclitus, fragment 60 (Diels and Kranz numbering):** “ὁδὸς ἄνω κάτω μία καὶ ωὑτή” Heraclitus, a Greek thinker of about 500 BCE, taught that the road up and the road down are one and the same. (In a convection current, the rising and the sinking are one loop. Neither can happen without the other.)
-- **Chandogya Upanishad 6.2.3 and 6.2.4:** “तत्तेजोऽसृजत / तदपोऽसृजत / ता आप ऐक्षन्त बह्वयः स्याम प्रजायेमहीति / ता अन्नमसृजन्त” This text says that Being first sent out heat, and then from heat came water, and from water came food. Heat is named as the first of the many forms. (Heat is where this unit starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.)
+- **Chandogya Upanishad 6.2.3 and 6.2.4:** “तत्तेजोऽसृजत / तदपोऽसृजत / ता आप ऐक्षन्त बह्वयः स्याम प्रजायेमहीति / ता अन्नमसृजन्त” This text says that Being first sent out heat, and then from heat came water, and from water came food. Heat is named as the first of the many forms. (Heat is where this lesson starts, too. It is the thing that moves, mixes and drives the loops in water, air and rock.)
 - Science (settled): Heat flows by itself only from hotter to cooler places. This is the second law of thermodynamics, and it has never been seen to fail.
 - Science (debated): How much the Earth's slow mantle currents move the plates, compared with the pull of sinking plate edges, is still argued.
 - Other view, Aristotle, a Greek thinker of the 300s BCE: Aristotle taught that fire and air rise because rising is their nature. They belong up high, and heavy earth and water belong down low. On this view, rising needs no pushing from anything below.
@@ -465,8 +465,8 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: On a bright, clear day, between 11 in the morning and 2 in the afternoon, chocolate in the oven often goes soft in about 20 to 30 minutes and melts in about 30 to 60 minutes. Times are typical, not a promise. The piece outside the oven should stay firm much longer, and that difference is your evidence. On a cloudy or hazy day, or in winter, it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away. If nothing happens, check for gaps in the cling film, crumpled foil, or a flap that is not aimed at the Sun, and turn the oven every 10 minutes. With 2 to 4 children, one watches the clock, one turns the oven, one writes the times, and one looks at the outside chocolate. With one child, the child does all of these.
   - Check: The warm air inside the oven cannot escape because of the cling film. Which way of moving heat does the film stop? → **Convection, because it stops hot air from rising out**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.  
-  *Parent says:* Show me with your finger where the sunlight goes. Which two ideas from this unit made the oven work? How could we make it hotter next time?  
+  *Parent does:* Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this lesson made the oven work. Ask how they could make it hotter.  
+  *Parent says:* Show me with your finger where the sunlight goes. Which two ideas from this lesson made the oven work? How could we make it hotter next time?  
   *Child mode:* Trace the sunlight with your finger. What made it work? How can we make it hotter?
   - Note: Good answers are that the foil reflects radiation onto a dark surface, and that the cling film traps warm air so convection cannot carry the heat away. To make it hotter, use a bigger reflector, a better seal, or a black pot with a lid.
   - Think: Why do real solar cookers in India often have a black pot and a curved mirror?
@@ -711,9 +711,9 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 - Rice or lentils circling in a boiling pot.
 - Black kite birds circling over a hot road or a tin roof in the afternoon.
 - The air above a hot road shimmering in the afternoon.
-- The afternoon sea breeze on Marina Beach in Chennai or Kozhikode beach.
+- The afternoon sea breeze on a beach.
 - A rooftop solar water heater with a tank above the panel.
-- White-painted terraces and roofs in hot cities such as Ahmedabad or Madurai.
+- White-painted terraces and roofs in hot cities.
 - The smoke from an agarbatti curling up and bending over.
 
 ## Open questions
@@ -772,6 +772,9 @@ Round and Round the Warm (sci.energy.L4): Topic-level song for Energy L4
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): For the wrapped tumblers, the Cool Roof boxes and the Foil Sun Oven. Most kitchens already have one. A small roll costs about Rs 40 to 80. Used in e2, c1, p1. 
 - [A simple thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): For Dark, White and Shiny, the Cool Roof and Cool the Jug challenges, and the optional oven check. A glass school-lab thermometer (about 0 to 100 degrees) from a school-supplies or lab-equipment shop costs about Rs 50 to 100. A digital kitchen thermometer costs more (about Rs 150 to 400). Without one, you can still rank by feel. Used in c1, c2, e2, p1. 
 - [A pack of tea-light candles](https://www.amazon.in/s?k=tealight+candles) (material): For Hands Around a Diya and the Paper Spiral, if you do not have a diya. A grown-up lights them. Used in a1, a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Hands Around a Diya: where do you feel the warmth?, Paper Spiral: can rising air turn a snake of paper?. About ₹10 to ₹30. Any school ruler is fine. Used in a1, a2. Get it before Hands Around a Diya: where do you feel the warmth?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Foil Sun Oven: melt a piece of chocolate with sunlight alone. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Foil Sun Oven: melt a piece of chocolate with sunlight alone.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three ways heat travels? → Conduction, convection and radiation.
@@ -791,8 +794,8 @@ Round and Round the Warm (sci.energy.L4): Topic-level song for Energy L4
 ## Sources
 - ideas/by_topic/energy.md: the 'Heat Flow' and 'Heat transfer (conduction, convection, radiation)' rows, and the 'Energy balance of Earth' row (tinted warm water to watch convection, wrapping jars in black and white paper, kitchen foil against a dark surface, standing near a heater to feel radiation, the sea breeze, a dance and a skit of rising and falling currents, and card-matching of heat transfer types)
 - combined/sci-C4-energy.json: the paper spiral over a diya with its safe height of 25 centimetres, and the black and white cloth in the Sun, both rebuilt here as new tests with new measurements
-- The Class 3 unit sci.energy.heat-moves.L3 on conduction, which this unit builds on without repeating its experiments or story
-- curriculum/sci.json: sci.energy.heat-moves.L3 and sci.energy.heat-moves.L5 (there is no Level 4 entry, so this unit takes convection and radiation as the step between conduction and the full picture in Level 5)
+- The Class 3 unit sci.energy.heat-moves.L3 on conduction, which this lesson builds on without repeating its experiments or story
+- curriculum/sci.json: sci.energy.heat-moves.L3 and sci.energy.heat-moves.L5 (there is no Level 4 entry, so this lesson takes convection and radiation as the step between conduction and the full picture in Level 5)
 - William Herschel, 'Experiments on the refrangibility of the invisible rays of the Sun', Philosophical Transactions of the Royal Society, 1800
 - Eunice Newton Foote, 'Circumstances affecting the heat of the sun's rays', American Journal of Science and Arts, 2nd series, volume 22, 1856
 - Benjamin Thompson (Count Rumford), 'An inquiry concerning the source of the heat which is excited by friction', Philosophical Transactions of the Royal Society, 1798

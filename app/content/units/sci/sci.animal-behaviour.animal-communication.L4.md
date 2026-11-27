@@ -1,9 +1,9 @@
 # How animals send messages: smell, colour, sound, touch and echoes
 `sci.animal-behaviour.animal-communication.L4`
 
-**Summary.** A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this unit you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.
+**Summary.** A female silk moth sits silent on a leaf, yet a male finds her in the dark. How does her message reach him? In this lesson you will spot animal signals at the window, test how long a smell message lasts, and find a steel plate by echoes alone.
 
-**Intro.** *A tigress sprays a tree and walks away. Three days later, another tiger sniffs the tree and learns that she lives here. How did a message pass between two animals who never met?* The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this unit you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.
+**Intro.** *A tigress sprays a tree and walks away. Three days later, another tiger sniffs the tree and learns that she lives here. How did a message pass between two animals who never met?* The tigress left a smell on the bark, and the smell stayed after she had gone. A smell is one way to send a message. A peacock uses colour. A frog uses a call. A monkey uses her fingers. Each way works well in some places and badly in others. In this lesson you leave smell marks on paper and test how long they last. You also cover your eyes and find a steel plate by listening for echoes, as a bat finds a moth.
 
 ## Learning outcomes
 0. I can name the four channels of animal signals and give an example of each.
@@ -34,7 +34,7 @@
 ### Signals travel on four channels · *defined*
 **Definition:** A signal is something one animal does or makes that carries a message to another animal. A channel is the way the signal travels: smell, sight, sound or touch.
 
-Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This unit takes the channels one at a time, and then compares them.
+Every signal needs a sender and a receiver. The sender must make the signal, and the receiver must have a body that can pick it up. A smell needs a nose or an antenna. A colour needs an eye. A call needs an ear. A touch needs skin or hairs that feel. Most animals use more than one channel. A street dog growls, shows her teeth, raises the hair on her back and leaves scent marks. Humans are animals too, and we use all four channels. We speak, we smile, we hug, and our noses can tell family from strangers. This lesson takes the channels one at a time, and then compares them.
 - e.g. An ant leaves a scent trail to food. That is a message on the smell channel.
 - e.g. A fan-throated lizard flashes a blue, black and orange throat. That is a message on the sight channel.
 - e.g. A koel calls from a mango tree before the rains. That is a message on the sound channel.
@@ -135,7 +135,7 @@ When a monkey gives an alarm call and the others climb, what has passed between 
   Against: Some scientists say the neighbour is only picking up a leak. They keep the word 'signal' for messages that evolved to be sent.
 
 ## Roots
-In this unit you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.
+In this lesson you left smell marks on paper and found a steel plate by its echo. Here we ask what a message is, and whether a message needs its sender to be there.
 
 **Deep truth.** In the Smell Mark Test, your nose found the clove mark long after the sender had left the room. A call or a wave ends when the sender stops. A smell mark goes on giving its message while the sender is far away. So one tigress can warn others off many trees at once, without being at any of them.  
 *Habit it breaks:* We think of a message as something that passes between two beings who are together, as when we talk. A scent mark needs no meeting. The sender and the receiver may never see each other.  
@@ -147,7 +147,7 @@ In this unit you left smell marks on paper and found a steel plate by its echo. 
 
 A signal is never the work of one being. A moth's pheromone does nothing without an antenna built to catch it. A peacock's train does nothing without a peahen's eye. Over millions of years, senders and receivers have shaped each other's bodies. Many sages taught that all beings are one life in many bodies. The science here says something close. All animals share ancestors, and that is partly why a dog's growl makes sense to you.
 
-- **Rig Veda 1.164.45:** “चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः । / गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति” The hymn says that speech is measured out in four parts. Three parts are kept hidden, and humans speak only the fourth. (The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this unit found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.)
+- **Rig Veda 1.164.45:** “चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः । / गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति” The hymn says that speech is measured out in four parts. Three parts are kept hidden, and humans speak only the fourth. (The hymn is about sacred speech, and it is not about animals. Yet its picture fits what this lesson found. The talk that humans can hear is a small part of all the signalling around us. Bat calls, elephant rumbles and pheromones were hidden from us until instruments found them.)
 - **Zhuangzi, chapter 17, 'Autumn Floods':** “莊子曰：「鯈魚出游從容，是魚樂也。」 / 惠子曰：「子非魚，安知魚之樂？」 / 莊子曰：「子非我，安知我不知魚之樂？」” Zhuangzi and his friend Huizi stand on a bridge over the Hao river. Zhuangzi says the fish are enjoying themselves. Huizi asks: you are not a fish, so how do you know what fish enjoy? (Scientists meet Huizi's question with every signal. They cannot ask a frog what his foot wave means. They can only test what other frogs do when they see it.)
 - Science (settled): Even bacteria signal. Many kinds give off chemicals and sense how much has built up around them. When there are enough of them, they act together. This is called quorum sensing.
 - Science (open): In 1974 the philosopher Thomas Nagel asked what it is like to be a bat. He argued that we could learn everything about echolocation and still not know how it feels to the bat.
@@ -691,6 +691,9 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 ## Things to buy
 - [A small bottle of white vinegar](https://www.amazon.in/s?k=white+vinegar) (material): For the vinegar mark in the Smell Mark Test. Fresh lemon juice also works, so buy it only if you want to. Used in e1. 
 - [An Immense World, a book by Ed Yong (2022)](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): For the parent or an older child: how other animals sense smells, echoes and vibrations that we miss. Used in e2. After the Echo Plate Test, a parent can read aloud a few pages from the chapter on echoes.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Echo Plate Test: can you find a thing by sound alone?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e2. Get it before The Echo Plate Test: can you find a thing by sound alone?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Echo Plate Test: can you find a thing by sound alone?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Echo Plate Test: can you find a thing by sound alone?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four channels of animal signals. → Smell, sight, sound and touch.
@@ -709,7 +712,7 @@ Pack Your Fat, Cross the Sea (sci.animal-behaviour.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Biology list, items 105 to 110: communication, chemical (pheromones), visual (displays, colours), auditory (songs, calls, echolocation), tactile (touch, grooming, vibration) and symbolic language. Symbolic language, the bee dance in detail and the question of ape and whale language are left for sci.animal-behaviour.animal-communication.L5, as the curriculum says.
-- The Class 2 unit sci.animal-behaviour.animal-communication.L2 was read so that nothing repeats. It has barks, purrs, birdsong, the La-La Test and the vervet monkey speaker tests. This unit goes on to the four channels, pheromones, sounds beyond human hearing and echolocation, and its experiments, games and story are new.
+- The Class 2 unit sci.animal-behaviour.animal-communication.L2 was read so that nothing repeats. It has barks, purrs, birdsong, the La-La Test and the vervet monkey speaker tests. This lesson goes on to the four channels, pheromones, sounds beyond human hearing and echolocation, and its experiments, games and story are new.
 - Other units were checked for overlap. The firefly flash games are in sci.light.living-light, Bat and Moth is in sci.animals.animal-bodies.L3, and the bat discovery story is in sci.sound.hearing.L3, so none of these is used here.
 - Butenandt A., Beckmann R., Stamm D., Hecker E. (1959). On the sex attractant of the silk moth Bombyx mori (in German). Zeitschrift für Naturforschung B 14: 283-284.
 - Karlson P., Lüscher M. (1959). 'Pheromones': a new term for a class of biologically active substances. Nature 183: 55-56.

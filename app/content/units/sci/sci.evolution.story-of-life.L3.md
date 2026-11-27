@@ -1,9 +1,9 @@
 # How life began: the oldest life and the RNA idea
 `sci.evolution.story-of-life.L3`
 
-**Summary.** Every living thing comes from another living thing. So where did the very first one come from? In this unit you will rust iron nails to see what the first oxygen did to the sea, copy a chain of RNA letters by matching pairs, and stretch 4.5 billion years along a corridor.
+**Summary.** Every living thing comes from another living thing. So where did the very first one come from? In this lesson you will rust iron nails to see what the first oxygen did to the sea, copy a chain of RNA letters by matching pairs, and stretch 4.5 billion years along a corridor.
 
-**Intro.** *Every living thing is born from another living thing. You were born from your mother, and she was born from her mother. A curry leaf plant grows from a seed that fell from another curry leaf plant. Now think about the very first living thing. Nothing alive came before it. So where did it come from?* This is one of the biggest questions in science, and it is still open. In this unit you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.
+**Intro.** *Every living thing is born from another living thing. You were born from your mother, and she was born from her mother. A curry leaf plant grows from a seed that fell from another curry leaf plant. Now think about the very first living thing. Nothing alive came before it. So where did it come from?* This is one of the biggest questions in science, and it is still open. In this lesson you meet the oldest life we know, which left striped rocks behind. You test what the first oxygen did to iron, with nails in jars of water. You see the white threads of DNA from a banana. And you learn the leading idea about how life began: the RNA idea. Scientists are still testing it, and you can weigh the evidence too.
 
 ## Learning outcomes
 0. I can say that every living thing comes from another living thing, and explain why that makes the first life a puzzle.
@@ -359,9 +359,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Note: Children often name cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now.
 - **s3 (2 min)**  
   *Parent does:* At the far left end, write a big question mark.  
-  *Parent says:* Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.  
+  *Parent says:* Every living thing came from another living thing. So where did the very first one come from? That is what this lesson is about.  
   *Child mode:* Write a big question mark at the far end. It stands for the very first living thing.
-  - Note: There is no sure answer yet. Scientists have ideas, and this unit looks at the leading one. It is fine for your child to say 'nobody knows'.
+  - Note: There is no sure answer yet. Scientists have ideas, and this lesson looks at the leading one. It is fine for your child to say 'nobody knows'.
   - Think: If life only comes from life, how could the first life begin?
 ### a2 · The Time String: 4.5 billion years along a corridor (15 min)
 - **problem:** The Earth is 4.5 billion years old. That is too long to picture. You will lay out a string where each metre is one billion years. Then you will see where life, oxygen, animals and people come in.
@@ -698,9 +698,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 ## Spotted around us
 - A rusty iron gate, grille or bicycle chain after the monsoon. Oxygen and water reached the iron.
 - Green or black streaks on damp walls and old clay pots in the rainy season, made by cyanobacteria and algae.
-- Red, orange and grey striped rocks, used as building stone or seen on hillsides in Karnataka, Goa and Odisha, where iron ore is mined.
+- Red, orange and grey striped rocks, used as building stone or seen on hillsides where iron ore is mined.
 - Shooting stars on a clear night. They are tiny bits of space dust burning up. Some bigger pieces land as meteorites.
-- The sea at a beach such as Marina in Chennai, Puri in Odisha or Kovalam in Kerala. Life lived only in water for most of the Earth's story.
+- The sea at a beach. Life lived only in water for most of the Earth's story.
 - Curd setting overnight. Today, new microbes come only from living microbes.
 
 ## Open questions
@@ -757,6 +757,9 @@ A with U, C with G (sci.evolution.L3): Topic-level song for Evolution L3
 - [Surgical spirit or rubbing alcohol, a small bottle](https://www.amazon.in/s?k=surgical+spirit) (material): Needed for the banana DNA test. Sold at medical shops. Keep it away from flames and children. Used in e2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at the green living film closely. A phone camera zoomed in also works. Used in a5. 
 - [The Story of Life: A First Book about Evolution, by Catherine Barr and Steve Williams, illustrated by Amy Husband](https://www.amazon.in/s?k=The+Story+of+Life+Catherine+Barr) (book): A picture book that tells the story of life from the first cells to today, for ages 5 to 8. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Time String: 4.5 billion years along a corridor. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before The Time String: 4.5 billion years along a corridor.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Time String: 4.5 billion years along a corridor. About ₹10 to ₹30. Any school ruler is fine. Used in a2. Get it before The Time String: 4.5 billion years along a corridor.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How old is the Earth? → About 4.5 billion years.

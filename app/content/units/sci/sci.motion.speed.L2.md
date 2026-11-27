@@ -1,9 +1,9 @@
 # Fast and slow: how to tell who is faster in a race
 `sci.motion.speed.L2`
 
-**Summary.** Can a slow walker beat a fast one? Yes, with a head start, but only in a short race. In this unit you will race across the room with tiny steps, giant steps and your ordinary walk, count claps to keep time, and run a head-start race to see who wins.
+**Summary.** Can a slow walker beat a fast one? Yes, with a head start, but only in a short race. In this lesson you will race across the room with tiny steps, giant steps and your ordinary walk, count claps to keep time, and run a head-start race to see who wins.
 
-**Intro.** *Cross the room taking tiny steps, as fast as your feet can go. Then cross it again, walking the way you always walk. Which way got you there first?* Fast feet do not always mean a fast walk. In this unit you find out what speed is, and how to tell who really is faster. You learn to count time with steady claps. You find the two fair ways to judge a race. Then you work out why the walker who looks busiest is not always the one who wins.
+**Intro.** *Cross the room taking tiny steps, as fast as your feet can go. Then cross it again, walking the way you always walk. Which way got you there first?* Fast feet do not always mean a fast walk. In this lesson you find out what speed is, and how to tell who really is faster. You learn to count time with steady claps. You find the two fair ways to judge a race. Then you work out why the walker who looks busiest is not always the one who wins.
 
 ## Learning outcomes
 0. By the end I can say that speed is how fast something moves, and use the words faster and slower.
@@ -522,11 +522,11 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 
 ## Spotted around us
 - The slow cycle race at a school sports day, where the last one to finish without putting a foot down wins.
-- A snake boat race in Kerala, with long boats and rowers pulling together to a song.
+- A boat race, with long boats and rowers pulling together to a song.
 - A line of ants on the kitchen wall, legs busy, moving slowly.
 - A speed limit sign on a highway, showing the top speed allowed in kilometres an hour.
 - The numbers on a bus or car speedometer, showing how fast it is going.
-- Kites at Makar Sankranti in Gujarat, darting fast in strong wind and drifting slowly in light wind.
+- Kites at Makar Sankranti, darting fast in strong wind and drifting slowly in light wind.
 
 ## Open questions
 - **What is the fastest any animal could ever run?** A cheetah can reach more than 90 kilometres an hour for a short burst. Scientists still argue about what sets the limit for any land animal: muscles, bones, heat or breathing.
@@ -566,10 +566,17 @@ Fast and Slow, Who Will Win? (sci.motion.L2): Topic-level song for Motion L2
 
 ## Links
 - [Forces and Motion: Basics (PhET simulation)](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: For the parent and child together: in the Motion screen, push a box and watch the speed meter go up and down.
-- [Nehru Trophy Boat Race]() · place · Alappuzha: A famous snake boat race on Punnamada Lake, usually held in August, where rowers pull together to boat songs.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries on motion, engines and machines.
+- Nehru Trophy Boat Race · place · Alappuzha: A famous snake boat race on Punnamada Lake, usually held in August, where rowers pull together to boat songs.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries on motion, engines and machines.
 
 ## Things to buy
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Step Race: tiny steps, giant steps or my ordinary walk?, The Clap Clock: can you count seconds?, The Slow Race: who can be last without stopping?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, a2, a4. Get it before The Step Race: tiny steps, giant steps or my ordinary walk?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sprout Race: whose root grows fastest?. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before The Sprout Race: whose root grows fastest?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Sprout Race: whose root grows fastest?, The Slow Lane: make a marble take as long as possible. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1, c1. Get it before The Sprout Race: whose root grows fastest?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Sprout Race: whose root grows fastest?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before The Sprout Race: whose root grows fastest?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Faster Than Me? A card sort. About ₹100 to ₹200. A marble or a round torch cell works. Used in a3. Get it before Faster Than Me? A card sort.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Slow Lane: make a marble take as long as possible. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before The Slow Lane: make a marble take as long as possible.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is speed? → How far something goes in a stretch of time.

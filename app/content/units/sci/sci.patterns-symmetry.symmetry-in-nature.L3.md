@@ -730,6 +730,9 @@ Fold It, Turn It (sci.patterns-symmetry.L3): Topic-level song for Patterns and s
 
 ## Things to buy
 - [Seeing Symmetry by Loreen Leedy](https://www.amazon.in/s?k=Seeing+Symmetry) (book): Clear pictures of line and rotational symmetry in letters, shapes, nature and art, with ideas to try at home. It gives the child more examples to check for flips and turns. Used in a1. Read it together after the symmetry experiments.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in My Two Halves: how even is my body?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a5. Get it before My Two Halves: how even is my body?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in My Two Halves: how even is my body?, Tile the Floor: which shape covers it with no gaps?. About ₹10 to ₹30. Any school ruler is fine. Used in a5, c2. Get it before My Two Halves: how even is my body?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a line of symmetry? → A fold line where the two halves of a shape match exactly.

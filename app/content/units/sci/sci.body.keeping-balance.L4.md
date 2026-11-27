@@ -1,9 +1,9 @@
 # Two pushes make a steady level: sugar, breath, pulse and pupils
 `sci.body.keeping-balance.L4`
 
-**Summary.** Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this unit you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.
+**Summary.** Your blood sugar, breathing and pulse stay steady, but nothing is standing still. Two opposite pushes work all the time. In this lesson you will build a bottle that keeps its own water level, test how fast your pulse and breathing recover, and play a game to keep sugar in the green.
 
-**Intro.** *Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?* Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this unit you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.
+**Intro.** *Stand on one leg for 20 seconds and look at your foot. It seems still, but it is not. Your ankle is shaking a little, left, right, left. Why does a thing that looks still need so much movement?* Your body keeps many things steady. You already know about warmth and water. Now look at sugar, breath, pulse and the black dots in your eyes. All of them stay near a good level, and all of them do it the same way. Something pushes the level up, and something else pushes it down. The level stays steady at the point where the two pushes are equal. In this lesson you find those two pushes in a plastic bottle, in your ankle, in your blood and in your eyes.
 
 ## Learning outcomes
 0. I can explain that a level stays steady because two opposite pushes are working all the time, not because nothing is happening.
@@ -146,7 +146,7 @@ On a leaf, two guard cells sit on either side of a tiny pore. When they swell wi
   Against: A fever is the body raising its warmth set point, and some studies suggest it helps fight infection. Studies are mixed. Doctors advise seeing a doctor for a baby with a fever, a very high fever or one that lasts.
 
 ## Roots
-In this unit you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.
+In this lesson you watched a bottle's water level, your pulse, your pupils and blood sugar stay steady. Now we ask what this kind of steadiness tells us about ourselves and the world.
 
 **Deep truth.** A steady level is not a place where nothing happens. It is two opposite pushes working against each other all the time. Insulin pulls sugar out of your blood while glucagon puts it back. Where they balance, the level stays flat.  
 *Habit it breaks:* We treat 'steady' and 'still' as if they meant the same thing, so a flat line looks like nothing is going on. But a flat line can hide a great deal of work.  
@@ -246,7 +246,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
   *Parent does:* Set out the board. Put the marker on 5. The team has 3 hearts. Shuffle the event cards in one pile and the response cards in another. Deal 3 response cards to the team.  
   *Parent says:* We play as one body. The marker is your blood sugar. The green squares are just right. Put the marker on five. We have three hearts. Everyone gets a look at the three response cards.  
   *Child mode:* Put the marker on 5. You have 3 hearts. Look at your 3 response cards.
-  - Note: The cards, the board and the tokens are printed from this unit. If you have no printer, copy them by hand on small paper slips. Use 12 event cards and the 12 response cards, which is enough for a short game. Use a coin as the marker and cut 3 paper hearts. The pile of event cards is the world. The response cards are what your pancreas and liver can do. With two to four children, take turns reading the event and moving the marker. The team chooses the response together, and the youngest child plays the card.
+  - Note: The cards, the board and the tokens are printed from this lesson. If you have no printer, copy them by hand on small paper slips. Use 12 event cards and the 12 response cards, which is enough for a short game. Use a coin as the marker and cut 3 paper hearts. The pile of event cards is the world. The response cards are what your pancreas and liver can do. With two to four children, take turns reading the event and moving the marker. The team chooses the response together, and the youngest child plays the card.
 - **s2 (5 min)**  
   *Parent does:* Play Round 1. Turn over the top event card and read it aloud. Move the marker as the card says. Then the team chooses one response card and moves the marker again. Count the points for the square.  
   *Parent says:* Read the event. Move the marker. Now choose one response card to bring it back towards five. Play it and move the marker. Score two points on green, one point on yellow, and lose a heart on red.  
@@ -674,7 +674,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    **Answer:** In fog the driver sees the road late, so they correct for where the car was a moment ago. They steer too far, then too far the other way, like walking past the coin in Late Warmer-Colder.. *Why:* A strong answer says that the driver sees the road late. A correction based on where the car was a moment ago goes too far.
 8. (sort) Sort each pair by whether the two work against each other like an opposing pair.  
    **Answer:** insulin and glucagon → An opposing pair; the muscle that bends the elbow and the muscle that straightens it → An opposing pair; the ring and spoke muscles of the iris → An opposing pair; sweating and shivering → An opposing pair; the stomach and the heart → Not an opposing pair; salt and pepper → Not an opposing pair. *Why:* An opposing pair has two controls that push in opposite directions on the same level. The stomach and heart do different jobs and do not push against each other.
-9. (mcq) The Sun stays almost the same size for billions of years. Which explanation fits the idea of this unit?  
+9. (mcq) The Sun stays almost the same size for billions of years. Which explanation fits the idea of this lesson?  
    Options: Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal / The Sun is simply not moving / The Sun has no energy flowing through it  
    **Answer:** Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal. *Why:* A star holds steady because two opposite pushes balance. If it shrank, the pressure would rise and push it back out. If it swelled, gravity would pull it back in.
 10. (draw) Draw the Level Bottle when the level is steady. Draw an arrow for the water going in, an arrow for the water going out, and show how long each one is.  
@@ -685,7 +685,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    **Answer:** 1,200 in an hour and 28,800 in a day.. *Why:* 20 times 60 is 1,200 breaths in an hour. 1,200 times 24 is 28,800 breaths in a day.
 13. (match) Match each scientist to what they found out.  
    **Answer:** Dorothy Hodgkin → worked out the shape of the insulin molecule; Rosalyn Yalow → helped show with Solomon Berson that many adults with diabetes have insulin that works poorly; Frederick Banting and Charles Best → made an extract that lowered the blood sugar of diabetic dogs; Oskar Minkowski and Joseph von Mering → found that taking out a dog's pancreas caused diabetes. *Why:* Each of them added a piece. It took many people over decades to understand diabetes and to treat it.
-14. (write) Give a new example, not from this unit, of something that stays steady because two opposite pushes balance. Say what the two pushes are.  
+14. (write) Give a new example, not from this lesson, of something that stays steady because two opposite pushes balance. Say what the two pushes are.  
    **Answer:** A person riding a bicycle: they lean left and steer right, then lean right and steer left. Or a hanging mobile, a swing at rest, or a floating boat. The answer must name two opposite pushes.. *Why:* A strong answer names two pushes in opposite directions that keep a level or a position steady.
 15. (odd) Which one is the odd one out, and why? The Level Bottle, a room thermostat, a pressure cooker whistle, a microphone squealing near its speaker.  
    **Answer:** The microphone, because the louder sound makes it louder still. The others push back against a change.. *Why:* The microphone is positive feedback, which pushes the change on. The other three are negative feedback, which pushes back.
@@ -792,6 +792,11 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - [Optional: a sports stopwatch or a kitchen timer with seconds](https://www.amazon.in/s?k=sports+stopwatch+for+kids) (tool): Not needed. A phone timer or a clock with a seconds hand works for the Level Bottle, Recovery Race, Pupil Gauge and the other tests. A stopwatch is easier to use with wet hands. Used in e1, e2, e3, a1, p1. 
 - [Optional: a digital kitchen weighing scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Not needed. It only checks that a level teaspoon of sugar weighs about 4 grams. A neighbour or a shop may let you weigh a spoonful. Used in a2. 
 - [The Discovery of Insulin by Michael Bliss](https://www.amazon.in/s?k=the+discovery+of+insulin+michael+bliss) (book): For the parent: the full story of Banting, Best, Macleod and Collip. It is for adults, so read the story to your child in your own words. Used in g1. Read a few pages after the story and the discovery card, to give the grown-up the full picture.
+- [A magnetic compass](https://www.amazon.in/s?k=magnetic+compass+school) (tool): Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹30 to ₹150. A phone compass app also works. Used in e1, c1. Get it before Level Bottle: a bottle that keeps its own water level.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Level Bottle: a bottle that keeps its own water level, Pupil Gauge: how fast do my pupils change with the light?, Steady-Level Tank: keep the level between two marks. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, c1. Get it before Level Bottle: a bottle that keeps its own water level.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Pupil Gauge: how fast do my pupils change with the light?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e3. Get it before Pupil Gauge: how fast do my pupils change with the light?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Level Bottle: a bottle that keeps its own water level, Steady-Level Tank: keep the level between two marks. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1, c1. Get it before Level Bottle: a bottle that keeps its own water level.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What makes a level stay steady? → What flows in matches what flows out.
@@ -811,7 +816,7 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Sources
 - ideas/by_topic/body-parts-and-skeleton.md, 'Concept activities: Homeostasis': Pulse Party (dance, check pulse, breathe down) became the Recovery Race. Sugar Steady (a snack, then notice energy) shaped One Teaspoon and Sugar See-Saw. Card Dial (a card game that keeps a meter at 5) became the board in Sugar See-Saw. Set-Point Relay and Feedback Flip fed the pairs and the late-response rule. Feedback Arrows (blue to cool, red to warm) became the up and down arrows on the cards.
 - Founder's philosophy line in the same notes: 'Balance is not stillness; it is gentle adjusting, like a surfer staying on a wave.' This became the starting point of the One-Leg Wobble and the deep truth.
-- The Class 3 unit on keeping balance, which this unit builds on: the idea of a feedback loop for warmth and water is taken forward to sugar, breath, pulse and pupils, and to opposing pairs, delay and moving set points.
+- The Class 3 unit on keeping balance, which this lesson builds on: the idea of a feedback loop for warmth and water is taken forward to sugar, breath, pulse and pupils, and to opposing pairs, delay and moving set points.
 - Combined lesson sci-C4-body-parts-and-skeleton and sci-C5-health-hygiene-exercise-and-illness, for coverage only.
 - Harvard BioNumbers, total glucose in the blood of a 70 kg adult (about 4 g)
 - Fleming, S. and others, The Lancet (2011) on normal heart rate and breathing rate ranges in children

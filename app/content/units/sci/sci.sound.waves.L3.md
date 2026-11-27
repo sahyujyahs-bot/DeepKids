@@ -1,7 +1,7 @@
 # Waves: how energy travels while the water stays in place
 `sci.sound.waves.L3`
 
-**Summary.** When a wave crosses a bucket of water, does the water travel with it? In this unit you will float puffed rice on waves to find out, test whether a wave crosses deep or shallow water faster, and make a stadium wave with your family.
+**Summary.** When a wave crosses a bucket of water, does the water travel with it? In this lesson you will float puffed rice on waves to find out, test whether a wave crosses deep or shallow water faster, and make a stadium wave with your family.
 
 **Intro.** *Float one grain of puffed rice in the middle of a bucket of water. Now tap the water near the edge with a pencil, again and again. The ripples rush past the puffed rice towards the far side. Does the puffed rice go with them?* The puffed rice bobs up and down, but it stays in the middle. The ripples crossed the bucket, yet the water did not. Something travelled from your pencil to the far side, and it was not water. It was energy. Energy that travels like this, through a material that stays behind, is called a wave.
 
@@ -623,7 +623,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 ## Videos
 - **Does a Falling Slinky Defy Gravity?** (Veritasium, 4 min) id `uiyMuHuCFo4`: This is slow-motion film of a hanging spring toy being dropped. The bottom of the spring stays still in the air until a wave travelling down the coils reaches it. It shows that a wave takes time to travel through a material. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it.
 - **How tsunamis work - Alex Gendler** (TED-Ed, 4 min) id `Wx9vPv-T51I`: A cartoon explaining how an undersea earthquake starts a tsunami, and why the wave slows down and grows tall near the shore. It matches the Tray Test. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. Preview it first: it shows the damage tsunamis do, which may upset a young child.
-- **Waves** (Bozeman Science, 8 min) id `JppViHtLNlc`: For the parent: a teacher explains waves, wavelength, crests and troughs, and the difference between push waves and shake waves, to help you answer your child's questions. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: preview it, and note that it goes further than this unit.
+- **Waves** (Bozeman Science, 8 min) id `JppViHtLNlc`: For the parent: a teacher explains waves, wavelength, crests and troughs, and the difference between push waves and shake waves, to help you answer your child's questions. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: preview it, and note that it goes further than this lesson.
 
 ## Quiz
 1. (mcq) You float a leaf in the middle of a bucket and tap the water at one side. What does the leaf do?  
@@ -674,10 +674,10 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 
 ## Spotted around us
 - Ripples when a drop from the tap falls into a full bucket.
-- Waves at Marina Beach in Chennai, at Juhu in Mumbai, at Puri in Odisha or on any beach, with a fishing boat bobbing far out.
+- Waves on any beach, with a fishing boat bobbing far out.
 - A Mexican wave in the stands at a cricket match.
-- A paddy field in Kerala, Odisha or Assam, with waves running across it in the wind.
-- The tsunami warning signs and evacuation route boards along the coast of Tamil Nadu and Kerala.
+- A paddy field with waves running across it in the wind.
+- The tsunami warning signs and evacuation route boards along the coast.
 - A curtain rippling in the wind from a ceiling fan.
 
 ## Open questions
@@ -727,6 +727,11 @@ Everything Hums (sci.sound.L3): Topic-level song for Sound L3
 
 ## Things to buy
 - [A plastic spring toy, also sold as a magic spring or rainbow spring](https://www.amazon.in/s?k=magic+spring+toy+rainbow) (tool): It shows push waves and shake waves very clearly. It is cheap and sold in toy shops, at fairs and online. If you do not have one, use the dupatta and the family stadium wave instead. Used in a2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Draw and Label a Wave, The Straw Wave Machine. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a5, p1. Get it before Draw and Label a Wave.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Tray Test: does a wave cross deep or shallow water faster?, The Straw Wave Machine. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, p1. Get it before The Tray Test: does a wave cross deep or shallow water faster?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Tray Test: does a wave cross deep or shallow water faster?, Draw and Label a Wave, The Straw Wave Machine. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a5, p1. Get it before The Tray Test: does a wave cross deep or shallow water faster?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Save the Clay Village. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Save the Clay Village.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a wave carry from place to place? → Energy.

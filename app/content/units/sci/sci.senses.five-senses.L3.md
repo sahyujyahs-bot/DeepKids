@@ -1,9 +1,9 @@
 # Our senses: many more than five
 `sci.senses.five-senses.L3`
 
-**Summary.** Pinch your nose and a spoon of elaichi sugar tastes only sweet. Where did the elaichi go? In this unit you will test taste with and without smell, find senses you forgot you had, and test where touch is sharpest and whether two ears beat one.
+**Summary.** Pinch your nose and a spoon of elaichi sugar tastes only sweet. Where did the elaichi go? In this lesson you will test taste with and without smell, find senses you forgot you had, and test where touch is sharpest and whether two ears beat one.
 
-**Intro.** *Shut your eyes and pinch your nose. Now someone puts a pinch of sugar on your tongue. It has a secret spice mixed in. Can you tell which spice it is? Keep pinching. Now let go of your nose.* When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. In this unit, you follow each sense from the outside of your body down to tiny cells and electric signals. You also find out that you have many more than five senses. And you find out what a bat, a fly and a snake can sense that you cannot.
+**Intro.** *Shut your eyes and pinch your nose. Now someone puts a pinch of sugar on your tongue. It has a secret spice mixed in. Can you tell which spice it is? Keep pinching. Now let go of your nose.* When you let go, the spice suddenly appears. Your tongue did not change. Your nose started working again. In this lesson, you follow each sense from the outside of your body down to tiny cells and electric signals. You also find out that you have many more than five senses. And you find out what a bat, a fly and a snake can sense that you cannot.
 
 ## Learning outcomes
 0. I can say what a sense is: a way the body detects something from the world and sends a message to the brain.
@@ -45,7 +45,7 @@
 ### What a sense is · *defined*
 **Definition:** A sense is a way the body detects something from the world, or from inside itself, and turns it into a message for the brain. Each sense has its own receptors.
 
-Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects that thing, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This unit starts with the five well-known senses, then meets the others.
+Every sense works in three steps. First, something from the world reaches the body. It might be light, shaking air, a push on the skin or a chemical. Second, receptors detect it. A receptor is a special cell that detects one kind of thing. When it detects that thing, it makes a tiny electric signal. Third, nerves carry the signal to the brain. Only then do you see, hear, feel, taste or smell. People often say we have five senses: sight, hearing, touch, taste and smell. That list comes from the Greek thinker Aristotle, more than 2,300 years ago. It is a tradition, not a scientific count. Scientists count many more. This lesson starts with the five well-known senses, then meets the others.
 - e.g. Hearing: shaking air reaches your ear, hair cells detect it, and a nerve carries the signal to your brain.
 - e.g. Smell: molecules of hot payasam float up your nose, smell receptors detect them, and your brain says 'payasam'.
 - e.g. Touch: a mosquito lands on your arm, touch receptors in your skin detect the tiny push, and you swat them.
@@ -222,7 +222,7 @@ We have been learning how each sense detects the world and turns it into signals
 
 Your senses detect very different things: light, vibrations, pushes, warmth, gravity, the stretch of your muscles and many kinds of molecules. Yet every one of them becomes the same kind of electric signal. The brain joins all these signals into one world, so the mango you see, smell and taste is one mango. The same awareness is present in every creature that senses, from a bacterium to a bee to you. Each one senses their own part of the same world.
 
-- **Samyutta Nikaya 35.23, the Sabba Sutta (the Buddha's teaching on 'the All'):** “Kiñca, bhikkhave, sabbaṁ? / Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca / idaṁ vuccati, bhikkhave, sabbaṁ.” The Buddha was asked, 'What is the All?' He named six pairs. The eye and what it sees. The ear and sounds. The nose and smells. The tongue and tastes. The body and touches. The mind and thoughts. That, he said, is the All. (This unit found the same pairs: a receptor and what it detects, like a cone and light, or a smell cell and a molecule. The Buddha also counted the mind as a sense. In this unit, the brain joined the signals from the nose and tongue into one flavour.)
+- **Samyutta Nikaya 35.23, the Sabba Sutta (the Buddha's teaching on 'the All'):** “Kiñca, bhikkhave, sabbaṁ? / Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca / idaṁ vuccati, bhikkhave, sabbaṁ.” The Buddha was asked, 'What is the All?' He named six pairs. The eye and what it sees. The ear and sounds. The nose and smells. The tongue and tastes. The body and touches. The mind and thoughts. That, he said, is the All. (This lesson found the same pairs: a receptor and what it detects, like a cone and light, or a smell cell and a molecule. The Buddha also counted the mind as a sense. In this lesson, the brain joined the signals from the nose and tongue into one flavour.)
 - **Katha Upanishad 1.3.3 to 1.3.4:** “आत्मानँ रथिनं विद्धि शरीरँ रथमेव तु / बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च / इन्द्रियाणि हयानाहुर्विषयाँ स्तेषु गोचरान् / आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः” The body is like a chariot. The senses are the horses, and the things they sense are the roads. The mind is the reins, and understanding is the driver. The Self, the one who experiences, rides in the chariot. (In the Upanishad, the senses are horses that carry the rider along roads. In the same way, your senses carry signals in from the world to your brain. Then the Upanishad asks who is riding. Science can follow the signals into the brain, but it cannot yet explain who or what experiences them.)
 - **Tao Te Ching 12:** “五色令人目盲，五音令人耳聾，五味令人口爽。” The five colours can blind the eye. The five notes can deafen the ear. The five flavours can dull the tongue. (The Tao Te Ching warns that chasing strong colours, sounds and flavours dulls the senses. Science has found something related. In the Fading Coin activity, your skin stopped feeling a coin that did not move. A sense given the same thing for a long time stops reporting it.)
 - Science (settled): Every sense works by receptor cells detecting something from the world and turning it into electric signals for the brain.
@@ -737,7 +737,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 ### How Senses Work, Inside (stretch) (stretch, 15 questions)
 1. (mcq) A signal from your eye and a signal from your ear both reach your brain. How are they different?  
    Options: One is light and one is sound / They are the same kind of electric signal, but they arrive at different parts of the brain / The eye signal is much faster / The ear signal is bigger  
-   **Answer:** They are the same kind of electric signal, but they arrive at different parts of the brain. *Why:* No light or sound reaches the brain. Every sense sends the same kind of electric signal. The brain knows which is which by where it arrives. Picking 'one is light' is the most common idea, and it is the surprise of this unit.
+   **Answer:** They are the same kind of electric signal, but they arrive at different parts of the brain. *Why:* No light or sound reaches the brain. Every sense sends the same kind of electric signal. The brain knows which is which by where it arrives. Picking 'one is light' is the most common idea, and it is the surprise of this lesson.
 2. (order) Sound has reached the cochlea, the snail-shaped part deep in your ear. Put what happens next in order: the tufts on the hair cells bend, the nerve carries the signal to the brain, the liquid in the cochlea ripples, tiny gates in the hair cells open.  
    **Answer:** order shown. *Why:* The shaking makes the liquid ripple. The ripples bend the tufts on top of the hair cells. Bending opens tiny gates, and the cell makes an electric signal. The nerve carries it to the brain.
 3. (write) A girl of 10 plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?  
@@ -811,7 +811,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 ## Videos
 - **How do we smell? - Rose Eveleth** (TED-Ed, 4 min) id `snJnO6OpjCs`: A short cartoon that follows smell molecules up the nose to the receptors and the brain, and explains why smells bring back memories. *Check:* Video id checked with YouTube's oembed service: it returns this title from TED-Ed. A parent may still preview it.
 - **Try this bizarre audio illusion! (the McGurk effect)** (BBC, 3 min) id `G-lN8vWm3m0`: Shows the McGurk effect: watching lips changes what you hear. Watch it with eyes open, then with eyes shut, to feel the senses working together. *Check:* Video id checked with YouTube's oembed service: it returns this title from the BBC. A parent may still preview it.
-- **Teaching the blind to navigate the world using tongue clicks: Daniel Kish at TEDxGateway 2012** (TEDx Talks, 15 min) id `ob-P2a6Mrjs`: Daniel Kish, who is blind, shows how he uses tongue clicks and echoes to find his way, filmed at a TEDx event in Mumbai. It goes with this unit's story. Parents can watch first and show a few minutes. *Check:* Video id checked with YouTube's oembed service: it returns this title from TEDx Talks. The length is approximate. A parent should preview it.
+- **Teaching the blind to navigate the world using tongue clicks: Daniel Kish at TEDxGateway 2012** (TEDx Talks, 15 min) id `ob-P2a6Mrjs`: Daniel Kish, who is blind, shows how he uses tongue clicks and echoes to find his way, filmed at a TEDx event in Mumbai. It goes with this lesson's story. Parents can watch first and show a few minutes. *Check:* Video id checked with YouTube's oembed service: it returns this title from TEDx Talks. The length is approximate. A parent should preview it.
 
 ## Quiz
 1. (mcq) Which of these is one of your senses at work?  
@@ -879,7 +879,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 - Raised marks on Indian currency notes, so people who cannot see well can tell them apart.
 - The smell of cooking gas, which is added on purpose so a leak can be noticed.
 - A temple bell, a pressure cooker whistle and a vegetable seller's call. Each one is shaking air reaching your eardrum.
-- Spice markets, like Mattancherry in Kochi or Khari Baoli in Old Delhi, where your nose can tell you where you are with your eyes shut.
+- A spice market, where your nose can tell you where you are with your eyes shut.
 - Bats leaving a banyan tree or an old fort at dusk, finding moths by echoes.
 - Bees visiting flowers on a balcony or in a park, guided by ultraviolet patterns you cannot see.
 - People talking in Indian Sign Language, using their eyes and hands instead of ears and voice.
@@ -937,13 +937,21 @@ The World Comes In (sci.senses.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits, including illusions that fool your senses.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on the human body, sound and light.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with hands-on galleries, including sound and the body.
-- [Khari Baoli spice market]() · place · Old Delhi: One of the biggest spice markets in Asia. Walk through with a grown-up and try naming the smells with your eyes half shut.
-- [A spice shop, a vegetable market or a park near you]() · place · anywhere: Do the One Quiet Minute activity there. Which sense tells you the most in each place?
+- Khari Baoli spice market · place · Old Delhi: One of the biggest spice markets in Asia. Walk through with a grown-up and try naming the smells with your eyes half shut.
+- A spice shop, a vegetable market or a park near you · place · anywhere: Do the One Quiet Minute activity there. Which sense tells you the most in each place?
 
 ## Things to buy
 - [What If You Had Animal Eyes?, by Sandra Markle](https://www.amazon.in/s?k=What+If+You+Had+Animal+Eyes+Sandra+Markle) (book): A picture book for ages 5 to 9 about what you would see with the eyes of different animals, with true facts. Used in g1. 
 - [My Five Senses, by Aliki (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=My+Five+Senses+Aliki) (book): A simple, clear picture book about the five well-known senses, good for younger children too. It keeps to the old count of five, so talk about the other senses after reading it. Used in a1. 
 - [An Immense World, by Ed Yong](https://www.amazon.in/s?k=An+Immense+World+Ed+Yong) (book): A book for parents about animal senses and the idea of the Umwelt. Read short passages aloud. Used in g1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Two-Point Test: where is touch sharpest?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before The Two-Point Test: where is touch sharpest?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Hear a Whisper Across the Room. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in c1. Get it before Hear a Whisper Across the Room.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Feel the Sound: three ways to feel and see a vibration. About ₹20 to ₹60. Used in a2. Get it before Feel the Sound: three ways to feel and see a vibration.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Train Your Nose: can smelling get better with practice?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in p1. Get it before Train Your Nose: can smelling get better with practice?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Two-Point Test: where is touch sharpest?, Hear a Whisper Across the Room, A Kitchen Shelf for Someone Who Cannot See. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, c1, c2. Get it before The Two-Point Test: where is touch sharpest?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Point at the Sound: are two ears better than one?. About ₹20 to ₹50. Torn clean cloth works. Used in e3. Get it before Point at the Sound: are two ears better than one?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Mystery Bag: how much can fingertips tell?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before The Mystery Bag: how much can fingertips tell?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a receptor do? → It notices one kind of thing, like light or a push, and makes a nerve signal.
@@ -965,7 +973,7 @@ The World Comes In (sci.senses.L3): Topic-level song
 - Core: a1, e1, a7, e2, e3, a2, a5, g1, ws-core
 
 ## Sources
-- DeepKids Combined lesson sci-C3-senses (Class 3): pointing at sounds, the two-point test, the tongue map, chilli and mint, umami, pinhole and pupil, Ibn al-Haytham, animal senses and the Umwelt, the Umwelt Trail game, Braille and Aravind perspectives. Taken and reworked for the five senses. Balance, body position, warm and cold, and the inner senses are introduced here with home tests, and go deeper in the next unit.
+- DeepKids Combined lesson sci-C3-senses (Class 3): pointing at sounds, the two-point test, the tongue map, chilli and mint, umami, pinhole and pupil, Ibn al-Haytham, animal senses and the Umwelt, the Umwelt Trail game, Braille and Aravind perspectives. Taken and reworked for the five senses. Balance, body position, warm and cold, and the inner senses are introduced here with home tests, and go deeper in the next lesson.
 - Cambridge Stage 3 pack 4 (Our five senses): pointing at sounds, the touch test, the spice box smell game and the eye test.
 - Founder's notebook, Senses: SCI Cards for Obaid Siddiqi (fruit-fly genetics of taste and smell) and Ibn al-Haytham. Grade 3 concept grid ('perception constructs experience'). weekly journey 'All Perception Is Subjective'.
 - Founder's sheets: afterimages ('stare at red dot, see green blur, retina fatigue'), sound through solids ('ear to table when pencil taps'), feeling music through a balloon held to a phone speaker, describing an object with the five senses on a nature walk, and the teachpsych.org list of sensation and perception activities.

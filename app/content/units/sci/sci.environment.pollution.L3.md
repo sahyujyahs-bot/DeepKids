@@ -1,9 +1,9 @@
 # Pollution: what makes air, water and land dirty, and where it comes from
 `sci.environment.pollution.L3`
 
-**Summary.** What is in the air at your window that you cannot see? In this unit you will wipe a window grill with a white cloth, catch dust on a sticky card and count the specks, and see where dust sits on a leaf.
+**Summary.** What is in the air at your window that you cannot see? In this lesson you will wipe a window grill with a white cloth, catch dust on a sticky card and count the specks, and see where dust sits on a leaf.
 
-**Intro.** *Wet a white cloth and wipe the window grill on the side that faces the road. Then wipe a shelf inside a closed cupboard. Look at the two cloths. Where did the black on the first cloth come from?* Nobody poured dirt on the window grill. It came out of the air, a tiny speck at a time, over days. In this unit you find out what those specks are, where they come from, and where else they land, including inside your own nose.
+**Intro.** *Wet a white cloth and wipe the window grill on the side that faces the road. Then wipe a shelf inside a closed cupboard. Look at the two cloths. Where did the black on the first cloth come from?* Nobody poured dirt on the window grill. It came out of the air, a tiny speck at a time, over days. In this lesson you find out what those specks are, where they come from, and where else they land, including inside your own nose.
 
 ## Learning outcomes
 0. I can say what pollution is: harmful things added to air, water or land faster than nature can clear them away.
@@ -266,7 +266,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   *Parent says:* Tell me what you found out, what you saw that shows it, and why you think it happened.  
   *Child mode:* Say three things. What you found out. What you saw that shows it. Why you think it happened.
   - Ask: What did you find out? (good: The air at our window carries dust, even when it looks clear.; The flat card caught the most, but the upright card caught some too.; The card in the dabba stayed clean, so the specks came from the air.)
-  - Note: A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this unit's explanation cards.
+  - Note: A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this lesson's explanation cards.
 ### e2 · The Leaf Wipe: where does dust sit on a plant? (20 min)
 - **problem:** Dust lands on plants too. You will wipe leaves with damp cotton to find where the dust sits. Then you will think about what the dust does to the plant.
 - **question:** On a potted plant near a window, is there more dust on the top of a leaf or underneath it? Is there more on an outer leaf or an inner one?
@@ -579,7 +579,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 14. (mcq) A sticky card is left on top of a kitchen cupboard for two days. It catches oily, sticky specks. Where did they most likely come from?  
    Options: Frying and tadka on the stove / Dust from the road / The cupboard wood  
    **Answer:** Frying and tadka on the stove. *Why:* Hot oil gives off tiny droplets of oil and smoke. They float in the kitchen air and stick to high surfaces. That is why kitchen tops get sticky.
-15. (write) Pick one fix from this unit that costs money and one that costs nothing. Which would more families really do? Why?  
+15. (write) Pick one fix from this lesson that costs money and one that costs nothing. Which would more families really do? Why?  
    **Answer:** For example: a net costs money but switching off the engine at a signal costs nothing. A strong answer weighs cost, habit and how much smoke each one really stops.. *Why:* A strong answer is honest about what families can afford and still keeps the smoke or dust in mind.
 
 ## Videos
@@ -637,7 +637,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - A grey layer on the top of a ceiling fan blade, which a grown-up can see by standing on a steady stool.
 - Black soot round the end of an old scooter's exhaust pipe.
 - Roadside tree leaves that look grey before the monsoon and bright green after the first rain.
-- Foam floating on some city lakes, such as Bellandur Lake in Bengaluru, from sewage with soap in it.
+- Foam floating on a city lake, from sewage with soap in it.
 - A hazy sky on the morning after Diwali or Bhogi, when the far buildings look pale.
 - A black smudge on the wall above where a lamp or a candle burns every evening.
 
@@ -681,12 +681,18 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 ## Links
 - [CPCB National Air Quality Index](https://airquality.cpcb.gov.in/AQI_India/) · interactive: For the parent. A live map of the AQI in Indian cities, from the Central Pollution Control Board. Find the station nearest your home and use it for Haze Watch.
 - [NASA Climate Kids: What is air pollution?](https://climatekids.nasa.gov/air-pollution/) · interactive: A short page for children, with pictures, about what air pollution is and where it comes from.
-- [US EPA: Particulate Matter (PM) Basics](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics) · interactive: For the parent. A clear explanation of PM10 and PM2.5, with the hair comparison used in this unit.
+- [US EPA: Particulate Matter (PM) Basics](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics) · interactive: For the parent. A clear explanation of PM10 and PM2.5, with the hair comparison used in this lesson.
 - [AirNow: AQI Basics](https://www.airnow.gov/aqi/aqi-basics/) · interactive: For the parent. What the colours and numbers of an air quality index mean for health.
 
 ## Things to buy
 - [A small tin or tube of petroleum jelly (Vaseline)]() (material): It stays sticky for days and does not soak into the card, so specks stay on top where you can count them. Coconut oil works too, but soaks in more. Used in e1, p1, c1. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): It makes the specks on the sticky card easy to see and count. A phone camera with zoom is a good home alternative. Used in e1, p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Sticky Card Test: what is in the air at your window?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Sticky Card Test: what is in the air at your window?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Your Nose, the Dust Catcher. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before Your Nose, the Dust Catcher.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Window Dust Filter. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Window Dust Filter.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Leaf Wipe: where does dust sit on a plant?, Through the Soil: what does soil stop, and what goes through?, The White Cloth Wipe: is the window grill dirty?. About ₹20 to ₹50. Torn clean cloth works. Used in e2, e3, a1. Get it before The Leaf Wipe: where does dust sit on a plant?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Your Nose, the Dust Catcher, The Window Dust Filter. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a3, c1. Get it before Your Nose, the Dust Catcher.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is pollution? → Harmful things added to air, water or land faster than nature can clear them away.
@@ -705,7 +711,7 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 ## Sources
 - ideas/by_topic/caring-for-the-environment.md: Human impact (anthropogenic forcing, aerosols) row: make a DIY air filter and check collected particles (the Window Dust Filter challenge), compare air on a busy street and in a park, photograph haze at sunrise and midday (Haze Watch), 'breath audit' of indoor air (Your Nose, the Dust Catcher), 'Pollution tag' physical game, interview elders about how local air has changed
 - ideas/by_topic/caring-for-the-environment.md: SCI Card for Rachel Carson (Silent Spring, 1962), used for the 'In nature nothing exists alone' teaching
-- Prerequisite unit sci.environment.caring.L3 and nearby units (sci.waste.*, sci.water.*, sci.air.air-around-us.L3) read so that experiments, stories and deep truths are not repeated: this unit's sticky cards, leaf wipe and soil filter are new
+- Prerequisite unit sci.environment.caring.L3 and nearby units (sci.waste.*, sci.water.*, sci.air.air-around-us.L3) read so that experiments, stories and deep truths are not repeated: this lesson's sticky cards, leaf wipe and soil filter are new
 - Patterson, 'Age of meteorites and the earth', Geochimica et Cosmochimica Acta, 1956
 - Patterson, 'Contaminated and natural lead environments of man', Archives of Environmental Health, 1965
 - Murozumi, Chow and Patterson, 'Chemical concentrations of pollutant lead aerosols, terrestrial dusts and sea salts in Greenland and Antarctic snow strata', Geochimica et Cosmochimica Acta, 1969

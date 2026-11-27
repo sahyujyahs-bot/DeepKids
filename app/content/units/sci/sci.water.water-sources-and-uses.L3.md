@@ -1,9 +1,9 @@
 # Where our water comes from, and when it is safe to drink
 `sci.water.water-sources-and-uses.L3`
 
-**Summary.** Clear water is not always clean to drink. How can you tell? In this unit you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.
+**Summary.** Clear water is not always clean to drink. How can you tell? In this lesson you will follow the pipe to see where your tap water comes from, test whether rain soaks into different grounds, and count how many litres your family uses.
 
-**Intro.** *Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?* Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this unit you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.
+**Intro.** *Fill a glass from the tap and hold it up to the light. It looks like nothing but water. Where was this water last week? And is there anything else in it?* Most children say the water comes from the tap. But a tap makes no water. It only lets out water that is already in the pipe. The pipe brings it from a tank, a well or a river, and those were filled by rain. In this lesson you follow your water back to where it started. You also dry spoonfuls of clear water on a plate, to see what was hiding in them.
 
 ## Learning outcomes
 0. I can name where the water in my home comes from, such as a river, a lake, a well or a borewell, and how it reaches the tap.
@@ -786,7 +786,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 
 ## Videos
 - **How Does Water Get to Your House?** (SciShow Kids, 4 min) id `cGi4PugN4qY`: A clear, child-friendly walk from a river or a well, through a treatment plant and pipes, to the tap. It matches Follow the Pipe. *Check:* It shows an American town, so talk about how your own home's water differs.
-- **The 1850s map that changed how we fight outbreaks** (Vox, 7 min) id `VJ86D_DtyWg`: For the parent and curious older children. It tells the true story behind this unit's story: John Snow, the Broad Street pump and the map of cholera deaths. *Check:* It talks about deaths and illness, so a parent should watch it first.
+- **The 1850s map that changed how we fight outbreaks** (Vox, 7 min) id `VJ86D_DtyWg`: For the parent and curious older children. It tells the true story behind this lesson's story: John Snow, the Broad Street pump and the map of cholera deaths. *Check:* It talks about deaths and illness, so a parent should watch it first.
 - **Get Lost in the Maze-Like Stepwell of Chand Baori** (Great Big Story, 2 min) id `UjubH9b4BvE`: Shows the huge stepwell at Abhaneri in Rajasthan, more than a thousand years old, with about 3,500 steps zigzagging down to the water. *Check:* A parent may like to watch it first.
 
 ## Quiz
@@ -851,7 +851,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 - A red clay matka on a stand, sweating little drops in summer.
 - A handpump at a village corner, with a cement platform and a small drain.
 - Water tankers queuing in a city lane in summer.
-- Old stepwells, such as Agrasen ki Baoli in Delhi or Rani ki Vav in Patan.
+- An old stepwell, with steps going down to the water.
 - A village pond, full after the monsoon and shrinking by May.
 - Rainwater running off a road into a drain, while the soil beside it soaks the rain in.
 - A wet patch and green moss on a wall where a pipe is leaking.
@@ -906,8 +906,8 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [Centre for Science and Environment](https://www.cseindia.org) · interactive: An Indian group that has written a lot about rainwater harvesting, and about old ways of storing water. It is also the publisher of a well-known book on India's traditional water systems, 'Dying Wisdom'.
 - [Exploratorium Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for water.
 - [Rani ki Vav, the Queen's Stepwell](https://whc.unesco.org/en/list/922/) · place · Patan, Gujarat: A stepwell built nearly 1,000 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site.
-- [Chand Baori stepwell]() · place · Abhaneri, near Jaipur, Rajasthan: One of the deepest stepwells in India, with about 3,500 steps in a zigzag pattern.
-- [Agrasen ki Baoli]() · place · New Delhi: An old stepwell right in the middle of the city, near Connaught Place.
+- Chand Baori stepwell · place · Abhaneri, near Jaipur, Rajasthan: One of the deepest stepwells in India, with about 3,500 steps in a zigzag pattern.
+- Agrasen ki Baoli · place · New Delhi: An old stepwell right in the middle of the city, near Connaught Place.
 - [Dholavira](https://whc.unesco.org/en/list/1645/) · place · Kutch, Gujarat: A Harappan city about 4,500 years old, with huge stone reservoirs for storing rain. It became a UNESCO World Heritage Site in 2021.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for ones about water, pumps and pressure.
 
@@ -918,6 +918,11 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [The Water Princess, by Susan Verde, illustrated by Peter H. Reynolds](https://www.amazon.in/s?k=The+Water+Princess+Susan+Verde) (book): A picture book based on the childhood of Georgie Badiel in Burkina Faso, who walked with her mother every day to fetch water. Used in a6. 
 - [Water Is Water, by Miranda Paul, illustrated by Jason Chin](https://www.amazon.in/s?k=Water+Is+Water+Miranda+Paul) (book): A gentle picture book about water changing form, from rain to fog to ice and back. Used in e1. 
 - [Aaj Bhi Khare Hain Talab, by Anupam Mishra (in Hindi, for the parent)](https://www.amazon.in/s?k=Aaj+Bhi+Khare+Hain+Talab+Anupam+Mishra) (book): A famous book about the ordinary people who built and cared for India's ponds and tanks. The title means 'The Ponds Are Still Standing'. Used in c2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Well in a Jar, Rain Gauge and Sky Diary, Catch the Rain: a model rooftop tank. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a2, p1. Get it before A Well in a Jar.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Catch the Rain: a model rooftop tank. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Catch the Rain: a model rooftop tank.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Rain on Four Grounds: soak in or run off?, A Well in a Jar, Cool Water Without a Fridge. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1, e2, c1, c2. Get it before Rain on Four Grounds: soak in or run off?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Catch the Rain: a model rooftop tank. About ₹100 to ₹200. A marble or a round torch cell works. Used in p1. Get it before Catch the Rain: a model rooftop tank.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Where does almost all our fresh water begin? → As rain.

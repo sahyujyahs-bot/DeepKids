@@ -1,9 +1,9 @@
 # Feelings: naming them, and what helps when we feel sad or angry
 `sci.health.feelings-and-wellbeing.L1`
 
-**Summary.** Can you feel happy, sad and angry all in one day? In this unit you will name your feelings and say how big they are, keep a chart of your feelings through a day, and try things that help when you feel sad or angry.
+**Summary.** Can you feel happy, sad and angry all in one day? In this lesson you will name your feelings and say how big they are, keep a chart of your feelings through a day, and try things that help when you feel sad or angry.
 
-**Intro.** *Put your hand on your tummy and close your eyes. What are you feeling right now? Can you give it a name?* A feeling is something you notice inside you. Happy is a feeling. So are sad, angry, scared and calm. Every person has all of these, and so do many other animals. In this unit you give your feelings names. You draw your feelings through one whole day. And you find out what helps when you feel sad or angry.
+**Intro.** *Put your hand on your tummy and close your eyes. What are you feeling right now? Can you give it a name?* A feeling is something you notice inside you. Happy is a feeling. So are sad, angry, scared and calm. Every person has all of these, and so do many other animals. In this lesson you give your feelings names. You draw your feelings through one whole day. And you find out what helps when you feel sad or angry.
 
 ## Learning outcomes
 0. By the end I can name at least five feelings: happy, sad, angry, scared and calm.
@@ -498,10 +498,13 @@ How Do I Feel Today? (sci.health.L1): Topic-level song for Health L1
 ## Links
 - [Tele MANAS: India's free mental health helpline](https://telemanas.mohfw.gov.in/) · interactive: For the parent: if a child's sadness, fear or anger stays for weeks or seems too big, this government helpline gives free advice in many Indian languages.
 - [Sesame Street in Communities](https://sesamestreetincommunities.org/) · interactive: For the parent and child: free videos and activities about feelings and calming down for young children.
-- [Cubbon Park]() · place · Bengaluru: A big, quiet green park in the middle of the city. Sit under a tree and notice how your feelings change.
-- [Marina Beach]() · place · Chennai: Where Chinnu built her sandcastle. Try the wave breath: breathe in as a wave comes in, and out as it goes back.
+- Cubbon Park · place · Bengaluru: A big, quiet green park in the middle of the city. Sit under a tree and notice how your feelings change.
+- Marina Beach · place · Chennai: Where Chinnu built her sandcastle. Try the wave breath: breathe in as a wave comes in, and out as it goes back.
 
 ## Things to buy
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Settling Bottle: watch it, and breathe. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a2. Get it before The Settling Bottle: watch it, and breathe.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in A Cheer-Up Box for Someone at Home. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before A Cheer-Up Box for Someone at Home.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name three feelings. → For example: happy, sad, angry, scared, calm, excited.

@@ -1,9 +1,9 @@
 # Sorting animals into groups: testing rules against the hard cases
 `sci.classification.sorting-living-things.L4`
 
-**Summary.** A bat flies and a dolphin swims, so which one is a mammal? In this unit you will pick which two of a bat, a crow and a cat belong together, test sorting rules against hard cases to see which ones break, and sort animals with no backbone.
+**Summary.** A bat flies and a dolphin swims, so which one is a mammal? In this lesson you will pick which two of a bat, a crow and a cat belong together, test sorting rules against hard cases to see which ones break, and sort animals with no backbone.
 
-**Intro.** *Take a bat, a crow and a cat. Which two belong together? Most people say the bat and the crow, because both fly. Look closer. The bat has fur, and her baby drinks her milk, just like a kitten. The crow has feathers and lays eggs.* Sorting by flying works if you only want to know who is in the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this unit you test sorting rules on the animals that are hardest to sort, and you find rules that never break.
+**Intro.** *Take a bat, a crow and a cat. Which two belong together? Most people say the bat and the crow, because both fly. Look closer. The bat has fur, and her baby drinks her milk, just like a kitten. The crow has feathers and lays eggs.* Sorting by flying works if you only want to know who is in the evening sky. But the bat's fur and milk are clues to something else, which is her family. In this lesson you test sorting rules on the animals that are hardest to sort, and you find rules that never break.
 
 ## Learning outcomes
 0. I can sort animals into those with a backbone and those without, and say which half is far bigger.
@@ -909,6 +909,8 @@ Which Group Is She In? (sci.classification.L4): Topic-level song
 - [A small packet of kalkandu (rock sugar, also called mishri) from a kirana or pooja shop, usually under Rs 50, or a small box of sugar cubes if you can find them](https://www.amazon.in/s?k=kalkandu) (material): For the Lump or Powder test. Plain table sugar from the kitchen can stand in if you do not buy this. Used in e3. 
 - [A roll of masking tape (optional)](https://www.amazon.in/s?k=masking+tape) (material): For drawing the four rooms of the floor game on a tile floor. Chalk works on a balcony. Used in g2. 
 - [Your Inner Fish by Neil Shubin (optional, for the parent)](https://www.amazon.in/s?k=your+inner+fish+neil+shubin) (book): A readable book by one of the finders of Tiktaalik, on how the bones of fish became the bones of our arms. Used in a2, p1. Read the first two chapters in the evening before the Same Bones activity, and share one idea at breakfast.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Wall Chart of the Backbone Family Tree. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before A Wall Chart of the Backbone Family Tree.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many of every 20 kinds of animal have no backbone? → About 19.
@@ -928,7 +930,7 @@ Which Group Is She In? (sci.classification.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/kinds-of-living-things-and-sorting-them.md: the RNA picture book, used for the sponge as the first animal, sponges that shrink when touched, and the branching tree of life
 - The Combined lessons sci-C4-kinds-of-living-things-and-sorting-them and sci-C3-kinds-of-living-things-and-sorting-them, used for the words arthropod, exoskeleton and convergent evolution, and for the idea that unrelated animals can share a feature
-- The Level 3 unit on sorting living things, which this unit builds on: groups inside groups, sorting by clues that come from ancestors, and the archaea story. This unit does not repeat its experiments or story
+- The Level 3 unit on sorting living things, which this lesson builds on: groups inside groups, sorting by clues that come from ancestors, and the archaea story. This lesson does not repeat its experiments or story
 - Nearby units built on, not repeated: sci.animals.vertebrate-groups.L2 and L3, and sci.animals.invertebrates.L3
 - Shaw, G., The Naturalist's Miscellany, 1799 (the first description of the platypus)
 - Caldwell, W. H., telegram to the British Association meeting in Montreal, September 1884, and Caldwell, W. H., Phil. Trans. Royal Society B, 1887 (monotremes lay eggs)

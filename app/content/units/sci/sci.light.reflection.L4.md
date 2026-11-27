@@ -1,9 +1,9 @@
 # Reflection: shiny and dull surfaces, and seeing round corners with mirrors
 `sci.light.reflection.L4`
 
-**Summary.** A mirror and a sheet of paper both bounce light back, so why can you see your face in only one? In this unit you will hunt for shiny and dull things, track where light goes from different surfaces, make a dull thing shine, and build a periscope from a milk carton.
+**Summary.** A mirror and a sheet of paper both bounce light back, so why can you see your face in only one? In this lesson you will hunt for shiny and dull things, track where light goes from different surfaces, make a dull thing shine, and build a periscope from a milk carton.
 
-**Intro.** *Hold up a steel tumbler and look at your face in the shiny side. Breathe on it. Your face vanishes into fog. Wait a few seconds. Your face comes back. The steel did not change. What did the fog do to the light?* Every surface sends back some of the light that lands on it. What is different is how tidily it does it. A mirror sends light back in neat order, so you see a picture. A wall sends it back in every direction, so you see the wall itself, from anywhere in the room. In this unit you find out why, and how polish, water and tape turn a dull surface into a shiny one. You also learn how two mirrors can send light round two corners, which is how a periscope lets you see over a wall.
+**Intro.** *Hold up a steel tumbler and look at your face in the shiny side. Breathe on it. Your face vanishes into fog. Wait a few seconds. Your face comes back. The steel did not change. What did the fog do to the light?* Every surface sends back some of the light that lands on it. What is different is how tidily it does it. A mirror sends light back in neat order, so you see a picture. A wall sends it back in every direction, so you see the wall itself, from anywhere in the room. In this lesson you find out why, and how polish, water and tape turn a dull surface into a shiny one. You also learn how two mirrors can send light round two corners, which is how a periscope lets you see over a wall.
 
 ## Learning outcomes
 0. I can explain that every surface reflects some light, and that a smooth surface sends it back in order while a rough surface scatters it in every direction.
@@ -814,6 +814,9 @@ The Rest of the Rainbow (sci.light.L4): Topic-level song
 - [Small flat mirrors: pocket mirrors from a general store, or mirror pieces from a glass shop (plastic acrylic is safest)](https://www.amazon.in/s?k=unbreakable+acrylic+mirror+sheet+small) (tool): Used in the Where Does the Bounce Go test, the corner mirrors, the periscope and the bendy periscope challenge. Pocket mirrors cost about Rs 20 to 40 each; a glass shop will cut 7 cm squares and smooth the edges. Tape every edge. Used in e1, e3, p1, c1. 
 - [Reflective tape or reflective stickers](https://www.amazon.in/s?k=reflective+tape+safety+sticker) (material): For the corner mirror test and the dusk walk. A strip on a school bag or a bicycle reflector (about Rs 20 at a cycle shop) works too, so this is optional. Used in e3, a4. 
 - [Black, red and green chart paper](https://www.amazon.in/s?k=chart+paper+black+red+green+pack) (material): For Make a Dull Thing Shine and Colour Bounce. Any stationery shop sells chart paper sheets. Used in e2, a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Make a Dull Thing Shine: how does polish work?, Send It Straight Back: two mirrors at a right angle, Milk-Carton Periscope: see over the wall. About ₹10 to ₹30. Any school ruler is fine. Used in e2, e3, p1. Get it before Make a Dull Thing Shine: how does polish work?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Where Does the Bounce Go? Mirror, foil, paper, cloth and glossy page, Send It Straight Back: two mirrors at a right angle, Look Round Two Corners: a bendy periscope. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, e3, c1. Get it before Where Does the Bounce Go? Mirror, foil, paper, cloth and glossy page.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a mirror do with the light that lands on it? → It sends it back in order, so you see a picture.
@@ -834,8 +837,8 @@ The Rest of the Rainbow (sci.light.L4): Topic-level song
 ## Sources
 - Founder's notebook, Light, seeing and shadows: the activities to bounce sunlight into dark corners and to build a simple periscope from two mirrors, used in the Milk-Carton Periscope and the bendy periscope challenge
 - Founder's notebook: observing reflections on water and photographing reflections at different times of day, used in the spotted list and the low-angle test
-- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light reflects off different surfaces and which reflect best, which this unit extends to smooth and rough surfaces
-- The Class 3 reflection unit, which this unit builds on: the rule of reflection, mirror writing and two mirrors, now taken on to rough surfaces, periscopes and curved mirrors
+- Combined lesson sci-C4-light-seeing-and-shadows: its Class 4 coverage of how light reflects off different surfaces and which reflect best, which this lesson extends to smooth and rough surfaces
+- The Class 3 reflection unit, which this lesson builds on: the rule of reflection, mirror writing and two mirrors, now taken on to rough surfaces, periscopes and curved mirrors
 - Ibn al-Haytham, Kitab al-Manazir (Book of Optics), about 1021, on light reflecting from surfaces
 - Gregory, Optica Promota, 1663, a design for a reflecting telescope
 - Newton, the prism experiments of 1666 and the reflecting telescope of 1668, shown to the Royal Society in 1671; published as A New Theory about Light and Colours, Philosophical Transactions, 1672

@@ -1,9 +1,9 @@
 # How animals talk: the messages in barks, purrs and birdsong
 `sci.animal-behaviour.animal-communication.L2`
 
-**Summary.** Can a message get through with only a tune and no words? In this unit you will test it by saying a message as 'la-la' for a friend to guess, hum a purr to feel it in your throat, and act out animal sounds for others to guess what they mean.
+**Summary.** Can a message get through with only a tune and no words? In this lesson you will test it by saying a message as 'la-la' for a friend to guess, hum a purr to feel it in your throat, and act out animal sounds for others to guess what they mean.
 
-**Intro.** *A dog is barking at the gate downstairs. You cannot see the dog. Is the dog saying 'go away', 'let's play' or 'I am lonely'? How could you tell, just by listening?* Animals talk to each other all day. Dogs bark and growl. Cats purr and hiss. Crows caw, koels call and crickets chirp at night. Each sound is a message for someone. In this unit you listen to animal sounds and find out what they mean. Then you test whether a message can get through with no words at all.
+**Intro.** *A dog is barking at the gate downstairs. You cannot see the dog. Is the dog saying 'go away', 'let's play' or 'I am lonely'? How could you tell, just by listening?* Animals talk to each other all day. Dogs bark and growl. Cats purr and hiss. Crows caw, koels call and crickets chirp at night. Each sound is a message for someone. In this lesson you listen to animal sounds and find out what they mean. Then you test whether a message can get through with no words at all.
 
 ## Learning outcomes
 0. By the end I can say what communicating means: one animal sends a message, and another animal notices and changes what they do.
@@ -450,7 +450,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
    **Answer:** purr. *Why:* A purr is made by the voice box, which shakes more than 20 times every second. It goes on while the cat breathes in and while she breathes out.
 9. (perspective) A girl aged 7 lives in Chennai. A street dog barks at her every morning at the gate of her building.  
    **Answer:** A strong answer picks a view and gives a reason, then says what to check: is the bark low and fast, or higher with gaps? Is his tail stiff or loose? Does he stop when she walks past, or follow her to where food is?. *Why:* A bark can mean 'stay back', 'feed me' or 'let's play'. The tune of the bark and the dog's body help to tell them apart.
-10. (write) Someone says, 'Only people can talk. Animals just make noise.' Is that right? Say one thing from this unit that helps you answer.  
+10. (write) Someone says, 'Only people can talk. Animals just make noise.' Is that right? Say one thing from this lesson that helps you answer.  
    **Answer:** It is not quite right. A dog barks differently at a stranger and in play, and the watchman comes. Vervet monkeys have a different call for each danger.. *Why:* A strong answer uses one example where an animal's sound carries a message that others act on. It may also say that humans are animals too.
 ### Songs, Calls and Purrs (stretch) (stretch, 10 questions)
 1. (mcq) Which of these is a bird's song, not a call?  
@@ -547,13 +547,13 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - Farmers who keep hens and cows learn their animals' calls, and can hear when a hen has seen a hawk or a calf is hungry.
 
 ## Spotted around us
-- Male koels calling 'ku-oo, ku-oo' again and again from trees in Chennai and Kochi in the hot months before the monsoon.
-- House crows gathering and cawing loudly at a cat on a wall in Kolkata, until the cat walks away.
-- A house gecko going 'tchk-tchk-tchk' on a wall near a tube light at night in Thiruvananthapuram.
-- Street dogs in Pune howling together when an ambulance siren goes past.
-- A peacock giving his loud 'may-awe' call from a rooftop in Jaipur during the rains.
-- Pigeons on a balcony in Mumbai, a male puffing up his neck, bowing and cooing at a female.
-- Crickets chirping at night from potted plants and drains in Guwahati after rain.
+- Male koels calling 'ku-oo, ku-oo' again and again from trees in the hot months before the monsoon.
+- House crows gathering and cawing loudly at a cat on a wall, until the cat walks away.
+- A house gecko going 'tchk-tchk-tchk' on a wall near a tube light at night.
+- Street dogs howling together when an ambulance siren goes past.
+- A peacock giving his loud 'may-awe' call from a rooftop during the rains.
+- Pigeons on a balcony, a male puffing up his neck, bowing and cooing at a female.
+- Crickets chirping at night from potted plants and drains after rain.
 
 ## Open questions
 - **Why do cats purr when they are hurt?** Some scientists think the purr calms the cat. Some think the buzz might help the body heal. Nobody has shown which is true.
@@ -592,11 +592,13 @@ Who Is Calling? (sci.animal-behaviour.L2): Topic-level song for Animal behaviour
 - [xeno-canto: bird sounds from around the world](https://xeno-canto.org/) · interactive: For the parent: search for 'Asian koel' or 'Oriental magpie-robin' and play real recordings, including the female koel's call.
 - [Macaulay Library](https://www.macaulaylibrary.org/) · interactive: For the parent: a huge library of animal sounds and videos, including Indian birds and frogs.
 - [Merlin Bird ID](https://merlin.allaboutbirds.org/) · interactive: For the parent: a free phone app that can suggest which bird is singing near you.
-- [Ranganathittu Bird Sanctuary]() · place · Srirangapatna, near Mysuru: Islands in the Kaveri full of nesting birds, painted storks and herons, all calling to each other.
-- [Vedanthangal Bird Sanctuary]() · place · Chengalpattu district, near Chennai: One of India's oldest bird sanctuaries, loud with nesting water birds in the winter months.
-- [Kumarakom Bird Sanctuary]() · place · Kottayam, Kerala: A wetland by Vembanad Lake, where you can stand still and listen to many birds at once.
+- Ranganathittu Bird Sanctuary · place · Srirangapatna, near Mysuru: Islands in the Kaveri full of nesting birds, painted storks and herons, all calling to each other.
+- Vedanthangal Bird Sanctuary · place · Chengalpattu district, near Chennai: One of India's oldest bird sanctuaries, loud with nesting water birds in the winter months.
+- Kumarakom Bird Sanctuary · place · Kottayam, Kerala: A wetland by Vembanad Lake, where you can stand still and listen to many birds at once.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Messages Without a Voice: be a cricket and a woodpecker, Be a Tree Cricket: make a phone louder with no electricity. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2, c1. Get it before Messages Without a Voice: be a cricket and a woodpecker.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the soft buzzing sound a cat makes on your lap called? → A purr.

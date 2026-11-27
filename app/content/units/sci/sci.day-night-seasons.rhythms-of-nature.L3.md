@@ -1,9 +1,9 @@
 # Rhythms of nature: how plants and birds keep time
 `sci.day-night-seasons.rhythms-of-nature.L3`
 
-**Summary.** A bean plant folds its leaves at night. Does it need to see the morning to know when? In this unit you will grow beans and record their leaves through the day, test them in a dark box, and make a flower clock.
+**Summary.** A bean plant folds its leaves at night. Does it need to see the morning to know when? In this lesson you will grow beans and record their leaves through the day, test them in a dark box, and make a flower clock.
 
-**Intro.** *Look at a bean plant at noon, and their leaves are spread out flat. Look again at bedtime, and the same leaves hang down. Put the plant in a dark box, where no light can reach. Will the leaves still lift in the morning? How could a plant tell when morning is coming, without seeing the sky?* People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this unit you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.
+**Intro.** *Look at a bean plant at noon, and their leaves are spread out flat. Look again at bedtime, and the same leaves hang down. Put the plant in a dark box, where no light can reach. Will the leaves still lift in the morning? How could a plant tell when morning is coming, without seeing the sky?* People have noticed these daily movements for thousands of years. Gardeners called them the 'sleep' of leaves. In this lesson you grow a bean plant and test them yourself. You find out that living things carry a clock inside them. You also find out how birds know when to fly thousands of kilometres, and how flowers know when to open.
 
 ## Learning outcomes
 0. I can say what a daily rhythm and a yearly rhythm are, with an example of each from plants, animals and people.
@@ -136,7 +136,7 @@ Most migrating birds fly at night. Bright lights on tall buildings can pull them
   Against: Some scientists call these automatic responses run by genes, with no thinking involved.
 
 ## Roots
-In this unit, bean leaves rise and fall, jasmine opens in the evening and swallows come for the winter. Now we ask what these clocks in living things tell us about ourselves and the world.
+In this lesson, bean leaves rise and fall, jasmine opens in the evening and swallows come for the winter. Now we ask what these clocks in living things tell us about ourselves and the world.
 
 **Deep truth.** In the Sleeping Bean Leaves experiment, the bean plant in the dark box still lifted their leaves in the morning. No light reached them, so the timing came from inside the plant. Earlier days on the windowsill had set that inside clock. So a plant expects the morning, and gets ready before it comes.  
 *Habit it breaks:* We think of plants as only reacting: light comes, then leaves open. But a reaction comes after its cause. The bean plant in the dark box moved before any light came, so they were expecting the day, not reacting to it.  
@@ -666,7 +666,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    **Answer:** It showed the stork had been in Africa and flown back. *Why:* The spear was African, so the stork must have been in Africa. That ruled out the old idea that birds slept in mud all winter. One clear piece of evidence can overturn a belief held for centuries.
 12. (order) Put these events in the order they happened.  
    **Answer:** ['Aristotle wrote that some birds hide in winter', 'Olaus Magnus wrote that swallows sleep in mud', 'A stork with an African spear was found in Germany', 'Hans Christian Mortensen began putting rings on birds']. *Why:* Aristotle lived over 2,300 years ago, Olaus Magnus wrote in 1555, the stork was found in 1822, and ringing began in 1899.
-13. (write) Many people think plants only react: light comes, then the leaves open. What from this unit challenges that idea?  
+13. (write) Many people think plants only react: light comes, then the leaves open. What from this lesson challenges that idea?  
    **Answer:** In the dark box, bean leaves lifted in the morning before any light could reach them. A reaction comes after the thing it reacts to. These leaves moved with no light at all, so the plant was keeping time and getting ready.. *Why:* A strong answer uses the evidence from the bean test to argue against a popular belief.
 14. (draw) Design a fair test to find out whether malli buds need warmth to open on time. Draw the setup and label what stays the same.  
    **Answer:** Two groups of buds from one string, both in the dark, one in a cool place such as near a window at night and one in a warmer place. Same number of buds, same damp cloth, same times for counting.. *Why:* A strong design changes only the warmth and keeps the light, buds, water and timing the same. A fridge is too cold and would harm the buds.
@@ -737,9 +737,9 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - Konrai or kani konna trees turning yellow around Vishu in April.
 - Neem flowering near Ugadi, with tiny white flowers and buzzing bees.
 - Winged termites dancing round streetlights after the first heavy rain.
-- Rain tree leaves folded on the roads of Bengaluru and Chennai in the evening.
+- Rain tree leaves folded along the road in the evening.
 - Crows flying to roost together in big trees at sunset.
-- Shiuli (pavazhamalli) flowers scattered on the ground at dawn in Kolkata, in the weeks before Durga Puja.
+- Night jasmine flowers scattered on the ground at dawn, in the weeks before Durga Puja.
 
 ## Open questions
 - **Why do some leaves droop or fold at night?** Keeping warm, keeping moonlight off and staying dry all have some evidence. Nobody has shown which matters most, or whether it differs between plants.
@@ -787,15 +787,18 @@ Turning Into the Light (sci.day-night-seasons.L3): Topic-level song for Day, nig
 - [eBird India](https://ebird.org/india) · interactive: For the parent. See which birds people have reported in your city this month, and when the winter visitors arrive and leave.
 - [BirdCount India](https://birdcount.in) · interactive: Indian bird counts that families can join, such as the Great Backyard Bird Count in February. A child can count birds from a window.
 - [SeasonWatch](https://www.seasonwatch.in) · interactive: An Indian project where children and families watch one tree each week and report when the tree flowers, fruits and changes leaves. It is a real nature calendar.
-- [Doyang reservoir, Wokha district]() · place · Wokha, Nagaland: Lakhs of Amur falcons rest here in October and November. Visit only with local guides, and watch from a distance.
-- [Vedanthangal Bird Sanctuary]() · place · Chengalpattu district, near Chennai: One of India's oldest bird sanctuaries. Water birds gather and nest here in the cool months, from about November to March.
-- [Kokkare Bellur]() · place · near Maddur, Karnataka: A village where painted storks and spot-billed pelicans nest in the trees each season, and the villagers protect them.
-- [Chilika Lake]() · place · Odisha: A huge lagoon where many winter visitors from the north gather in the cold months.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Many flowering trees and lotus ponds. Visit early in the morning and again in the afternoon, and see which flowers have opened or closed.
+- Doyang reservoir, Wokha district · place · Wokha, Nagaland: Lakhs of Amur falcons rest here in October and November. Visit only with local guides, and watch from a distance.
+- Vedanthangal Bird Sanctuary · place · Chengalpattu district, near Chennai: One of India's oldest bird sanctuaries. Water birds gather and nest here in the cool months, from about November to March.
+- Kokkare Bellur · place · near Maddur, Karnataka: A village where painted storks and spot-billed pelicans nest in the trees each season, and the villagers protect them.
+- Chilika Lake · place · Odisha: A huge lagoon where many winter visitors from the north gather in the cold months.
+- Lalbagh Botanical Garden · place · Bengaluru: Many flowering trees and lotus ponds. Visit early in the morning and again in the afternoon, and see which flowers have opened or closed.
 
 ## Things to buy
 - [A small bag of potting soil or coco peat](https://www.amazon.in/s?k=potting+soil+small+bag) (material): For growing the bean plants, if you have no potted plant to borrow soil from. Used in e1. 
 - [A digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer) (tool): For the warm and cool test. Many homes already have one. It reads to one tenth of a degree, which is needed to see the daily change. Used in e2. 
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Sleeping Bean Leaves: do they need to see the morning?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1. Get it before Sleeping Bean Leaves: do they need to see the morning?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sleeping Bean Leaves: do they need to see the morning?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Sleeping Bean Leaves: do they need to see the morning?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do bean leaves do at night? → They hang down. In the day they are held out flat.

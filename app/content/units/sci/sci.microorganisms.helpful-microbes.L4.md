@@ -1,9 +1,9 @@
 # Idli batter, curd and bread: how tiny living beings make our food
 `sci.microorganisms.helpful-microbes.L4`
 
-**Summary.** Idli batter left out overnight rises to nearly double its size and smells a little sour, though nobody added anything. What made it rise? In this unit you will test what yeast needs to make gas, what milk needs to turn into curd, and which foods at home were made with microbes.
+**Summary.** Idli batter left out overnight rises to nearly double its size and smells a little sour, though nobody added anything. What made it rise? In this lesson you will test what yeast needs to make gas, what milk needs to turn into curd, and which foods at home were made with microbes.
 
-**Intro.** *Look at a bowl of idli batter in the morning. Last night it was flat and thick. Now it is full of bubbles and has climbed up the sides. What made the bubbles?* Nobody blew into it, and nobody stirred it all night. Something alive was working in the batter while your family slept. Microbes, tiny living beings too small to see, were eating the sugars in the rice and dal. As they ate, they made a gas. The sticky batter trapped the gas, and the batter rose. In this unit you find out who the microbes are, what they eat, and how warm they like it. You test it yourself with a bottle and a balloon, and with a cup of milk.
+**Intro.** *Look at a bowl of idli batter in the morning. Last night it was flat and thick. Now it is full of bubbles and has climbed up the sides. What made the bubbles?* Nobody blew into it, and nobody stirred it all night. Something alive was working in the batter while your family slept. Microbes, tiny living beings too small to see, were eating the sugars in the rice and dal. As they ate, they made a gas. The sticky batter trapped the gas, and the batter rose. In this lesson you find out who the microbes are, what they eat, and how warm they like it. You test it yourself with a bottle and a balloon, and with a cup of milk.
 
 ## Learning outcomes
 0. I can explain that fermentation is done by living microbes that eat sugar and make gas, acid or alcohol.
@@ -698,6 +698,13 @@ Tiny Cooks (sci.microorganisms.L4): Topic-level song
 ## Things to buy
 - [A packet of instant dry yeast (baker's yeast)](https://www.amazon.in/s?k=instant+dry+yeast) (material): For the Yeast Balloon test. One small sachet (about 7 to 10 grams) is enough for the test. Check the date on the packet, because old yeast does not work. Used in e1. 
 - [Four small round balloons](https://www.amazon.in/s?k=balloons+small+round) (material): To catch the gas in the Yeast Balloon test. Any balloons from a stationery shop will do. Used in e1. 
+- [A thermometer (for water or room, 0 to 110 °C)](https://www.amazon.in/s?k=lab+thermometer+110+c) (tool): Used in Winter Batter: keep the batter warm in a cold kitchen. About ₹30 to ₹150. A kitchen or fever thermometer works for some tests. Used in c1. Get it before Winter Batter: keep the batter warm in a cold kitchen.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Yeast Balloon: what do yeast need to make gas?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before Yeast Balloon: what do yeast need to make gas?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Yeast Balloon: what do yeast need to make gas?, Batter Watch: one bowl, one night, Make idli from scratch: from rice and dal to soft idli. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1. Get it before Yeast Balloon: what do yeast need to make gas?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Winter Batter: keep the batter warm in a cold kitchen. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Winter Batter: keep the batter warm in a cold kitchen.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Make idli from scratch: from rice and dal to soft idli. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Make idli from scratch: from rice and dal to soft idli.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Yeast Balloon: what do yeast need to make gas?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before Yeast Balloon: what do yeast need to make gas?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is yeast a plant, an animal or a fungus? → A fungus.

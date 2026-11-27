@@ -1,9 +1,9 @@
 # Mixing paints: how three colours make many more
 `sci.light.colour.L1`
 
-**Summary.** Mix yellow paint with blue paint and you get green, a colour that was in neither pot. In this unit you will mix red, yellow and blue paints to see what they make, play a colour sums game, and make paints from turmeric and beetroot.
+**Summary.** Mix yellow paint with blue paint and you get green, a colour that was in neither pot. In this lesson you will mix red, yellow and blue paints to see what they make, play a colour sums game, and make paints from turmeric and beetroot.
 
-**Intro.** *Here is yellow paint, and here is blue paint. There is no green paint. Can we make green anyway?* Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what colour the two paints will make when stirred together, and why. Then let them stir. A green appears that was in neither pot. Where did it come from? This unit finds out.
+**Intro.** *Here is yellow paint, and here is blue paint. There is no green paint. Can we make green anyway?* Put a blob of yellow paint and a blob of blue paint on a plate. Ask your child what colour the two paints will make when stirred together, and why. Then let them stir. A green appears that was in neither pot. Where did it come from? This lesson finds out.
 
 ## Learning outcomes
 0. By the end I can say which colour two paints make: yellow and blue make green, red and yellow make orange, and red and blue make purple.
@@ -27,11 +27,15 @@ In the Colour Mixing Test, you stirred yellow and blue paint together, and green
 - e.g. Yellow and blue make green, the colour of a parrot or a banana leaf.
 - e.g. Red and yellow make orange, the colour of a marigold or a carrot.
 - e.g. Red and blue make purple, the colour of a brinjal or a jamun.
+- **Painters' tradition:** Red, yellow and blue are the paint primaries.
+- **Printers and colour scientists:** Cyan, magenta and yellow mix a wider range of colours, which is why printers use them.
 ### Primary colours: the three you start with · *defined*
 **Definition:** Red, yellow and blue are the primary colours of a paint box. You cannot mix them from the other paints in the box. Many other colours can be mixed from them.
 
 Try to mix yellow from the other paints. Red and blue make purple, never yellow. So yellow has to come from its own pot, and so do red and blue. Primary means first.
 - e.g. Orange, green and purple can all be mixed from red, yellow and blue.
+- **Isaac Newton:** Sunlight holds all the colours, and a prism sorts them.
+- **Goethe:** Colours arise where light meets darkness. Scientists today follow Newton on light and note that Goethe studied how colours look to us.
 ### Why mixing paints makes colours darker · *defined*
 **Definition:** Paint absorbs, or soaks up, some of the light that falls on it. It sends the rest back to our eyes, and that is the colour we see. Two paints together absorb more light than one, so a mix is darker.
 
@@ -39,6 +43,8 @@ Sunlight and lamp light are made of many colours mixed together. Yellow paint so
 - e.g. In the Colour Mixing Test, every mix was darker than yellow.
 - e.g. Red, yellow and blue together made a dark, muddy brown.
 - e.g. In a dark room, no light falls on the paint, so every colour looks black.
+- **Painters:** Have taught red, yellow and blue as the three main paints. Mixing them goes toward brown and gets darker.
+- **Printers and physicists:** Use cyan, magenta and yellow for ink, and red, green and blue for light. Mixing lights gets brighter, since each adds light, but mixing paint takes light away.
 ### Colours around us, and colours on living beings · *defined*
 **Definition:** Most colours in paint, flowers and feathers come from pigment. A pigment is a coloured material that soaks up some light and sends the rest back to our eyes. A few colours come from very tiny shapes instead. Tiny shapes can bounce light so that we see a colour, like the shine on a pigeon's neck.
 
@@ -46,6 +52,8 @@ Flowers use bright colours to call bees and butterflies to their nectar. A pigeo
 - e.g. A marigold's orange calls bees and butterflies.
 - e.g. A pigeon's neck changes from green to purple as they turn.
 - e.g. A green parrot's feathers are yellow and blue together.
+- **Pigment colour:** Most paints and flowers are coloured by pigments that soak up some light.
+- **Structural colour:** A peacock's blue and a butterfly's shine come from tiny layers that bend light. They have no blue pigment at all.
 
 ## Mostly agreed
 - Mixing two paints makes a new colour. *How we know:* Yellow and blue paint make green, red and yellow make orange, and red and blue make purple. Anyone with a paint box can try it.
@@ -456,12 +464,12 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 - Wall paint shops mix a little of a few strong colours into white paint to make any shade a family wants.
 
 ## Spotted around us
-- Bright coloured powders in heaps at a market before Holi in Mathura or Kolkata.
-- A kolam in front of a house in Madurai at Pongal, filled with coloured powders.
-- Green parrots screeching in a neem or banyan tree in Bengaluru or Pune.
-- A pigeon on a balcony in Hyderabad, their neck shining green and purple.
-- Marigolds, orange and yellow, strung into garlands at a temple in Guwahati or Chennai.
-- A wall paint shop in Kochi, where a machine squirts a few colours into a tin of white.
+- Bright coloured powders in heaps at a market before Holi.
+- A kolam in front of a house at Pongal, filled with coloured powders.
+- Green parrots screeching in a neem or banyan tree.
+- A pigeon on a balcony, the neck shining green and purple.
+- Marigolds, orange and yellow, strung into garlands at a temple.
+- A wall paint shop, where a machine squirts a few colours into a tin of white.
 
 ## Open questions
 - **How many colours can a person tell apart?** Scientists often say about a million, but they do not agree on one number. It depends on how you count, and on who is looking.
@@ -499,11 +507,13 @@ Who Makes the Light? (sci.light.L1): Topic-level song for Light, seeing and shad
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about colours.
 - [PhET Color Vision simulation](https://phet.colorado.edu/en/simulations/color-vision) · simulation: For the parent: shows how coloured lights mix. Light mixes differently from paint, and a later unit explores this.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries, good for a family day out.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on exhibits, including some on light.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries, good for a family day out.
+- Nehru Science Centre · place · Mumbai: A science centre with hands-on exhibits, including some on light.
 
 ## Things to buy
 - [Poster colours: red, yellow and blue]() (material): For mixing in the Colour Mixing Test, the colour book and the leaf challenge. Food colours in water can stand in for them. Used in e1, p1, c1. 
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in Drop by Drop: can water undo green?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e2. Get it before Drop by Drop: can water undo green?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do yellow and blue paint make? → Green.

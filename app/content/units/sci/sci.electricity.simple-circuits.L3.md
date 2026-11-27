@@ -1,9 +1,9 @@
 # Simple circuits: why a bulb lights only in a complete loop
 `sci.electricity.simple-circuits.L3`
 
-**Summary.** Why does a bulb light only when the wires make a complete loop? In this unit you will light a bulb with one cell and one wire, test which household things let electricity through, and find the gap in a loop that will not light.
+**Summary.** Why does a bulb light only when the wires make a complete loop? In this lesson you will light a bulb with one cell and one wire, test which household things let electricity through, and find the gap in a loop that will not light.
 
-**Intro.** *Try this with a grown-up. Stand a torch bulb on top of an AA cell. It does not light. Now add one wire, in the right place, and it shines. Why does the bulb need that one extra wire?* Electricity must go out of the cell, through the bulb, and come back to the cell. It needs a full loop. In this unit you build loops with cells, wires, foil and paper clips. You find out which things let electricity through and which stop it. You make your own switch. You learn why the sockets on the wall are never for experiments. And you find out what is really moving inside a wire.
+**Intro.** *Try this with a grown-up. Stand a torch bulb on top of an AA cell. It does not light. Now add one wire, in the right place, and it shines. Why does the bulb need that one extra wire?* Electricity must go out of the cell, through the bulb, and come back to the cell. It needs a full loop. In this lesson you build loops with cells, wires, foil and paper clips. You find out which things let electricity through and which stop it. You make your own switch. You learn why the sockets on the wall are never for experiments. And you find out what is really moving inside a wire.
 
 ## Learning outcomes
 0. I can name things at home that use electricity, and say which ones use mains electricity from the wall and which use cells.
@@ -40,13 +40,17 @@ Look around any home in India and you find electricity at work. Tube lights and 
 - e.g. A mixer-grinder turns electricity into movement, and its loud whirr is sound.
 - e.g. A phone runs on its own battery, so it keeps working in a power cut until the battery runs down.
 - e.g. An inverter keeps a few lights and fans on in a power cut, using big batteries charged earlier.
+- **Everyday words:** Electricity is a kind of energy.
+- **Physicists:** Electricity is the flow or the presence of electric charge. Energy is what the flow carries from the cell to the bulb.
 ### Mains electricity and cells · *defined*
 **Definition:** Mains electricity is made in power stations and comes to our homes along wires. In India it is 230 volts. A cell is a small, portable store of energy, usually 1.5 volts.
 
-Power stations make electricity from burning coal, falling water, wind, sunlight or the heat of splitting atoms. Thick wires on tall towers carry it across the country to every town. Smaller wires bring it into your home, to the switches and sockets in the wall. This is mains electricity. It pushes very hard, at 230 volts. That is strong enough to push electricity through a person's body, and it can kill. A cell works differently. Chemicals inside it react and push electricity round a circuit. An AA cell pushes at only 1.5 volts. It is too weak to push enough electricity through your dry skin for you to notice anything. That is why all the experiments in this unit use AA cells, and never the wall socket.
+Power stations make electricity from burning coal, falling water, wind, sunlight or the heat of splitting atoms. Thick wires on tall towers carry it across the country to every town. Smaller wires bring it into your home, to the switches and sockets in the wall. This is mains electricity. It pushes very hard, at 230 volts. That is strong enough to push electricity through a person's body, and it can kill. A cell works differently. Chemicals inside it react and push electricity round a circuit. An AA cell pushes at only 1.5 volts. It is too weak to push enough electricity through your dry skin for you to notice anything. That is why all the experiments in this lesson use AA cells, and never the wall socket.
 - e.g. The Shivanasamudra power station on the Kaveri river in Karnataka began making electricity from falling water in 1902.
 - e.g. A wall clock uses one AA cell for many months.
 - e.g. A big solar panel on a roof makes electricity from sunlight.
+- **Thomas Edison:** Supported direct current (DC), the steady flow a cell gives.
+- **Nikola Tesla and George Westinghouse:** Backed alternating current (AC), which reverses many times a second and is easier to send far. Mains is AC in India, and a cell gives DC.
 ### Staying safe with electricity · *defined*
 **Definition:** Mains electricity can push electricity through your body and give you an electric shock, which can kill. Water and damaged wires make shocks more likely.
 
@@ -54,6 +58,8 @@ Your body is mostly water with salts dissolved in it, and salty water lets elect
 - e.g. A grown-up switches off the socket before pulling out the plug.
 - e.g. In many homes, the geyser switch is outside the bathroom, away from water.
 - e.g. If a kite gets stuck on a power line, leave it there and tell a grown-up.
+- **Safety engineers:** Add layers: insulated wires, earth wires, fuses and switches that cut off power in a fraction of a second.
+- **Physiologists:** Note that harm depends on how big the current is, how long it flows and where it goes. A small current for a short time may be felt only; a small current through the chest can be deadly.
 ### A complete circuit · *defined*
 **Definition:** A circuit is a complete loop that electricity can flow round, from one terminal of the cell, through the parts of the circuit, and back to the other terminal.
 
@@ -61,6 +67,8 @@ A cell has two terminals, plus and minus. Electricity flows only when there is a
 - e.g. In a torch, a spring and metal strips join the cells, the switch and the bulb into one loop.
 - e.g. A bulb holder has two screws. One joins to the bulb's tip and one to its side.
 - e.g. A bulb lights whichever way round the cell is joined. An LED lights only one way round.
+- **Teachers using the water picture:** Imagine electricity as water pushed around a pipe loop by a pump. It helps us see why a loop is needed.
+- **Physicists:** Show with the work of John Poynting in 1884 that the energy of a circuit travels in the space around the wires, as electric and magnetic fields. The wires guide the energy.
 ### Why a broken circuit stops everything · *defined*
 **Definition:** If there is a gap anywhere in a circuit, the electricity stops flowing everywhere in the circuit at once.
 
@@ -68,6 +76,8 @@ It does not matter where the gap is. Lift the wire off the cell, or off the bulb
 - e.g. A torch that flickers usually has a loose spring or a dirty contact.
 - e.g. When one bulb in an old string of festival lights breaks, the whole string can go dark.
 - e.g. A rusty or greasy spring in a torch can stop the loop, because rust is a poor conductor.
+- **Everyday view:** When the loop is cut, the whole circuit goes dead at once.
+- **Physicists:** Say the change spreads along the wire at close to the speed of light, so it seems at once. The electrons themselves drift at only a fraction of a millimetre per second.
 ### Conductors and insulators · *defined*
 **Definition:** A conductor is a material that lets electricity flow through it easily. An insulator is a material that does not.
 
@@ -75,6 +85,8 @@ Metals are good conductors. Copper, aluminium, iron, steel and brass all conduct
 - e.g. A plug has metal pins, which carry electricity, inside a plastic cover, which you hold.
 - e.g. A screwdriver for electricians has a steel tip and a thick plastic handle.
 - e.g. Electricians' gloves are made of rubber.
+- **Stephen Gray:** In 1729 he discovered that electricity could pass along some materials, like wet thread, and not others, like silk. He gave us the first idea of conductors and insulators.
+- **Modern physicists:** Find a middle group, semiconductors, such as silicon. They sometimes conduct and sometimes do not, and computers are made of them. Even air conducts in lightning.
 ### How a switch works · *defined*
 **Definition:** A switch is a part of a circuit that can open a gap, to stop the electricity, and close it, to let the electricity flow.
 
@@ -82,6 +94,8 @@ When a switch is on, two pieces of metal inside it touch, and the circuit is com
 - e.g. A wall switch is a rocker switch.
 - e.g. A doorbell button is a press switch. It is on only while you press it.
 - e.g. Many torches have a slide switch.
+- **Electricians:** A switch is a gap that is closed or opened with a lever, by hand.
+- **Bardeen, Brattain and Shockley:** In 1947 they invented the transistor, a switch with no moving part that is turned on and off by a tiny electric signal. A modern phone holds billions of them.
 ### What is moving in the wire · *defined*
 **Definition:** An electric current is a flow of electric charge. In a metal wire, the charge is carried by electrons, tiny particles that are in every atom.
 
@@ -89,6 +103,8 @@ Every atom has electrons. In a metal, some of the electrons are not held tightly
 - e.g. A cycle chain moves all at once when you push the pedal. Every link moves, though no link goes fast.
 - e.g. A tube full of marbles: push one in at one end, and one pops out at the other end at once.
 - e.g. The arrows on circuit drawings go from plus to minus. People drew them that way before electrons were found in 1897. The electrons actually move from minus to plus.
+- **Franklin's old rule:** Charge flows from plus to minus.
+- **Modern physics:** In a metal wire the electrons move from minus to plus, only slowly, while the push travels fast.
 ### Electricity in living things · *defined*
 **Definition:** Nerves, muscles and many plants send signals using tiny charged particles that move in and out of their cells.
 
@@ -96,10 +112,12 @@ In 1791, an Italian doctor called Luigi Galvani said that living bodies use elec
 - e.g. A doctor puts sticky pads on your chest to record your heart's electrical signals.
 - e.g. The leaves of a touch-me-not fold within a second or two of a touch.
 - e.g. An electric eel uses shocks to stun the fish they hunt.
+- **Luigi Galvani (1780s):** Saw a frog's leg twitch and said animals carry their own 'animal electricity'.
+- **Alessandro Volta:** Said the twitch came from the two metals touching, and built the first battery. Later work showed both were partly right: nerves do carry electric signals, and metals can make current.
 
 ## Mostly agreed
 - A bulb or other part works only in a complete circuit, a loop from one terminal of the cell back to the other. *How we know:* Anyone can test it with a cell, a wire and a bulb. Lift any connection and the bulb goes out.
-- Metals are good conductors. Plastic, rubber, wood, glass and paper are insulators. *How we know:* Testing materials with a circuit tester, as in this unit, gives the same result every time. Scientists have measured how well thousands of materials conduct.
+- Metals are good conductors. Plastic, rubber, wood, glass and paper are insulators. *How we know:* Testing materials with a circuit tester, as in this lesson, gives the same result every time. Scientists have measured how well thousands of materials conduct.
 - In a metal wire, the electric current is carried by electrons. *How we know:* J. J. Thomson discovered the electron in 1897. Later experiments showed that electrons carry the current in metals.
 - Mains electricity can kill, and wet skin lets electricity through much more easily than dry skin. *How we know:* Doctors and electrical engineers have studied electric shocks for over a hundred years. Safety rules all over the world are based on this.
 - A cell does not make electric charge. It uses the energy of a chemical reaction to push charge round a circuit. *How we know:* Volta's pile, built in 1799, and every cell since then work this way. When the chemicals are used up, the cell stops pushing.
@@ -648,7 +666,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 ## Videos
 - **#1 Battery bulb switch** (Michael Kavanagh, 2 min) id `f139wZft1xg`: A short, plain video of a real circuit with a battery, a bulb and a switch, showing the bulb light when the switch closes. Good to watch before building your own. *Check:* A parent should preview it first.
 - **How batteries work - Adam Jacobson** (TED-Ed, 5 min) id `9OVtk6G2TnQ`: For the parent and older children: a cartoon about how a cell pushes electricity, and the Galvani and Volta story behind the first battery. *Check:* A parent should preview it first.
-- **How ELECTRICITY works - working principle** (The Engineering Mindset, 10 min) id `mc979OhitAg`: For the parent: a clear animated explanation of electrons, conductors, insulators and circuits, to help you answer your child's questions. *Check:* A parent should preview it first. It goes further than this unit.
+- **How ELECTRICITY works - working principle** (The Engineering Mindset, 10 min) id `mc979OhitAg`: For the parent: a clear animated explanation of electrons, conductors, insulators and circuits, to help you answer your child's questions. *Check:* A parent should preview it first. It goes further than this lesson.
 
 ## Quiz
 1. (mcq) Which of these runs on mains electricity from the wall?  
@@ -752,8 +770,13 @@ Round and Round the Loop (sci.electricity.L3): Topic-level song for Electricity 
 - [Shivanasamudra Falls and power station](https://en.wikipedia.org/wiki/Shivanasamudra_Falls) · place · Mandya district, Karnataka: One of the oldest hydroelectric power stations in Asia, started in 1902. The falls can be seen from viewpoints, and the page explains its history.
 
 ## Things to buy
-- [A school electric circuit kit: two single AA cell holders with wires, two torch bulbs (1.5 V or 2.5 V) with holders, connecting wires, and a switch](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this unit needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Foil strips can stand in for wires. Used in e1, e2, e3, a1, a5, p1, c1, c2. 
+- [A school electric circuit kit: two single AA cell holders with wires, two torch bulbs (1.5 V or 2.5 V) with holders, connecting wires, and a switch](https://www.amazon.in/s?k=electric+circuit+kit+for+school+bulb+holder) (tool): Every experiment in this lesson needs a cell, wires and a bulb. Kits like this are sold in stationery and science shops and online. An electrical shop also sells torch bulbs, bulb holders and plastic-covered wire. Foil strips can stand in for wires. Used in e1, e2, e3, a1, a5, p1, c1, c2. 
 - [A pack of AA cells](https://www.amazon.in/s?k=aa+battery+pack) (material): Fresh cells make the bulb clearly bright. Old or cheap cells may give only a faint glow. Keep used cells in a box and drop them at an e-waste collection point. Used in e1, e2, e3, a1, a5, p1, c1, c2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Conductor Test: which things complete the circuit?, The Steady Hand Game. About ₹10 to ₹30. Any school ruler is fine. Used in e1, c1. Get it before The Conductor Test: which things complete the circuit?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Make a Paper Clip Switch, The Steady Hand Game, The Step-On Light. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5, c1, c2. Get it before Make a Paper Clip Switch.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Conductor Test: which things complete the circuit?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before The Conductor Test: which things complete the circuit?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Inside a Torch. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a4. Get it before Inside a Torch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many volts is an AA cell? → 1.5 volts.

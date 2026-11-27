@@ -1,9 +1,9 @@
 # The pH scale, stomach acid and antacids: why does the burning go away?
 `sci.chemistry.acids-and-bases.L4`
 
-**Summary.** Your stomach makes strong acid, so why does a spoonful of antacid stop the burning? In this unit you will test which powder cancels the same acid with the fewest scoops, find out if fruit salt is an acid or a base, and place liquids on the pH ladder.
+**Summary.** Your stomach makes strong acid, so why does a spoonful of antacid stop the burning? In this lesson you will test which powder cancels the same acid with the fewest scoops, find out if fruit salt is an acid or a base, and place liquids on the pH ladder.
 
-**Intro.** *After a big wedding feast, a grown-up chews a white tablet, and the burning in their chest goes away within minutes. The burning is in the chest, but the tablet goes down into the stomach. So how did it stop the burn?* A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this unit you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.
+**Intro.** *After a big wedding feast, a grown-up chews a white tablet, and the burning in their chest goes away within minutes. The burning is in the chest, but the tablet goes down into the stomach. So how did it stop the burn?* A burning in the chest after a meal is called heartburn. It has nothing to do with the heart. Acid from the stomach has splashed up into the food pipe, and the food pipe has no shield against it. A tablet that stops the burning must change that acid. In this lesson you make a glass of 'stomach acid' with vinegar and cabbage water. Then you race different powders to see which one beats it. You also learn to read the pH scale with real numbers, and you find out why the stomach does not burn itself.
 
 ## Learning outcomes
 0. I can read the pH scale from 0 to 14 and say whether a number means an acid, neutral or a base.
@@ -670,7 +670,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 - A strip of antacid tablets in a medicine cabinet, with magnesium hydroxide or calcium carbonate on the label.
 - A tub of cooking soda in the kitchen, used for cleaning, baking and settling a stomach.
 - A kolam-covered doorstep after a rain, where the water pools and a little pH paper would show the rain's pH.
-- A bright pink and a deep blue hydrangea side by side in the Nilgiris, showing that the soil is different.
+- A bright pink and a deep blue hydrangea side by side in a garden, showing that the soil is different.
 - A lemon squeezed over a plate of fish or fried snacks, where the acid changes the taste.
 - A bottle of 'alkaline water' on a shop shelf, with a claim about pH on the label.
 
@@ -723,6 +723,9 @@ Mix, Fizz, Change (sci.chemistry.L4): Topic-level song
 ## Things to buy
 - [pH test paper that reads from 1 to 14, with a colour chart](https://www.amazon.in/s?k=ph+test+paper+1-14) (tool): For the pH Strip Survey and the Water Diary. One booklet gives many readings, and is cheap. About Rs 50 to 150 for a booklet. Used in a2, p1. 
 - [A set of measuring spoons, with a quarter-teaspoon, a teaspoon and a tablespoon](https://www.amazon.in/s?k=measuring+spoons+set) (tool): For the Antacid Showdown and the Ten-Times Ladder, where every scoop must be the same size. Optional: a kitchen teaspoon and a small bottle cap used every time also work. Used in e1, e2. 
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in The Ten-Times Ladder: how far can a colour be made weaker?. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in e2. Get it before The Ten-Times Ladder: how far can a colour be made weaker?.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Antacid Showdown: which powder beats the acid with the fewest scoops?, The Eno Mystery: is fruit salt an acid or a base?, The pH Strip Survey: what are the real numbers?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1, a1, a2, c1. Get it before Antacid Showdown: which powder beats the acid with the fewest scoops?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What number on the pH scale is neutral? → Seven.
@@ -743,7 +746,7 @@ Mix, Fizz, Change (sci.chemistry.L4): Topic-level song
 ## Sources
 - Founder's notes in ideas/by_topic/digestion.md: the SCI Card for Barry Marshall, used for the discovery story, the challenging view about ulcers and the deep question about experts and young doctors
 - DeepKids notebook items chem:33 (pH and titration) and chem:216 to chem:219 (foundations of acids and bases): used for pH, tenfold steps and neutralising, told simply. Strong and weak acids and buffers are left for Class 5
-- The Class 3 unit on acids and bases: its cabbage colour line, Lemon or Buttermilk test, Lemon and soda fizz and Lémery story are not repeated. This unit goes on to numbers, the stomach and antacids
+- The Class 3 unit on acids and bases: its cabbage colour line, Lemon or Buttermilk test, Lemon and soda fizz and Lémery story are not repeated. This lesson goes on to numbers, the stomach and antacids
 - No Combined lesson on acids exists for this topic, so none was reused. Books marked reference in the open-textbook list (Chemistry 2e, Organic Chemistry) were used for facts only, and none of their text was copied
 - Sørensen, S. P. L., 'Enzymstudien II', Biochemische Zeitschrift 21, 1909 (the pH scale, from a study of enzymes)
 - Warren, J. R. and Marshall, B. J., 'Unidentified curved bacilli on gastric epithelium in active chronic gastritis', The Lancet, 1983

@@ -1,9 +1,9 @@
 # Constellations and nakshatras: the star patterns people see from Earth
 `sci.sky.stargazing.L3`
 
-**Summary.** The seven stars of the Saptarishi look like a ladle. Are they really close together? In this unit you will build a thread model to find out, test how long your eyes take to see faint stars, and play a game that follows the Moon through the nakshatras.
+**Summary.** The seven stars of the Saptarishi look like a ladle. Are they really close together? In this lesson you will build a thread model to find out, test how long your eyes take to see faint stars, and play a game that follows the Moon through the nakshatras.
 
-**Intro.** *Look at a picture of the Saptarishi, the seven bright stars that make a ladle in the northern sky. They look like seven lamps hanging side by side. Are they really side by side, or could some be much further away than others? How could we tell from down here?* Every culture has looked at the night sky and joined the stars into pictures. In this unit you build a model of the Saptarishi with thread, using the real distances of its stars, and look at it from the side. You learn the nakshatras, the 27 star groups that the Moon passes through each month. You also find out how an astronomer showed, about 300 years ago, that the stars are moving.
+**Intro.** *Look at a picture of the Saptarishi, the seven bright stars that make a ladle in the northern sky. They look like seven lamps hanging side by side. Are they really side by side, or could some be much further away than others? How could we tell from down here?* Every culture has looked at the night sky and joined the stars into pictures. In this lesson you build a model of the Saptarishi with thread, using the real distances of its stars, and look at it from the side. You learn the nakshatras, the 27 star groups that the Moon passes through each month. You also find out how an astronomer showed, about 300 years ago, that the stars are moving.
 
 ## Learning outcomes
 0. I can explain what a constellation is, and that its stars are usually at very different distances from us.
@@ -267,7 +267,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
   *Parent does:* 1. Set the four alarms and switch off the light, leaving only a thin line of light under the door. A grown-up sits in the room. 2. When each alarm sounds (1, 5, 10 and 15 minutes), your child counts the stars and says the number aloud. 3. The grown-up remembers the number or writes it down by the line of light.  
   *Parent says:* Now count. How many stars can you see? We'll count again in a few minutes.  
   *Child mode:* Count the stars you can see. Say the number when the alarm sounds. Then wait for the next alarm.
-  - Note: If your child cannot see any stars even after 15 minutes, open the door a little more. If they see all 12 at once, the room is too bright: close the curtains or the door more. Your numbers will not match the example chart. What matters is whether the count goes up. While you wait, chat quietly or tell the Arundhati story from this unit.
+  - Note: If your child cannot see any stars even after 15 minutes, open the door a little more. If they see all 12 at once, the room is too bright: close the curtains or the door more. Your numbers will not match the example chart. What matters is whether the count goes up. While you wait, chat quietly or tell the Arundhati story from this lesson.
 - **s4 (3 min)**  
   *Parent does:* Switch the light back on. Ask your child to say or write three things: what they think now, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see? And why do you think it happened?  
@@ -414,7 +414,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
   *Parent says:* Let's find out what each dot is. Which ones belong to the same constellation?  
   *Child mode:* Find the name of each dot. Write it on your map. Is any of them a nakshatra?
   - Ask: How many stars could you see? Do you think a child in a village sees more? Why? (good: More, because there are fewer lights.; The city lights hide the faint stars.)
-  - Note: No app or star map? Use Orion, Krittika and the Saptarishi from this unit, and call the rest 'bright star' or 'planet'.
+  - Note: No app or star map? Use Orion, Krittika and the Saptarishi from this lesson, and call the rest 'bright star' or 'planet'.
   - Wait: Do this on day 3.
 
 ## Challenges
@@ -570,7 +570,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 ## Videos
 - **Skylight: The Big Dipper Through Time** (American Museum of Natural History, 3 min) id `sBfUBtdo8yo`: A short film from a natural history museum. It shows the stars of the Big Dipper, which is the Saptarishi, moving over many thousands of years, so the ladle bends out of shape. *Check:* Preview it first. It is a short museum film, not made for children.
 - **Where Are the Stars? See How Light Pollution Affects Night Skies** (National Geographic, 3 min) id `0FXJUP6_O1w`: Shows the same night sky under different amounts of city light, so a child sees why fewer stars show from a city flat. *Check:* Preview it first.
-- **Constellations for Kids** (Learn Bright, 10 min) id `pqis3gZwVaY`: A children's introduction to what constellations are and how to find some of them. It uses the Western names, so pause to give the Indian names too. *Check:* Preview it first, and check any myths it tells against this unit.
+- **Constellations for Kids** (Learn Bright, 10 min) id `pqis3gZwVaY`: A children's introduction to what constellations are and how to find some of them. It uses the Western names, so pause to give the Indian names too. *Check:* Preview it first, and check any myths it tells against this lesson.
 
 ## Quiz
 1. (mcq) Most of the stars in a constellation are:  
@@ -621,7 +621,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 - The nakshatra of the day, printed in the corner of each date on a Tamil, Malayalam, Marathi or Bengali calendar.
 - Star birthdays: many South Indian families celebrate a birthday on the day of the person's birth nakshatra.
 - Many more stars appearing a few minutes into a power cut, above a city street.
-- Arundhati being spoken of at weddings in South India, as a star always beside her husband Vasishtha.
+- Arundhati being spoken of at weddings, as a star always beside her husband Vasishtha.
 
 ## Open questions
 - **Do Arundhati and Vasishtha go round each other?** They are about the same distance away and move together. Astronomers are still working out whether gravity holds them together as a pair.
@@ -675,6 +675,12 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song for Sun, Moon, stars and plane
 
 ## Things to buy
 - [A sheet of red cellophane](https://www.amazon.in/s?k=red+cellophane+sheet) (material): To make a red stargazing torch. A red sweet wrapper or a red plastic file folder works just as well. Used in a5. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Thread Saptarishi: are its seven stars really close together?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before The Thread Saptarishi: are its seven stars really close together?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Thread Saptarishi: are its seven stars really close together?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Thread Saptarishi: are its seven stars really close together?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in The Thread Saptarishi: are its seven stars really close together?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before The Thread Saptarishi: are its seven stars really close together?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Thread Saptarishi: are its seven stars really close together?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1. Get it before The Thread Saptarishi: are its seven stars really close together?.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in The Thread Saptarishi: are its seven stars really close together?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1. Get it before The Thread Saptarishi: are its seven stars really close together?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a constellation? → A pattern of stars that people have named.

@@ -1,9 +1,9 @@
 # Home-made instruments: high and low sounds, and keeping a steady beat
 `sci.sound.music.L2`
 
-**Summary.** A big carton booms when you tap it, and a matchbox ticks, though both are card. Why do they sound so different? In this unit you will make instruments from boxes, bottles and rubber bands, test which sound high and which low, and clap steady beats and the rhythm of your name.
+**Summary.** A big carton booms when you tap it, and a matchbox ticks, though both are card. Why do they sound so different? In this lesson you will make instruments from boxes, bottles and rubber bands, test which sound high and which low, and clap steady beats and the rhythm of your name.
 
-**Intro.** *Find an empty matchbox and a big empty carton. Tap the middle of each one with one finger. Listen. Both are made of card. So why does one tick and the other boom?* In this unit you find out. You make a drum from a box, a hooter from a bottle and a one-string instrument from a rubber band. You test big and small boxes to see which sounds high and which sounds low. Then you learn to keep a steady beat, like drummers all over India do, so that a whole family band can play together.
+**Intro.** *Find an empty matchbox and a big empty carton. Tap the middle of each one with one finger. Listen. Both are made of card. So why does one tick and the other boom?* In this lesson you find out. You make a drum from a box, a hooter from a bottle and a one-string instrument from a rubber band. You test big and small boxes to see which sounds high and which sounds low. Then you learn to keep a steady beat, like drummers all over India do, so that a whole family band can play together.
 
 ## Learning outcomes
 0. I can make an instrument from a box, a bottle or a rubber band, and show which part vibrates to make the sound.
@@ -571,8 +571,8 @@ Afterwards, Kavya sat with the carton on her lap and tapped it softly. Dhum. The
 
 ## Spotted around us
 - A big temple bell with a deep 'dong', and small hand bells with a high 'ting'.
-- The chenda drums at a Kerala temple festival, with many drummers keeping one beat.
-- The dhakis playing the big dhak drum during Durga Puja in Bengal.
+- The chenda drums at a temple festival, with many drummers keeping one beat.
+- The dhakis playing the big dhak drum during Durga Puja.
 - The thavil and nadaswaram at a South Indian wedding: a deep drum and a high, loud pipe.
 - The steady clackety-clack of train wheels going over the joins in the rails.
 - Your family's steel bowls and dabbas: tap them and listen, from the biggest to the smallest.
@@ -618,10 +618,13 @@ Big Box Low, Small Box High (sci.sound.L2): Topic-level song for Sound L2
 - [Ghatam (Wikipedia)](https://en.wikipedia.org/wiki/Ghatam) · interactive: For the parent: pictures and the story of the clay-pot drum of South India.
 - [Konnakol (Wikipedia)](https://en.wikipedia.org/wiki/Konnakol) · interactive: For the parent: the South Indian art of speaking drum syllables like 'ta ka di mi'.
 - [Tala in Indian music (Wikipedia)](https://en.wikipedia.org/wiki/Tala_(music)) · interactive: For the parent: how Carnatic and Hindustani musicians count beats in cycles, including Adi talam and Teentaal.
-- [The December music season in Chennai]() · place · Chennai: Every December and January, many halls in Chennai hold Carnatic concerts. Many have morning concerts that are free or cheap, where children can see a mridangam and a ghatam played.
-- [Durga Puja dhak drumming]() · place · Kolkata: During Durga Puja, dhakis play the big dhak drums at the pandals. Watch how the drummers keep one beat together.
+- The December music season in Chennai · place · Chennai: Every December and January, many halls in Chennai hold Carnatic concerts. Many have morning concerts that are free or cheap, where children can see a mridangam and a ghatam played.
+- Durga Puja dhak drumming · place · Kolkata: During Durga Puja, dhakis play the big dhak drums at the pandals. Watch how the drummers keep one beat together.
 
 ## Things to buy
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Big Box, Small Box: which makes the deepest sound?, Our Box Band Concert, A Band of Three: high, middle and low. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, p1, c1. Get it before Big Box, Small Box: which makes the deepest sound?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Tissue-box Ektara: a one-string instrument, Our Box Band Concert. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a3, p1. Get it before Tissue-box Ektara: a one-string instrument.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does 'vibrate' mean? → To move to and fro very fast, again and again.

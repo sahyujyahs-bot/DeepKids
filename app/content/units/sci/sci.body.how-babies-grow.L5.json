@@ -2799,6 +2799,73 @@
     "g1"
    ],
    "plan": "Use the die for the Two Gates Test and for the board game The First Week."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Two Gates Test: if one sperm cell is enough, why do millions start?, The Due Date Survey: does a baby arrive on the day the doctor says?, A Salt Grain and a Steel Plate: how small was your start?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1",
+    "a2",
+    "a5",
+    "c1"
+   ],
+   "plan": "Get it before The Two Gates Test: if one sperm cell is enough, why do millions start?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Ask, Respect, Tell: body rules and a question box. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before Ask, Respect, Tell: body rules and a question box."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Two Gates Test: if one sperm cell is enough, why do millions start?, Three Bowls: where were you when your grandmother was pregnant?, Move the Egg: carry a seed along a tube without touching the seed. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e1",
+    "a3",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Two Gates Test: if one sperm cell is enough, why do millions start?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Due Date Survey: does a baby arrive on the day the doctor says?. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Due Date Survey: does a baby arrive on the day the doctor says?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

@@ -618,6 +618,11 @@ Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2
 - M.P. Birla Planetarium · place · Kolkata: One of the oldest planetariums in India, with shows about the night sky.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Paper Moon Test: can bounced light help you see?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Paper Moon Test: can bounced light help you see?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Light the Hidden Picture. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in c1. Get it before Light the Hidden Picture.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Blackest Black: a hole in a box, The Paper Moon Night-Light. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2, p1. Get it before The Blackest Black: a hole in a box.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in The Blackest Black: a hole in a box. About ₹100 to ₹200. A marble or a round torch cell works. Used in e2. Get it before The Blackest Black: a hole in a box.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is the Moon a light source? → No. It shines with sunlight that bounces off it.

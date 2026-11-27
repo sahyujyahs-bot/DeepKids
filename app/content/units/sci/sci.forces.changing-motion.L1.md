@@ -1,7 +1,7 @@
 # Start, stop, faster, slower: how a push changes moving things
 `sci.forces.changing-motion.L1`
 
-**Summary.** Tap a rolling ball from behind and it goes faster. Tap it from the front and it slows or stops. In this unit you will watch a ceiling fan start and stop, test taps on a ball, and flick a bottle cap to see if a bigger flick goes further.
+**Summary.** Tap a rolling ball from behind and it goes faster. Tap it from the front and it slows or stops. In this lesson you will watch a ceiling fan start and stop, test taps on a ball, and flick a bottle cap to see if a bigger flick goes further.
 
 **Intro.** *Roll a ball slowly across the floor. Can you make it stop without grabbing it?* A rolling ball keeps going until something pushes against it. A push from behind makes it faster. A push from the front slows it or stops it. You also find out why a rolling ball stops on its own.
 
@@ -27,6 +27,8 @@ A ball lying on the floor stays still until you tap it. Once it is rolling, it n
 - e.g. In the Tap Test, a still ball started rolling after one tap.
 - e.g. A goalkeeper stops a ball by pushing against it with her hands.
 - e.g. An auto starts when its engine pushes it, and stops when its brakes push against the turning wheels.
+- **Aristotle:** Things move only while something keeps pushing them.
+- **Galileo and Newton:** A moving thing keeps moving by itself until a force changes it. Force is what changes motion.
 ### The side of the push decides: faster or slower · *defined*
 **Definition:** A push the same way a thing is moving makes it go faster. A push against the way it is moving makes it go slower, or stop.
 
@@ -34,6 +36,8 @@ In the Tap Test, a tap from behind made the rolling ball faster. A tap from the 
 - e.g. Tapping the ball from behind made it go faster.
 - e.g. Tapping the ball from the front made it slow down or stop.
 - e.g. A cyclist pedals to speed up and squeezes the brakes to slow down.
+- **Aristotle:** Taught that a thing keeps moving only while something pushes it. When the push stops, the motion stops.
+- **Galileo and Newton:** Showed that a moving thing keeps going the same way and speed unless a force acts on it. A push along its way speeds it up and a push against slows it.
 ### A bigger push makes a bigger change · *defined*
 **Definition:** A small push makes a small change in speed. A big push makes a big change.
 
@@ -41,6 +45,8 @@ In the Flick Test, the hard flick sent the bottle cap over more tiles than the g
 - e.g. A gentle flick sent the bottle cap a short way. A hard flick sent it much further.
 - e.g. A fast ball stings your hand more when you catch it than a slow ball.
 - e.g. A heavy cupboard needs a much bigger push to start moving than an empty box.
+- **Jean Buridan:** A French scholar of the 1300s who thought a push puts a kind of force in a thing, called impetus, and a bigger push puts more in.
+- **Isaac Newton:** In 1687 stated that the change in motion is bigger when the force is bigger. Force equals mass times change in speed, and impetus is not needed.
 ### Why a rolling ball stops on its own · *defined*
 **Definition:** A rolling ball slows down because the floor and the air push against it all the time. These pushes are small, so the ball slows down slowly.
 
@@ -48,6 +54,8 @@ Nobody touches a rolling ball, but it still stops. The floor rubs against it, an
 - e.g. A ball rolls a long way on smooth tiles, and stops quickly on a towel or a dari.
 - e.g. A ceiling fan keeps turning for a while after you switch it off, then slowly stops.
 - e.g. Out in space, far from air and floors, a moving thing keeps going for a very long time.
+- **Aristotle:** A thrown thing stops because its push runs out.
+- **Buridan, Galileo and Newton:** The ball slows because floor and air push against it. With no friction, it would roll on for ever.
 
 ## Mostly agreed
 - A still thing starts moving only when a force acts on it. *How we know:* A ball on the floor stays still until something pushes it: a hand, a foot, the wind or a slope.
@@ -479,11 +487,11 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 - Seat belts hold passengers back when a car stops suddenly, pushing against their forward movement.
 
 ## Spotted around us
-- A Mumbai local train slowing down as it comes into a station, and speeding up as it leaves.
-- A pambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor in Madurai.
-- A rowing boat gliding to the ghats on the Ganga in Varanasi, the rower pushing the oar forward to stop.
-- A cyclist squeezing her brakes on a steep road in Shillong.
-- A kite at Uttarayan in Ahmedabad climbing when the flyer pulls the string, and drifting down when she lets it go slack.
+- A local train slowing down as it comes into a station, and speeding up as it leaves.
+- A pambaram, a wooden spinning top, slowing down and wobbling to a stop on a floor.
+- A rowing boat gliding to a river bank, the rower pushing the oar forward to stop.
+- A cyclist squeezing her brakes on a steep road.
+- A kite at Uttarayan climbing when the flyer pulls the string, and drifting down when she lets it go slack.
 
 ## Open questions
 - **Why does a moving thing keep moving at all?** We know that a moving thing keeps going until a force changes it. But nobody knows for sure why things carry their movement in the first place. Some scientists think it has to do with all the stars and galaxies in the universe. They still argue about it.
@@ -517,10 +525,11 @@ Push and Pull (sci.forces.L1): Topic-level song for Forces L1
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about bicycles, boats and things that move.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on exhibits about moving things, good for a family day out.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with a large hands-on science park, including exhibits on motion and forces.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on exhibits about moving things, good for a family day out.
+- Nehru Science Centre · place · Mumbai: A science centre with a large hands-on science park, including exhibits on motion and forces.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a push or a pull called? → A force.
@@ -537,7 +546,7 @@ Push and Pull (sci.forces.L1): Topic-level song for Forces L1
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md, Newton's laws of motion: the founder's 'dance of sudden starts and stops' and 'slide-and-stop tag' became the Cheetah, Snail, Statue game, and 'watch cars start and stop' became Window Watch.
-- Cambridge Primary Science Stage 1, 5.4 Changing movement: making a ball go faster, slower and stop. The Level 3 unit on this subtopic covers changing shape (squashing, bending, bouncing prints), so this unit uses the Tap Test, the Flick Test, the ceiling fan, Window Watch and Soft Stop, Hard Stop instead.
+- Cambridge Primary Science Stage 1, 5.4 Changing movement: making a ball go faster, slower and stop. The Level 3 unit on this subtopic covers changing shape (squashing, bending, bouncing prints), so this lesson uses the Tap Test, the Flick Test, the ceiling fan, Window Watch and Soft Stop, Hard Stop instead.
 - Newton's first and second laws: a force changes speed, and a force against the motion slows it. Any introductory physics text.
 - John Philoponus (6th century) and Ibn Sina (Book of Healing, Physics) on impressed force and inclination (mayl). See the history of the theory of impetus.
 - Émilie du Châtelet's French translation of Newton's Principia, published in 1759, after her death in 1749.

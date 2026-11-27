@@ -1,9 +1,9 @@
 # The Sun on your plate: where the energy of a food chain goes
 `sci.ecology.food-chains.L4`
 
-**Summary.** The energy in your lunch started as sunlight. Where does it go when you eat it? In this unit you will burn a peanut to catch some of its energy, draw pyramids of numbers, weight and energy, and find the level of your own lunch.
+**Summary.** The energy in your lunch started as sunlight. Where does it go when you eat it? In this lesson you will burn a peanut to catch some of its energy, draw pyramids of numbers, weight and energy, and find the level of your own lunch.
 
-**Intro.** *Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?* Your body stays warm all the time, at about 37 degrees. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this unit you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.
+**Intro.** *Put the back of your hand on your forehead. Feel how warm you are? Where did that warmth come from, and where is it going now?* Your body stays warm all the time, at about 37 degrees. Nobody lit a fire inside you. The warmth comes from your last meal. That meal was a plant, or an animal who ate plants, and the plants caught light from the Sun. Now that warmth is leaving your forehead and spreading into the room. In this lesson you will follow the Sun's energy along a food chain, and find out what happens to it at every step. You will also meet a chain in the mud that starts with a dead leaf.
 
 ## Learning outcomes
 0. I can explain that a food chain is a path for energy that begins with sunlight caught by producers, and name the trophic levels along it.
@@ -630,7 +630,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 - A mushroom pushing up from a rotting log or from damp soil after rain.
 - Egrets walking behind a grazing buffalo and snapping up the insects the buffalo disturbs.
 - Dung beetles rolling a ball of cow dung along a path.
-- A Chinese fishing net lowered into the backwaters near Kochi, with gulls and kites waiting for the catch.
+- A big fishing net lowered into the water from the shore, with gulls and kites waiting for the catch.
 - A spider's web in a corner of a window, with a dried fly in it.
 - The warmth of a compost bin or a steel dabba of leftover food sitting in the sun.
 
@@ -687,6 +687,17 @@ Everybody Eats (sci.ecology.L4): Topic-level song
 ## Things to buy
 - [A digital cooking thermometer with a probe](https://www.amazon.in/s?k=digital+cooking+thermometer+probe) (tool): For the Peanut test and the Warm Seeds test. It costs about Rs 150 to 300. The Peanut test needs a reading to one degree or better up to 100 degrees. A school lab thermometer from a stationery or lab shop is a cheaper choice. Warm Seeds only needs a room or aquarium thermometer that reads 0 to 50 degrees. A body thermometer will not do, because it reads only up to 42 degrees. You could also borrow one from a neighbour or school. Used in e1, e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For the funnel trap, to see tiny animals. It costs about Rs 30 to 80. A phone camera with zoom can also help. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?, Pyramid Strips: numbers, weight and energy, A Day of Food, Traced Back to the Sun. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a1, p1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Who lives in the dead leaves? A funnel trap for tiny animals. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in a2. Get it before Who lives in the dead leaves? A funnel trap for tiny animals.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in Who lives in the dead leaves? A funnel trap for tiny animals. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in a2. Get it before Who lives in the dead leaves? A funnel trap for tiny animals.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Warm Seeds: do living things give off heat?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e2. Get it before Warm Seeds: do living things give off heat?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Warm Seeds: do living things give off heat?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Warm Seeds: do living things give off heat?.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Who lives in the dead leaves? A funnel trap for tiny animals. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a2. Get it before Who lives in the dead leaves? A funnel trap for tiny animals.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in A Peanut Full of Sunshine: how much of a bite's energy can you catch?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e1. Get it before A Peanut Full of Sunshine: how much of a bite's energy can you catch?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a living being who makes her own food from light? → A producer.

@@ -1,9 +1,9 @@
 # What is it made of? Where materials come from
 `sci.materials.what-is-it-made-of.L3`
 
-**Summary.** Your shirt, your chair and your pencil all came from somewhere. Where? In this unit you will trace objects back to where they came from, make salt from salty water with the Sun, make new paper from old paper, and turn milk into plastic.
+**Summary.** Your shirt, your chair and your pencil all came from somewhere. Where? In this lesson you will trace objects back to where they came from, make salt from salty water with the Sun, make new paper from old paper, and turn milk into plastic.
 
-**Intro.** *Pick up anything near you: a pencil, a spoon, a button. What was it before it was this? And what was it before that? How far back can you go?* The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Trace any object back far enough, and you always end up at the Earth. In this unit you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.
+**Intro.** *Pick up anything near you: a pencil, a spoon, a button. What was it before it was this? And what was it before that? How far back can you go?* The wood of your pencil was once a tree. Its grey middle is graphite, a mineral dug out of the ground, mixed with clay. The tree drank rain that fell from clouds, and most of that rain came from the sea. Trace any object back far enough, and you always end up at the Earth. In this lesson you become a material detective. You trace things back to where they came from. You find out which things nature made and which things people made. Then you make a few materials yourself, from natural ones.
 
 ## Learning outcomes
 0. I can say what an object is made of, and trace its material back to where it came from: a plant, an animal, the ground, the sea or the air.
@@ -86,7 +86,7 @@ A sheep grows wool, and people only cut it. A silkworm, the caterpillar of a mot
 ### Plants are built of a material called cellulose · *defined*
 **Definition:** Cellulose is the material that the walls of plant cells are made of. Wood, cotton, jute, coir and paper are mostly cellulose.
 
-Every plant is made of tiny boxes called cells. The walls of these cells are made of cellulose. It is made of long chains of sugar joined end to end. Cotton is almost pure cellulose. Wood is cellulose fibres glued together by another plant material, called lignin. Scientists think cellulose is the most common material made by living things on Earth. When you make paper in this unit, you are tangling cellulose fibres into a mat.
+Every plant is made of tiny boxes called cells. The walls of these cells are made of cellulose. It is made of long chains of sugar joined end to end. Cotton is almost pure cellulose. Wood is cellulose fibres glued together by another plant material, called lignin. Scientists think cellulose is the most common material made by living things on Earth. When you make paper in this lesson, you are tangling cellulose fibres into a mat.
 - e.g. Cotton fluff is nearly pure cellulose.
 - e.g. Paper is a mat of cellulose fibres pressed flat.
 - e.g. Cows can digest grass because tiny living things in their stomach break cellulose down.
@@ -182,7 +182,7 @@ We have been learning where every material comes from, and how people change nat
 
 A steel spoon, a plastic bucket and a mango look as if they have nothing in common. Follow each one back, and they all lead to the same few kinds of atoms, made in stars. About 90 kinds of atom build salt, clay, silk and you. When people make things, they join the same atoms in new patterns.
 
-- **Mundaka Upanishad 1.1.7:** “यथोर्णनाभिः सृजते गृह्णते च / यथा पृथिव्यामोषधयः संभवन्ति / यथा सतः पुरुषात् केशलोमानि / तथाऽक्षरात् संभवतीह विश्वम्” A spider spins a thread out of her own body. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source. (In this unit, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.)
+- **Mundaka Upanishad 1.1.7:** “यथोर्णनाभिः सृजते गृह्णते च / यथा पृथिव्यामोषधयः संभवन्ति / यथा सतः पुरुषात् केशलोमानि / तथाऽक्षरात् संभवतीह विश्वम्” A spider spins a thread out of her own body. Plants grow up out of the earth. In the same way, everything comes out of the one unchanging source. (In this lesson, spiders and silkworms spin silk out of their own bodies, and every material we traced came out of the Earth. The Upanishad uses the same picture for the whole world: it all comes out of one source.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988):** Look deeply at a sheet of paper. You can see the cloud, the rain and the tree inside the paper. Take them away, and there is no paper. (In the paper experiment, you saw plant fibres at the torn edge of paper. Those fibres grew in a tree that needed rain and sun. So the story of the paper includes the tree, the rain and the sun.)
 - Science (settled): When people cook, melt or mix materials, no atoms are made or lost. They are only rearranged.
 - Science (settled): Almost every atom in your body, apart from hydrogen, was made inside a star.
@@ -734,7 +734,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 12. (mcq) Which of these changes can be turned back?  
    Options: Melting candle wax / Baking a clay pot / Burning paper / Cooking an egg  
    **Answer:** Melting candle wax. *Why:* Melted wax goes hard again when it cools, so the change can be undone. The others change the material for ever. A strong answer asks: can I get the old material back?
-13. (write) In this unit's story, Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.  
+13. (write) In this lesson's story, Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.  
    **Answer:** A strong answer says the salt itself is natural, because it came from the sea. But people cleaned it and added iodine, so the packet is a natural material changed by people. Either answer is fine if the reason looks at both the material and what people did.. *Why:* Many things in a kitchen are natural materials that people have changed a little.
 14. (order) Put the journey of a newspaper in order, from nature to your hands.  
    **Answer:** order shown. *Why:* Paper is a mat of plant fibres. A strong answer starts with the tree and shows the pulp step, which you also did in the paper experiment.
@@ -774,7 +774,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 12. (draw) Draw the journey of one iron atom in four pictures: made inside a star, thrown into space, part of the young Earth, and now in your steel kadai.  
    **Answer:** Four boxes with arrows: a bright star, an explosion scattering dust, a rocky young Earth, and a kadai on a stove, with a dot for the same atom in each.. *Why:* A strong drawing shows the same atom all the way through. Atoms are not made in the kadai factory.
 13. (write) Nothing is made from nothing. So where did the material in your own body come from? Trace it back at least two steps.  
-   **Answer:** A strong answer says my body is built from the food I eat. The food came from plants, and from animals who ate plants. Plants built themselves from air, water and a little soil, using sunlight. Further back, the atoms were made in stars.. *Why:* Your body is natural material too, collected and rebuilt, just like everything else in this unit.
+   **Answer:** A strong answer says my body is built from the food I eat. The food came from plants, and from animals who ate plants. Plants built themselves from air, water and a little soil, using sunlight. Further back, the atoms were made in stars.. *Why:* Your body is natural material too, collected and rebuilt, just like everything else in this lesson.
 14. (truefalse) When a plastic bottle is recycled, the plastic disappears.  
    **Answer:** False. *Why:* False. Recycling melts and reshapes the plastic into something new. It does not disappear. And most plastic ever thrown away has never been recycled at all. A strong answer says materials change shape but do not vanish.
 15. (mcq) Paper can be recycled again and again, but only about five to seven times. Why does it stop working after that?  
@@ -845,8 +845,8 @@ She did not sell it. She gave a pinch to everyone who passed.
 - Archaeologists study old materials, like the cotton at Mehrgarh, to learn how people lived thousands of years ago.
 
 ## Spotted around us
-- Salt pans along the coast of Gujarat and Tamil Nadu, white and flat, seen from a train or bus.
-- Rubber trees in Kerala with a slanting cut on the trunk and a small cup catching white latex.
+- Salt pans along the coast, white and flat, seen from a train or bus.
+- Rubber trees with a slanting cut on the trunk and a small cup catching white latex.
 - A potter at a wheel, and a brick kiln with a tall chimney at the edge of a town.
 - Banana leaves and leaf plates, pattals and donas, at a wedding feast or a sadya, or sold in bundles at a market.
 - A kabadiwala's cart piled with newspapers, bottles and old metal.
@@ -898,16 +898,16 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Links
 - [PhET Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom) · simulation: A free online game. Build atoms from tiny parts and see which element you have made. Good after Same Beads, Different Things.
-- [Ptable: the interactive periodic table](https://ptable.com) · interactive: Every element, with pictures and uses. Find carbon, iron, oxygen and gold, the stars of this unit.
+- [Ptable: the interactive periodic table](https://ptable.com) · interactive: Every element, with pictures and uses. Find carbon, iron, oxygen and gold, the stars of this lesson.
 - [NASA Space Place](https://spaceplace.nasa.gov) · interactive: Children's pages from NASA about stars, how they shine, and how they die.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including making paper and natural dyes.
 - [Calico Museum of Textiles](https://www.calicomuseum.org) · place · Ahmedabad: One of the great textile museums of the world. See old Indian cotton, silk and dyed cloth. Visits must be booked ahead.
 - [Sabarmati Ashram](https://www.gandhiashramsabarmati.org) · place · Ahmedabad: Where the Salt March began in 1930. See Gandhi's charkha and learn about khadi.
-- [National Salt Satyagraha Memorial]() · place · Dandi, Gujarat: A memorial on the shore where the Salt March ended, with statues of the marchers and solar salt pans you can see.
+- National Salt Satyagraha Memorial · place · Dandi, Gujarat: A memorial on the shore where the Salt March ended, with statues of the marchers and solar salt pans you can see.
 - [Rubber Board](https://rubberboard.gov.in) · interactive · Kottayam, Kerala: The government board for natural rubber in India. Its pages explain how rubber is tapped and made into sheets.
 - [Central Silk Board](https://csb.gov.in) · interactive · Bengaluru: Explains how silk is made in India, from silkworms to saris, and the four kinds of Indian silk, including golden muga from Assam.
-- [A potter, a weaver, a salt pan or a kabadiwala near you]() · place · anywhere: Visit someone who makes or collects materials. Ask them where their raw material comes from, and what they do to it.
+- A potter, a weaver, a salt pan or a kabadiwala near you · place · anywhere: Visit someone who makes or collects materials. Ask them where their raw material comes from, and what they do to it.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with galleries on metals, engines and how things are made.
 
 ## Things to buy
@@ -915,7 +915,14 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Kitchen scale that weighs in grams](https://www.amazon.in/s?k=digital+kitchen+scale+grams) (tool): Weighs the clay diya before and after drying. Used in p1. 
 - [Stuff Matters, by Mark Miodownik](https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik) (book): A materials scientist tells the stories of steel, paper, glass, plastic and more. For the parent, with parts to read aloud. Used in e1, e4. 
 - [The Story of Paper, by Ying Chang Compestine](https://www.amazon.in/s?k=The+Story+of+Paper+Ying+Chang+Compestine) (book): A picture book about how paper was first made in China. Used in e1. 
-- [Gandhi: A March to the Sea, by Alice B. McGinty](https://www.amazon.in/s?k=Gandhi+A+March+to+the+Sea+McGinty) (book): A picture book about the Salt March of 1930, to read after this unit's story. Used in e2. 
+- [Gandhi: A March to the Sea, by Alice B. McGinty](https://www.amazon.in/s?k=Gandhi+A+March+to+the+Sea+McGinty) (book): A picture book about the Salt March of 1930, to read after this lesson's story. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Spin a Thread. About ₹10 to ₹30. Any school ruler is fine. Used in a5. Get it before Spin a Thread.
+- [Insulated wire or crocodile clips](https://www.amazon.in/s?k=crocodile+clip+wire+set) (tool): Used in Make New Paper from Old Paper. About ₹20 to ₹80. Thin insulated wire from an old charger works. Used in e1. Get it before Make New Paper from Old Paper.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in From Soil to Diya. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in p1. Get it before From Soil to Diya.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Spin a Thread. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5. Get it before Spin a Thread.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Material Map of India, Spin a Thread. About ₹20 to ₹50. Torn clean cloth works. Used in a4, a5. Get it before The Material Map of India.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Turn Milk into Plastic. About ₹40 to ₹80. Lemon juice works for many tests. Used in e4. Get it before Turn Milk into Plastic.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a steel spoon an object or a material? → An object. Steel is its material.

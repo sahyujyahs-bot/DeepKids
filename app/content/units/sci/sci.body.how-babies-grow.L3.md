@@ -1,7 +1,7 @@
 # How a baby grows: from one cell to birth
 `sci.body.how-babies-grow.L3`
 
-**Summary.** Every person began as one tiny cell. How does one cell become a baby? In this unit you will watch dough double to see cells multiply, test whether water protects an egg, make a growing fruit line, and play a game of the forty weeks before birth.
+**Summary.** Every person began as one tiny cell. How does one cell become a baby? In this lesson you will watch dough double to see cells multiply, test whether water protects an egg, make a growing fruit line, and play a game of the forty weeks before birth.
 
 **Intro.** *Look at your hand. Spread your fingers wide. Once, your whole body, with its hands, eyes, bones and brain, was one single cell. That cell was smaller than the full stop at the end of this sentence. Where did all the rest of you come from?* Put a grain of salt on a dark plate and look at it closely. You began even smaller than that, as one cell. A cell is the smallest living building block of a body. Now you are made of about 30 trillion cells. Every one of them came from that first cell.
 
@@ -693,7 +693,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 
 ## Videos
 - **Pregnancy 101 | National Geographic** (National Geographic, 10 min) id `XEfnq4Q4bfk`: For the parent: real 3D ultrasound footage of babies yawning, sucking thumbs and moving. Choose a short clip, not the whole film. *Check:* Watch it first yourself, and choose a short clip rather than the whole film.
-- **Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios** (BBC Studios, 5 min) id `O8KdLdRsbRk`: Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go. *Check:* Watch it first yourself. Some parts talk about how a baby is conceived in more detail than this unit does.
+- **Does Placenta Size Matter? | Horizon: The Nine Months that Made You | BBC Studios** (BBC Studios, 5 min) id `O8KdLdRsbRk`: Shows, with clear animation, how one cell becomes a whole baby, and how cells know where to go. *Check:* Watch it first yourself. Some parts talk about how a baby is conceived in more detail than this lesson does.
 - **Maternal health: Ensuring kangaroo mother care for every small or preterm baby** (World Health Organization (WHO), 4 min) id `YfhWxMmBIW4`: Shows real parents holding tiny babies skin to skin, and why it keeps them warm and safe. *Check:* Watch it first yourself.
 
 ## Quiz
@@ -814,6 +814,12 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To see the loops and whorls of fingerprints. Used in a3. 
 - [Kitchen or digital thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To measure how warm each pretend baby stays in Keep the Baby Warm. Feeling with your cheek also works, but is rougher. Used in e3. 
 - [Soft measuring tape, 150 centimetres](https://www.amazon.in/s?k=measuring+tape+150+cm) (tool): For marking baby lengths and measuring your own height. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Big Was I? The growing fruit line, Newborn Eyes: what a baby sees, The Forty-Week Scroll. About ₹10 to ₹30. Any school ruler is fine. Used in a2, a6, p1. Get it before How Big Was I? The growing fruit line.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Womb in a Bottle: a model. About ₹20 to ₹60. Used in a5. Get it before Womb in a Bottle: a model.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in One Cell to Many: the dough doubling. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a1. Get it before One Cell to Many: the dough doubling.
+- [Food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): Used in One Cell to Many: the dough doubling. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it. Used in a1. Get it before One Cell to Many: the dough doubling.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Newborn Eyes: what a baby sees. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a6. Get it before Newborn Eyes: what a baby sees.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Every person began as one ____. → Cell.

@@ -3806,6 +3806,131 @@
    "used_in": [
     "a6"
    ]
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant). About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant)."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Water Climb: how fast does water rise in gravel, sand and fine soil?, Cover or Bare: does a cover of dry leaves keep the soil damp?, Squeeze and Ribbon: how does each soil feel when wet?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "a1",
+    "a5",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda",
+   "kind": "material",
+   "why": "Used in Cabbage Water Test: is the soil acid or alkaline?. About ₹20 to ₹40. Check the kitchen first.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before Cabbage Water Test: is the soil acid or alkaline?."
+  },
+  {
+   "id": "b-vinegar",
+   "item": "Vinegar",
+   "kind": "material",
+   "why": "Used in Cabbage Water Test: is the soil acid or alkaline?. About ₹40 to ₹80. Lemon juice works for many tests.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get it before Cabbage Water Test: is the soil acid or alkaline?."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Water Climb: how fast does water rise in gravel, sand and fine soil?, Squeeze and Ribbon: how does each soil feel when wet?, Crack Maker: why does clay crack when it dries?. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "e1",
+    "a1",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Salty Seeds: how much salt stops moong from sprouting?, Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant), Bean Before Methi: does a pot that grew moong feed the next crop?. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "a3",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Salty Seeds: how much salt stops moong from sprouting?."
+  },
+  {
+   "id": "b-a-measuring-jug-or-syringe--",
+   "item": "A measuring jug or syringe (marked in millilitres)",
+   "kind": "tool",
+   "why": "Used in Salty Seeds: how much salt stops moong from sprouting?. About ₹30 to ₹100. A clean medicine cup or marked bottle works.",
+   "url": "https://www.amazon.in/s?k=measuring+jug+500+ml",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Salty Seeds: how much salt stops moong from sprouting?."
+  },
+  {
+   "id": "b-a-roll-of-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "Used in Salty Seeds: how much salt stops moong from sprouting?. About ₹30 to ₹60. Newspaper cut into strips also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Salty Seeds: how much salt stops moong from sprouting?."
+  },
+  {
+   "id": "b-iron-nails-or-iron-filings",
+   "item": "Iron nails or iron filings",
+   "kind": "material",
+   "why": "Used in Water Climb: how fast does water rise in gravel, sand and fine soil?. About ₹20 to ₹80. Short steel nails from a hardware shop.",
+   "url": "https://www.amazon.in/s?k=iron+filings+science",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Water Climb: how fast does water rise in gravel, sand and fine soil?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

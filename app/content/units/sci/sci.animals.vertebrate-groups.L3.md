@@ -1,7 +1,7 @@
 # Animals with a backbone: the five groups and how they keep warm
 `sci.animals.vertebrate-groups.L3`
 
-**Summary.** Why does a lizard sit on a sunny wall, while you do not need to? In this unit you will test whether a fur coat keeps warmth in, watch a lizard in sun and shade, sort animals into the five backbone groups, and see why frogs lay eggs in water.
+**Summary.** Why does a lizard sit on a sunny wall, while you do not need to? In this lesson you will test whether a fur coat keeps warmth in, watch a lizard in sun and shade, sort animals into the five backbone groups, and see why frogs lay eggs in water.
 
 **Intro.** *In a cold north Indian winter, the house lizards in many homes seem to disappear for weeks. The pigeons on the window ledge stay busy all winter. Where do the lizards go, and why don't the pigeons need to hide?* The house lizard and the pigeon both have a backbone. Both breathe air. But they keep warm in two different ways. A lizard's body is about as warm as the air around them. On cold days they hide in a crack or behind a cupboard, still and slow, until the weather warms up. A pigeon makes heat inside their own body from the food they eat, all day and all night. Where winters are warm, as in Chennai or Kochi, house lizards stay active all year, because the air never gets cold enough to slow them. You will meet five groups of animals with a backbone, and find out how each one breathes, stays warm or cool, and has their babies.
 
@@ -171,7 +171,7 @@ We have been learning how fish, amphibians, reptiles, birds and mammals breathe,
 
 All animals with a backbone come from early fish that lived in the sea more than 500 million years ago. From that one beginning came frogs, crocodiles, sparrows, cows and you. Each group found its own way to breathe, keep warm and have young. They still share one body plan, a backbone with a skull at one end. And the warmth of every one of them comes, in the end, from the same sun.
 
-- **Rig Veda 1.115.1:** “चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । / आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च” The Sun is called the self of everything that moves and everything that stays still. (In this unit, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight.)
+- **Rig Veda 1.115.1:** “चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । / आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च” The Sun is called the self of everything that moves and everything that stays still. (In this lesson, a lizard takes their warmth straight from sunlight. A sparrow makes their warmth from grain, and the grain grew using sunlight.)
 - **Taittiriya Upanishad 3.2 (Bhrigu Valli):** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति” Bhrigu comes to see food as Brahman, the ground of all. From food beings are born, by food they live, and into food they return. (A sparrow or a child must eat every day to keep making body heat. Stop the food, and the warmth cannot be kept up.)
 - **Thich Nhat Hanh, The Sun My Heart (1988):** Thich Nhat Hanh wrote that the sun is a second heart beating outside our bodies. Without it, our own heart could not beat. (In the story, Dadi reminds Noor that the bajra stands in the sun all day. The sparrow's warmth was made from grain that grew in sunlight.)
 - Science (settled): Nearly all the energy that warms and moves animals on Earth comes from sunlight, caught first by plants and other green living things. A few living communities, around hot springs deep in the sea, run on chemical energy from the Earth instead.
@@ -435,7 +435,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   - Ask: What do you wonder? (good: Where did the warmth come from?; Can a spoon make heat?)
   - Check: The spoon in your fist got warm. Where did the warmth come from? → **Your hand made it, and it moved into the spoon**
 - **s3 (4 min)**  
-  *Parent does:* Ask the question below. Then say that this unit is about animals that make their own heat and animals that do not.  
+  *Parent does:* Ask the question below. Then say that this lesson is about animals that make their own heat and animals that do not.  
   *Parent says:* Some animals are like your hand. They make their own heat. Others are more like the spoon. They warm up only when something warm is near them, like the sun. Which animals do you think are like the spoon?  
   *Child mode:* Your hand made heat. The spoon only got heat from your hand. Think about which animals are like the spoon.
   - Ask: Which animals might be like the spoon? (good: Lizards, like a house lizard on a wall.; Snakes.; Frogs and fish.)
@@ -759,10 +759,10 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 - Pigeons and sparrows puffed up like little balls on winter mornings.
 - Street dogs panting in the shade under parked cars in May.
 - Frogspawn, clumps of jelly eggs, in monsoon puddles and paddy fields.
-- Mugger crocodiles basking with open mouths on riverbanks, as at the Madras Crocodile Bank near Chennai.
-- Olive ridley turtles coming ashore in their thousands at Rushikulya and Gahirmatha in Odisha.
+- Crocodiles basking with open mouths on a riverbank, or in a crocodile park.
+- Sea turtles coming ashore in their thousands to lay eggs, in a video or on a beach.
 - Fish in an aquarium or a temple tank, their gill covers opening and closing.
-- Mudskippers, fish that hop about on the mud of mangroves in the Sundarbans and Bhitarkanika.
+- Mudskippers, fish that hop about on the mud of mangroves.
 
 ## Open questions
 - **When did animals first start making their own body heat, and why?** Body heat does not leave clear marks in fossils. Scientists use clues from bones, nose bones and growth rings, and they disagree.
@@ -816,6 +816,11 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Digital thermometer that can measure water, about 0 to 100 °C (a kitchen or lab probe thermometer)](https://www.amazon.in/s?k=digital+probe+thermometer+kitchen) (tool): For the warm bottles, the tumblers in the sun and the nest egg. A fever thermometer cannot read cool water, so it works only for some tests. Used in e1, e2, a4, a5, p1. 
 - [Sabja seeds (sweet basil seeds), a small packet](https://www.amazon.in/s?k=sabja+seeds) (material): When soaked, each seed grows a ball of clear jelly, just like frog eggs. Used in e3. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the jelly around the soaked sabja seeds. Used in e3. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in A Damp Home for a Frog. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before A Damp Home for a Frog.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Nest Builder: keep the egg warm. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Nest Builder: keep the egg warm.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Nest Builder: keep the egg warm, Save the Ice Cube. About ₹20 to ₹50. Torn clean cloth works. Used in p1, c1. Get it before Nest Builder: keep the egg warm.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Fur Coat Test: does a coat keep warmth in?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Fur Coat Test: does a coat keep warmth in?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Animals with a backbone are called ____. → Vertebrates.

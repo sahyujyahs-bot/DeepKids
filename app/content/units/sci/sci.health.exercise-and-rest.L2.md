@@ -1,9 +1,9 @@
 # Exercise and rest: why moving makes you breathe hard, and why your body needs sleep
 `sci.health.exercise-and-rest.L2`
 
-**Summary.** Why do you breathe so fast after dancing? In this unit you will count your breaths before and after dancing and time how long they take to slow down, compare three kinds of exercise, move like a crab, frog and cat, and put your bedtime steps in order.
+**Summary.** Why do you breathe so fast after dancing? In this lesson you will count your breaths before and after dancing and time how long they take to slow down, compare three kinds of exercise, move like a crab, frog and cat, and put your bedtime steps in order.
 
-**Intro.** *Sit very still and put one hand on your tummy. Feel it go out and in. That is you breathing. What do you think will happen to your breathing if you dance as fast as you can for one minute?* You breathe all day and all night, even when you are not thinking about it. Each breath brings air into your lungs, and part of that air is oxygen. Your muscles use oxygen when they work. In this unit you will count your breaths to find out what dancing does to them.
+**Intro.** *Sit very still and put one hand on your tummy. Feel it go out and in. That is you breathing. What do you think will happen to your breathing if you dance as fast as you can for one minute?* You breathe all day and all night, even when you are not thinking about it. Each breath brings air into your lungs, and part of that air is oxygen. Your muscles use oxygen when they work. In this lesson you will count your breaths to find out what dancing does to them.
 
 ## Learning outcomes
 0. By the end I can count my breaths, and say that I breathe faster and deeper after fast exercise.
@@ -540,7 +540,7 @@ Then they both laughed so much that they could not count anything.
 ## Spotted around us
 - Children puffing and laughing after a game of kho-kho or lagori in a school ground.
 - A street dog panting in the shade on a hot afternoon. Dogs pant to cool down, and also after running.
-- Morning walkers at a beach or a park, like the Marina in Chennai, walking fast and swinging their arms.
+- Morning walkers at a beach or a park, walking fast and swinging their arms.
 - In many towns, a whole family asleep on mats on a terrace on a hot summer night.
 
 ## Open questions
@@ -582,9 +582,11 @@ Move, Puff and Rest (sci.health.L2): Topic-level song for Health and well-being 
 - [KidsHealth: Why Exercise Is Cool](https://kidshealth.org/en/kids/exercise.html) · interactive: A clear page for children about what exercise does for the heart, muscles and mood.
 - [KidsHealth: Sleep](https://kidshealth.org/en/kids/sleep.html) · interactive: A simple page for children about why we sleep and how to sleep well.
 - [World Health Organization: Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity) · interactive: For the parent: how much activity children and grown-ups need each day.
-- [A government sports stadium or swimming pool near you]() · place · Your town or city: Many cities have a public stadium or pool with low-cost children's classes. Watch the runners or swimmers and see how they breathe after a race.
+- A government sports stadium or swimming pool near you · place · Your town or city: Many cities have a public stadium or pool with low-cost children's classes. Watch the runners or swimmers and see how they breathe after a race.
 
 ## Things to buy
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Do Plants Rest at Night? A rajma leaf watch. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Do Plants Rest at Night? A rajma leaf watch.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do you breathe faster or slower after dancing? → Faster, and deeper.
@@ -603,7 +605,7 @@ Move, Puff and Rest (sci.health.L2): Topic-level song for Health and well-being 
 ## Sources
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: read for this topic. Its yoga week and breath-holding challenge were not used: yoga is in the Class 3 unit, and holding the breath as a contest is not a safe test for a child of 7. The SCI Card for Yellapragada Subbarow is used in the card on where muscles get their energy.
 - Cambridge Primary Science Stage 2, Unit 4.4 'Keeping healthy' (exercise is using muscles to move, the heart is a muscle, exercise makes us sweat and breathe faster, keep clean after exercise; diet and germs). The puff count here keeps the book's 'before and after exercise' idea but adds a minute-by-minute recovery count, so the child finds out something they don't know beforehand.
-- Ladder: sci.health.exercise-and-rest.L3 (the peg test, the arm up and down test, the heavy bottle, three yoga poses and bee breath, the sleep diary, Aserinsky and REM sleep, Gita 6.16-17, Patanjali 2.46, Mandukya Upanishad). This unit repeats none of those experiments, stories, teachings or its deep truth. It leads on to L3: here the child sees that moving changes breathing and that the body recovers in rest; L3 then asks what a tired muscle has used up and what rest gives back. Also read: sci.body.heart-blood-breath.L3 (pulse after jumping), sci.body.keeping-balance.L3 (cheeks turning red after jumping), sci.body.growing.L2 (height at bedtime and morning), sci.health.hygiene.L1, sci.food.healthy-food.L1 and sci.health.feelings-and-wellbeing.L1, so as not to repeat them.
+- Ladder: sci.health.exercise-and-rest.L3 (the peg test, the arm up and down test, the heavy bottle, three yoga poses and bee breath, the sleep diary, Aserinsky and REM sleep, Gita 6.16-17, Patanjali 2.46, Mandukya Upanishad). This lesson repeats none of those experiments, stories, teachings or its deep truth. It leads on to L3: here the child sees that moving changes breathing and that the body recovers in rest; L3 then asks what a tired muscle has used up and what rest gives back. Also read: sci.body.heart-blood-breath.L3 (pulse after jumping), sci.body.keeping-balance.L3 (cheeks turning red after jumping), sci.body.growing.L2 (height at bedtime and morning), sci.health.hygiene.L1, sci.food.healthy-food.L1 and sci.health.feelings-and-wellbeing.L1, so as not to repeat them.
 - Resting respiratory rate in children aged about 6 to 12 is roughly 18 to 30 breaths per minute in standard paediatric tables, so about 9 to 15 in half a minute. It rises with exercise as working muscles use more oxygen and make more carbon dioxide (any physiology textbook).
 - Excess post-exercise oxygen consumption: breathing stays raised for some minutes after exercise.
 - WHO Guidelines on physical activity and sedentary behaviour (2020): an average of 60 minutes a day of moderate to vigorous activity for ages 5 to 17.

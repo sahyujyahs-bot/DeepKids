@@ -1,9 +1,9 @@
 # How we see: light goes straight, a lens makes a sharp picture, and two eyes build depth
 `sci.light.how-we-see.L4`
 
-**Summary.** Close one eye and judging distance gets harder. Why? In this unit you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.
+**Summary.** Close one eye and judging distance gets harder. Why? In this lesson you will test whether light can go round a corner, make a sharp picture of a window with a lens, find how close you can focus, and try the near pencil, far pencil depth test.
 
-**Intro.** *Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?* The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this unit you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.
+**Intro.** *Hold one finger up at arm's length, in front of a plain wall. Close your left eye and look at the finger. Now open the left eye and close the right. What happened to your finger? Did the finger really move, or did something else change?* The finger did not move. But each of your eyes looks from a slightly different place, so each gets a slightly different picture. Your brain joins the two into one, and it uses the difference to tell how far away things are. In this lesson you find out how light travels from the world to your eyes in straight lines. You build a lens that makes a picture of a window. Then you measure the jump, and find out how much of what you see is worked out and not simply seen.
 
 ## Learning outcomes
 0. I can show with a test that light travels in straight lines, and say what happens when something is in the way.
@@ -756,7 +756,7 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 - A cow, a goat or a hen with eyes on the sides of their head, and a cat with eyes at the front.
 - An eye-testing chart at a school or an eye clinic, with letters getting smaller.
 - A grandparent holding the newspaper at arm's length to read it.
-- The full Moon rising huge over the sea at Marina Beach in Chennai.
+- The full Moon rising huge over the sea, or over rooftops.
 - A spectacles shop with a tray of different lenses, and an eye test with a row of lenses on a frame.
 - Your own face reflected in the dark pupil of a friend's eye, when you look closely.
 
@@ -816,6 +816,13 @@ Follow the Light (sci.light.L4): Topic-level song
 ## Things to buy
 - [A small pack of modelling clay](https://www.amazon.in/s?k=modelling+clay+for+kids) (material): To stand the cards upright for the Three Cards test. A small pack from a stationery shop is enough. Used in e1. 
 - [A magnifying glass with a handle](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To make an upside-down picture of a window for the Lens test. The lens from an old pair of reading glasses also works. Used in e3. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in A Lens Makes a Window Picture: where is the sharp place?, Near Point: how close can you focus?, How Big Does It Look? A ruler at arm's length. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, a3, a4, c1. Get it before A Lens Makes a Window Picture: where is the sharp place?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Three Cards, Three Holes: can light go round a corner?, Near Pencil, Far Pencil: the finger jump and the depth test, A Lens Makes a Window Picture: where is the sharp place?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a3, a4, p1, c1. Get it before Three Cards, Three Holes: can light go round a corner?.
+- [A set of lenses (convex and concave)](https://www.amazon.in/s?k=convex+concave+lens+set) (tool): Used in A Lens Makes a Window Picture: where is the sharp place?. About ₹80 to ₹250. A magnifying glass is one convex lens. Used in e3. Get it before A Lens Makes a Window Picture: where is the sharp place?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in A Bird in a Cage: pictures that join in your eye. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in p1. Get it before A Bird in a Cage: pictures that join in your eye.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Readable From the Far End: design the best sign. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Readable From the Far End: design the best sign.
+- [Postcards or plain cards](https://www.amazon.in/s?k=blank+postcards) (material): Used in Three Cards, Three Holes: can light go round a corner?, A Lens Makes a Window Picture: where is the sharp place?. About ₹5 to ₹20. Cut card from a cereal box. Used in e1, e3. Get it before Three Cards, Three Holes: can light go round a corner?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Do your eyes send out rays to see? → No. Light comes into your eyes.
@@ -836,7 +843,7 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/light-seeing-and-shadows.md: make a pinhole camera or camera obscura to mimic the optics of the eye, watch the eyes adapt when the lights go off, a drama of a photon travelling to the eye, and a mime of an eye capturing an image
-- The Class 3 unit How we see, which this unit builds on: light comes into the eye, the parts of the eye, the pupil, rods and cones, the blind spot and the brain
+- The Class 3 unit How we see, which this lesson builds on: light comes into the eye, the parts of the eye, the pupil, rods and cones, the blind spot and the brain
 - Combined lesson sci-C4-light-seeing-and-shadows.json: rays and ray diagrams, light travels in straight lines, the pinhole picture, and sunlight being about 8 minutes old
 - Kepler, Ad Vitellionem Paralipomena, 1604 (the picture on the retina is upside down)
 - Scheiner, Oculus, 1619 (the picture on the retina of an animal's eye seen directly)

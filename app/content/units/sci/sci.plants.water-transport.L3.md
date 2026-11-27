@@ -1,7 +1,7 @@
 # How water climbs a plant, from the roots to the leaves
 `sci.plants.water-transport.L3`
 
-**Summary.** A tree has no heart and no pump, so how does water reach its top leaves? In this unit you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.
+**Summary.** A tree has no heart and no pump, so how does water reach its top leaves? In this lesson you will stand a stem in coloured water and look for the colour inside, find out which stem drinks more, leafy or bare, and act out a water chain.
 
 **Intro.** *Look at a tall coconut palm or a neem tree. Their top leaves need water, but the water is in the soil, far below. Nobody carries it up, and a tree has no heart and no pump. So how does the water get to the top?* Try this today. Stir lots of food colour into half a glass of water. Stand a white carnation in it, or a pale inner leaf of a cabbage with the thick white rib pointing down. Look again after a few hours, and the next day. If thin coloured lines appear in the leaf or the petals, the coloured water has climbed up inside. Water makes this journey in every plant, from the roots to the very top leaf.
 
@@ -33,7 +33,7 @@
 - **Cohesion (say it: co-HEE-zhun)**: Water molecules attracting each other, so that water holds together. It is why water forms round drops. *e.g.* A drop of water on a leaf stays round, because its molecules hold on to each other.
 - **Capillary action (say it: ka-PIL-a-ree)**: Water creeping up into very thin gaps by itself, because it sticks to the sides of the gap. *e.g.* Dip the corner of a tissue in tea. The tea climbs up the tissue.
 - **Root pressure**: A small push from the roots that squeezes water a little way up the stem, mostly at night. *e.g.* On some mornings, grass tips have tiny beads of water squeezed out of them.
-- **Phloem (say it: FLOW-um)**: The plant's second set of tubes. They carry sugary food made in the leaves to the rest of the plant. This unit is about the water tubes, the xylem. *e.g.* Sugarcane juice is sweet because the cane stores food carried in its phloem.
+- **Phloem (say it: FLOW-um)**: The plant's second set of tubes. They carry sugary food made in the leaves to the rest of the plant. This lesson is about the water tubes, the xylem. *e.g.* Sugarcane juice is sweet because the cane stores food carried in its phloem.
 - **Fair test**: A test where you change only one thing, and keep everything else the same. Then you know what caused the difference. *e.g.* Two mint stems in the same bottles of water, one with leaves and one without. Only the leaves are different.
 - **Evidence**: What you saw or measured that shows your idea is true, or not true. *e.g.* Blue lines in a white petal are evidence that coloured water climbed up the stem.
 
@@ -84,7 +84,7 @@ Most living plant cells have a stretchy bag inside, called a vacuole, that fills
 ### What makes a plant drink faster · *defined*
 **Definition:** A plant loses water faster, and so drinks faster, in sunny, warm, windy and dry weather. A plant loses water more slowly in dark, cool, still or damp weather.
 
-Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the Leafy or Bare test in this unit.
+Think about drying clothes. They dry fastest on a hot, sunny, windy day, and slowest on a damp, still night. Leaves lose water in the same way. Sunlight also makes most plants open their leaf holes, to let air in for making food. More leaves mean more holes, so a leafy stem drinks faster than a bare one. The chart shows made-up results from the Leafy or Bare test in this lesson.
 - e.g. A plant on a sunny balcony needs watering more often than one in a shady room.
 - e.g. Desert plants like cactus have few leaves, or none, so they lose less water.
 - e.g. Farmers in hot places often water in the early morning or evening, when less is lost to the air.
@@ -706,7 +706,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 3. (mcq) In the Leafy or Bare test, the leafy stem's water dropped 18 mm and the bare stem's dropped 3 mm. How many times more did the leafy stem drink?  
    Options: 3 times / 6 times / 15 times / 21 times  
    **Answer:** 6 times. *Why:* 18 divided by 3 is 6. So the leafy stem drank 6 times as much. Picking 15 means taking away instead of dividing. 18 take away 3 is 15 mm more, which is also true, but it does not say how many times.
-4. (mcq) Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this unit does this show?  
+4. (mcq) Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this lesson does this show?  
    Options: Water molecules hold on to each other / Leaves pull water up / Steel soaks up water / Water is lighter at the top  
    **Answer:** Water molecules hold on to each other. *Why:* The water at the top holds on to the water around it, so it bulges instead of spilling. This holding on is called cohesion. It is the same pull that keeps a thread of water in a tree from snapping. Picking 'leaves pull water up' names a true idea, but there are no leaves here.
 5. (mcq) Plants need minerals, tiny bits from the soil like nitrogen, to grow. The minerals are dissolved in the soil water. How do they reach the leaves?  
@@ -900,16 +900,22 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [Royal Botanic Gardens, Kew](https://www.kew.org/) · interactive: The website of a great plant science garden in London, with articles on how plants work and why forests matter.
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden](https://bsi.gov.in/) · place · Howrah, near Kolkata: Home of the Great Banyan, a tree over 250 years old. Its hanging roots became hundreds of trunks, each one carrying water up. The garden is looked after by the Botanical Survey of India.
 - [Bose Institute and Acharya Bhavan museum](https://www.jcbose.ac.in/) · place · Kolkata: The research institute Jagadish Chandra Bose founded in 1917. His house, Acharya Bhavan, is a museum with some of the instruments he built to study plants.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A huge old garden full of tall trees from around the world. Feel how much cooler it is under the trees on a hot day.
-- [A flower market near you]() · place · anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru, Dadar in Mumbai or Mullick Ghat in Kolkata: Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why.
+- Lalbagh Botanical Garden · place · Bengaluru: A huge old garden full of tall trees from around the world. Feel how much cooler it is under the trees on a hot day.
+- A flower market near you · place · anywhere, for example Mattuthavani in Madurai, KR Market in Bengaluru, Dadar in Mumbai or Mullick Ghat in Kolkata: Watch how sellers keep flowers fresh: buckets, fresh cuts and sprays. Ask them why.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits and a science park. Look for exhibits about plants, water and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Its biotechnology and science galleries go well with a visit to Lalbagh nearby.
-- [A big tree in your neighbourhood]() · place · anywhere: Choose one big tree. Visit the tree on a hot afternoon and a cool morning. Feel the shade, look at the leaves, and imagine the water climbing inside.
+- A big tree in your neighbourhood · place · anywhere: Choose one big tree. Visit the tree on a hot afternoon and a cool morning. Feel the shade, look at the leaves, and imagine the water climbing inside.
 
 ## Things to buy
 - [Food colour, blue and red (liquid or gel)](https://www.amazon.in/s?k=liquid+food+colour+blue+red) (material): Colours the water in the Blue Climb and the Two-Colour Flower, so you can see where the water goes. Used in e1, a1. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at coloured dots in a cut stem, leaf veins, root hairs and grass-tip drops. Used in e1, a4, a6. 
 - [Digital kitchen weighing scale (shows grams)](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs the potted plant each day in Be Stephen Hales. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Blue Climb: coloured water up a stem, Leafy or Bare? Which stem drinks more?, Climbing Tea and the Great Straw Test. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a5, c1. Get it before The Blue Climb: coloured water up a stem.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Holiday Plant Sitter. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c2. Get it before The Holiday Plant Sitter.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Sweating Branch: sun or shade?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e3. Get it before The Sweating Branch: sun or shade?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Climbing Tea and the Great Straw Test, How High Can You Lift Water?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in a5, c1. Get it before Climbing Tea and the Great Straw Test.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Bubbles from a Leaf: find the hidden holes. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a4. Get it before Bubbles from a Leaf: find the hidden holes.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which part of a plant soaks up water? → The roots, with their tiny root hairs.

@@ -1,9 +1,9 @@
 # Using the right material: why a spoon is steel and a raincoat is plastic
 `sci.materials.using-materials.L1`
 
-**Summary.** Why is a spoon made of steel and not paper? In this unit you will make paper spoons and test them against a steel one, wrap biscuits in different materials to see which keeps the rain out, and play a game matching jobs to materials.
+**Summary.** Why is a spoon made of steel and not paper? In this lesson you will make paper spoons and test them against a steel one, wrap biscuits in different materials to see which keeps the rain out, and play a game matching jobs to materials.
 
-**Intro.** *We eat with steel spoons, not paper spoons. We wear plastic raincoats, not paper raincoats. Why?* Everything is made of a material. Wood, metal, plastic, glass, cloth and paper are materials. Each thing has a job to do. A spoon carries food. A raincoat keeps you dry. People choose a material that can do the job. In this unit you test spoons made of different materials, and find out which one lasts.
+**Intro.** *We eat with steel spoons, not paper spoons. We wear plastic raincoats, not paper raincoats. Why?* Everything is made of a material. Wood, metal, plastic, glass, cloth and paper are materials. Each thing has a job to do. A spoon carries food. A raincoat keeps you dry. People choose a material that can do the job. In this lesson you test spoons made of different materials, and find out which one lasts.
 
 ## Learning outcomes
 0. By the end I can say the job a thing does and the material it is made of.
@@ -446,9 +446,9 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 - Engineers choose materials for every job, from a bridge to a bus seat. They ask what the thing must do, then test materials to find one that can.
 
 ## Spotted around us
-- On a rainy school morning in Mumbai or Kochi, children walk in plastic raincoats, and the rain runs off them.
+- On a rainy school morning, children walk in plastic raincoats, and the rain runs off them.
 - A cook in a South Indian kitchen stirs a pot of sambar with a long steel ladle.
-- At a wedding feast in Tamil Nadu or Kerala, food is served on banana leaves.
+- At a wedding feast, food is served on banana leaves.
 - An auto-rickshaw driver rolls down plastic side sheets when the rain starts.
 
 ## Open questions
@@ -482,10 +482,12 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about rain, boats or the kitchen.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: Galleries on machines, metals and engines, where children can see how people chose materials for big jobs.
-- [Nehru Science Centre]() · place · Mumbai: Hands-on science galleries for children, including how things are made and what they are made of.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: Galleries on machines, metals and engines, where children can see how people chose materials for big jobs.
+- Nehru Science Centre · place · Mumbai: Hands-on science galleries for children, including how things are made and what they are made of.
 
 ## Things to buy
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Make a Spoon That Works. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before Make a Spoon That Works.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is your spoon made of? → Usually steel, a metal.
@@ -501,7 +503,7 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 - Core: e1, a1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/materials-and-their-properties.md: the notebook's ideas on knocking wood, metal and cloth, transparency and heat belong to other units. Its 'drama of materials auditioning' idea shaped the Hold Hands Like Paper act-out. The Class 3 unit on this subtopic uses the hot spoon race, woollen socks and the clay pot, the Class 2 testing unit uses a stretch test, a sketch-pen spot test and a paper doll raincoat, and the Class 1 'what is it made of' unit uses the paper cup and newspaper cone. So this unit uses a soaked spoon test, wrapped biscuits, a mopping test and a memory game instead.
+- ideas/by_topic/materials-and-their-properties.md: the notebook's ideas on knocking wood, metal and cloth, transparency and heat belong to other units. Its 'drama of materials auditioning' idea shaped the Hold Hands Like Paper act-out. The Class 3 unit on this subtopic uses the hot spoon race, woollen socks and the clay pot, the Class 2 testing unit uses a stretch test, a sketch-pen spot test and a paper doll raincoat, and the Class 1 'what is it made of' unit uses the paper cup and newspaper cone. So this lesson uses a soaked spoon test, wrapped biscuits, a mopping test and a memory game instead.
 - Cambridge Primary Science Stage 1, Unit 4.2 'Using materials': why things are made of the materials they are, and testing which material keeps water out.
 - Paper and card are mats of cellulose fibres from plants, held together mainly by hydrogen bonds between the fibres. Water gets between the fibres and weakens these bonds, so wet paper loses most of its strength.
 - Most steel spoons and tumblers in India are stainless steel, iron with chromium mixed in, which stops rust.

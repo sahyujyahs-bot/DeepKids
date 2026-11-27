@@ -1,9 +1,9 @@
 # Antibodies, allergies and HIV: how the defence remembers, and three ways it goes wrong
 `sci.body.immune-system.L5`
 
-**Summary.** A doctor can take one drop of your blood and tell which germs you met years ago. How can blood hold a record? In this unit you will run a colour test on three pretend patients to measure how much antibody each one has, and find out why a test can miss a new infection. You will stroke your arm to wake the cells that cause allergies, count who lived and died in Boston in 1721, and model what HIV does to helper T cells. You will also learn why the defence sometimes attacks harmless food, or the body itself.
+**Summary.** A doctor can take one drop of your blood and tell which germs you met years ago. How can blood hold a record? In this lesson you will run a colour test on three pretend patients to measure how much antibody each one has, and find out why a test can miss a new infection. You will stroke your arm to wake the cells that cause allergies, count who lived and died in Boston in 1721, and model what HIV does to helper T cells. You will also learn why the defence sometimes attacks harmless food, or the body itself.
 
-**Intro.** *A mosquito bites you and flies away. Ten minutes later a bump rises and itches. The mosquito has gone, so who made the bump?* Your own body made the bump. A mosquito leaves a little saliva in your skin. Your immune system has met that saliva before, and it has made antibodies against it. Antibodies are tiny Y-shaped proteins that fit one target and nothing else. The bump and the itch are your body answering the saliva. A baby who is bitten for the very first time usually gets no bump at all, because the baby's body has no record of mosquito saliva yet. So a bump is a sign that your body remembers. In this unit you will find out how the body keeps that record, how doctors read it, and what happens when the defence answers the wrong thing.
+**Intro.** *A mosquito bites you and flies away. Ten minutes later a bump rises and itches. The mosquito has gone, so who made the bump?* Your own body made the bump. A mosquito leaves a little saliva in your skin. Your immune system has met that saliva before, and it has made antibodies against it. Antibodies are tiny Y-shaped proteins that fit one target and nothing else. The bump and the itch are your body answering the saliva. A baby who is bitten for the very first time usually gets no bump at all, because the baby's body has no record of mosquito saliva yet. So a bump is a sign that your body remembers. In this lesson you will find out how the body keeps that record, how doctors read it, and what happens when the defence answers the wrong thing.
 
 ## Learning outcomes
 0. I can describe the shape of an antibody and name three things antibodies do to a germ.
@@ -68,7 +68,7 @@ When a B cell's antibody fits an antigen, and a helper T cell gives the signal, 
 Many blood tests for infections look for antibodies. The test has pieces of the germ fixed to a plate or a strip. A drop of the person's blood serum is added. Serum is the clear yellowish liquid part of blood. If the serum holds antibodies that fit, they stick. A second chemical then makes a colour appear. Colour means that antibodies are there. To measure how much antibody there is, the serum is diluted step by step, and each step is tested. The weakest dilution that still gives colour is called the titre. A high titre means a lot of antibody. This kind of test has a weakness. After a first infection, the body needs time to make antibodies. For one to three weeks there are too few to find. With HIV, most tests cannot find antibodies until some weeks after infection, and a few people take up to three months. This gap is called the window period. A person in the window period has the virus and can pass them on, but the test says no. That is why a test is repeated later. A test that looks for the germ's own genes can find an infection sooner.
 - e.g. The ELISA test that found the first HIV cases in India in 1986 showed a yellow colour where antibodies were present.
 - e.g. Before a child gets some vaccines again, a doctor can measure the titre to see whether the first dose still protects.
-- e.g. Blood banks in India test every unit of donated blood for HIV, hepatitis B and hepatitis C.
+- e.g. Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C.
 ### Five classes of antibody for five kinds of job · *defined*
 **Definition:** Humans make five classes of antibody, called IgM, IgG, IgA, IgE and IgD. The tips can be the same while the stem differs, and the stem decides where the antibody goes and what happens next.
 
@@ -695,7 +695,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 ## Videos
 - **How does your immune system work? - Emma Bryce** (TED-Ed, 5 min) id `PSRJfaAYkW4`: To see B cells, T cells and antibodies at work in one infection, drawn as a cartoon. Watch it after the Titre Test, when the word antibody already means something. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. It is made for older children and grown-ups, so pause and explain where needed.
 - **Why do people have seasonal allergies? - Eleanor Nelsen** (TED-Ed, 5 min) id `-q7Fz7NIMWM`: To see pollen meet the immune system, and antibodies set off the release of histamine. It also gives two ideas about why allergies exist. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it. Its examples are from North America, so the plants and seasons differ from India's.
-- **Why it’s so hard to cure HIV/AIDS - Janet Iwasa** (TED-Ed, 5 min) id `0TipTogQT3E`: To see how HIV enters helper T cells, joins the cell's DNA and hides, and why medicines hold the virus back but do not cure. It speaks plainly about how HIV passes between people. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it first and decide whether it suits their child. It was made in 2015, so the numbers in it are older than the numbers in this unit.
+- **Why it’s so hard to cure HIV/AIDS - Janet Iwasa** (TED-Ed, 5 min) id `0TipTogQT3E`: To see how HIV enters helper T cells, joins the cell's DNA and hides, and why medicines hold the virus back but do not cure. It speaks plainly about how HIV passes between people. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it first and decide whether it suits their child. It was made in 2015, so the numbers in it are older than the numbers in this lesson.
 
 ## Quiz
 1. (mcq) Which part of an antibody fits the antigen?  
@@ -734,7 +734,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    **Answer:** Deaths out of every 100 in each group. *Why:* The groups are very different in size, so the counts cannot be compared directly. Working out deaths in every 100 gives about 15 and about 2.
 
 ## Applications
-- Blood banks in India test every unit of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.
+- Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.
 - Rapid test strips for dengue, malaria and pregnancy have antibodies fixed to the paper. A line appears where the antibodies catch what the test is looking for.
 - Before a blood transfusion, a laboratory mixes a drop of blood with antibodies. If the red cells clump, the blood group is known.
 - Snake antivenom is made of antibodies. Horses are given tiny, safe doses of venom, and the antibodies from their blood are given to people who have been bitten. Irula snake catchers near Chennai collect much of the venom used in India.
@@ -744,8 +744,8 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 - A pregnant woman with HIV takes antiretroviral medicines, and her baby is very likely to be born without the virus.
 
 ## Spotted around us
-- The small round scar high on the left arm of most people in India. It is from the BCG vaccine against tuberculosis, given soon after birth.
-- The line 'Contains wheat, milk' on a biscuit packet in a provision shop in Coimbatore, Kochi or Indore.
+- The small round scar high on the left arm of most people. It is from the BCG vaccine against tuberculosis, given soon after birth.
+- The line 'Contains wheat, milk' on a biscuit packet in a provision shop.
 - A red ribbon pinned to a shirt or painted on a wall on 1 December, which is World AIDS Day.
 - A signboard for an ART centre or a testing and counselling centre at a government hospital, where HIV tests and medicines are free.
 - A test strip with two lines, after a dengue test or a home test. Antibodies fixed to the paper make the lines.
@@ -806,6 +806,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [A pack of six dice](https://www.amazon.in/s?k=dice+set+six+sided) (material): For the Helper Count and Thymus School. A die from Ludo or Snakes and Ladders works, so you may not need to buy any. Used in a4, g2. 
 - [Optional: a pack of clothes pegs with springs](https://www.amazon.in/s?k=clothes+pegs+pack) (material): For Peg Antibodies, if you have fewer than sixteen pegs at home. Wooden or plastic pegs both work. Used in a2. 
 - [Optional book: 'Immune' by Philipp Dettmer](https://www.amazon.in/s?k=Immune+Philipp+Dettmer) (book): A large, colourful book about the immune system by the maker of the Kurzgesagt videos. It is written for teenagers and grown-ups, and the pictures work for a child of nine or ten with a parent. Used in e1, g1. After the Titre Test, look at the pictures of antibodies and B cells together. After the game Right Target, Wrong Target or Too Weak?, read the chapters on allergy and autoimmune disease aloud, a few pages at a time.
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in The Label Hunt: find the allergens in your kitchen. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a5. Get it before The Label Hunt: find the allergens in your kitchen.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Red Line Test: what does your skin do after one firm stroke?, The Bite Survey: who makes the biggest mosquito bump?, Boylston's Count: was inoculation safer than catching smallpox?. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, a3, a4. Get it before The Red Line Test: what does your skin do after one firm stroke?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Hugs Are Safe: a true-or-false poster about how HIV spreads. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Hugs Are Safe: a true-or-false poster about how HIV spreads.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Helper Count: a bean model of HIV, with and without medicine. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4. Get it before The Helper Count: a bean model of HIV, with and without medicine.
+- [Graph paper](https://www.amazon.in/s?k=graph+paper+notebook) (material): Used in Boylston's Count: was inoculation safer than catching smallpox?, The Helper Count: a bean model of HIV, with and without medicine. About ₹10 to ₹30. Draw squares on plain paper. Used in a3, a4. Get it before Boylston's Count: was inoculation safer than catching smallpox?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What shape is an antibody, and which part fits the antigen? → It is shaped like a Y. The two tips fit the antigen.
@@ -824,10 +830,10 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Core: a1, e1, a2, g1, a4, ws-core
 
 ## Sources
-- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). The Class 4 unit left autoimmunity and immunodeficiency for Class 5, and this unit takes them, with antibodies and memory in more depth.
+- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). The Class 4 unit left autoimmunity and immunodeficiency for Class 5, and this lesson takes them, with antibodies and memory in more depth.
 - Combined lesson sci-C5-health-hygiene-exercise-and-illness: the subconcept 'spread by touch and blood: how HIV does and doesn't spread', used in the explanation on living with HIV and in the poster project. Its idea of testing a claim with counts is used in Boylston's Count. Its story was not reused.
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Cards for Gagandeep Kang, Soumya Swaminathan and Sunetra Gupta (Indian women in infection science, and germs that change shape to escape memory). The same thread is followed here through Suniti Solomon and Sellappan Nirmala, and through HIV's fast changes.
-- The Class 3 and Class 4 units sci.body.immune-system.L3 and L4, which this unit builds on. Their experiments, their stories of Metchnikoff and of Jenner's cowpox test, and the Key Shop model are not repeated.
+- The Class 3 and Class 4 units sci.body.immune-system.L3 and L4, which this lesson builds on. Their experiments, their stories of Metchnikoff and of Jenner's cowpox test, and the Key Shop model are not repeated.
 - Porter, R. R., 'The hydrolysis of rabbit gamma-globulin and antibodies with crystalline papain', Biochemical Journal 73, 1959 (the antibody cut into three pieces)
 - Amanna, I. J., Carlson, N. E. and Slifka, M. K., 'Duration of humoral immunity to common viral and vaccine antigens', New England Journal of Medicine 357, 2007
 - Yu, X. and others, 'Neutralizing antibodies derived from the B cells of 1918 influenza pandemic survivors', Nature 455, 2008

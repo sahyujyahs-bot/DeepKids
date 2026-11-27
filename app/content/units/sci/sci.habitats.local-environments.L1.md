@@ -478,6 +478,9 @@ Who Lives Under the Stone? (sci.habitats.L1): Topic-level song for Habitats L1
 
 ## Things to buy
 - [The Salamander Room by Anne Mazer](https://www.amazon.in/s?k=The+Salamander+Room) (book): A boy wants to keep a salamander in his bedroom, and every answer about what the salamander needs turns his room into the wild place she came from. It shows what a living thing needs from where she lives. Used in a1. Read it together after the first walk round the neighbourhood.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Plate on the Soil: what happens under a cover?, A Stone Home on the Balcony, Make a Water Place for Birds on a Hot Day. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, p1, c1. Get it before The Plate on the Soil: what happens under a cover?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Plate on the Soil: what happens under a cover?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Plate on the Soil: what happens under a cover?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one place near home where living beings live. → A tree, a pond, a park, or under a stone.

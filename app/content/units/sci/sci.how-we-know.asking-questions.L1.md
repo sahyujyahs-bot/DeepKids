@@ -1,9 +1,9 @@
 # Wondering and looking closely: finding out what is inside a closed dabba
 `sci.how-we-know.asking-questions.L1`
 
-**Summary.** Can you find out what is inside a closed dabba without opening it? In this unit you will shake, lift and tilt three mystery dabbas for clues, look closely at one elaichi pod, and play a yes-or-no guessing game.
+**Summary.** Can you find out what is inside a closed dabba without opening it? In this lesson you will shake, lift and tilt three mystery dabbas for clues, look closely at one elaichi pod, and play a yes-or-no guessing game.
 
-**Intro.** *A steel dabba is shut tight. You shake it, and it goes shhh, like rain. What do you think is inside? How could you know without opening it?* When a shaken dabba goes shhh, your ears have found a clue. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this unit you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.
+**Intro.** *A steel dabba is shut tight. You shake it, and it goes shhh, like rain. What do you think is inside? How could you know without opening it?* When a shaken dabba goes shhh, your ears have found a clue. A clue is something you notice that helps you work out something hidden. Scientists are people who find out about the world. They start by noticing and wondering, just like you. Then they look, listen, smell and touch very carefully. In this lesson you become a finder-out. You ask your own questions, and you work out what is inside closed dabbas.
 
 ## Learning outcomes
 0. By the end I can ask a question about something I notice, starting with what, how or why.
@@ -452,11 +452,11 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 - Security staff at airports use X-ray machines to find out what is inside closed bags.
 
 ## Spotted around us
-- A coconut seller in Kochi shaking a coconut and listening, to know if there is plenty of water inside.
-- A fruit seller in Pune pressing a mango gently and smelling the stalk end to know if it is ripe.
-- A child in Guwahati watching rain drops race down a bus window, and asking which one will win.
-- A grandmother in Chennai tapping a steel vessel and listening, to know how much rice is left inside.
-- Crows on a balcony in Jaipur walking round a new thing on the railing, looking at the thing from every side before they touch it.
+- A coconut seller shaking a coconut and listening, to know if there is plenty of water inside.
+- A fruit seller pressing a mango gently and smelling the stalk end to know if it is ripe.
+- A child watching rain drops race down a bus window, and asking which one will win.
+- A grandmother tapping a steel vessel and listening, to know how much rice is left inside.
+- Crows on a balcony walking round a new thing on the railing, looking at the thing from every side before they touch it.
 
 ## Open questions
 - **What makes us curious, and why do some things make us wonder more than others?** Scientists study curiosity in children and in other animals. They have found parts of the brain that are busy when we are curious. How curiosity really works is still not fully known.
@@ -491,10 +491,11 @@ I Notice, I Wonder (sci.how-we-know.L1): Topic-level song for How we know L1
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about curious children and asking questions.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on exhibits where children can try things and ask why.
-- [Science City]() · place · Kolkata: A large science centre with hands-on exhibits, good for a family day of wondering and trying.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on exhibits where children can try things and ask why.
+- Science City · place · Kolkata: A large science centre with hands-on exhibits, good for a family day of wondering and trying.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call something that helps you work out what is hidden? → A clue. Scientists call clues evidence.
@@ -509,8 +510,8 @@ I Notice, I Wonder (sci.how-we-know.L1): Topic-level song for How we know L1
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/how-we-know.md: the Grade 1 grid ('Curiosity needs courage and care'; 'New ideas must be tested, not just imagined'), used in checking every dabba guess by opening the lid, in the Wonder Jar, and in the story, where Kavya tests her idea by opening half the window. The founder's list of deepest discoveries starts with the idea that nature follows rules we can find out, which is the starting point of this unit.
-- This unit avoids what the other levels and nearby units use: the Level 3 unit uses the brown apple watch, window watches and Tycho Brahe; the Level 1 senses unit uses smell steps, a senses tray, a dark room, touch words and shaker pairs; other units use leaf twins, feely bags, ant sugar tests and fingerprints. So this unit uses mystery dabbas, one elaichi pod, question games and Inge Lehmann.
+- ideas/by_topic/how-we-know.md: the Grade 1 grid ('Curiosity needs courage and care'; 'New ideas must be tested, not just imagined'), used in checking every dabba guess by opening the lid, in the Wonder Jar, and in the story, where Kavya tests her idea by opening half the window. The founder's list of deepest discoveries starts with the idea that nature follows rules we can find out, which is the starting point of this lesson.
+- This lesson avoids what the other levels and nearby units use: the Level 3 unit uses the brown apple watch, window watches and Tycho Brahe; the Level 1 senses unit uses smell steps, a senses tray, a dark room, touch words and shaker pairs; other units use leaf twins, feely bags, ant sugar tests and fingerprints. So this lesson uses mystery dabbas, one elaichi pod, question games and Inge Lehmann.
 - Inge Lehmann, 'P′', Publications du Bureau Central Séismologique International, Série A, Travaux Scientifiques 14 (1936): proposed the Earth's inner core from earthquake waves arriving where they were not expected.
 - Francis Birch (1940) and later Adam Dziewonski and Freeman Gilbert (1971): evidence that the inner core is solid.
 - C. V. Raman, 'On the molecular scattering of light in water and the colour of the sea', Proceedings of the Royal Society A 101 (1922), written after his voyage to Europe in 1921.

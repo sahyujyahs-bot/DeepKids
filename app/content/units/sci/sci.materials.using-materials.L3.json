@@ -3575,6 +3575,67 @@
     "a1"
    ],
    "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult (look at the pictures together))"
+  },
+  {
+   "id": "b-dropper-materials",
+   "item": "Plastic dropper, a pack of 2 or 3",
+   "kind": "tool",
+   "why": "It puts a few drops of water onto each leaf in the Lotus Leaf and the Waxed Paper activity. About ₹30 to ₹80 for a pack at a medical or pharmacy shop. A spoon and a steady hand are the household alternative.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Buy it before the Lotus Leaf and the Waxed Paper activity."
+  },
+  {
+   "id": "b-clean-sand",
+   "item": "Clean sand, about 2 kilograms",
+   "kind": "material",
+   "why": "It fills the gap between the two clay pots in the cooler project, to keep the water cool. About ₹40 to ₹100 for a small bag at a plant nursery. An old wet towel packed tightly into the gap is the household alternative.",
+   "url": "https://www.amazon.in/s?k=clean+sand+for+plants",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Buy it before you build the clay pot cooler."
+  },
+  {
+   "id": "b-cotton-wool-materials",
+   "item": "Cotton wool, one small roll",
+   "kind": "material",
+   "why": "It is packed around the cup and the egg to keep the heat in and to cushion the egg in the two challenges. About ₹40 to ₹80 for a small pack at a chemist. An old cotton cloth or a towel does the same job.",
+   "url": "https://www.amazon.in/s?k=cotton+wool",
+   "used_in": [
+    "c1",
+    "c2"
+   ],
+   "plan": "Buy it before the Keep the Coffee Hot challenge."
+  },
+  {
+   "id": "b-bubble-wrap",
+   "item": "Bubble wrap, one small sheet",
+   "kind": "material",
+   "why": "It wraps the cup and the egg as a cushion in the two challenges. About ₹50 to ₹150 for a small roll at a packaging shop. Newspaper or an old towel does the same job.",
+   "url": "https://www.amazon.in/s?k=bubble+wrap",
+   "used_in": [
+    "c1",
+    "c2"
+   ],
+   "plan": "Save a piece from a parcel, or buy it before the Keep the Coffee Hot challenge."
+  },
+  {
+   "id": "b-print-materials",
+   "item": "Printed pages for the job cards, material cards, product cards and worksheets, about 20 pages",
+   "kind": "material",
+   "why": "The two games use 16 job cards, 16 material cards, 16 tokens and 16 product cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹20 to ₹40.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
   }
  ],
  "warmup": [

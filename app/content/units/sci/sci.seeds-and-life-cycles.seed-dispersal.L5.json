@@ -469,7 +469,10 @@
     "source": "Chandogya Upanishad 6.12",
     "teaching": "Uddalaka asks his son Shvetaketu to bring a fruit of the banyan and break it open. Inside are tiny seeds. He asks him to break one seed, and the boy says he sees nothing inside. Uddalaka says that the great banyan tree grows from that fine essence which he cannot see.",
     "link": "A banyan seed is smaller than a mustard seed, small enough to pass through a bird and be dropped on a far wall. The teaching and the science both look at how something so small can hold a whole tree. The Upanishad is speaking about the self and the world, not about botany.",
-    "verse": ["किमत्र पश्यसीति । न किंचन भगव इति", "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"],
+    "verse": [
+     "किमत्र पश्यसीति । न किंचन भगव इति",
+     "तं होवाच यं वै सोम्यैतमणिमानं न निभालयस एतस्य वै सोम्यैषोऽणिम्न एवं महान्यग्रोधस्तिष्ठति"
+    ],
     "verse_lang": "sa"
    },
    {
@@ -3549,6 +3552,56 @@
     "p1"
    ],
    "plan": "Read the chapters on how seeds travel and on coffee and chilli, and retell one story to your child during Where Did My Dinner Come From? or Seed Keeper."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?, The Slow Fall Challenge: design a paper seed that takes the longest to fall 2 metres. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?, The Seed Shadow Test: where do 30 drops of the same spinner land?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Get it before The Fan Lane Test: same paper, same weight, three shapes. Which travels farthest in the same wind?."
+  },
+  {
+   "id": "b-cotton-wool",
+   "item": "Cotton wool",
+   "kind": "material",
+   "why": "Used in Read the Shape: how would these kitchen seeds travel with no person to carry them?. About ₹20 to ₹50. Torn clean cloth works.",
+   "url": "https://www.amazon.in/s?k=cotton+wool+roll",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Read the Shape: how would these kitchen seeds travel with no person to carry them?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

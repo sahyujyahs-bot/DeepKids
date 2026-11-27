@@ -1,9 +1,9 @@
 # Sound travels: how a sound gets from where it is made to your ears
 `sci.sound.sound-moves.L1`
 
-**Summary.** How does a sound get from a ringing tumbler to your ears, and why does thunder come after the lightning? In this unit you will walk away from a sound to see how far you can hear it, play a whisper walk, and make a paper cone to send your voice one way.
+**Summary.** How does a sound get from a ringing tumbler to your ears, and why does thunder come after the lightning? In this lesson you will walk away from a sound to see how far you can hear it, play a whisper walk, and make a paper cone to send your voice one way.
 
-**Intro.** *Shut your eyes. A grown-up will tap a spoon on a steel tumbler somewhere in the room. Point to where the sound is. How did the sound find you?* You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this unit you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.
+**Intro.** *Shut your eyes. A grown-up will tap a spoon on a steel tumbler somewhere in the room. Point to where the sound is. How did the sound find you?* You did not touch the tumbler, and you did not see it. Still, the sound reached you. A sound starts at its source, the thing that makes it. Then it travels through the air, all the way to your ears. In this lesson you find out how far a sound can travel, which way it goes, and why far-away sounds are soft.
 
 ## Learning outcomes
 0. By the end I can say that a sound travels from its source, through the air, to my ears.
@@ -27,6 +27,8 @@ When the spoon tapped the tumbler, the tumbler shook very fast. It pushed the ai
 - e.g. A koel's call travelling from a tree to your window
 - e.g. The neighbour's mixie heard through the wall
 - e.g. Your friend's voice travelling across the room to you
+- **Nyaya-Vaisheshika school of India:** Sound is a quality of akasha, the space that carries it everywhere.
+- **Physics:** Sound is a wave of squashing and stretching that moves through air, water or solids, and cannot move through empty space.
 ### A sound spreads out, so it gets softer as it travels · *defined*
 **Definition:** A sound spreads out to every side from its source. The further it travels, the more it has spread out, so less of it reaches each ear. That is why far-away sounds are soft.
 
@@ -35,6 +37,8 @@ In the Walk Away test, the rubbing fingers made the same sound every time. Close
 - e.g. A spoon on a steel tumbler heard across the flat
 - e.g. A temple bell heard by everyone around it, on every side
 - e.g. The cooker heard from round the corner of the kitchen door
+- **Physicists:** Say that the sound spreads over a bigger and bigger area, so each part gets less. It is the same law as for light.
+- **Whale researchers:** Found that in deep ocean there is a layer where sound is trapped and can travel thousands of kilometres. A whale's call can be heard across an ocean.
 ### A cone sends more of a sound one way · *defined*
 **Definition:** A megaphone is a cone that keeps a sound from spreading out to the sides. More of the sound goes out of the wide end, in one direction.
 
@@ -42,6 +46,8 @@ Without a cone, your voice spreads out to every side. Some goes to the walls, so
 - e.g. A rolled newspaper megaphone
 - e.g. Cone-shaped loudspeakers on poles at festivals
 - e.g. Cupping your hands round your mouth to call someone
+- **Engineers:** Make megaphones, horns and loudspeakers with a cone so that sound goes one way.
+- **Cats and bats:** Have cone-shaped ears that gather sound from one direction, and can turn them. The animals use the same shape to listen.
 ### Sound takes a little time to travel · *defined*
 **Definition:** A sound does not arrive the moment it is made. It takes a little time to travel. The further away the source, the longer the wait.
 
@@ -49,6 +55,8 @@ In a thunderstorm, lightning and thunder are made at the same moment. The light 
 - e.g. Seeing lightning first, then hearing the thunder
 - e.g. Seeing a cricket bat hit a ball across a big ground, then hearing the knock a moment later
 - e.g. Seeing fireworks burst in the sky, then hearing the bang
+- **Marin Mersenne:** In 1636 he measured the speed of sound in air by timing echoes. He found it to be about 300 metres in a second.
+- **Daniel Colladon and Charles Sturm:** In 1826 on Lake Geneva they rang a bell under water and found sound travels about four times faster in water than in air. The speed depends on what the sound goes through.
 
 ## Mostly agreed
 - A sound travels from its source to our ears, through the air or through other things. *How we know:* You can hear a tumbler being tapped without touching it or seeing it. And you can hear a neighbour's mixie through a wall.
@@ -493,11 +501,11 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - Schools ring one loud bell in the middle of the building, so the sound spreads to every classroom.
 
 ## Spotted around us
-- In Chennai, vegetable and fish sellers walk down the street calling out what they sell. People hear them from the fourth and fifth floors of a building.
-- During the Kerala monsoon in June, families see the lightning over the sea first and hear the thunder a few moments later.
-- At Ganesh Chaturthi in Mumbai and Pune, cone-shaped loudspeakers on poles send music and announcements along the street.
-- During Durga Puja in Kolkata, people blow the conch shell, and the sound carries across the whole neighbourhood.
-- At night, in towns and villages all over India, people hear a train horn from a station far away.
+- Vegetable and fish sellers walk down the street calling out what they sell. People hear them from the fourth and fifth floors of a building.
+- During the monsoon, families see the lightning over the sea first and hear the thunder a few moments later.
+- At Ganesh Chaturthi, cone-shaped loudspeakers on poles send music and announcements along the street.
+- During Durga Puja, people blow the conch shell, and the sound carries across the whole neighbourhood.
+- At night, in towns and villages, people hear a train horn from a station far away.
 
 ## Open questions
 - **Why does a sound sometimes carry much further on a cool, still night than on a hot afternoon?** Scientists know that wind and warm and cool layers of air bend a sound up or down as it travels. Working out exactly how far a sound will carry on a given day is still hard, and people are still studying it.
@@ -534,11 +542,12 @@ Who Made That Sound? (sci.sound.L1): Topic-level song for Sound L1
 ## Links
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/) · interactive: Free music experiments that work in a phone browser. Play a sound and walk away from the phone to hear it fade.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: Free picture books in many Indian languages to read aloud. Search for books about thunder, rain and sounds.
-- [Golconda Fort]() · place · Hyderabad: Guides show visitors that a clap under the dome at the main gate can be heard high up on the hill. Try it and listen.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with hands-on galleries for children.
-- [Science City]() · place · Kolkata: A large science centre with hands-on exhibits for children.
+- Golconda Fort · place · Hyderabad: Guides show visitors that a clap under the dome at the main gate can be heard high up on the hill. Try it and listen.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with hands-on galleries for children.
+- Science City · place · Kolkata: A large science centre with hands-on exhibits for children.
 
 ## Things to buy
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How does a sound get from a bell to your ears? → It travels through the air.
@@ -554,8 +563,8 @@ Who Made That Sound? (sci.sound.L1): Topic-level song for Sound L1
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources
-- ideas/by_topic/sound.md, 'How sound travels' and 'Sound waves': the paper cone megaphone became the Paper Cone experiment. The human wave relay and passing a shoulder squeeze became Be the Air. Hearing through a closed door versus an open one became the cooker map and the round-the-door listening. The whisper relay became Whisper Walk. Distant thunder became Count After the Lightning. The string telephone, knocking on materials, echo timing and the vacuum jar belong to the Level 4 and Level 5 units, so this unit does not use them.
-- Curriculum entry sci.sound.sound-moves.L1 (Sounds move from the source to our ears), Cambridge Stage 1 unit 6.3 'Sounds move': how far loud and quiet sounds go (Activity 6.3) and the megaphone. The Level 1 unit sci.sound.sources-of-sound.L1 teaches sound sources and loud and soft, and this unit leads on from it. The Level 3 unit sci.sound.sources-of-sound.L3 uses the coin line for air passing on a sound, and the hearing unit uses ear covers and pitch tests, so this unit does not repeat them.
+- ideas/by_topic/sound.md, 'How sound travels' and 'Sound waves': the paper cone megaphone became the Paper Cone experiment. The human wave relay and passing a shoulder squeeze became Be the Air. Hearing through a closed door versus an open one became the cooker map and the round-the-door listening. The whisper relay became Whisper Walk. Distant thunder became Count After the Lightning. The string telephone, knocking on materials, echo timing and the vacuum jar belong to the Level 4 and Level 5 units, so this lesson does not use them.
+- Curriculum entry sci.sound.sound-moves.L1 (Sounds move from the source to our ears), Cambridge Stage 1 unit 6.3 'Sounds move': how far loud and quiet sounds go (Activity 6.3) and the megaphone. The Level 1 unit sci.sound.sources-of-sound.L1 teaches sound sources and loud and soft, and this lesson leads on from it. The Level 3 unit sci.sound.sources-of-sound.L3 uses the coin line for air passing on a sound, and the hearing unit uses ear covers and pitch tests, so this lesson does not repeat them.
 - Inverse-square spreading: sound intensity from a small source in open air falls with the square of distance (about 6 decibels per doubling of distance). Indoors, reflections from walls make the fall-off slower.
 - Speed of sound in air at about 20 degrees Celsius: about 343 metres per second, so about 3 seconds per kilometre.
 - Marin Mersenne, Harmonie universelle (1636), gave a speed of sound from gun-flash timing. Pierre Gassendi's timings (1630s) found loud and soft, high and low gun sounds travelled at the same speed, against Aristotle's view that high notes travel faster.

@@ -3825,6 +3825,47 @@
     "a1"
    ],
    "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (10+ (read parts aloud))"
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Wake the Store: can a stored food part grow with no soil?, Sun Leaf, Shade Leaf, Roots Hold the Soil. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e3",
+    "e4",
+    "p1",
+    "c2"
+   ],
+   "plan": "Get it before Wake the Store: can a stored food part grow with no soil?."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in The Blue-Black Test: where do plants keep their starch?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before The Blue-Black Test: where do plants keep their starch?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

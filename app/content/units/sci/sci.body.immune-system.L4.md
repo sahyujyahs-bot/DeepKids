@@ -1,9 +1,9 @@
 # The immune system: the defence that learns and remembers
 `sci.body.immune-system.L4`
 
-**Summary.** The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this unit you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.
+**Summary.** The second time you meet a germ, your body fights it faster than the first time. How does it remember? In this lesson you will read a vaccination card, play the Key Shop to see how many random cells it takes to find one that fits, and test how protecting some squares protects all.
 
-**Intro.** *Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?* That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this unit you find out how a body can learn without a teacher, and how doctors found a way to use that.
+**Intro.** *Most children in India have a small round scar on the top of one arm. It came from one tiny injection when they were babies, and it never went away. Why would an injection from one day in your first weeks still matter now?* That injection was a vaccine. It showed your body a harmless piece of a germ, once, long ago. Your body is still ready for that germ today. You do not remember the injection, but your body has not forgotten the germ. Your body has two defences. One is quick and works the same way every time. The other one learns, and it keeps what it learns for years. In this lesson you find out how a body can learn without a teacher, and how doctors found a way to use that.
 
 ## Learning outcomes
 0. I can explain the difference between the quick defence that is the same every time and the defence that learns.
@@ -421,7 +421,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
   *Parent says:* This card lists the vaccines a child has had. Take your time. What do you wonder about it?  
   *Child mode:* Look at the card. Find one thing that surprises you.
   - Ask: What do you notice about the dates and the vaccines? (good: Some vaccines appear again and again.; Most are given when the child is a baby.; There are different dates for the same vaccine.)
-  - Note: Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the unit. Cards differ by state and year. If your child's card is hard to find, ask a clinic.
+  - Note: Do not explain yet. Let your child notice. Write down what they say. The reasons come later in the lesson. Cards differ by state and year. If your child's card is hard to find, ask a clinic.
 - **s2 (5 min)**  
   *Parent does:* Ask your child to point to the vaccines that have more than one date. Count the doses of each. Write the counts on paper. Ask why they think some have more than one dose. Then count every dose on the card from birth to five years old, and write the total.  
   *Parent says:* Point to every vaccine that appears more than once. How many doses does each one have? Why do you think some have more than one?  
@@ -699,7 +699,7 @@ She never learned what the memory was made of. Neither did Jenner. It took peopl
    **Answer:** More than 200 different viruses cause colds, so one vaccine would have to fit many shapes. Cold viruses also change over time, so the memory would fit less well.. *Why:* A strong answer names the number of different viruses and their changing shapes. Both make a single memory hard to use.
 
 ## Videos
-- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the topic of this unit. Parents should watch first, because it shows the body's defence as a battle. *Check:* The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children.
+- **The Immune System Explained I: Bacteria Infection** (Kurzgesagt: In a Nutshell, 7 min) id `zQGOcOUBi6s`: A clear animation of a bacterium getting in and the body answering. Watch the second half for antibodies and the cells that learn, which is the idea of this lesson. Parents should watch first, because it shows the body's defence as a battle. *Check:* The id is the same film as in the Class 3 unit. Check that it still plays. The battle pictures suit most children.
 - **Why Do We Get Vaccines?** (SciShow Kids, 5 min) id `5SproXmRUkI`: To see a vaccine showing the body a safe piece of a germ, and memory cells being made. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 - **How we conquered the deadly smallpox virus - Simona Zompi** (TED-Ed, 5 min) id `yqUFy-t4MlQ`: To see the real campaign that ended smallpox, with the teams that went from village to village. *Check:* Id confirmed with YouTube (title and channel match). A parent should preview it first.
 
@@ -806,12 +806,17 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - [National Science Centre](https://www.nscdelhi.org) · place · New Delhi: A science centre with many hands-on galleries. Look for exhibits about the body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about living things and the body.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries for children. Ask about exhibits on health and the body.
-- [Your nearest clinic or health centre]() · place · Your nearest clinic: Ask a nurse to show your child a vaccine carrier, and to explain the vaccination card and when each dose is due.
+- Your nearest clinic or health centre · place · Your nearest clinic: Ask a nurse to show your child a vaccine carrier, and to explain the vaccination card and when each dose is due.
 
 ## Things to buy
 - [A pack of six dice](https://www.amazon.in/s?k=dice+set+six+sided) (material): For Spread and Shield and Shield the Town. A die from Ludo or Snakes and Ladders works, so you may not need to buy any. More dice make the games faster with friends. Used in e2, g2. 
 - [Digital kitchen thermometer (optional)](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Optional, for the cold box challenge. You can do it by touch. A fever thermometer cannot read cold temperatures, so it will not work here. A kitchen thermometer that reads down to 0 degrees is best. Used in c1. 
 - [A children's book about the immune system or vaccines](https://www.amazon.in/s?k=children+book+immune+system+vaccines) (book): To read together after the unit. Choose one that explains antibodies and memory in plain words, and read it first yourself. Used in a1. Read it after the explanation cards. Stop at each picture and ask your child to say what is happening, before reading the words.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Faster the second time: the word puzzle model. About ₹150 to ₹400. A phone stopwatch works well. Used in a2. Get it before Faster the second time: the word puzzle model.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Spread and Shield: does protecting some squares protect all?, Paper keys and a changing germ, The long fight against smallpox: a timeline poster. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a5, p1, c2. Get it before Spread and Shield: does protecting some squares protect all?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Find your lymph nodes. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before Find your lymph nodes.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The long fight against smallpox: a timeline poster. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before The long fight against smallpox: a timeline poster.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which defence is quick and the same for most germs, and which one learns? → The innate defence is quick. The adaptive defence learns.
@@ -831,11 +836,11 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - Core: a1, e1, g1, e2, a2, ws-core
 
 ## Sources
-- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This unit takes adaptive immunity, vaccines and memory, with a short look at allergy and misfiring; the rest is left for Class 5.
+- DeepKids notebook items bio:26 (Immune system) and bio:240 to bio:246 (innate immunity, adaptive immunity, vaccines and memory, autoimmunity, immunodeficiency). This lesson takes adaptive immunity, vaccines and memory, with a short look at allergy and misfiring; the rest is left for Class 5.
 - ideas/by_topic/health-hygiene-exercise-and-illness.md: SCI Cards for Gagandeep Kang (vaccines tested in the place they will be used), Charaka (disease has causes that can be studied) and Sunetra Gupta (flu viruses change their shape to slip past memory).
 - ideas/by_topic/microorganisms.md: SCI Cards for Katalin Karikó (mRNA vaccines), Emmanuelle Charpentier and Jennifer Doudna, and the note that bacteria have their own immune system, which is used in the Roots card.
 - Combined lessons sci-C4-health-hygiene-exercise-and-illness and sci-C3-health-hygiene-exercise-and-illness: the idea of self and not-self and the germ tag game, adapted here into the Shield the Town game. Their stories were not reused.
-- The Class 3 unit sci.body.immune-system.L3, which this unit builds on. Its experiments and story were not repeated.
+- The Class 3 unit sci.body.immune-system.L3, which this lesson builds on. Its experiments and story were not repeated.
 - Edward Jenner, An Inquiry into the Causes and Effects of the Variolae Vaccinae (1798): the account of Sarah Nelmes, Blossom the cow and James Phipps, and the date 14 May 1796.
 - Derrick Baxby, Jenner's Smallpox Vaccine: the Riddle of Vaccinia Virus and its Origin (1981): background on Jenner's work and earlier cowpox protection, including Benjamin Jesty in 1774.
 - Isobel Grundy, Lady Mary Wortley Montagu: Comet of the Enlightenment (1999): Lady Mary and variolation in Constantinople and London.

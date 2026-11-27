@@ -1,9 +1,9 @@
 # Five groups, five worlds: how fish, frogs, snakes, birds and mammals sense the same place
 `sci.animals.vertebrate-groups.L4`
 
-**Summary.** A fish can feel ripples with her skin, and some snakes can sense the heat of a mouse. Do all animals sense the same world? In this unit you will test how far round you can see, feel ripples with your hands, and guess an animal group from its sense.
+**Summary.** A fish can feel ripples with her skin, and some snakes can sense the heat of a mouse. Do all animals sense the same world? In this lesson you will test how far round you can see, feel ripples with your hands, and guess an animal group from its sense.
 
-**Intro.** *A barn owl sits on a beam in a granary with every light switched off. She hears a rat nibble ragi on the floor, drops silently, and catches him. She never needed to see him. How can an animal hunt well in complete darkness, and what other senses do animals have that we do not?* People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this unit you look at the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. You ask what each group senses best, and how you can test a little of it with your own body.
+**Intro.** *A barn owl sits on a beam in a granary with every light switched off. She hears a rat nibble ragi on the floor, drops silently, and catches him. She never needed to see him. How can an animal hunt well in complete darkness, and what other senses do animals have that we do not?* People often say there are five senses: sight, hearing, smell, taste and touch. Animals with a backbone have those, and more. A fish has a line of tiny sensors along her sides that feel water move. Some snakes have pits that feel the heat of a warm body from a distance. Many birds see colours that people cannot see at all. In this lesson you look at the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. You ask what each group senses best, and how you can test a little of it with your own body.
 
 ## Learning outcomes
 0. I can name the five groups of animals with a backbone and say one sense that stands out in each group, with an Indian example.
@@ -784,6 +784,10 @@ Five Groups, Five Ways to Sense (sci.animals.L4): Topic-level song
 ## Things to buy
 - [A small analogue clock or watch with a quiet tick](https://www.amazon.in/s?k=small+analog+table+clock+ticking) (tool): For the Cup Your Ears test and the Sound Catcher challenge. Most homes already have one. Used in e3, c1. 
 - [A soft measuring tape](https://www.amazon.in/s?k=soft+measuring+tape) (tool): For measuring the distances in the ear and the ripple tests, and for sewing afterwards. Used in e2, e3, a2, c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wide View, Deep View: how far round can you see, and can you judge distance?, Ripple Skin: how far away can your hands feel a ripple?, Cup Your Ears: do ear flaps help you hear?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, e3, a2, c1. Get it before Wide View, Deep View: how far round can you see, and can you judge distance?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Wide View, Deep View: how far round can you see, and can you judge distance?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before Wide View, Deep View: how far round can you see, and can you judge distance?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Wide View, Deep View: how far round can you see, and can you judge distance?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e1. Get it before Wide View, Deep View: how far round can you see, and can you judge distance?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a fish's lateral line sense? → Water moving past her body.
@@ -804,8 +808,8 @@ Five Groups, Five Ways to Sense (sci.animals.L4): Topic-level song
 ## Sources
 - Founder's notebook items bio:28 to bio:31 and bio:178 (fish, amphibians, reptiles, birds and mammals), used as the unit's outline
 - Founder's picture of a bee seeing a red fruit as black and ultraviolet while a child sees red (PHILOSOPHY.md), used in the big questions, the deep truth and the open questions
-- The Combined lesson sci-C3-senses (animal senses we do not have, and each animal's own sense-world), which this unit builds on and goes deeper into, without reusing its story
-- The Class 3 vertebrate-groups unit (breathing, warmth and young), which this unit follows on from without repeating its experiments
+- The Combined lesson sci-C3-senses (animal senses we do not have, and each animal's own sense-world), which this lesson builds on and goes deeper into, without reusing its story
+- The Class 3 vertebrate-groups unit (breathing, warmth and young), which this lesson follows on from without repeating its experiments
 - Spallanzani, L., experiments on bats, 1793, and Griffin, D. R. and Galambos, R., 'The sensory basis of obstacle avoidance by flying bats', Journal of Experimental Zoology, 1941 (echolocation)
 - Payne, R. S., 'Acoustic location of prey by barn owls (Tyto alba)', Journal of Experimental Biology, 1971
 - Newman, E. A. and Hartline, P. H., 'The infrared vision of snakes', Scientific American, 1982

@@ -1,9 +1,9 @@
 # Properties of materials: why the same paper tears straight one way and crooked the other
 `sci.materials.properties.L4`
 
-**Summary.** Newspaper tears straight one way but crooked the other, though it is the same paper. Why does direction matter? In this unit you will tear paper, stretch cloth different ways, bend a paper clip until it snaps, and test paper bridges that are flat, folded or rolled.
+**Summary.** Newspaper tears straight one way but crooked the other, though it is the same paper. Why does direction matter? In this lesson you will tear paper, stretch cloth different ways, bend a paper clip until it snaps, and test paper bridges that are flat, folded or rolled.
 
-**Intro.** *Take a sheet of newspaper. Tear it from top to bottom, along the columns of print. Now take another sheet and tear it from side to side. One tear runs straight as a ruled line. The other wanders and rips. It is the same newspaper, the same hands and the same effort. What is different?* Nothing was added to the paper and nothing was taken away. Only the direction of the pull changed. Paper has a hidden direction built into it, and so do wood, bamboo, cloth and many other materials. In this unit you find that direction with your own hands. You test paper, cloth and a paper clip, and you learn why a material can be strong one way and weak another, and why a property can wear out with use.
+**Intro.** *Take a sheet of newspaper. Tear it from top to bottom, along the columns of print. Now take another sheet and tear it from side to side. One tear runs straight as a ruled line. The other wanders and rips. It is the same newspaper, the same hands and the same effort. What is different?* Nothing was added to the paper and nothing was taken away. Only the direction of the pull changed. Paper has a hidden direction built into it, and so do wood, bamboo, cloth and many other materials. In this lesson you find that direction with your own hands. You test paper, cloth and a paper clip, and you learn why a material can be strong one way and weak another, and why a property can wear out with use.
 
 ## Learning outcomes
 0. I can explain that some materials have a direction, which is called a grain, and name at least three of them.
@@ -159,7 +159,7 @@ In principle, a material's properties come from its atoms and how they are joine
   Against: Other scientists point out that many predictions repeat known materials, and that real materials have flaws and mixtures that are hard to model. Testing and making a sample remains the hard part.
 
 ## Roots
-In this unit we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.
+In this lesson we found that paper, wood, bamboo and cloth each have a direction built in. Here we ask what that tells us about materials we think of as the same all the way through, and about our own bodies.
 
 **Deep truth.** A sheet of newspaper tears straight one way and crooked the other. The paper did not change. Its fibres lie mostly one way, so it has a direction built in. One number for how strong paper is leaves out which way you pull.  
 *Habit it breaks:* We write one value for a material, such as 'paper is weak' or 'wood is strong', as if the direction did not matter. That hides the direction of the pull.  
@@ -665,7 +665,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 11. (mcq) The window of an aircraft is a rounded shape, not a square with sharp corners. Why?  
    Options: Sharp corners let in more light / A sharp corner makes the stress bigger, so a fatigue crack would start there / Round windows look better / Round windows are easier to clean  
    **Answer:** A sharp corner makes the stress bigger, so a fatigue crack would start there. *Why:* Stress piles up at a sharp corner, so a crack can begin there after many flights. Rounded corners spread the stress out. Engineers learned this after the 1954 Comet airliner accidents.
-12. (write) Two planks are cut from the same tree and are the same size. One snaps under a load much sooner than the other. Give two reasons why this could happen, using ideas from this unit.  
+12. (write) Two planks are cut from the same tree and are the same size. One snaps under a load much sooner than the other. Give two reasons why this could happen, using ideas from this lesson.  
    **Answer:** A strong answer gives two reasons, such as: one plank has its grain running across the span, and the other along it. Or one plank has a knot or a tiny crack, and a crack can grow and break it. It may also say that one plank was damp. It must be clear that the reasons come from the inside of the wood.. *Why:* The inside of a plank decides how it breaks: the direction of the grain, tiny cracks and knots. Two planks that look alike can differ inside.
 13. (draw) Draw an I-shaped steel beam from the end. Mark where the thick parts are, and write one sentence on why this shape is stiff.  
    **Answer:** An I shape with a thick bar at the top, a thick bar at the bottom and a thin web joining them. A sentence such as: Most of the steel is far from the middle, where it does the most work against a bend.. *Why:* An I-shape puts material where it helps most. The thin web in the middle saves weight.
@@ -793,8 +793,8 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [Plywood (Wikipedia)](https://en.wikipedia.org/wiki/Plywood) · interactive: For the parent: a clear article on how plywood is made and why its layers have crossed grain.
 - [Fatigue (material) (Wikipedia)](https://en.wikipedia.org/wiki/Fatigue_(material)) · interactive: For the parent: how repeated loading makes cracks grow, with the story of the railway axles and the Comet airliners.
 - [Madeleine Vionnet (Wikipedia)](https://en.wikipedia.org/wiki/Madeleine_Vionnet) · interactive: For the parent: the French dress designer who made cutting cloth on the bias famous in the 1920s.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum in Bengaluru with hands-on displays about materials, machines and engineering. Check opening times before you go.
-- [Forest Research Institute Museum]() · place · Dehradun: A museum in Dehradun that shows timber samples, their grain and how wood is used. Check opening times before you go.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum in Bengaluru with hands-on displays about materials, machines and engineering. Check opening times before you go.
+- Forest Research Institute Museum · place · Dehradun: A museum in Dehradun that shows timber samples, their grain and how wood is used. Check opening times before you go.
 
 ## Things to buy
 - [A box of steel paper clips](https://www.amazon.in/s?k=steel+paper+clips+box) (material): For the Bend Until It Snaps test. Plain steel clips from any stationery shop work best, about Rs 20 a box. A box has plenty of spares. Used in e3. 
@@ -804,6 +804,10 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - [A pack of wooden ice-cream sticks](https://www.amazon.in/s?k=wooden+ice+cream+sticks) (material): For the Grain Hunt. A pack from a craft or stationery shop costs about Rs 20 and has plenty for a group. Used in a1. 
 - [A celery stalk and a banana leaf](https://www.amazon.in/s?k=celery) (material): For the Grain Hunt. A vegetable seller has celery and a flower seller has banana leaves, for a few rupees. A drumstick pod or sugarcane piece can replace the celery. Used in a1. 
 - [Stuff Matters by Mark Miodownik](https://www.amazon.in/s?k=stuff+matters+mark+miodownik) (book): For older readers and parents: a lively book about everyday materials, such as steel, paper and glass, and what is inside them. Used in e1. Read a chapter on paper or steel on a weekend, after the paper tests.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Which Way Does It Tear? Paper has a grain, The Tailor's Trick: which way does cloth stretch?, The Cardboard Bridge: flutes along or flutes across?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a2, p1. Get it before Which Way Does It Tear? Paper has a grain.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Cardboard Bridge: flutes along or flutes across?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a2. Get it before The Cardboard Bridge: flutes along or flutes across?.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Paper Bridges: flat, folded or rolled?. About ₹10 to ₹40. Small round stones or dried chana. Used in a3. Get it before Paper Bridges: flat, folded or rolled?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a grain in wood or paper? → The direction in which the fibres or cells mostly lie.
@@ -822,7 +826,7 @@ Inside the Stuff (sci.materials.L4): Topic-level song
 - Core: g1, ws-core, e1, e2, e3, a1, a3
 
 ## Sources
-- The Level 3 unit on properties of materials, which this unit goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.
+- The Level 3 unit on properties of materials, which this lesson goes beyond: it does not repeat the scratch ladder, droop of different materials, dry and damp strength, or the diamond and graphite story, and instead looks at direction, layers, shape and wear.
 - Founder's topic notes on Materials Under Heat (heat reveals hidden properties), which led to the warm bend of the paper clip, and on Transparent, Translucent and Opaque (clarity and obscurity), whose idea of hidden structure shaped the roots card.
 - Founder's SCI Card for Robert Hooke (elasticity), used as background to the cards on stiffness and the stretching of cloth. The Combined lessons for this topic were not reopened. The experiments here are new.
 - Wöhler, A., fatigue tests on railway axles, from the 1850s; the summary 'Über die Festigkeitsversuche mit Eisen und Stahl' is in Zeitschrift für Bauwesen 20, 1870 (as described in standard histories of fatigue)

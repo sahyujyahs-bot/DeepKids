@@ -1,9 +1,9 @@
 # Nutrients: what food is made of, and what each part does
 `sci.food.nutrients.L3`
 
-**Summary.** Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this unit you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.
+**Summary.** Pour lemon juice into hot milk and it splits into white lumps and a watery liquid. So what is milk made of? In this lesson you will split milk with different kitchen liquids, dry vegetable slices in the sun to see how much is water, and sort foods in a card game.
 
-**Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this unit you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
+**Intro.** *Your school chart puts dal in the 'protein' box. But if you could pull apart a spoon of dry toor dal, more than half of it would be carbohydrate. So what is a 'protein food'? And what is inside the food we eat?* Every food is made of a few kinds of nutrients. A nutrient is a part of food that your body uses to live, grow and move. In this lesson you split milk into its parts, dry slices of vegetables in the sun to find out how much water they hold, and look for minerals hiding in clear water. Then you will know what the food group boxes really mean.
 
 ## Learning outcomes
 0. I can name the six kinds of nutrients and say one job each does in my body.
@@ -578,7 +578,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 7. (write) Coconut water and whey both left a sticky film when they dried. Tap water left a white ring. What different things might each one be leaving behind?  
    **Answer:** The sticky film is mostly sugars, with some minerals. The white ring from tap water is mostly minerals like calcium, with no sugar.. *Why:* A strong answer uses how each dried spot felt, sticky or not, to tell sugar from minerals.
 8. (match) Match each finding to the person or group who made it.  
-   **Answer:** Justus von Liebig, 1840s → said muscles burn their own protein; Fick and Wislicenus, 1865 → showed muscles run mainly on carbohydrates and fats; National Institute of Nutrition, Hyderabad → measures what is in Indian foods. *Why:* These are the people and the institute named in this unit.
+   **Answer:** Justus von Liebig, 1840s → said muscles burn their own protein; Fick and Wislicenus, 1865 → showed muscles run mainly on carbohydrates and fats; National Institute of Nutrition, Hyderabad → measures what is in Indian foods. *Why:* These are the people and the institute named in this lesson.
 9. (write) Ragi has nearly three times as much calcium as the same weight of milk. Why do you think most food charts put milk, not ragi, first for calcium?  
    **Answer:** We cannot be sure. One idea is that many food charts were first made where milk is the usual food and ragi is not eaten. Another is that milk is easy to drink every day. A good answer gives a reason and says it is a guess.. *Why:* Good answers think about who made the chart and what foods they knew, and say plainly that it is a guess.
 10. (draw) Draw a cycle that shows how the water in a cucumber could end up inside you, and then back in the air.  
@@ -654,7 +654,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 - Paneer, or chhena for rasgulla and sandesh, being made in a sweet shop or at home, with whey dripping from a tied cloth.
 - A packet of iodised salt in the kitchen, with a small sun or a label saying 'iodised'.
 - Neer mor or sambharam, thin spiced buttermilk, given out on hot summer days.
-- Ragi mudde, ragi dosa or ragi kanji, a calcium-rich food from Karnataka and Tamil Nadu.
+- Ragi mudde, ragi dosa or ragi kanji, a calcium-rich food.
 - The nutrition table on the back of a biscuit or milk packet.
 - Sundal handed out during Navaratri in South Indian homes.
 - Tender coconut sellers at the roadside on a hot day.
@@ -704,9 +704,14 @@ Sunlight on My Plate (sci.food.L3): Topic-level song for Food and nutrition L3
 - [USDA FoodData Central](https://fdc.nal.usda.gov) · interactive: A large free table of nutrients in foods from the United States government. Older children can compare a cucumber and a potato.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a science museum in San Francisco, in the United States.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on biology and the human body.
-- [A local dairy or a sweet shop that makes paneer]() · place · Your own town or city: Ask politely if your child can watch paneer being made, and ask what the shop does with the whey.
+- A local dairy or a sweet shop that makes paneer · place · Your own town or city: Ask politely if your child can watch paneer being made, and ask what the shop does with the whey.
 
 ## Things to buy
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in Splitting Milk: which kitchen liquids curdle it?. About ₹40 to ₹80. Lemon juice works for many tests. Used in e1. Get it before Splitting Milk: which kitchen liquids curdle it?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Ten-Spoon Foods: guess what a food is made of, Chana Sundal: cook a snack and find its nutrients. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a1, a4. Get it before Ten-Spoon Foods: guess what a food is made of.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Sun-Dried Slices: how much of a vegetable is water?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Sun-Dried Slices: how much of a vegetable is water?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Splitting Milk: which kitchen liquids curdle it?, My Water Diary: three days of water in and out. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1, p1. Get it before Splitting Milk: which kitchen liquids curdle it?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the six kinds of nutrient. → Carbohydrates, proteins, fats, vitamins, minerals and water.
@@ -725,7 +730,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song for Food and nutrition L3
 - Core: a1, e1, e2, g1, ws-core, a2
 
 ## Sources
-- ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall and M. S. Swaminathan (read; this unit's story is about nutrients, so neither is the main story, and Marshall's stomach work belongs with digestion)
+- ideas/by_topic/food-and-a-balanced-diet.md: SCI Cards for Barry Marshall and M. S. Swaminathan (read; this lesson's story is about nutrients, so neither is the main story, and Marshall's stomach work belongs with digestion)
 - Cambridge Primary Science Stage 3, Unit 2 'Looking after ourselves' pack (five food groups, water, sugar on labels)
 - NIOS Level A, Lesson 8 'Food'
 - Nearby units read and not repeated: sci.food.balanced-diet.L3 (paper fat test, vitamin C iodine test, yeast balloons, beriberi story), sci.food.where-food-comes-from.L3 (curd bacteria, sprouting moong, iodine starch test), sci.what-is-life.cells.L3 (curd bowls)

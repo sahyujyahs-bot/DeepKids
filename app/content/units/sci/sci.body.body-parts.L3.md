@@ -1,7 +1,7 @@
 # The outside of your body: what each part does and how to care for it
 `sci.body.body-parts.L3`
 
-**Summary.** Your two thumbprints grew from the same genes, so why are they different? In this unit you will compare your two thumbprints, press unwashed hands on bread to see what they leave behind, check whether your skin flakes off with sticky tape, and learn who your trusted adults are.
+**Summary.** Your two thumbprints grew from the same genes, so why are they different? In this lesson you will compare your two thumbprints, press unwashed hands on bread to see what they leave behind, check whether your skin flakes off with sticky tape, and learn who your trusted adults are.
 
 **Intro.** *Rub your thumb on the side of your nose, to pick up a little oil. Press it onto a clean glass or a steel tumbler. Now breathe on that spot. A swirly pattern appears. That is your thumbprint. Nobody has ever been found with the same one, not even an identical twin.* Your skin left that thumbprint on the glass without you trying. Sweat comes out of tiny holes along the ridges of your fingertips. Your fingers also pick up a little oil from your face and hair. So everything you touch keeps a faint copy of your ridges. Your thumbprint is one small sign that every outside part of your body is doing something. Each part has its own job. Some parts have guards that most people think are dirt. And every part needs its own kind of care.
 
@@ -884,6 +884,14 @@ This Body Is a Universe (sci.body.L3):
 
 ## Things to buy
 - [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at skin flakes, fingerprints and bread mould through a bag. Everything still works without one. Used in e1, e2, a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in How Fast Do I Grow? The Nail Tracker. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before How Fast Do I Grow? The Nail Tracker.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Outside-Me Map, Blink Counter and the Eyebrow Test. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1, a5. Get it before Outside-Me Map.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Eyebrows for a Robot. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c2. Get it before Eyebrows for a Robot.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Eyebrows for a Robot. About ₹20 to ₹50. Torn clean cloth works. Used in c2. Get it before Eyebrows for a Robot.
+- [Vinegar](https://www.amazon.in/s?k=white+vinegar) (material): Used in The Egg That Brushed Its Teeth. About ₹40 to ₹80. Lemon juice works for many tests. Used in e3. Get it before The Egg That Brushed Its Teeth.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Oily Hands: water or soap?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Oily Hands: water or soap?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in How Fast Do I Grow? The Nail Tracker, Build a Tippy Tap. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in p1, c1. Get it before How Fast Do I Grow? The Nail Tracker.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the biggest organ of your body? → Skin.

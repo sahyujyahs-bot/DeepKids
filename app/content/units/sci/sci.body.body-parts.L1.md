@@ -554,6 +554,11 @@ Thumb and Finger, Knee and Toe (sci.body.L1): Topic-level song for Our bodies L1
 
 ## Things to buy
 - [Funnybones by Janet and Allan Ahlberg](https://www.amazon.in/s?k=Funnybones) (book): A funny story of skeletons who fall apart and put themselves back together. It helps the child name the bones in a way she remembers. Used in a1. Read it together after the skeleton activity.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Head to Toes: touch it, name it, say its job, One, Two or Many? Count your body. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1, a3. Get it before Head to Toes: touch it, name it, say its job.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Thumb Taped: which jobs can your hand still do?, Hand Family: draw round every hand at home. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1, a4. Get it before Thumb Taped: which jobs can your hand still do?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in No Thumb? Make a Picker. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before No Thumb? Make a Picker.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Quick Hands: which hand moves more beans?, No Thumb? Make a Picker. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, c1. Get it before Quick Hands: which hand moves more beans?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which part helps you see? → Your eyes.

@@ -1967,7 +1967,34 @@
    "why": "A village known for wooden toys painted with plant colours, including tops and rolling toys."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in Toy Hunt: how does each toy move?, Pull-Back Car: short pull, long pull. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "a1",
+    "a4"
+   ],
+   "plan": "Get it before Toy Hunt: how does each toy move?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Which rolls down a slope: a ball or a book?",

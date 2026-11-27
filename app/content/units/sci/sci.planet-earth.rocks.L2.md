@@ -526,6 +526,10 @@ Pebble, Sand and Stone (sci.planet-earth.L2): Topic-level song for Planet Earth 
 
 ## Things to buy
 - [A magnifying glass]() (tool): To see the mineral grains in granite and look for scratches. A phone camera zoomed in also works. Used in a2, e2. Optional. Use it in Specks in the Stone and the Scratch Ladder.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in The Fastest Pebble Maker. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in c1. Get it before The Fastest Pebble Maker.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in The Scratch Ladder: which rock is hardest?, My Rock Box: collect, test and label. About ₹10 to ₹40. Small round stones or dried chana. Used in e2, p1. Get it before The Scratch Ladder: which rock is hardest?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in The Scratch Ladder: which rock is hardest?. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e2. Get it before The Scratch Ladder: which rock is hardest?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are most rocks made of? → Tiny grains called minerals, packed together.

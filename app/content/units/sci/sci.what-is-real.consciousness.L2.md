@@ -598,6 +598,9 @@ I Am Here, I Notice (sci.what-is-real.L2): Topic-level song for What is real? L2
 - Sanjay Gandhi National Park · place · Mumbai: Walk quietly on a trail and notice how many sounds the forest makes that the city hides.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Sticker Test: who knows the face in the mirror is their own?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in old1. Get it before The Sticker Test: who knows the face in the mirror is their own?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Busy or Still: do you notice more sounds when you pay attention?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Busy or Still: do you notice more sounds when you pay attention?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is it called when you choose what to notice? → Attention.

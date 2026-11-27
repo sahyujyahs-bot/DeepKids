@@ -3270,6 +3270,96 @@
     "p1"
    ],
    "plan": "Before day 2 of The Planet Vote, read the chapter about Eris aloud. Ask which of Brown's reasons fit Side A, and which Side B would answer."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Two-Ball Balance: where is the balance point of a heavy ball and a light one?, Twice as Wide: how many times as much dough?, The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a1",
+    "a2",
+    "a5",
+    "c1",
+    "c2"
+   ],
+   "plan": "Get it before The Two-Ball Balance: where is the balance point of a heavy ball and a light one?."
+  },
+  {
+   "id": "b-modelling-clay-or-plasticine",
+   "item": "Modelling clay or plasticine",
+   "kind": "material",
+   "why": "Used in The Two-Ball Balance: where is the balance point of a heavy ball and a light one?. About ₹40 to ₹120. Atta dough mixed with a little salt works.",
+   "url": "https://www.amazon.in/s?k=modelling+clay+plasticine",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before The Two-Ball Balance: where is the balance point of a heavy ball and a light one?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Hidden Ball: can a wobble show how heavy a ball you cannot see?."
+  },
+  {
+   "id": "b-a-kitchen-or-weighing-scale",
+   "item": "A kitchen or weighing scale",
+   "kind": "tool",
+   "why": "Used in Twice as Wide: how many times as much dough?, The Hidden Ball: can a wobble show how heavy a ball you cannot see?, A Double World: build a pair that balances in empty space. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "e2",
+    "e3",
+    "c2"
+   ],
+   "plan": "Get it before Twice as Wide: how many times as much dough?."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in The Hidden Ball: can a wobble show how heavy a ball you cannot see?. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "e3"
+   ],
+   "plan": "Get it before The Hidden Ball: can a wobble show how heavy a ball you cannot see?."
+  },
+  {
+   "id": "b-marbles--a-few",
+   "item": "Marbles (a few)",
+   "kind": "material",
+   "why": "Used in Marble Earth, Peppercorn Moon: how far apart?. About ₹10 to ₹40. Small round stones or dried chana.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+pack",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get it before Marble Earth, Peppercorn Moon: how far apart?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

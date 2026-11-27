@@ -1,9 +1,9 @@
 # Keeping clean: washing hands, bathing and brushing teeth
 `sci.health.hygiene.L1`
 
-**Summary.** After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this unit you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.
+**Summary.** After a biscuit and a swish of water, your front teeth look clean, but are crumbs still hiding? In this lesson you will test what a rinse and a brush clean, learn a six-part hand wash with a song, and check your tongue in the morning.
 
-**Intro.** *Open your mouth wide in front of a mirror, and shine a torch inside. Look at the tops of your back teeth. Are they flat and smooth, or do they have little hills and grooves?* Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this unit we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.
+**Intro.** *Open your mouth wide in front of a mirror, and shine a torch inside. Look at the tops of your back teeth. Are they flat and smooth, or do they have little hills and grooves?* Your front teeth are thin and smooth. Your back teeth are wide, with bumps and grooves on top. The grooves help you grind food. They are also where food likes to hide. In this lesson we find out where food and dirt stay on our bodies, and what takes them away. We test water, soap, a bath and a toothbrush.
 
 ## Learning outcomes
 0. By the end I can say when to wash my hands: before I eat, after the toilet, after playing and after blowing my nose.
@@ -512,7 +512,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 - A wash basin near the door of many homes and restaurants, with a bar of soap beside it.
 - Neem and babool twigs for cleaning teeth, sold in bundles at some markets.
 - Crows and pigeons splashing in puddles or water dishes on hot days, then fluffing their feathers.
-- Temple elephants being given their bath in a river or a tank, in Kerala and Tamil Nadu.
+- Temple elephants being given their bath in a river or a tank.
 - Signs in school and hospital toilets that say to wash your hands.
 
 ## Open questions
@@ -550,9 +550,13 @@ Scrub, Rinse, Smile (sci.health.L1): Topic-level song for Health L1
 ## Links
 - [World Health Organization: hand hygiene](https://www.who.int/) · interactive: For the parent: search the site for 'hand hygiene' to see the official hand-washing steps, with pictures.
 - [Indian Dental Association](https://www.ida.org.in/) · interactive: For the parent: advice on children's teeth from India's dentists.
-- [Sulabh International Museum of Toilets]() · place · New Delhi: A museum about the history of toilets and keeping towns clean, from many countries and times.
+- Sulabh International Museum of Toilets · place · New Delhi: A museum about the history of toilets and keeping towns clean, from many countries and times.
 
 ## Things to buy
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Biscuit Test: what does a rinse clean, and what does a brush clean?. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e1. Get it before The Biscuit Test: what does a rinse clean, and what does a brush clean?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The White Cloth Test: what does a bath wash off?. About ₹20 to ₹50. Torn clean cloth works. Used in e2. Get it before The White Cloth Test: what does a bath wash off?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in What Hides Under Your Nails?, Mine, Not Shared: my own clean-up kit. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in a2, a4. Get it before What Hides Under Your Nails?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one time you should wash your hands. → Before eating, after the toilet, after playing, or after blowing your nose.
@@ -568,9 +572,9 @@ Scrub, Rinse, Smile (sci.health.L1): Topic-level song for Health L1
 - Core: e1, a1, g1, e3, ws-core
 
 ## Sources
-- ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Card for Ignaz Semmelweis. His story is kept for Class 3 (sci.health.hygiene.L3), so this unit tells the tooth-worm story instead.
+- ideas/by_topic/health-hygiene-exercise-and-illness.md: the SCI Card for Ignaz Semmelweis. His story is kept for Class 3 (sci.health.hygiene.L3), so this lesson tells the tooth-worm story instead.
 - combined/sci-C2-health-hygiene-exercise-and-illness.json: the ideas of milk teeth and grown-up teeth, plaque bacteria making acid from sugar, and brushing twice a day with fluoride toothpaste. Its experiments and story were not reused.
-- The L3 unit (soap and the turmeric test, Semmelweis, the bread test) and sci.animals.animals-around-us.L1 (the chewing test) were read so that this unit does not repeat their experiments, stories or deep truths.
+- The L3 unit (soap and the turmeric test, Semmelweis, the bread test) and sci.animals.animals-around-us.L1 (the chewing test) were read so that this lesson does not repeat their experiments, stories or deep truths.
 - Leeuwenhoek's letter to the Royal Society of 17 September 1683 describing 'animalcules' in plaque from his teeth, mixed with clean rain water.
 - W. D. Miller, The Micro-organisms of the Human Mouth (1890): the chemo-parasitic theory, that mouth bacteria make acid from sugars and starch, and the acid dissolves tooth mineral.
 - The tooth worm: a Babylonian cuneiform text known as the Legend of the Worm; Pierre Fauchard argued against tooth worms in Le Chirurgien Dentiste (1728).

@@ -1,9 +1,9 @@
 # Mixing coloured light: why a red torch and a green torch make a yellow wall
 `sci.light.colour.L4`
 
-**Summary.** A red torch and a green torch together make a yellow patch on the wall. Why? In this unit you will shine two torches on a pencil to see its two coloured shadows, layer highlighter inks to see if they add or take away colour, and try tricks with afterimages and vanishing red words.
+**Summary.** A red torch and a green torch together make a yellow patch on the wall. Why? In this lesson you will shine two torches on a pencil to see its two coloured shadows, layer highlighter inks to see if they add or take away colour, and try tricks with afterimages and vanishing red words.
 
-**Intro.** *Switch off the room light. Shine a red torch on a white wall. Now add a green torch on the same spot. What colour is the spot now? Most people guess wrong, because lights do not mix the way paints do.* Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this unit you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you look at the real puzzle: if there is no yellow light in the room, where does the yellow come from?
+**Intro.** *Switch off the room light. Shine a red torch on a white wall. Now add a green torch on the same spot. What colour is the spot now? Most people guess wrong, because lights do not mix the way paints do.* Red light plus green light makes yellow. But red paint plus green paint makes a muddy brown. Lights and paints seem to follow opposite rules. In this lesson you find out why. You make coloured shadows, stack coloured inks, and light up objects with coloured torches. You will see a coloured thing turn almost black, and a white wall turn yellow with no yellow light anywhere. Then you look at the real puzzle: if there is no yellow light in the room, where does the yellow come from?
 
 ## Learning outcomes
 0. I can predict the colour made when two or three coloured lights shine on one white spot: red and green make yellow, red and blue make magenta, green and blue make cyan, and all three make white.
@@ -602,7 +602,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 1. (mcq) An instrument called a spectrometer splits light by wavelength. A scientist points it at a yellow lamp, and then at a screen showing yellow. What does the instrument show?  
    Options: Different wavelengths, even though they look alike / Exactly the same wavelengths / No light from the screen  
    **Answer:** Different wavelengths, even though they look alike. *Why:* The yellow lamp has light of one yellow wavelength. The screen has a red wavelength and a green wavelength, but no yellow. Our eyes cannot tell them apart, but the instrument can.
-2. (write) Thomas Young guessed in 1802 that the eye has only three kinds of detector. Name two things you saw or did in this unit that fit his guess.  
+2. (write) Thomas Young guessed in 1802 that the eye has only three kinds of detector. Name two things you saw or did in this lesson that fit his guess.  
    **Answer:** Red and green torches made a yellow wall, so two lights could stand in for one colour. Phone screens show every colour with only red, green and blue dots. If the eye had a separate detector for yellow, red plus green might not look yellow.. *Why:* A strong answer gives two pieces of evidence and says how each one fits the idea of three detectors.
 3. (mcq) A dog has two kinds of cone cell. Which statement fits best?  
    Options: Some colours that differ to us may look alike to a dog / A dog sees only black and white / A dog sees more colours than we do  
@@ -699,7 +699,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 - The tiny red, green and blue stripes on a phone or TV screen, when you look at it through a strong magnifying glass.
 - Coloured shadows on the wall behind a stage at a wedding, where lamps of two colours shine from different sides.
 - The dots in a colour newspaper photo, seen with a magnifier.
-- The red and green side lights of a fishing boat at night, seen from the beach at Chennai or Kochi.
+- The red and green side lights of a fishing boat at night, seen from the beach.
 - The orange glow of some street lamps, where a red car and a blue car can look much alike.
 - A kolam or rangoli made with dots of coloured powder, which seems to blend into a new colour from a few steps away.
 - Festival strip lights on a house that slowly change from red to yellow to green to blue.
@@ -763,6 +763,11 @@ Follow the Light (sci.light.L4): Topic-level song
 - [Coloured cellophane sheets: red, green, blue and yellow](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Colour filters for the torches, the vanishing message and the puppet show. A red or green see-through sweet wrapper works too, and so do coloured plastic file folders from a stationery shop. About Rs 40 to 60 for a few sheets. Used in e1, a4, p1, c1. 
 - [A set of highlighters in yellow, pink, blue and green](https://www.amazon.in/s?k=highlighter+pens+set) (material): For the Highlighter Layers test. A pack from a stationery shop is enough (about Rs 60 to 120). Borrow a blue one if you can, since it is the hardest to find in a small shop. Used in e2. 
 - [A small magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Optional. To see the dots in a printed photo and the stripes on a screen. A phone camera zoomed in also works. Used in a2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Highlighter Layers: do inks add colours or take them away?, The Wrong-Colour Flag: afterimages in your eyes, Stripes That Blend: colours that mix in your eye. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a1, a2. Get it before Highlighter Layers: do inks add colours or take them away?.
+- [Small torch bulbs or LEDs with a holder](https://www.amazon.in/s?k=torch+bulb+holder+set) (tool): Used in Two Torches, Two Shadows: what colour is a shadow?, Navy or Black? Colours under different lamps. About ₹10 to ₹50. A small torch can be taken apart for its bulb. Used in e1, a3. Get it before Two Torches, Two Shadows: what colour is a shadow?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Two Torches, Two Shadows: what colour is a shadow?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1. Get it before Two Torches, Two Shadows: what colour is a shadow?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in A Coloured Shadow Puppet Show. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in p1. Get it before A Coloured Shadow Puppet Show.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is sunlight made of? → Many colours mixed together.
@@ -783,7 +788,7 @@ Follow the Light (sci.light.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/light-seeing-and-shadows.md, the 'Theory of Colours' and additive and subtractive colour sections: shine red, green and blue torches on a white wall, overlap coloured cellophane, compare colours of objects under daylight and other light, a skit of painters and lighting designers, and a card game of colour mixing
-- The Class 3 unit Colour and rainbows, which this unit builds on: sunlight is many colours, a filter takes colours away, and mixing paints is not like mixing lights
+- The Class 3 unit Colour and rainbows, which this lesson builds on: sunlight is many colours, a filter takes colours away, and mixing paints is not like mixing lights
 - Combined lesson sci-C4-light-seeing-and-shadows.json: the afterimage test with a red square on white paper, and the shadow-puppet artists of tholu bommalata in Andhra Pradesh whose puppets make coloured shadows on a lit screen
 - Young, 'On the Theory of Light and Colours', Philosophical Transactions of the Royal Society, 1802 (three kinds of detector in the eye)
 - Maxwell, 'On the Theory of Compound Colours, and the Relations of the Colours of the Spectrum', Philosophical Transactions of the Royal Society, 1860

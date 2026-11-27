@@ -3,7 +3,7 @@
 
 **Summary.** A storm fells trees in a forest every few years. A fire burns a hillside. A volcano buries a whole island in ash. So why is the world not bare by now? You find out with dice and a paper forest of 36 patches. Storms hit your forest 60 times, and you count how much old forest is left. You roast a pot of soil to find out where new plants come from. You follow the wolves who were brought back to Yellowstone, and sort what scientists are sure of from what they still argue about. Then you see how people in Tamil Nadu helped a dying mangrove forest grow back, mostly by letting the sea back in.
 
-**Intro.** *Somewhere near your home, a plant is growing where nobody planted them. It may be a peepal seedling on a wall, grass in a crack, or moss under a dripping pipe. How did they get there? And what would that spot look like in 50 years if nobody touched it?* In the first activity, Nobody Planted Me, you hunt for these plants and work out how each one arrived. They are the first step of a change that goes on in every bare place on Earth. In this unit you follow that change from a crack in a wall to a whole forest, and then to the question of how a damaged place heals.
+**Intro.** *Somewhere near your home, a plant is growing where nobody planted them. It may be a peepal seedling on a wall, grass in a crack, or moss under a dripping pipe. How did they get there? And what would that spot look like in 50 years if nobody touched it?* In the first activity, Nobody Planted Me, you hunt for these plants and work out how each one arrived. They are the first step of a change that goes on in every bare place on Earth. In this lesson you follow that change from a crack in a wall to a whole forest, and then to the question of how a damaged place heals.
 
 ## Learning outcomes
 0. By the end I can say what a disturbance is, and explain why plants and animals return to a cleared place in a certain order.
@@ -722,11 +722,11 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 ## Spotted around us
 - A peepal or banyan seedling growing out of a wall or a roof gutter. A bird left the seed there.
 - An empty plot in a city. In its first monsoon it is all grass and weeds. A few years on, it is a thicket.
-- A dried tank bed in summer, in Tamil Nadu or Telangana. Within weeks of drying it is covered in short grass, and cattle graze there.
-- A landslide scar beside a hill road in Kerala or Uttarakhand, a few years old, now green with grass, ferns and young trees.
-- The hills above Munnar, Ooty or Kodaikanal, where dark shola forest sits in the folds and grassland covers the slopes.
+- A dried tank bed in summer. Within weeks of drying it is covered in short grass, and cattle graze there.
+- A landslide scar beside a hill road, a few years old, now green with grass, ferns and young trees.
+- A hill where dark patches of forest sit in the folds and grassland covers the slopes.
 - A gap where a big tree fell in a park or on a campus after a cyclone. Look at what has grown in the light since.
-- Mangroves along a creek in Mumbai, Kochi or Pichavaram, with their breathing roots standing out of the mud at low tide.
+- Mangroves along a creek, with their breathing roots standing out of the mud at low tide.
 - A damp wall under a leaking pipe: a green film first, then moss, then a small fern. This is primary succession on your own building.
 
 ## Open questions
@@ -773,14 +773,19 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - [Nature Conservation Foundation: reviving the rainforest](https://www.ncf-india.org/western-ghats/reviving-the-rainforest) · interactive: The team restoring rainforest fragments in the Anamalai hills of Tamil Nadu describe how they do it, with photographs.
 - [Surtsey Research Society](https://english.surtsey.is) · interactive: The story of the island born in 1963, and of each plant and bird as they arrived. For the parent and child together.
 - [Yellowstone National Park](https://www.nps.gov/yell/) · interactive: The park's own pages on wolves, elk and beavers. Look for how the numbers are counted each year.
-- [Pichavaram Mangrove Forest]() · place · Near Chidambaram, Tamil Nadu: Take a rowing boat through the mangrove channels. Ask the boatman where the tide comes in, and look for seedlings that nobody planted.
-- [Pallikaranai Marsh]() · place · Chennai, Tamil Nadu: A city marsh with hundreds of water birds, seen from the roadside. Look at what stands on the filled land all round.
-- [Aravalli Biodiversity Park]() · place · Gurugram, Haryana: Old mining land replanted with the trees and shrubs of the Aravalli hills. Ask what was there before, and what was planted.
+- Pichavaram Mangrove Forest · place · Near Chidambaram, Tamil Nadu: Take a rowing boat through the mangrove channels. Ask the boatman where the tide comes in, and look for seedlings that nobody planted.
+- Pallikaranai Marsh · place · Chennai, Tamil Nadu: A city marsh with hundreds of water birds, seen from the roadside. Look at what stands on the filled land all round.
+- Aravalli Biodiversity Park · place · Gurugram, Haryana: Old mining land replanted with the trees and shrubs of the Aravalli hills. Ask what was there before, and what was planted.
 
 ## Things to buy
 - [A pair of dice in two colours](https://www.amazon.in/s?k=dice+set+two+colours) (tool): For the Patchwork Test, where one die gives the column and the other gives the row, and for Climb to Old Forest. One die rolled twice also works. Used in e1, g1. 
 - [A pad of graph paper](https://www.amazon.in/s?k=graph+paper+pad+a4) (material): For the line graph in the Patchwork Test and the grid in Plan the Patchwork. A squared maths notebook also works. Used in e1, c2. 
 - [The Wolves Are Back, by Jean Craighead George, pictures by Wendell Minor](https://www.amazon.in/s?k=The+Wolves+Are+Back+Jean+Craighead+George) (book): A picture book that tells the simple version of the Yellowstone story. It is good to read side by side with The Wolf Chain. Used in a2. Read it before The Wolf Chain. Afterwards, go back through the book and ask of each page: is this counted, argued about, or claimed too much?
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Nobody Planted Me: who settles a bare place first?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in a1. Get it before Nobody Planted Me: who settles a bare place first?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Patchwork Test: after 60 storms, how much old forest is left?, Wetland on a Board: what does a marsh do in a flood?, The Seed Ball Drop: a ball that lands whole and still sprouts. About ₹10 to ₹30. Any school ruler is fine. Used in e1, a3, c1, c2. Get it before The Patchwork Test: after 60 storms, how much old forest is left?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in The Seed Ball Drop: a ball that lands whole and still sprouts. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before The Seed Ball Drop: a ball that lands whole and still sprouts.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Seed Ball Drop: a ball that lands whole and still sprouts. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in c1. Get it before The Seed Ball Drop: a ball that lands whole and still sprouts.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call an event that clears many living beings from a place quickly? → A disturbance.
@@ -801,7 +806,7 @@ Everybody Eats (sci.ecology.L5): Topic-level song
 - Curriculum entry sci.ecology.how-ecosystems-change.L5 (covers: wolves returning to Yellowstone, restoring forests, rivers and wetlands, landscapes as patchworks) and its notebook items bio:201, bio:202, bio:203 and bio:205
 - ideas/by_topic/living-in-harmony.md: the notebook's line that harmony needs give and take and that too much imbalance brings instability, used for the steady mix of the Patchwork Test and for tipping points
 - Combined lesson sci-C5-living-in-harmony: its section on what happens when people remove a predator, and on communities who protect forests, taken further here into bringing a predator back and restoring a place. Its story is not reused
-- The Level 3, 4 and 5 units of the same topic (food webs and keystone species, the first telling of Yellowstone in food-chains.L3, corridors and patch size in biodiversity.L5, carrying capacity in populations.L5), so this unit leads on from them without repeating them
+- The Level 3, 4 and 5 units of the same topic (food webs and keystone species, the first telling of Yellowstone in food-chains.L3, corridors and patch size in biodiversity.L5, carrying capacity in populations.L5), so this lesson leads on from them without repeating them
 - Cowles, H. C., 1899, 'The ecological relations of the vegetation on the sand dunes of Lake Michigan', Botanical Gazette 27
 - Clements, F. E., 1916, Plant Succession: An Analysis of the Development of Vegetation, Carnegie Institution of Washington
 - Gleason, H. A., 1926, 'The individualistic concept of the plant association', Bulletin of the Torrey Botanical Club 53

@@ -1,9 +1,9 @@
 # Static electricity: why a rubbed balloon sticks to the wall, and what lightning is
 `sci.electricity.static-and-charge.L3`
 
-**Summary.** Why does a rubbed balloon stick to the wall and lift your hair? In this unit you will test which cloth charges a balloon best, bend a stream of water with a rubbed object, and make a safety plan for a thunderstorm.
+**Summary.** Why does a rubbed balloon stick to the wall and lift your hair? In this lesson you will test which cloth charges a balloon best, bend a stream of water with a rubbed object, and make a safety plan for a thunderstorm.
 
-**Intro.** *Rub a balloon on your hair, or on a woollen shawl, about ten times. Now hold it against the wall and let go. It stays there, with no tape and no glue. What is holding it up?* Nothing you can see is holding the balloon. The rubbing has given it an electric charge, and the charge attracts the wall. In this unit you rub balloons, combs and rulers with different cloths, and find out which ones work best. You make paper jump, water bend and an empty can roll without touching them. You find out why it all works badly on a damp monsoon day. And you learn how a storm cloud does the same thing until it makes lightning, and how to stay safe when it does.
+**Intro.** *Rub a balloon on your hair, or on a woollen shawl, about ten times. Now hold it against the wall and let go. It stays there, with no tape and no glue. What is holding it up?* Nothing you can see is holding the balloon. The rubbing has given it an electric charge, and the charge attracts the wall. In this lesson you rub balloons, combs and rulers with different cloths, and find out which ones work best. You make paper jump, water bend and an empty can roll without touching them. You find out why it all works badly on a damp monsoon day. And you learn how a storm cloud does the same thing until it makes lightning, and how to stay safe when it does.
 
 ## Learning outcomes
 0. I can explain that everything is made of tiny particles with plus and minus charge, in equal amounts, and that rubbing moves electrons from one thing to another.
@@ -584,7 +584,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    **Answer:** Any real question with a way to find out. For example: does a plastic spoon charge as well as a comb? I could test both over the water stream.. *Why:* A strong answer asks something that can be tested, and says what the test would be.
 ### Sparks and Storms (stretch) (stretch, 15 questions)
 1. (perspective) A sister and her brother watch paper bits jump up to a rubbed balloon. They disagree about why.  
-   **Answer:** A strong answer sides mostly with the brother: the paper was never rubbed, and it is neutral. But it gives the sister her due. The balloon pushes the paper's electrons a tiny way back, so the near side of the paper does get a little opposite charge. So both are partly right.. *Why:* This tests the hardest idea in the unit: how a charged thing attracts a neutral one.
+   **Answer:** A strong answer sides mostly with the brother: the paper was never rubbed, and it is neutral. But it gives the sister her due. The balloon pushes the paper's electrons a tiny way back, so the near side of the paper does get a little opposite charge. So both are partly right.. *Why:* This tests the hardest idea in the lesson: how a charged thing attracts a neutral one.
 2. (mcq) You rub a balloon on your hair. The balloon now has 1,000 extra electrons. How many electrons has your hair lost?  
    Options: 1,000 / 500 / None  
    **Answer:** 1,000. *Why:* Rubbing does not make or destroy charge. Every electron the balloon gained came from your hair, so your hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same.
@@ -719,7 +719,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - A tiny shock from a metal railing or a car door in a dry season.
 - Dust clinging to the TV screen and the blades of the ceiling fan.
 - Crackles when you pull a woollen blanket or a fleece off the bed.
-- Lightning over the sea from Marina Beach in Chennai, Puri or Juhu in Mumbai, before the monsoon.
+- Lightning over the sea, seen from a beach before the monsoon.
 - The lightning conductor rod on top of a tall apartment block or a mobile tower.
 - Thin plastic bags that cling to your hands and will not come off.
 
@@ -772,6 +772,11 @@ Round and Round the Loop (sci.electricity.L3): Topic-level song for Electricity 
 
 ## Things to buy
 - [A packet of round balloons](https://www.amazon.in/s?k=round+balloons+pack) (material): Most of the activities need a balloon. Round balloons work better than long ones, because they are easy to rub and hold. Used in e1, a1, a3, a4, a5, p1, c1, c2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Rubbing Test: which cloth charges a balloon best?, Bend the Water: can every rubbed thing do it?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2. Get it before The Rubbing Test: which cloth charges a balloon best?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in The Sticky Balloon and the Rising Hair. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1. Get it before The Sticky Balloon and the Rising Hair.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Rolling Can, The Can Race: how far can a balloon pull?, Build a Charge Detector. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a5, c1, c2. Get it before The Rolling Can.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Rubbing Test: which cloth charges a balloon best?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Rubbing Test: which cloth charges a balloon best?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the two kinds of electric charge? → Plus and minus.

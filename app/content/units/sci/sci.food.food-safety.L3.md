@@ -1,9 +1,9 @@
 # Keeping food safe: why food goes bad, and how to stop it
 `sci.food.food-safety.L3`
 
-**Summary.** Why does dal left out on a hot day turn sour by morning? In this unit you will test three dabbas of dal water to see which stays fresh longest, find out how many washes clean coriander, and drop food on the floor to test the five-second rule.
+**Summary.** Why does dal left out on a hot day turn sour by morning? In this lesson you will test three dabbas of dal water to see which stays fresh longest, find out how many washes clean coriander, and drop food on the floor to test the five-second rule.
 
-**Intro.** *Smell a spoon of fresh curd, then a spoon of curd left out for two days. What changed? Nobody added anything to it.* Food goes bad even though nobody puts anything bad into it. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell when food has gone bad. In this unit you find out how families keep food safe, and you test it with three dabbas of dal water.
+**Intro.** *Smell a spoon of fresh curd, then a spoon of curd left out for two days. What changed? Nobody added anything to it.* Food goes bad even though nobody puts anything bad into it. Tiny living beings called microbes land on it from the air, from hands and from other food. In warm food they eat and multiply, and that is what you smell when food has gone bad. In this lesson you find out how families keep food safe, and you test it with three dabbas of dal water.
 
 ## Learning outcomes
 0. I can say why food goes bad: microbes land on it, eat it and multiply.
@@ -749,7 +749,7 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - Papads and vadams drying on a cloth on a terrace in the summer sun.
 - The 'Use by' or 'Best before' date and the FSSAI logo on a milk packet.
 - A clay pot of water in a shady corner, kept cool by water evaporating through the clay.
-- A fish seller in Kochi keeping fish on crushed ice.
+- A fish seller keeping fish on crushed ice.
 - Ice cream carts and milk vans with 'keep cold' boxes.
 
 ## Open questions
@@ -800,6 +800,10 @@ Sunlight on My Plate (sci.food.L3): Topic-level song for Food and nutrition L3
 
 ## Things to buy
 - [A hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For reading the tiny dates and marks on packets. Sold in stationery shops. Used in a4. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Milk Without a Fridge. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Milk Without a Fridge.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Three Dabbas of Dal Water: which stays fresh longest?, The Water-Saving Vegetable Wash. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, c2. Get it before Three Dabbas of Dal Water: which stays fresh longest?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in How Many Washes? The coriander test. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e2. Get it before How Many Washes? The coriander test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What makes food go bad? → Microbes that feed and multiply in it.

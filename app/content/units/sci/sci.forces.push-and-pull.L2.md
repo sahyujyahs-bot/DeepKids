@@ -1,9 +1,9 @@
 # Pushes and pulls: the forces around us, and how we feel them
 `sci.forces.push-and-pull.L2`
 
-**Summary.** You cannot see a force, but you can feel one. How well? In this unit you will hunt for pushes and pulls at home, test with your eyes shut whether your hand can feel a small packet of rice slipped into a bag, and make panakam while naming every push and pull.
+**Summary.** You cannot see a force, but you can feel one. How well? In this lesson you will hunt for pushes and pulls at home, test with your eyes shut whether your hand can feel a small packet of rice slipped into a bag, and make panakam while naming every push and pull.
 
-**Intro.** *Hold out your hand, palm up, and shut your eyes. Is anything pushing or pulling on your hand right now?* Most children say no. But the Earth is pulling your hand down, and your arm is holding it up. Forces are around us all the time, even when we don't notice them. A force is any push or any pull. You can't see a force. You can see what it does, and you can feel it. In this unit you hunt for forces at home. Then you test how well your hand can feel a small one.
+**Intro.** *Hold out your hand, palm up, and shut your eyes. Is anything pushing or pulling on your hand right now?* Most children say no. But the Earth is pulling your hand down, and your arm is holding it up. Forces are around us all the time, even when we don't notice them. A force is any push or any pull. You can't see a force. You can see what it does, and you can feel it. In this lesson you hunt for forces at home. Then you test how well your hand can feel a small one.
 
 ## Learning outcomes
 0. By the end I can say that every push and every pull is a force.
@@ -493,11 +493,11 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 - Engineers such as Allison Okamura, at Stanford University in the United States, build robot tools for surgeons that let the doctor feel how hard the tool is pushing.
 
 ## Spotted around us
-- At the Rath Yatra in Puri, in Odisha, thousands of people pull huge wooden chariots with long ropes.
-- In the snake boat races in Kerala, long lines of rowers push the water back with their oars, and the boat shoots forward.
-- At the Uttarayan kite festival in Gujarat, the wind pushes kites up and the flyers pull on their strings.
-- At Chennai Central railway station, porters carry heavy suitcases on their heads. The Earth pulls the load down, and their necks and backs push up.
-- At a vegetable market in Madurai, a seller weighs onions on a two-pan balance.
+- At a chariot festival, thousands of people pull huge wooden chariots with long ropes.
+- In a boat race, long lines of rowers push the water back with their oars, and the boat shoots forward.
+- At a kite festival, the wind pushes kites up and the flyers pull on their strings.
+- At a railway station, porters carry heavy suitcases on their heads. The Earth pulls the load down, and their necks and backs push up.
+- At a vegetable market, a seller weighs onions on a two-pan balance.
 
 ## Open questions
 - **How does the brain turn signals from your hand into the feeling of 'heavy'?** Scientists know which sensors in the skin, muscles and joints notice a pull. How all these signals come together into one feeling of heaviness is still being studied.
@@ -533,10 +533,13 @@ Every Push, Every Pull (sci.forces.L2): Topic-level song for Forces and movement
 ## Links
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online game from the University of Colorado. Pull a cart in a tug of war and see a small and a big pull. Best played with a grown-up.
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages. Search for books about wind, kites and pulling.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with a hands-on physics gallery, good for a family day out.
-- [Nehru Science Centre]() · place · Mumbai: A large science centre with hands-on exhibits about forces and motion.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with a hands-on physics gallery, good for a family day out.
+- Nehru Science Centre · place · Mumbai: A large science centre with hands-on exhibits about forces and motion.
 
 ## Things to buy
+- [A bar magnet or two, and a few small magnets](https://www.amazon.in/s?k=bar+magnet+school) (tool): Used in Who Is Pushing? A force hunt at home. About ₹50 to ₹200. A fridge magnet is a weak substitute for some tests. Used in a1. Get it before Who Is Pushing? A force hunt at home.
+- [A kitchen or weighing scale](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Used in Push the Scale: how big is your push?. About ₹300 to ₹700. A home-made balance from a ruler and two cups can compare weights. Used in e2. Get it before Push the Scale: how big is your push?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is the wind's push on a kite a force? → Yes. Every push and every pull is a force.

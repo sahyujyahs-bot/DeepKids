@@ -1,9 +1,9 @@
 # Thick and runny liquids, and the skin on water
 `sci.states.liquids-up-close.L3`
 
-**Summary.** Why does honey crawl down a slope while water runs, and how can a water strider stand on a pond? In this unit you will race kitchen liquids down a slope, count how many drops fit on a coin, and watch soap break the skin of water.
+**Summary.** Why does honey crawl down a slope while water runs, and how can a water strider stand on a pond? In this lesson you will race kitchen liquids down a slope, count how many drops fit on a coin, and watch soap break the skin of water.
 
-**Intro.** *Hold a spoon of water and a spoon of honey over a plate, and tip both at the same moment. The water is gone in a blink. The honey stretches into a slow, shiny rope. Both are liquids. So why does one pour so much more slowly than the other?* In this unit you race kitchen liquids down a slope and time each one. You find out what makes a liquid thick or runny, and what warming does to it. Then you look closely at the top of water. There, water acts like a thin stretchy skin. It is strong enough to hold a dome of water on a coin, and to hold up a living insect.
+**Intro.** *Hold a spoon of water and a spoon of honey over a plate, and tip both at the same moment. The water is gone in a blink. The honey stretches into a slow, shiny rope. Both are liquids. So why does one pour so much more slowly than the other?* In this lesson you race kitchen liquids down a slope and time each one. You find out what makes a liquid thick or runny, and what warming does to it. Then you look closely at the top of water. There, water acts like a thin stretchy skin. It is strong enough to hold a dome of water on a coin, and to hold up a living insect.
 
 ## Learning outcomes
 0. I can say what viscosity means, and put kitchen liquids in order from runny to thick.
@@ -546,7 +546,7 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 10. (fill) The pull between particles at the top of water makes a skin. This is called surface ____.  
    **Answer:** ['tension']. *Why:* Surface tension makes the top of water act like a stretchy skin.
 11. (match) Match each word to what it means.  
-   **Answer:** Viscous → thick and slow to flow; Runny → thin and quick to flow; Surface → the top layer, where water meets the air; Water strider → an insect who lives on top of ponds. *Why:* Each of these four words is explained on a card in this unit. Using them makes it easier to talk about liquids.
+   **Answer:** Viscous → thick and slow to flow; Runny → thin and quick to flow; Surface → the top layer, where water meets the air; Water strider → an insect who lives on top of ponds. *Why:* Each of these four words is explained on a card in this lesson. Using them makes it easier to talk about liquids.
 12. (sort) Sort these kitchen liquids. Is each one runny or thick?  
    **Answer:** water → Runny; honey → Thick; rasam → Runny; dosa batter → Thick; buttermilk → Runny; ketchup → Thick. *Why:* Runny liquids pour fast and splash. Thick ones pour slowly and pile up.
 13. (write) Why does warm honey run faster than cool honey? Use the word 'particles'.  
@@ -731,7 +731,7 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 ## Links
 - [The Pitch Drop experiment, University of Queensland](https://smp.uq.edu.au/pitch-drop-experiment) · interactive: The real experiment's own page, with its history and a link to a live camera on the funnel.
 - [Water striders (Gerridae) on Wikipedia](https://en.wikipedia.org/wiki/Gerridae) · interactive: For the parent: photographs and facts about water striders, their legs and how they live.
-- [Deep Look on YouTube](https://www.youtube.com/@DeepLook) · interactive: Short, beautifully filmed close-ups of small animals, including the water strider video in this unit.
+- [Deep Look on YouTube](https://www.youtube.com/@DeepLook) · interactive: Short, beautifully filmed close-ups of small animals, including the water strider video in this lesson.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A large science museum with hands-on galleries on materials and physics.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits on how things work, including fluids.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: India's first science museum, with hands-on galleries for children.
@@ -739,6 +739,10 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 ## Things to buy
 - [A small bottle of honey, in a clear bottle](https://www.amazon.in/s?k=honey+small+bottle) (material): The slowest liquid in the syrup race, and the bubble race uses the clear bottle. Most homes have some. A small bottle from any kirana is enough. Used in e1, a1, a4, c1. 
 - [A plastic medicine dropper](https://www.amazon.in/s?k=plastic+dropper+pipette) (tool): Optional. It makes even drops for the coin test. A drinking straw with a finger over the top works too. Chemists sell droppers cheaply. Used in e2. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Syrup Race: which liquid is slowest, and does warmth change it?, The Bubble Race: flip the bottles, The Kitchen Thickness Ladder: race the foods you eat. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, a4, p1, c1. Get it before The Syrup Race: which liquid is slowest, and does warmth change it?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Syrup Race: which liquid is slowest, and does warmth change it?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Syrup Race: which liquid is slowest, and does warmth change it?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in How Many Drops Fit on a Coin?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before How Many Drops Fit on a Coin?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which is more viscous, water or honey? → Honey.
@@ -760,7 +764,7 @@ Still There (sci.states.L3): Topic-level song for Solids, liquids, gases and par
 - DeepKids V0.1 Science journal page p64, Syrup Race Activity Observation (viscosity), in ideas/by_topic/materials-and-their-properties.md: grew into the timed syrup race with warm and room-warm honey.
 - Founder's sheets, HomeSchooling Track, Physics activities dump: 'Liquids: viscosity, surface tension' row.
 - Combined Class 4 lesson sci-C4-changing-materials (the syrup race and the warm and cold honey idea, and the halwai's syrup), used for the experiment idea and made fair, timed and step by step here.
-- Neighbour units, built on and not repeated: Properties of materials (the pepper and soap test, and Agnes Pockels), Testing materials (Agnes Pockels' story), How water climbs a plant (the floating paperclip and the full tumbler), Biomimicry (the lotus drop), Sorting materials (oobleck). This unit adds viscosity, the coin dome, the thread loop, the soap boat and the water strider's life.
+- Neighbour units, built on and not repeated: Properties of materials (the pepper and soap test, and Agnes Pockels), Testing materials (Agnes Pockels' story), How water climbs a plant (the floating paperclip and the full tumbler), Biomimicry (the lotus drop), Sorting materials (oobleck). This lesson adds viscosity, the coin dome, the thread loop, the soap boat and the water strider's life.
 - University of Queensland, School of Mathematics and Physics, 'Pitch Drop experiment' page (Parnell, 1927 and 1930, nine drops, about 100 billion times more viscous than water, Mainstone custodian from 1961 for 52 years).
 - Edgar, R. and Mainstone, J., 'The pitch drop experiment', European Journal of Physics 5, 1984.
 - Hu, D. L., Chan, B. and Bush, J. W. M., 'The hydrodynamics of water strider locomotion', Nature 424, 2003 (vortices, the baby strider puzzle, the robot strider).

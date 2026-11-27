@@ -536,6 +536,9 @@ Like Me, Not Like Me (sci.me-and-others.L1): Topic-level song for Me and others 
 ## Things to buy
 - [We're All Wonders by R. J. Palacio](https://www.amazon.in/s?k=Were+All+Wonders) (book): A boy who looks different from other children asks them to look at him with kindness. It gives the child words for noticing how people differ and how they are alike. Used in a1. Read it together at the start of the lesson, then talk about how we are alike and different.
 - [Me... Jane by Patrick McDonnell](https://www.amazon.in/s?k=Me+Jane) (book): The true story of Jane Goodall as a girl, with her toy chimpanzee, dreaming of Africa. It shows a child who loved watching living things. Used in a1. Read it together after the lesson on how we are all different.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Mirror Twins: what is the same, what is different?, All About Me: my name, my face, what I like. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a1, a2. Get it before Mirror Twins: what is the same, what is different?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Same Food, Different Faces: does everyone at home like the same tastes?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1. Get it before Same Food, Different Faces: does everyone at home like the same tastes?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one thing every person needs. → Air, water, food or sleep.

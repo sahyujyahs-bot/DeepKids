@@ -845,6 +845,11 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 ## Things to buy
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid+red+blue) (material): For the Weeping Tumbler. A few drops colour the water strongly. A pinch of haldi also works. Used in e1. 
 - [A soft measuring tape for sewing](https://www.amazon.in/s?k=measuring+tape+body+sewing+300+cm) (tool): For the Arm Span test. A tailor's tape is easy to pull straight, but a 150 cm one is too short for most grown-ups' arm span. Look for 2 to 3 metres, or use a long string and a ruler instead. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Arm Span and Height: is Leonardo right?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Arm Span and Height: is Leonardo right?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Arm Span and Height: is Leonardo right?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e2. Get it before Arm Span and Height: is Leonardo right?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Arm Span and Height: is Leonardo right?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e2. Get it before Arm Span and Height: is Leonardo right?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Weeping Tumbler: where do the drops come from?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Weeping Tumbler: where do the drops come from?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the difference between an observation and an inference? → An observation is what you can see or measure. An inference is a guess about what it means.

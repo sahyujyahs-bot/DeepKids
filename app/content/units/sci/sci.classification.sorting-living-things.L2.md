@@ -1,9 +1,9 @@
 # Sorting animals: by body covering, by legs and by food
 `sci.classification.sorting-living-things.L2`
 
-**Summary.** A hen and a crow both have feathers and two legs, but a hen and a cow do not. So who sits with the hen? In this unit you will sort the same animal cards three ways, compare animals in overlapping hoops, and put out banana, rice and a dead insect to see what ants eat.
+**Summary.** A hen and a crow both have feathers and two legs, but a hen and a cow do not. So who sits with the hen? In this lesson you will sort the same animal cards three ways, compare animals in overlapping hoops, and put out banana, rice and a dead insect to see what ants eat.
 
-**Intro.** *Stroke your arm and feel the tiny hairs. Now think of a crow and a fish. What covers each body? Then the harder question: what do the ants in our kitchen eat?* Hair, feathers and scales are easy to see. Legs are easy to count. But you cannot see what an animal eats by looking at their body. Ask your child how we could find out what the ants eat, and let them guess. Don't give the answer. In this unit we sort animals by covering, by legs and by food, and then we test the ants.
+**Intro.** *Stroke your arm and feel the tiny hairs. Now think of a crow and a fish. What covers each body? Then the harder question: what do the ants in our kitchen eat?* Hair, feathers and scales are easy to see. Legs are easy to count. But you cannot see what an animal eats by looking at their body. Ask your child how we could find out what the ants eat, and let them guess. Don't give the answer. In this lesson we sort animals by covering, by legs and by food, and then we test the ants.
 
 ## Learning outcomes
 0. By the end I can sort animals by their body covering: hair or fur, feathers, scales, a hard shell or case, or bare skin.
@@ -451,8 +451,8 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
 
 ## Spotted around us
 - In many South Indian homes, a ball of rice is put out for crows in the morning. Crows come for it, and also eat insects and scraps.
-- At a fish market in Kolkata, you can see the shiny scales on rohu and hilsa, and the hard shells of crabs.
-- Goats on a lane in Ahmedabad nibble leaves from a hedge. They are plant-eaters.
+- At a fish market, you can see the shiny scales on rohu and hilsa, and the hard shells of crabs.
+- Goats on a lane nibble leaves from a hedge. They are plant-eaters.
 - A house gecko waits by the tube light on many Indian walls at night, catching moths.
 
 ## Open questions
@@ -490,11 +490,15 @@ Fur, Feathers, Scales (sci.classification.L2): Topic-level song for Sorting livi
 - [iNaturalist](https://www.inaturalist.org/) · interactive: For the parent: photograph an animal from your window and see which group they belong to.
 - [India Biodiversity Portal](https://indiabiodiversity.org/) · interactive: For the parent: photos and notes on Indian animals, including what they eat.
 - [Jane Goodall Institute](https://janegoodall.org/) · interactive: For the parent: the story of Jane Goodall's work with chimpanzees at Gombe.
-- [Arignar Anna Zoological Park]() · place · Vandalur, Chennai: See mammals, birds and reptiles side by side, and compare their coverings and legs.
-- [Padmaja Naidu Himalayan Zoological Park]() · place · Darjeeling: Home to red pandas, who belong with the meat-eaters' family but eat mostly bamboo.
-- [Sri Chamarajendra Zoological Gardens]() · place · Mysuru: A large zoo where children can watch feeding times and see who eats what.
+- Arignar Anna Zoological Park · place · Vandalur, Chennai: See mammals, birds and reptiles side by side, and compare their coverings and legs.
+- Padmaja Naidu Himalayan Zoological Park · place · Darjeeling: Home to red pandas, who belong with the meat-eaters' family but eat mostly bamboo.
+- Sri Chamarajendra Zoological Gardens · place · Mysuru: A large zoo where children can watch feeding times and see who eats what.
 
 ## Things to buy
+- [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): Used in Ant Lunch: do ants eat plant food, animal food, or both?. About ₹30 to ₹120. A water drop on clear plastic magnifies a little. Used in e1. Get it before Ant Lunch: do ants eat plant food, animal food, or both?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Our Home Animal Grid. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Our Home Animal Grid.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Ant Lunch: do ants eat plant food, animal food, or both?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before Ant Lunch: do ants eat plant food, animal food, or both?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which animals have feathers? → Only birds, like crows, hens and parrots.

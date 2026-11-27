@@ -1,7 +1,7 @@
 # How plants sense light, gravity and touch, and respond
 `sci.plants.plant-senses.L2`
 
-**Summary.** Plants have no eyes, so how does a moong shoot know where the window is? In this unit you will watch which way leaves face, test if moong shoots turn back to the light when you turn the cup, and see which way four roots grow.
+**Summary.** Plants have no eyes, so how does a moong shoot know where the window is? In this lesson you will watch which way leaves face, test if moong shoots turn back to the light when you turn the cup, and see which way four roots grow.
 
 **Intro.** *Find a plant that grows by a window or on a balcony. Which way are their leaves facing: into the room, or out towards the light?* Plants have no eyes and no muscles. Yet they know where the light is, which way is down, and when something touches them. To sense something means to notice it. To respond means to do something because of it. Plants do both, all day long. Before you read on, make a guess. If you turn a plant round so the leaves face away from the window, will they stay that way, or turn back? You are going to find out.
 
@@ -543,7 +543,7 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 ## Spotted around us
 - Money plants and tulsi on balconies and windowsills, with their leaves turned towards the open sky.
 - Touch-me-not growing low on empty plots, roadsides and the edges of school grounds, with small pink puffball flowers.
-- Sunflower fields in Karnataka, Andhra Pradesh and Maharashtra, with nearly all the open flowers facing the same way.
+- A field of sunflowers, with nearly all the open flowers facing the same way.
 - A plant growing through a crack in a wall, leaning out towards the light.
 - Bottle gourd or bitter gourd on a terrace or a balcony grille, their tendrils coiled round the bars.
 
@@ -580,13 +580,18 @@ That night, Nila drew the wiggly moong shoots in her notebook. Next to them she 
 Root, Stem, Leaf, Flower, Fruit and Seed (sci.plants.L2): Topic-level song for Plants L2
 
 ## Links
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A big garden named after J.C. Bose, who measured the signals in touch-me-not plants. It is home to the Great Banyan.
-- [Bose Institute]() · place · Kolkata: The research institute J.C. Bose founded in 1917. Check before you go whether the museum of his instruments is open to visitors.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Many plants to watch, including climbers with tendrils and plants leaning towards light at the edges of shady paths.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A big garden named after J.C. Bose, who measured the signals in touch-me-not plants. It is home to the Great Banyan.
+- Bose Institute · place · Kolkata: The research institute J.C. Bose founded in 1917. Check before you go whether the museum of his instruments is open to visitors.
+- Lalbagh Botanical Garden · place · Bengaluru: Many plants to watch, including climbers with tendrils and plants leaning towards light at the edges of shady paths.
 - [Plants of the World Online, Kew](https://powo.science.kew.org) · interactive: For the parent: look up Mimosa pudica, the touch-me-not, and see where in the world they first grew.
 
 ## Things to buy
 - [A small touch-me-not plant (Mimosa pudica), or a packet of their seeds]() (material): Only needed for the touch-me-not tests. Many plant nurseries sell small plants cheaply, and seeds are sold online. The plant also grows wild on many empty plots, so look there first. Used in a2. Seeds have a hard coat. Soak them in warm water overnight, and they sprout in about one to two weeks, so start early. A plant from a nursery can be used the same day.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Straight Shoots by a Window. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Straight Shoots by a Window.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Window Test: will moong shoots turn back to the light?. About ₹20 to ₹50. Torn clean cloth works. Used in e1. Get it before The Window Test: will moong shoots turn back to the light?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Root Box: which way will four roots grow?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e2. Get it before The Root Box: which way will four roots grow?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Straight Shoots by a Window. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before Straight Shoots by a Window.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which way does a shoot grow when light comes from one side? → Towards the light.

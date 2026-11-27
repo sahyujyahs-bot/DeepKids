@@ -1,9 +1,9 @@
 # Shadows: what happens when something blocks the light
 `sci.light.shadows.L2`
 
-**Summary.** Why can the same toy make a tiny shadow or a giant one? In this unit you will find out what a shadow needs, move a toy near and far from a torch to see its shadow change, count the shadows two lights make, and make a shadow puppet.
+**Summary.** Why can the same toy make a tiny shadow or a giant one? In this lesson you will find out what a shadow needs, move a toy near and far from a torch to see its shadow change, count the shadows two lights make, and make a shadow puppet.
 
-**Intro.** *Switch on a torch and hold your hand in front of it. A dark hand appears on the wall. Where did that dark hand come from?* Hold your hand still between the torch and the wall. Now take your hand away. The dark hand is gone. Put your hand back, and it comes back. The dark hand on the wall is called a shadow. In this unit we find out what makes a shadow, and how to make one grow, shrink, split in two and tell a story.
+**Intro.** *Switch on a torch and hold your hand in front of it. A dark hand appears on the wall. Where did that dark hand come from?* Hold your hand still between the torch and the wall. Now take your hand away. The dark hand is gone. Put your hand back, and it comes back. The dark hand on the wall is called a shadow. In this lesson we find out what makes a shadow, and how to make one grow, shrink, split in two and tell a story.
 
 ## Learning outcomes
 0. By the end I can say that a shadow forms where something blocks light.
@@ -640,10 +640,15 @@ Where the Light Can't Go (sci.light.L2): Topic-level song for Light, seeing and 
 - [Shadow play (Wikipedia)](https://en.wikipedia.org/wiki/Shadow_play) · interactive: For the parent: pictures of shadow plays from India, Indonesia, China and Turkey.
 - [Tholpavakoothu (Wikipedia)](https://en.wikipedia.org/wiki/Tholpavakoothu) · interactive: For the parent: the shadow-puppet play of Kerala, with photos of the puppets and the stage.
 - [Lotte Reiniger (Wikipedia)](https://en.wikipedia.org/wiki/Lotte_Reiniger) · interactive: For the parent: the life of the artist who made shadow-puppet films, with pictures of her cut-outs.
-- [Tholpavakoothu performances at temple festivals in Palakkad district]() · place · Palakkad, Kerala: Many temples in the Palakkad area hold tholpavakoothu plays during their yearly festivals. Ask locally for the dates.
-- [Nimmalakunta village, the leather-puppet makers' village]() · place · near Dharmavaram, Andhra Pradesh: Families here make painted leather puppets for tholu bommalata.
+- Tholpavakoothu performances at temple festivals in Palakkad district · place · Palakkad, Kerala: Many temples in the Palakkad area hold tholpavakoothu plays during their yearly festivals. Ask locally for the dates.
+- Nimmalakunta village, the leather-puppet makers' village · place · near Dharmavaram, Andhra Pradesh: Families here make painted leather puppets for tholu bommalata.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Near or Far: when does a shadow grow?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before Near or Far: when does a shadow grow?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Draw a Shadow Portrait, Our Box Theatre Shadow Play. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a4, p1. Get it before Draw a Shadow Portrait.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Make a Card Shadow Puppet, Our Box Theatre Shadow Play. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in a2, p1. Get it before Make a Card Shadow Puppet.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Our Box Theatre Shadow Play. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in p1. Get it before Our Box Theatre Shadow Play.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a shadow? → The dark patch where light is blocked.

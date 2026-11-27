@@ -1,9 +1,9 @@
 # Adaptations: how living things are suited to heat, cold, water and darkness
 `sci.habitats.adaptations.L3`
 
-**Summary.** A camel can go for days in the Thar Desert without a drink. How? In this unit you will test which wet paper towel keeps its water longest, see if ice cubes melt slower when huddled together, and play a game of which animal survives which place.
+**Summary.** A camel can go for days in the Thar Desert without a drink. How? In this lesson you will test which wet paper towel keeps its water longest, see if ice cubes melt slower when huddled together, and play a game of which animal survives which place.
 
-**Intro.** *Look at the washing on your line. A shirt pegged out flat dries by lunch. A towel left bundled up in a bucket is still damp at night. Both got just as wet. So why does one dry so much more slowly? What do you think?* A cactus in a hot desert has the same problem as the washing. Water slowly escapes from the cactus into the dry air. A cactus that loses water too fast dries up and dies. In this unit you find out how a cactus keeps their water, how a camel lives with little water, and how a snow leopard stays warm in the snow. You also find out how fish and ducks are suited to water, and how some animals find their food in total darkness.
+**Intro.** *Look at the washing on your line. A shirt pegged out flat dries by lunch. A towel left bundled up in a bucket is still damp at night. Both got just as wet. So why does one dry so much more slowly? What do you think?* A cactus in a hot desert has the same problem as the washing. Water slowly escapes from the cactus into the dry air. A cactus that loses water too fast dries up and dies. In this lesson you find out how a cactus keeps their water, how a camel lives with little water, and how a snow leopard stays warm in the snow. You also find out how fish and ducks are suited to water, and how some animals find their food in total darkness.
 
 ## Learning outcomes
 0. I can say what an adaptation is, and tell it apart from a body getting used to a place, which is called acclimatising.
@@ -65,7 +65,7 @@ Sweating cools a body, because sweat takes heat away as it evaporates. But in a 
 
 A snow leopard's body is warm inside, and the air around it in winter can be far below freezing. Heat always moves from a warm place to a cold place. So the snow leopard's problem is that heat escapes from their body all the time, through their skin. Their thick fur is insulation. The fur traps still air between its hairs, and the still air slows the heat down. Their long, thick tail is almost as long as their body. When they rest, they wrap the tail round their body and face like a scarf. Their wide, furry paws spread their weight on the snow, and fur under the paws keeps them warm. Their ears are small and round, so little heat escapes from them. Yaks in Ladakh have long, shaggy hair that hangs almost to the ground, with soft wool underneath. Changthangi goats on the cold Changthang plateau of Ladakh grow a fine, soft underwool in winter. People comb it out in spring and spin it into pashmina. Whales and seals have blubber, a thick layer of fat under the skin. Curling up and huddling help too. A dog sleeping on a cold night curls into a ball and tucks their nose under their tail. Emperor penguins in the Antarctic winter crowd together in a huddle. The middle of a huddle can be warmer than 20 degrees Celsius while the wind outside is far below freezing. The birds keep shuffling, so each one takes turns on the cold outside.
 - e.g. Pigeons puff up their feathers on a cold morning. The thicker coat traps more still air.
-- e.g. In the huddle test in this unit, ice cubes huddled together melted more slowly than ice cubes spread apart.
+- e.g. In the huddle test in this lesson, ice cubes huddled together melted more slowly than ice cubes spread apart.
 - e.g. Mountain animals, like the Himalayan marmot, sleep through the coldest months in burrows. This deep winter sleep is called hibernation.
 ### Living through freezing · *defined*
 **Definition:** Some living things survive being frozen. Some frogs freeze solid in winter and thaw in spring. Many mountain plants grow low and close to the ground, out of the icy wind.
@@ -520,7 +520,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - **problem:** Every living thing near you has features that help them live where they live. In this project, over three days, you find ten living things near your home. For each one you write down the problem they face and the feature that helps them.
 - **safety:** Watch birds and animals from a window or balcony. Never touch or feed street animals.
 - **record:** One page for each living thing: their name, their problem, their feature, and how the feature helps. Add a drawing or a photo if you like.
-- **schedule:** day 1: From a window or balcony, find four living things, such as a crow, a pigeon, a potted plant and ants. Write one feature of each and the problem it solves. (20 min); day 2: In the kitchen or at the shop, find three more, such as a fish, a lotus stem or a cabbage. Write one feature of each. (20 min); day 3: Add three living things from books or this unit, from hot, cold, water and dark places. Make a page for each and share your notebook. (20 min)
+- **schedule:** day 1: From a window or balcony, find four living things, such as a crow, a pigeon, a potted plant and ants. Write one feature of each and the problem it solves. (20 min); day 2: In the kitchen or at the shop, find three more, such as a fish, a lotus stem or a cabbage. Write one feature of each. (20 min); day 3: Add three living things from books or this lesson, from hot, cold, water and dark places. Make a page for each and share your notebook. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Sit at a window or on a balcony for 10 minutes. 2. Ask your child to find four living things. 3. For each, write one feature and the problem it solves.  
   *Parent says:* Every living thing near us is adapted too. A crow has a strong beak. What problem does that solve? Let's start with the problem.  
@@ -532,9 +532,9 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Child mode:* Find three more in the kitchen or the shop. A fish? A lotus stem? Write a problem and a feature for each.
   - Note: If you buy a whole fish, look at their gills under the gill cover, and their streamlined shape. A cut lotus stem shows its air channels. A cabbage leaf shows its waxy coat with a drop of water.
 - **s3 (20 min)**  
-  *Parent does:* 1. Choose three more living things from this unit, from hot, cold, wet or dark places. 2. Make a page for each. 3. Share the whole notebook with someone at home.  
+  *Parent does:* 1. Choose three more living things from this lesson, from hot, cold, wet or dark places. 2. Make a page for each. 3. Share the whole notebook with someone at home.  
   *Parent says:* Now let's add three from far away. Can you explain each one, starting with their problem?  
-  *Child mode:* Add three more from this unit. Hot, cold, water or dark. Then show your notebook to someone.
+  *Child mode:* Add three more from this lesson. Hot, cold, water or dark. Then show your notebook to someone.
   - Check: Which is the best way to explain an adaptation? → **Say the problem, then how the feature helps: 'The desert has little water, so a camel's body loses very little.'**
 
 ## Challenges
@@ -653,7 +653,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    **Answer:** ['echolocation']. *Why:* Small bats and dolphins use echolocation.
 13. (sort) Sort these living things by the main problem their adaptation solves.  
    **Answer:** aloe vera's thick leaves → Saving water; a yak's long shaggy hair → Keeping warm; an owl's huge eyes → Living in the dark; a seal's blubber → Keeping warm; a cactus's waxy coat → Saving water; a bat's echolocation → Living in the dark. *Why:* Each feature answers one problem: water, cold or darkness.
-14. (write) Choose one animal from this unit. Write their problem first, then their feature, then how the feature helps.  
+14. (write) Choose one animal from this lesson. Write their problem first, then their feature, then how the feature helps.  
    **Answer:** For example: Ladakh is freezing. The snow leopard has thick fur. The fur traps still air, which slows down heat escaping from their body.. *Why:* A full answer has all three parts: problem, feature and how it helps.
 15. (draw) Draw a fat cactus and a big thin leaf. Draw arrows to show where water escapes from each. Which has more arrows?  
    **Answer:** The thin leaf has arrows all over its big surface. The cactus has fewer arrows for their size.. *Why:* Water escapes through the surface. The leaf has a lot of surface for the water it holds, the cactus has little.
@@ -757,8 +757,8 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - Ducks at a temple tank or a lake, with water running off their backs.
 - Fruit bats hanging in big trees in many Indian cities, and flying out at dusk.
 - Lotus stems, kamal kakdi or thamarai thandu, with their air holes, at the vegetable shop.
-- Mangrove forests with breathing roots at Pichavaram in Tamil Nadu, in Kerala's backwaters and in the Sundarbans.
-- Camels in the Thar Desert and on the beaches of Gujarat, and yaks in Ladakh and Sikkim.
+- Mangrove trees with breathing roots, by a creek or the sea.
+- Camels in the desert, and yaks in the mountains, in a picture or a zoo.
 
 ## Open questions
 - **Exactly why did cave fish lose their eyes?** Saving energy, side effects of better taste and touch, and broken genes that nobody weeds out may all play a part. Scientists still argue about how much each matters.
@@ -804,10 +804,10 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 ## Links
 - [Arignar Anna Zoological Park, Vandalur](https://www.aazp.in) · place · Chennai: See desert, mountain, water and night animals, and talk about the adaptations of each.
 - [Madras Crocodile Bank Trust](https://www.madrascrocodilebank.org) · place · Near Mamallapuram, Tamil Nadu: See crocodiles, turtles and other reptiles, and look for the eyes and nostrils on top of a crocodile's head.
-- [Pichavaram mangrove forest]() · place · Near Chidambaram, Tamil Nadu: Row a boat through narrow channels between mangroves, and look for breathing roots poking out of the mud.
-- [Sundarbans mangrove forest]() · place · South 24 Parganas, West Bengal: The world's largest mangrove forest. Go on a boat with a guide, and look for breathing roots poking out of the mud.
+- Pichavaram mangrove forest · place · Near Chidambaram, Tamil Nadu: Row a boat through narrow channels between mangroves, and look for breathing roots poking out of the mud.
+- Sundarbans mangrove forest · place · South 24 Parganas, West Bengal: The world's largest mangrove forest. Go on a boat with a guide, and look for breathing roots poking out of the mud.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for its galleries on living things and the environment.
-- [Desert National Park]() · place · Near Jaisalmer, Rajasthan: A protected part of the Thar Desert, with desert foxes, chinkara and the great Indian bustard. Go with the forest department's guides.
+- Desert National Park · place · Near Jaisalmer, Rajasthan: A protected part of the Thar Desert, with desert foxes, chinkara and the great Indian bustard. Go with the forest department's guides.
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group that studies snow leopards in the Himalaya and many other animals. Its website has stories and photos from the field.
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph a living thing near your home and others help name them. Good for the adaptation notebook.
 - [PhET Natural Selection](https://phet.colorado.edu/en/simulations/natural-selection) · simulation: For curious older children and parents: a free simulation where rabbits with different fur do better or worse in snow or desert, over many generations.
@@ -816,6 +816,8 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - [A roll of paper kitchen towels](https://www.amazon.in/s?k=kitchen+paper+towel+roll) (material): For the three wet leaves test and the desert leaf challenge. Old cotton cloth, cut into equal pieces, works too. Used in e1, c1. 
 - [A small digital kitchen scale that weighs in grams](https://www.amazon.in/s?k=digital+kitchen+scale+grams) (tool): Not needed, but it turns the three wet leaves test into numbers: weigh each towel at the start and at the end to see how much water escaped. Used in e1. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To look closely at leaf surfaces, water drops on a cabbage leaf, and the holes in a lotus stem. Used in a5. 
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Three Wet Leaves: which one keeps its water longest?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before Three Wet Leaves: which one keeps its water longest?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is an adaptation? → A feature of body or behaviour that helps a living thing live in their habitat.
@@ -835,8 +837,8 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song
 - Core: e1, e2, a1, g1, ws-core, e3
 
 ## Sources
-- ideas/by_topic/habitats-and-adaptation.md: read for this unit; its rows are mostly about ocean and air, so little was taken. Notebook items bio:124 and bio:125 are listed in the curriculum mapping.
-- DeepKids Combined lesson sci-C4-habitats-and-adaptation, experiment 'Three leaves in the sun' (flat, rolled and coated paper towels): taken as this unit's main investigation, with a milk-packet plastic coat in place of petroleum jelly on wet paper, and the tissue touch test.
+- ideas/by_topic/habitats-and-adaptation.md: read for this lesson; its rows are mostly about ocean and air, so little was taken. Notebook items bio:124 and bio:125 are listed in the curriculum mapping.
+- DeepKids Combined lesson sci-C4-habitats-and-adaptation, experiment 'Three leaves in the sun' (flat, rolled and coated paper towels): taken as this lesson's main investigation, with a milk-packet plastic coat in place of petroleum jelly on wet paper, and the tissue touch test.
 - DeepKids Combined lessons sci-C2 and sci-C5 habitats-and-adaptation (cactus, lotus, camel, snow leopard; adaptation versus acclimatisation; every adaptation is a trade-off): ideas reworked here.
 - Nearby units read so as not to repeat them: sci.habitats.habitats.L3 (curd bacteria, hydrothermal vents), sci.animals.vertebrate-groups.L3 (fur coat test, big and small bottles), sci.body.keeping-balance.L3 (sweaty tumbler, matka), sci.making-things.biomimicry.L3 (lotus leaf), sci.materials.using-materials.L3 (woollen sock).
 - Schmidt-Nielsen, K., Schmidt-Nielsen, B., Jarnum, S. A. and Houpt, T. R., 'Body temperature of the camel and its relation to water economy', American Journal of Physiology, 1957

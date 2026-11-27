@@ -2093,7 +2093,56 @@
    "why": "A science museum with exhibits on machines and motion, good for a family day out."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-tennis-ball",
+   "item": "Tennis ball or rubber ball, one",
+   "kind": "material",
+   "why": "The ball is dropped in the Bounce Test to see which things bounce back up. About ₹40 to ₹100 for a tennis ball at a sports or toy shop. Any old rubber ball from home works as well.",
+   "url": "https://www.amazon.in/s?k=tennis+ball",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy it before the Bounce Test."
+  },
+  {
+   "id": "b-spinning-top",
+   "item": "Spinning top, such as a bambaram",
+   "kind": "material",
+   "why": "The top shows that a thing can spin around a middle point in the Spin It activity. About ₹20 to ₹80 at a toy shop. A steel plate or a bottle cap spun on a table works as a stand-in.",
+   "url": "https://www.amazon.in/s?k=spinning+top",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Buy it only if you want it, since the activity works without it."
+  },
+  {
+   "id": "b-measuring-tape-motion",
+   "item": "Measuring tape, 3 metres or longer",
+   "kind": "tool",
+   "why": "It measures how far the dabba rolls or slides in centimetres, so the results can be compared. About ₹50 to ₹150 at a stationery or tailoring shop. Counting big steps along the floor is the household alternative.",
+   "url": "https://www.amazon.in/s?k=measuring+tape",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before the Roll or Slide Test."
+  },
+  {
+   "id": "b-print-motion",
+   "item": "Printed pages for the game cards, mats and worksheets, about 25 pages",
+   "kind": "material",
+   "why": "The two games use printed cards, mats and slips, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the whole set costs about ₹25 to ₹50.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the first game."
+  }
+ ],
  "warmup": [
   {
    "q": "Name the five ways things move.",

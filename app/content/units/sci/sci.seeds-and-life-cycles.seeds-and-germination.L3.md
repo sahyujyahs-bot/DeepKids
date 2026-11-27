@@ -1,7 +1,7 @@
 # Seeds: what a seed needs to sprout
 `sci.seeds-and-life-cycles.seeds-and-germination.L3`
 
-**Summary.** A dry moong seed can sit in a jar for a year, yet on a wet cloth it grows roots in a day or so. What wakes it? In this unit you will find the baby plant inside a seed and test five cups of moong to see what a seed needs.
+**Summary.** A dry moong seed can sit in a jar for a year, yet on a wet cloth it grows roots in a day or so. What wakes it? In this lesson you will find the baby plant inside a seed and test five cups of moong to see what a seed needs.
 
 **Intro.** *Hold a few dry moong seeds in your hand. They do not move, eat or grow. Are they alive? How could you find out?* Look in your kitchen. There are jars full of seeds: moong, chana, rajma, methi, rai and jeera. They can sit in a jar for a whole year and never change. But put a few moong seeds on a wet cloth tonight. If the room is warm, by tomorrow evening most of them will have a little white root. What changed? What was the seed waiting for?
 
@@ -837,9 +837,9 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L3): Topic-level song for Seeds, g
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including seed germination projects, for older children.
 - [Bose Institute](https://www.jcbose.ac.in) · place · Kolkata: The research institute founded by Jagadish Chandra Bose in 1917. Its museum shows his instruments for measuring how plants grow and respond.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A huge old botanic garden, home of the Great Banyan. It is one tree, grown from one tiny seed, that now looks like a small forest.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A famous garden with trees from all over the world. Look for seeds and fruits on the ground, and for the nursery where seedlings are raised.
-- [A plant nursery near you]() · place · anywhere: Ask the gardeners how they sprout seeds, how long each kind takes, and why some seeds are soaked first.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: A huge old botanic garden, home of the Great Banyan. It is one tree, grown from one tiny seed, that now looks like a small forest.
+- Lalbagh Botanical Garden · place · Bengaluru: A famous garden with trees from all over the world. Look for seeds and fruits on the ground, and for the nursery where seedlings are raised.
+- A plant nursery near you · place · anywhere: Ask the gardeners how they sprout seeds, how long each kind takes, and why some seeds are soaked first.
 - [NASA](https://www.nasa.gov) · interactive: Search the site for 'Moon trees' to find where the trees grown from Apollo 14's seeds are planted.
 
 ## Things to buy
@@ -850,6 +850,10 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L3): Topic-level song for Seeds, g
 - [Magnifying glass for children](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Helps find the tiny baby plant inside a split bean. Used in a1. 
 - [A Seed Is Sleepy, by Dianna Hutts Aston, illustrated by Sylvia Long](https://www.amazon.in/s?k=A+Seed+Is+Sleepy+Dianna+Hutts+Aston) (book): A beautiful picture book about how seeds wait, travel and wake, with accurate painted seeds and sprouts. Used in a1. 
 - [Lab Girl, by Hope Jahren](https://www.amazon.in/s?k=Lab+Girl+Hope+Jahren) (book): For the parent: a plant scientist's memoir, with short, lovely chapters on how a seed waits and then commits to growing. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in My Seed Friend: a sprouting diary, Fastest Sprouts. About ₹10 to ₹30. Any school ruler is fine. Used in p1, c1. Get it before My Seed Friend: a sprouting diary.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Five-Cup Test: what wakes a seed?, The Warm Flask: do sprouting seeds breathe?. About ₹20 to ₹50. Torn clean cloth works. Used in e1, e2. Get it before The Five-Cup Test: what wakes a seed?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Five-Cup Test: what wakes a seed?, Can Dal Sprout? Whole seeds against split and roasted ones, Seeds for the Moon Base. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, a2, c2. Get it before The Five-Cup Test: what wakes a seed?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the three parts of a seed? → The seed coat, the baby plant and the food store.

@@ -3764,6 +3764,83 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in Seedlings Without Soil: do plants need minerals?, Soil in a Jar: what is soil made of?, Liebig's Bottle: the shortest plank sets the level. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a1",
+    "a5",
+    "p1"
+   ],
+   "plan": "Get it before Seedlings Without Soil: do plants need minerals?."
+  },
+  {
+   "id": "b-a-dropper",
+   "item": "A dropper",
+   "kind": "tool",
+   "why": "Used in Seedlings Without Soil: do plants need minerals?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Seedlings Without Soil: do plants need minerals?."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Liebig's Bottle: the shortest plank sets the level. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before Liebig's Bottle: the shortest plank sets the level."
+  },
+  {
+   "id": "b-clean-sand--a-small-bag",
+   "item": "Clean sand (a small bag)",
+   "kind": "material",
+   "why": "Used in Soil Breath: how much air is hiding in soil?, The Pot That Never Drowns: design a pot that drains well and still holds water. About ₹20 to ₹60. Fine soil sieved from a pot works.",
+   "url": "https://www.amazon.in/s?k=play+sand+small+bag",
+   "used_in": [
+    "e1",
+    "c1"
+   ],
+   "plan": "Get it before Soil Breath: how much air is hiding in soil?."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in Seedlings Without Soil: do plants need minerals?, Roots Need to Breathe: cuttings in boiled water with and without air, Find the Pink Factories: nodules on a bean's roots. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "e2",
+    "e3",
+    "a3",
+    "c2"
+   ],
+   "plan": "Get it before Seedlings Without Soil: do plants need minerals?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

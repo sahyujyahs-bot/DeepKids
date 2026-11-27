@@ -2628,6 +2628,64 @@
    "used_in": [
     "e2"
    ]
+  },
+  {
+   "id": "b-wooden-skewers",
+   "item": "Wooden skewers, a pack of 10",
+   "kind": "material",
+   "why": "The skewer is the beam of the homemade balance that the steel wool hangs from. About ₹20 to ₹40 for a pack at a kitchen or general store. A thin dry stick from the garden works as the household alternative.",
+   "url": "https://www.amazon.in/s?k=wooden+skewers",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy them before you build the steel wool balance."
+  },
+  {
+   "id": "b-modelling-clay-fire",
+   "item": "Modelling clay, one small ball",
+   "kind": "material",
+   "why": "It is pressed onto one end of the stick to balance it finely on the thread. About ₹40 to ₹100 for a small block at a stationery shop. Sticky tape does the same job.",
+   "url": "https://www.amazon.in/s?k=modelling+clay",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Buy it before you build the steel wool balance."
+  },
+  {
+   "id": "b-baking-soda",
+   "item": "Baking soda or khane ka soda, about 3 tablespoons",
+   "kind": "material",
+   "why": "It reacts with the vinegar to make carbon dioxide, which puts the candle out in the Pour Out a Fire project. About ₹20 to ₹40 for a small packet at a kirana shop. Use baking soda or khane ka soda, but not baking powder.",
+   "url": "https://www.amazon.in/s?k=baking+soda",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Check your kitchen first, and buy it before you make carbon dioxide in the Pour Out a Fire project."
+  },
+  {
+   "id": "b-white-vinegar",
+   "item": "White vinegar, about 100 millilitres",
+   "kind": "material",
+   "why": "It is poured onto the baking soda to make the carbon dioxide in the Pour Out a Fire project. About ₹40 to ₹80 for a small bottle at a grocery shop. Most kitchens already have some, so check first.",
+   "url": "https://www.amazon.in/s?k=white+vinegar",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Check your kitchen first, and buy it before the Pour Out a Fire project."
+  },
+  {
+   "id": "b-print-fire",
+   "item": "Printed pages for the sorting cards, tokens and worksheets, about 10 pages",
+   "kind": "material",
+   "why": "The sorting game uses 20 two-sided cards and 12 printed tokens, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print these before the sorting game."
   }
  ],
  "warmup": [

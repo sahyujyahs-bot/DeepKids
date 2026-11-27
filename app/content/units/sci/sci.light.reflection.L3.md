@@ -1,7 +1,7 @@
 # Reflection: how mirrors reflect light and make images
 `sci.light.reflection.L3`
 
-**Summary.** Why does a mirror show your face, but a white wall does not? In this unit you will aim a torch beam at a mirror to see where it goes, write secret mirror messages, and count how many toys you see with two mirrors.
+**Summary.** Why does a mirror show your face, but a white wall does not? In this lesson you will aim a torch beam at a mirror to see where it goes, write secret mirror messages, and count how many toys you see with two mirrors.
 
 **Intro.** *Pick up a steel spoon. Look at your face in the inside of the bowl. Now turn the spoon over and look at the back. What happened to your face?* Inside the spoon, your face is upside down. On the back, it is the right way up, but small. The spoon makes no light of its own. Light from the room falls on your face. It bounces off your face to the spoon, and then into your eyes. This is called reflection. The two sides of the spoon curve in opposite ways, so they send the light back differently.
 
@@ -776,14 +776,14 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 - Barbers and tailors use two or three mirrors so you can see the back of your head.
 
 ## Spotted around us
-- Mirror-work embroidery from Kutch and Rajasthan, with tiny mirrors stitched onto cloth.
-- The Sheesh Mahal, the palace of mirrors at Amber Fort near Jaipur.
+- Mirror-work embroidery, with tiny mirrors stitched onto cloth.
+- A palace hall of mirrors, or any room with many small mirrors in the walls.
 - The Taj Mahal, reflected upside down in its long water pool.
 - The backwards word AMBULANCE on the front of an ambulance.
 - Round convex mirrors on sharp bends of ghat roads.
 - Your face in a steel plate, a tumbler or a kitchen ladle.
 - Cat's eyes glowing in the middle of a highway at night.
-- An Aranmula kannadi, the hand-made metal mirror of Kerala.
+- A hand-made metal mirror, which shines like glass but is made of polished metal.
 - A still lake or temple tank at dawn, with the sky and trees mirrored in it.
 
 ## Open questions
@@ -844,6 +844,11 @@ Follow the Light (sci.light.L3): Topic-level song
 - [A small LED torch](https://www.amazon.in/s?k=small+led+torch) (tool): Makes the thin beam in the torch-and-mirror test and lights the games and challenges. Used in e1, g2, c1. 
 - [30 cm ruler](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures where the bounced beam lands, and draws straight light rays. Used in e1. 
 - [Mirror, a picture book by Jeannie Baker (2010)](https://www.amazon.in/s?k=Mirror+Jeannie+Baker) (book): A wordless book of two families, one in Sydney and one in Morocco, read side by side like reflections. Used in a8. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Catch the Beam: where does light go after it hits a mirror?, Light the Hidden Toy. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e1, c1. Get it before Catch the Beam: where does light go after it hits a mirror?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in How Big a Mirror Do You Need?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a6. Get it before How Big a Mirror Do You Need?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Catch the Beam: where does light go after it hits a mirror?, Make a Kaleidoscope, Light the Hidden Toy. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e1, p1, c1. Get it before Catch the Beam: where does light go after it hits a mirror?.
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in Make a Kaleidoscope. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in p1. Get it before Make a Kaleidoscope.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is a mirror a light source? → No. It only reflects light.

@@ -1,9 +1,9 @@
 # Plants of India: how a plant's own protection became our medicine
 `sci.plants.plant-variety.L4`
 
-**Summary.** A clove is a dried flower bud, and the strong-smelling chemical inside it keeps moulds and insects away. In this unit you will test whether haldi and clove stop mould growing on potato, ask your elders about family plant medicines, and find which money plant cuttings grow roots.
+**Summary.** A clove is a dried flower bud, and the strong-smelling chemical inside it keeps moulds and insects away. In this lesson you will test whether haldi and clove stop mould growing on potato, ask your elders about family plant medicines, and find which money plant cuttings grow roots.
 
-**Intro.** *Open your spice box. Pick up one clove and look at it closely. Roll it between your fingers, then smell your fingers. That smell is strong. Who is the smell for?* A clove is not a seed or a stick. It is a flower bud, picked before it opened and dried in the sun. The bud is soft and full of food, so moulds and insects would love to eat it. Yet a clove bud keeps for months in a jar without going mouldy. Many grandmothers put a few cloves or dry neem leaves in the rice and dal tins. Is that only an old habit, or does it really work? In this unit you test it fairly, with numbers. Then you find out why so many medicines began inside plants.
+**Intro.** *Open your spice box. Pick up one clove and look at it closely. Roll it between your fingers, then smell your fingers. That smell is strong. Who is the smell for?* A clove is not a seed or a stick. It is a flower bud, picked before it opened and dried in the sun. The bud is soft and full of food, so moulds and insects would love to eat it. Yet a clove bud keeps for months in a jar without going mouldy. Many grandmothers put a few cloves or dry neem leaves in the rice and dal tins. Is that only an old habit, or does it really work? In this lesson you test it fairly, with numbers. Then you find out why so many medicines began inside plants.
 
 ## Learning outcomes
 0. I can explain why many plants make strong chemicals, and how those chemicals protect them.
@@ -790,12 +790,12 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 
 ## Spotted around us
 - Dry neem leaves in a rice or dal tin in the kitchen.
-- Neem flowers and jaggery in the Ugadi pachadi, eaten in Karnataka, Andhra Pradesh and Telangana, bitter and sweet in one bite.
-- Amaltas, called kanikonna in Kerala, in yellow bloom in April, and their flowers arranged for Vishu.
-- Palash turning a forest edge in Jharkhand or Madhya Pradesh orange-red in spring.
+- Neem flowers and jaggery in the Ugadi pachadi, bitter and sweet in one bite.
+- Amaltas trees in yellow bloom in April, and their flowers arranged for Vishu.
+- Palash trees turning a forest edge orange-red in spring.
 - A money plant cutting rooting in a glass bottle on a windowsill in a flat.
-- Mahua flowers collected from the ground early in the morning in central India.
-- A kavu, a small sacred grove, beside a home or temple in Kerala.
+- Mahua flowers collected from the ground early in the morning.
+- A small sacred grove, a patch of old trees beside a home or temple.
 - Lantana bushes with small multicoloured flowers along a forest road or a railway line.
 
 ## Open questions
@@ -846,14 +846,20 @@ Plants of India (sci.plants.L4): Topic-level song
 - [Traditional Knowledge Digital Library (TKDL)](https://www.tkdl.res.in/) · interactive: For the parent: India's library of traditional medicine knowledge, made so that patent offices can check it.
 - [Flowers of India](https://www.flowersofindia.net/) · interactive: Look up the trees and flowers from Indian or Visitor? and find where each one first came from.
 - [iNaturalist](https://www.inaturalist.org/) · interactive: With a grown-up, photograph a plant and get a suggested name. Scientists check the records.
-- [Eravikulam National Park]() · place · Munnar, Kerala: Grassy hills where neelakurinji blooms about every 12 years, and the endangered Nilgiri tahr lives.
-- [Mawphlang Sacred Forest]() · place · Mawphlang, near Shillong, Meghalaya: One of India's best-known sacred groves. Local guides lead walks through the old forest.
-- [Jawaharlal Nehru Tropical Botanic Garden and Research Institute]() · place · Palode, Thiruvananthapuram, Kerala: The research garden whose scientists worked with the Kani people on arogyapaacha and Jeevani. It has large collections of Western Ghats plants.
+- Eravikulam National Park · place · Munnar, Kerala: Grassy hills where neelakurinji blooms about every 12 years, and the endangered Nilgiri tahr lives.
+- Mawphlang Sacred Forest · place · Mawphlang, near Shillong, Meghalaya: One of India's best-known sacred groves. Local guides lead walks through the old forest.
+- Jawaharlal Nehru Tropical Botanic Garden and Research Institute · place · Palode, Thiruvananthapuram, Kerala: The research garden whose scientists worked with the Kani people on arogyapaacha and Jeevani. It has large collections of Western Ghats plants.
 
 ## Things to buy
 - [Zip bags or small clear plastic boxes with lids](https://www.amazon.in/s?k=zip+lock+bags+small) (material): To keep the Spice Guard potato squares sealed while you count mould through the plastic. Clean food boxes from the kitchen work too. Used in e1. 
 - [A 30 cm ruler with millimetre marks](https://www.amazon.in/s?k=30+cm+scale+ruler) (tool): To measure roots and shoots in millimetres in the Node Test, Too Much Water? and the herb pot. Used in e2, e3, p1. 
 - [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Optional. To look closely at nodes, new roots and the first threads of mould. A simple lens costs about Rs 50 to 100 at a stationery shop. Used in e1, e2, p1. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Holiday Water: keep a pot plant alive for a week alone. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in c1. Get it before Holiday Water: keep a pot plant alive for a week alone.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Too Much Water? Methi seedlings in three cups. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e3. Get it before Too Much Water? Methi seedlings in three cups.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Holiday Water: keep a pot plant alive for a week alone. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in c1. Get it before Holiday Water: keep a pot plant alive for a week alone.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Spice Guard: do haldi and clove stop mould on potato?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before Spice Guard: do haldi and clove stop mould on potato?.
+- [Iron nails or iron filings](https://www.amazon.in/s?k=iron+filings+science) (material): Used in Too Much Water? Methi seedlings in three cups, Holiday Water: keep a pot plant alive for a week alone. About ₹20 to ₹80. Short steel nails from a hardware shop. Used in e3, c1. Get it before Too Much Water? Methi seedlings in three cups.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - A clove is a dried flower ____. → Bud.

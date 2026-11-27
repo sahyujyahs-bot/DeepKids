@@ -1,7 +1,7 @@
 # Metabolism: how your cells break food down, build you up and keep you warm
 `sci.body.energy-from-food.L5`
 
-**Summary.** A tumbler of warm water left on the table is cool within the hour. Your body has stayed warm for years, day and night, with no stove inside it. Where does the warmth come from? In this unit you feed living yeast four different foods and measure the gas they make. You find out what a cell does with food: it breaks some of it down for energy, and uses that energy to build and repair the body. Heat escapes at every step, and that is why you are warm, and a little warmer after a meal.
+**Summary.** A tumbler of warm water left on the table is cool within the hour. Your body has stayed warm for years, day and night, with no stove inside it. Where does the warmth come from? In this lesson you feed living yeast four different foods and measure the gas they make. You find out what a cell does with food: it breaks some of it down for energy, and uses that energy to build and repair the body. Heat escapes at every step, and that is why you are warm, and a little warmer after a meal.
 
 **Intro.** *Put your palm on your cheek. It is warm. It was warm while you slept last night, and it will be warm tomorrow. A tumbler of warm water goes cool in an hour. So why do you never go cool?* Say what you think, and why. Then try the first activity, Warmer Than the Room. You will set a tumbler of warm water beside you and see which of you stays warm. After that you will feed yeast, who are tiny living beings, and see what they do with food. By the end you will know where your warmth comes from. You will also know why a meal makes you feel warmer.
 
@@ -436,7 +436,7 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
   *Child mode:* The water lost its heat. You did not go cool. Why not? Say your best idea.
   - Ask: You were losing heat to the room too. What must be happening inside you? (good: My body must be making new heat all the time.; Something in me keeps replacing the heat I lose.)
   - Ask: Where could that heat be coming from? (good: From food.; From my muscles or my blood.; I am not sure yet.)
-  - Note: Take any idea. 'From food' is right, and this unit explains how. A wrapped tumbler also cools, only more slowly. You can try it with a second tumbler.
+  - Note: Take any idea. 'From food' is right, and this lesson explains how. A wrapped tumbler also cools, only more slowly. You can try it with a second tumbler.
   - Think: Would the water have stayed warm if you had wrapped the tumbler in a shawl?
 ### a2 · The Wall Sit: feel a muscle use its fuel (10 min)
 - **safety:** Do this in bare feet or shoes, not socks. Stop at once if a knee hurts. A child with a knee or leg injury should not do it.
@@ -740,7 +740,7 @@ Kathir folded Paatti's shawl. He looked at it for a moment.
 - A street dog curled into a tight ball on a cold night. A ball has less surface for heat to leave, so the dog needs less fuel.
 - A sunbird visiting flower after flower without stopping. A small warm body must be fed again and again.
 - A rock python or a rat snake lying still for days after a meal. Their body is working hard on it.
-- Your own breath showing as mist on a cold morning in Ooty, Munnar or Shimla. It carries water and carbon dioxide from your cells.
+- Your own breath showing as mist on a cold morning. It carries water and carbon dioxide from your cells.
 - A sparrow fluffed up into a ball on a wire in winter, holding in the heat that their cells make.
 - Wedding guests who feel warm and sleepy after a big lunch on a banana leaf.
 
@@ -795,6 +795,12 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - [Dry yeast (instant or active dry), one small packet](https://www.amazon.in/s?k=instant+dry+yeast) (material): The Yeast Fuel Test and the Balloon Race need living yeast. Supermarkets and bakery shops sell small packets for about 30 to 60 rupees. Used in e1, c2. 
 - [A packet of balloons, all the same size](https://www.amazon.in/s?k=party+balloons) (material): Four balloons catch the gas in the Yeast Fuel Test, and the Balloon Race needs two or three more. Used in e1, c2. 
 - [A digital fever thermometer](https://www.amazon.in/s?k=digital+thermometer+fever) (tool): Most homes have one. The Lunch Test and Hold It at 37 need it, and it is useful in Warmer Than the Room. Used in e2, c1, a1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?, Grown in the Dark: what does a seedling build with, when there is no light?, The Balloon Race: get the most gas from one teaspoon of sugar. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1, c2. Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?.
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e1. Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in Grown in the Dark: what does a seedling build with, when there is no light?. About ₹20 to ₹50. Torn clean cloth works. Used in p1. Get it before Grown in the Dark: what does a seedling build with, when there is no light?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Twenty Beans: where does a resting body spend its energy?, Grown in the Dark: what does a seedling build with, when there is no light?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3, p1. Get it before Twenty Beans: where does a resting body spend its energy?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Yeast Fuel Test: which foods can a yeast cell break down for energy?. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1. Get it before The Yeast Fuel Test: which foods can a yeast cell break down for energy?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the word for all the chemical changes in a living cell? → Metabolism.
@@ -816,7 +822,7 @@ This Body Is a Universe (sci.body.L5): Topic-level song
 - Founder's SCI Card for Gerty Cori in ideas/by_topic/body-parts-and-skeleton.md ('Your muscles don't burn fuel and throw away the waste, they recycle it'): used in the energy stores card, the lactate card, the Wall Sit and the worksheets.
 - Founder's grade concept grids for Energy and Entropy in ideas/by_topic/energy.md ('Metabolic efficiency is less than 100%', 'Do living things break entropy? They export disorder', 'food to motion'): used in the heat card and in the challenging views.
 - Founder's SCI Card for Yellapragada SubbaRow, and the Combined lesson sci-C5-energy ('Your body uses energy even now', 'Food: the energy that keeps living beings going', 'Subbarow and the energy coin of the cell'): used in the ATP card. Its story and its burning cashew are not repeated.
-- The prerequisite unit sci.food.nutrients.L4 (Burning Nuts, respiration, the kilocalorie) and the Class 5 units on digestion and keeping balance, which this unit builds on and does not repeat.
+- The prerequisite unit sci.food.nutrients.L4 (Burning Nuts, respiration, the kilocalorie) and the Class 5 units on digestion and keeping balance, which this lesson builds on and does not repeat.
 - Schoenheimer, R. and Rittenberg, D., 'Deuterium as an indicator in the study of intermediary metabolism', Journal of Biological Chemistry, 1935 onward. Schoenheimer, R., The Dynamic State of Body Constituents, Harvard University Press, 1942
 - Cori, C. F. and Cori, G. T., 'Glycogen formation in the liver from d- and l-lactic acid', Journal of Biological Chemistry 81, 1929. Nobel Prize in Physiology or Medicine 1947
 - Fiske, C. H. and SubbaRow, Y., 'Phosphorus compounds of muscle and liver', Science 70, 1929 (ATP)

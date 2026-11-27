@@ -1,9 +1,9 @@
 # Nerves and hormones: the body's fast messages and slow messages
 `sci.body.messages-in-the-body.L4`
 
-**Summary.** Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this unit you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.
+**Summary.** Your body does some things before you decide, and sends some messages through the blood. How fast are they? In this lesson you will test what your body does before you choose, time a hormone message with water, and see what makes your mouth water with a lemon.
 
-**Intro.** *You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?* A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this unit you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.
+**Intro.** *You step on a sharp plastic brick in the dark. Your foot lifts before you can say 'ow'. You did not choose to lift it. So who told your leg to move?* A nerve carried the message. It went from your foot to your spinal cord, which runs inside your backbone. The spinal cord sent a message straight back to your leg muscles. Your brain heard about it a moment later. A quick answer like this is called a reflex. Your body also sends slow messages. They are chemicals called hormones, and they travel in your blood. A hormone told your bones to grow this year. In this lesson you time a slow message with two tumblers of water. You also test a reflex with drops of lemon juice.
 
 ## Learning outcomes
 0. I can say what a nerve signal is, and how it passes from one nerve cell to the next.
@@ -138,7 +138,7 @@ Chemical messages are far older than nerves. Bacteria give off chemicals that ot
   Against: Nobody has measured such strength in a test, because it would be wrong to frighten people that badly. The stories cannot be checked.
 
 ## Roots
-In this unit you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.
+In this lesson you timed a slow message with two tumblers of water. You watched a fast one start with drops of lemon juice. Here we ask what these messages say about who is in charge of a body.
 
 **Deep truth.** In the Lemon Test, your mouth watered within seconds of the juice touching your tongue. In the Water Message Test, your kidneys answered the drink many minutes later. So the parts of your body get news at different times. There is no single moment when all of you knows something.  
 *Habit it breaks:* We picture ourselves as one knower in the head. This knower learns each thing at one moment and then tells the body. But the saliva glands, the spinal cord and the kidneys each receive messages and answer on their own time.  
@@ -150,7 +150,7 @@ In this unit you timed a slow message with two tumblers of water. You watched a 
 
 You began as one cell. That cell divided again and again, and the cells became different from each other: skin, nerve, kidney and bone. Messages are what keep those trillions of cells working as one body. Many traditions teach that everything comes from one source and stays joined to it. In a body you can see one way this is true. The many parts stay one body because they never stop sending each other news.
 
-- **Chandogya Upanishad 5.1.6 to 5.1.15:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay. (The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This unit found the same thing in the way the parts send and answer messages.)
+- **Chandogya Upanishad 5.1.6 to 5.1.15:** “सा ह वागुच्चक्राम / सा संवत्सरं प्रोष्य पर्येत्योवाच / अथ ह प्राण उच्चिक्रमिषन्स यथा सुहयः पड्वीशशङ्कून्संखिदेदेवमितरान्प्राणान्समखिदत् / भगवन्नेधि / त्वं नः श्रेष्ठोऽसि” Speech, sight, hearing and the mind quarrel over who is the greatest. Each leaves the body for a year, and the body lives on without them. When the breath begins to leave, all the others are pulled up with it. They beg the breath to stay. (The story is about the breath, and it knows nothing of nerves or hormones. Yet it pictures a body as many powers that depend on each other, with none of them ruling alone. This lesson found the same thing in the way the parts send and answer messages.)
 - **Zhuangzi, chapter 2, 'Discussion on Making All Things Equal':** “百骸九竅六藏，賅而存焉，吾誰與爲親？ / 汝皆悅之乎？ / 其有私焉？ / 如是，皆有爲臣妾乎？ / 其臣妾不足以相治乎？ / 其遞相爲君臣乎？” Zhuangzi lists the hundred joints, the nine openings and the six organs of his body. He asks which of them he should feel closest to. He asks whether they are all servants, or whether they take turns as ruler. He leaves the question open. (This is the question that a reflex raises. Your spinal cord moved your hand, your kidneys answered the water, and your brain was told afterwards. Zhuangzi's question about which part rules is still a fair one.)
 - Science (settled): The gut has its own net of several hundred million neurons. It moves food along by its own reflexes, even when its nerves to the brain are cut. Bayliss and Starling showed this in 1899.
 - Science (debated): In 1983 Benjamin Libet recorded brain activity before people moved a finger. It began a fraction of a second before they said they had decided. Scientists still argue about what this means for how we decide.
@@ -737,6 +737,10 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 ## Things to buy
 - [A small bottle of food colour](https://www.amazon.in/s?k=food+colour+liquid) (material): For the drop of colour in A Tug and a Drop. Ink, or strong tea or coffee decoction, also works, so buy it only if you want to. Used in a4. 
 - [Aroused: The History of Hormones and How They Control Just About Everything, a book by Randi Hutter Epstein (2018)](https://www.amazon.in/s?k=Aroused+History+of+Hormones+Randi+Hutter+Epstein) (book): For the parent: the stories of how hormones were found, including the test of 1902. Used in e1. During the waits in the Water Message Test, a parent can read the first chapters for their own interest.
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Wool Paths: measure a reflex path on your own body. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a3. Get it before Wool Paths: measure a reflex path on your own body.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in Squeeze Chain: time a nerve message through two bodies. About ₹150 to ₹400. A phone stopwatch works well. Used in a2. Get it before Squeeze Chain: time a nerve message through two bodies.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Wool Paths: measure a reflex path on your own body. About ₹10 to ₹30. Any school ruler is fine. Used in a3. Get it before Wool Paths: measure a reflex path on your own body.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the two ways the body sends messages. → Nerve signals along nerve fibres, and hormones in the blood.
@@ -754,7 +758,7 @@ This Body Is a Universe (sci.body.L4): Topic-level song
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources
-- Founder's notebook, Biology list: 'Nervous & endocrine integration' and 'Endocrine system'. This unit takes fast messages by nerves, slow messages by hormones, and reflexes, as the curriculum says. The glands one by one, adrenaline in detail and the hormones of growth and sleep are left for sci.body.messages-in-the-body.L5.
+- Founder's notebook, Biology list: 'Nervous & endocrine integration' and 'Endocrine system'. This lesson takes fast messages by nerves, slow messages by hormones, and reflexes, as the curriculum says. The glands one by one, adrenaline in detail and the hormones of growth and sleep are left for sci.body.messages-in-the-body.L5.
 - Founder's SCI Card on Candace Pert (receptors as locks that only certain molecules fit) gave the lock and key picture used for hormone receptors here.
 - Other units were read so that nothing repeats. The Ruler Drop and the Helmholtz story are in sci.senses.five-senses.L4. The knee kick Stop Test is in sci.animal-behaviour.born-knowing.L2. Pulse after a fright or exercise is in sci.body.heart-blood-breath.L4, sci.body.organs-inside.L4 and sci.body.keeping-balance.L4. The pupil tests are in the light units. Insulin and the Sugar See-Saw are in sci.body.keeping-balance.L4. None of these is used here.
 - Bayliss W.M., Starling E.H. (1902). The mechanism of pancreatic secretion. Journal of Physiology 28: 325-353.

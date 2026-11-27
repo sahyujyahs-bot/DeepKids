@@ -1,9 +1,9 @@
 # Straight, round, back and forth: the paths moving things take
 `sci.motion.kinds-of-motion.L2`
 
-**Summary.** Swing keys round on a string: from above you see a circle, but from the side it looks like a swing. How can one motion look like two? In this unit you will hunt for straight, round and back and forth paths at home, and walk with your eyes shut.
+**Summary.** Swing keys round on a string: from above you see a circle, but from the side it looks like a swing. How can one motion look like two? In this lesson you will hunt for straight, round and back and forth paths at home, and walk with your eyes shut.
 
-**Intro.** *Draw a straight line in the air with your finger. Now draw a circle. Now wave your finger back and forth. Those are the three paths.* A path is the way a thing goes as it moves. A ball rolled down a corridor goes in a straight line. The tip of a fan blade goes round and round. A swing goes back and forth. Some things start moving by themselves, like an ant or a crow. Others move only when something pushes or pulls them, like a ball. In this unit you hunt for all three paths, and test one surprise: can a round path look like a back-and-forth one?
+**Intro.** *Draw a straight line in the air with your finger. Now draw a circle. Now wave your finger back and forth. Those are the three paths.* A path is the way a thing goes as it moves. A ball rolled down a corridor goes in a straight line. The tip of a fan blade goes round and round. A swing goes back and forth. Some things start moving by themselves, like an ant or a crow. Others move only when something pushes or pulls them, like a ball. In this lesson you hunt for all three paths, and test one surprise: can a round path look like a back-and-forth one?
 
 ## Learning outcomes
 0. By the end I can name the three paths things move in: straight, round, and back and forth.
@@ -519,12 +519,12 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 - Engineers use the maths of circles to work out how swings and springs move back and forth. They can do this because a swing's motion follows the same pattern as a round motion seen from the side.
 
 ## Spotted around us
-- A Mumbai local train runs straight along the tracks.
-- A giant wheel turns at a Durga Puja mela in Kolkata.
-- A cloth cradle rocks back and forth in a home in Kerala.
-- Boatmen pull their oars back and forth at the ghats in Varanasi.
-- Women draw round kolam patterns at a doorstep in Madurai.
-- Pigeons and crows take off from a balcony in Pune.
+- A local train runs straight along the tracks.
+- A giant wheel turns at a mela.
+- A cloth cradle rocks back and forth in a home.
+- Boatmen pull their oars back and forth at a river ghat.
+- Women draw round kolam patterns at a doorstep.
+- Pigeons and crows take off from a balcony.
 
 ## Open questions
 - **Why do people walk in circles when they cannot see?** Scientists tested people walking with their eyes covered in a big field, and many walked in circles. Each person drifted in their own way. Scientists are still working out exactly why the small turns build up.
@@ -558,10 +558,15 @@ Straight, Round, Back and Forth (sci.motion.L2): Topic-level song for Motion L2
 
 ## Links
 - [StoryWeaver, free picture books from Pratham Books](https://storyweaver.org.in/) · interactive: For the parent: free picture books in many Indian languages to read aloud. Search for books about wheels, swings, kites and ants.
-- [Nehru Science Centre]() · place · Mumbai: A science centre with hands-on exhibits on motion, good for a family day out.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum with a planetarium, good for seeing how the Moon and planets go round.
+- Nehru Science Centre · place · Mumbai: A science centre with hands-on exhibits on motion, good for a family day out.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum with a planetarium, good for seeing how the Moon and planets go round.
 
 ## Things to buy
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Buzz the Ruler: back and forth too fast to see, Draw a Round Path Without Tracing. About ₹10 to ₹30. Any school ruler is fine. Used in a3, c1. Get it before Buzz the Ruler: back and forth too fast to see.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Seedlings Who Lean to the Light. About ₹20 to ₹50. Torn clean cloth works. Used in p1. Get it before The Seedlings Who Lean to the Light.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Seedlings Who Lean to the Light. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before The Seedlings Who Lean to the Light.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Seedlings Who Lean to the Light. About ₹30 to ₹60. Newspaper cut into strips also works. Used in p1. Get it before The Seedlings Who Lean to the Light.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the three paths things move in. → Straight, round, and back and forth.
@@ -578,7 +583,7 @@ Straight, Round, Back and Forth (sci.motion.L2): Topic-level song for Motion L2
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md, 'Motion & Position': 'Skit of two observers debating who is moving' became the keys test and the Kavya and Farhan perspective question, 'swing a pendulum' became the shadow game, and 'journal of movements noticed today' became the Path Hunt.
-- The Level 1 unit on kinds of motion uses five ways of moving (roll, slide, spin, swing, bounce), a roll-or-slide push test, a bounce test, a swinging bag and a toy swing. This unit moves on to three paths and to what starts a motion, with a new main test (keys seen from two places), an eyes-shut walking test, a vibrating ruler, a seedling project and a circle-drawing challenge.
+- The Level 1 unit on kinds of motion uses five ways of moving (roll, slide, spin, swing, bounce), a roll-or-slide push test, a bounce test, a swinging bag and a toy swing. This lesson moves on to three paths and to what starts a motion, with a new main test (keys seen from two places), an eyes-shut walking test, a vibrating ruler, a seedling project and a circle-drawing challenge.
 - Uniform circular motion seen edge-on, or projected as a shadow, is simple harmonic motion, the same pattern as a small pendulum swing. Any introductory physics text.
 - Galileo Galilei, Sidereus Nuncius (The Starry Messenger), Venice, March 1610: observations of Jupiter's moons from 7 January 1610. Simon Marius, Mundus Iovialis, 1614, with the names Io, Europa, Ganymede and Callisto.
 - Souman, J. L., Frissen, I., Sreenivasa, M. N. and Ernst, M. O. (2009). Walking straight into circles. Current Biology 19, 1538-1542.

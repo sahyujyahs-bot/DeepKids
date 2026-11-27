@@ -1856,7 +1856,44 @@
    "why": "Where Chinnu built her sandcastle. Try the wave breath: breathe in as a wave comes in, and out as it goes back."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-food-colour",
+   "item": "Food colour",
+   "kind": "material",
+   "why": "Used in The Settling Bottle: watch it, and breathe. About ₹20 to ₹60. Turmeric or a drop of ink in water also colours it.",
+   "url": "https://www.amazon.in/s?k=food+colour+liquid",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Settling Bottle: watch it, and breathe."
+  },
+  {
+   "id": "b-a-small-toy-car-with-free-ro",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "Used in A Cheer-Up Box for Someone at Home. About ₹100 to ₹200. A marble or a round torch cell works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Get it before A Cheer-Up Box for Someone at Home."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "Name three feelings.",
@@ -1963,21 +2000,32 @@
     "source": "Bhagavad Gita 2.14",
     "teaching": "Krishna tells Arjuna that heat and cold, joy and sorrow, come from the senses meeting the world. They come and they go, and they do not last. So bear them patiently.",
     "link": "My Feelings Chart showed the same thing: joy and sorrow came and went in one day. Waiting patiently with a feeling lets it change.",
-    "verse": ["मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।", "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"],
+    "verse": [
+     "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+     "आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।"
+    ],
     "verse_lang": "sa"
    },
    {
     "source": "Dhammapada, verse 5",
     "teaching": "Hatred is never ended by more hatred. It is ended only by letting go of hatred.",
     "link": "Scientists found the same about anger: hitting and shouting keep anger going. Calming down lets it go.",
-    "verse": ["Na hi verena verāni,", "sammantīdha kudācanaṁ;", "Averena ca sammanti,", "esa dhammo sanantano."],
+    "verse": [
+     "Na hi verena verāni,",
+     "sammantīdha kudācanaṁ;",
+     "Averena ca sammanti,",
+     "esa dhammo sanantano."
+    ],
     "verse_lang": "pi"
    },
    {
     "source": "Tirukkural 303, by Thiruvalluvar",
     "teaching": "Let go of anger towards anyone, because harmful things come from it.",
     "link": "Anger is a normal feeling. But when we act on it by hitting or shouting, we and other people get hurt. Letting it settle first helps everyone.",
-    "verse": ["மறத்தல் வெகுளியை யார்மாட்டும் தீய", "பிறத்தல் அதனான் வரும்."],
+    "verse": [
+     "மறத்தல் வெகுளியை யார்மாட்டும் தீய",
+     "பிறத்தல் அதனான் வரும்."
+    ],
     "verse_lang": "ta"
    }
   ],
@@ -2009,5 +2057,117 @@
   "art": "A child sitting cross-legged with eyes closed and a hand on the tummy, with six small faces floating in a gentle circle around them: happy, cross, sleepy, sad, calm, excited."
  },
  "playtest": "Walked through every activity, the feelings chart, both games, the project and the challenge as a parent and a six-year-old in a flat; they need only paper, crayons, a plastic bottle and a spoon of rava, and the step minutes add up. Games work with 2 and with 4 players and every card is written out. Fixed a quiz answer that marked the wrong option, a sorting question that gave away its own order, a count question that used breaths the story never mentions, an ice-cream note for a story that has none, a repeated cousin story and a repeated hitting question, and removed assumed brothers. Three videos still have no checked address and need to be found by hand.",
- "warm": {"words": ["HAPPY", "ANGRY", "SMILE", "TEARS", "FEELS"], "quiz": [["Every person feels happy, sad, angry and scared sometimes.", true, "These are normal feelings that everyone has. No feeling is a bad feeling to have."], ["Good children are always happy and never feel sad.", false, "Every child feels sad or angry sometimes, and that is normal."], ["A slow breath can help your body feel calm.", true, "When your body gets calm, a big feeling gets smaller."], ["Boys should not cry.", false, "Boys and girls have the same feelings, and crying is one way the body shows sadness."], ["Saying 'I am angry' out loud can help the anger feel a little smaller.", true, "Putting a name on a feeling often helps it feel smaller."], ["Hitting a pillow is the best way to make anger go away.", false, "In tests, people who hit things while angry stayed angrier. Slow breathing and calming the body help more."], ["You can feel a feeling in your body, not only in your head.", true, "Feelings happen in the body as well as the mind, like a tummy that feels funny."], ["If you feel sad in the morning, you will stay sad all day.", false, "Feelings come and go, so many different feelings can come in one day."], ["Talking to someone you trust can help when a feeling is big.", true, "Children cope better with hard feelings when they have someone to talk to."], ["Only people have feelings; other animals have none.", false, "People are animals too, and many other animals, like dogs, have feelings."]], "odd": [[["Slow breath", "A hug", "Telling someone", "Hitting a pillow"], "Hitting a pillow", "A slow breath, a hug and telling someone calm a feeling; hitting a pillow keeps anger going."], [["Smiling", "Crying", "Fast breathing", "Sneezing"], "Sneezing", "Smiling, crying and fast breathing show a feeling in the body; a sneeze comes from a tickle or a cold."], [["Dog", "Young rat", "Child", "Stone"], "Stone", "Dogs, young rats and children have feelings; a stone is not alive and cannot feel."], [["A feeling", "A passing cloud", "A rain shower", "A mountain"], "A mountain", "Feelings, clouds and showers come and then go; a mountain stays where it is."], [["I feel sad.", "I am angry.", "I feel scared.", "Go away!"], "Go away!", "Three of these name a feeling; 'Go away!' does not say what the feeling is."]]}
+ "warm": {
+  "words": [
+   "HAPPY",
+   "ANGRY",
+   "SMILE",
+   "TEARS",
+   "FEELS"
+  ],
+  "quiz": [
+   [
+    "Every person feels happy, sad, angry and scared sometimes.",
+    true,
+    "These are normal feelings that everyone has. No feeling is a bad feeling to have."
+   ],
+   [
+    "Good children are always happy and never feel sad.",
+    false,
+    "Every child feels sad or angry sometimes, and that is normal."
+   ],
+   [
+    "A slow breath can help your body feel calm.",
+    true,
+    "When your body gets calm, a big feeling gets smaller."
+   ],
+   [
+    "Boys should not cry.",
+    false,
+    "Boys and girls have the same feelings, and crying is one way the body shows sadness."
+   ],
+   [
+    "Saying 'I am angry' out loud can help the anger feel a little smaller.",
+    true,
+    "Putting a name on a feeling often helps it feel smaller."
+   ],
+   [
+    "Hitting a pillow is the best way to make anger go away.",
+    false,
+    "In tests, people who hit things while angry stayed angrier. Slow breathing and calming the body help more."
+   ],
+   [
+    "You can feel a feeling in your body, not only in your head.",
+    true,
+    "Feelings happen in the body as well as the mind, like a tummy that feels funny."
+   ],
+   [
+    "If you feel sad in the morning, you will stay sad all day.",
+    false,
+    "Feelings come and go, so many different feelings can come in one day."
+   ],
+   [
+    "Talking to someone you trust can help when a feeling is big.",
+    true,
+    "Children cope better with hard feelings when they have someone to talk to."
+   ],
+   [
+    "Only people have feelings; other animals have none.",
+    false,
+    "People are animals too, and many other animals, like dogs, have feelings."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Slow breath",
+     "A hug",
+     "Telling someone",
+     "Hitting a pillow"
+    ],
+    "Hitting a pillow",
+    "A slow breath, a hug and telling someone calm a feeling; hitting a pillow keeps anger going."
+   ],
+   [
+    [
+     "Smiling",
+     "Crying",
+     "Fast breathing",
+     "Sneezing"
+    ],
+    "Sneezing",
+    "Smiling, crying and fast breathing show a feeling in the body; a sneeze comes from a tickle or a cold."
+   ],
+   [
+    [
+     "Dog",
+     "Young rat",
+     "Child",
+     "Stone"
+    ],
+    "Stone",
+    "Dogs, young rats and children have feelings; a stone is not alive and cannot feel."
+   ],
+   [
+    [
+     "A feeling",
+     "A passing cloud",
+     "A rain shower",
+     "A mountain"
+    ],
+    "A mountain",
+    "Feelings, clouds and showers come and then go; a mountain stays where it is."
+   ],
+   [
+    [
+     "I feel sad.",
+     "I am angry.",
+     "I feel scared.",
+     "Go away!"
+    ],
+    "Go away!",
+    "Three of these name a feeling; 'Go away!' does not say what the feeling is."
+   ]
+  ]
+ }
 }

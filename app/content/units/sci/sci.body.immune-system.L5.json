@@ -3006,6 +3006,80 @@
     "g1"
    ],
    "plan": "After the Titre Test, look at the pictures of antibodies and B cells together. After the game Right Target, Wrong Target or Too Weak?, read the chapters on allergy and autoimmune disease aloud, a few pages at a time."
+  },
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Label Hunt: find the allergens in your kitchen. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "Get it before The Label Hunt: find the allergens in your kitchen."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Red Line Test: what does your skin do after one firm stroke?, The Bite Survey: who makes the biggest mosquito bump?, Boylston's Count: was inoculation safer than catching smallpox?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e2",
+    "a1",
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before The Red Line Test: what does your skin do after one firm stroke?."
+  },
+  {
+   "id": "b-chart-paper-or-card--a-few-s",
+   "item": "Chart paper or card (a few sheets)",
+   "kind": "material",
+   "why": "Used in Hugs Are Safe: a true-or-false poster about how HIV spreads. About ₹10 to ₹25 a sheet. Cut open an old cardboard box.",
+   "url": "https://www.amazon.in/s?k=chart+paper+sheets",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before Hugs Are Safe: a true-or-false poster about how HIV spreads."
+  },
+  {
+   "id": "b-whole-seeds-for-sprouting--m",
+   "item": "Whole seeds for sprouting (moong, chana or beans)",
+   "kind": "material",
+   "why": "Used in The Helper Count: a bean model of HIV, with and without medicine. Less than ₹20. Use whole seeds from the grocery shop, never split dal.",
+   "url": "https://www.amazon.in/s?k=whole+moong+dal",
+   "used_in": [
+    "a4"
+   ],
+   "plan": "Get it before The Helper Count: a bean model of HIV, with and without medicine."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in Boylston's Count: was inoculation safer than catching smallpox?, The Helper Count: a bean model of HIV, with and without medicine. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a3",
+    "a4"
+   ],
+   "plan": "Get it before Boylston's Count: was inoculation safer than catching smallpox?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

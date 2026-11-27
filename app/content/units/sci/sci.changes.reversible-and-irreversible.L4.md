@@ -1,9 +1,9 @@
 # Changes that go back and changes that do not: what cooking does to food for ever
 `sci.changes.reversible-and-irreversible.L4`
 
-**Summary.** You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this unit you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.
+**Summary.** You can melt butter and set it again, but you cannot turn toast back into bread. Why not? In this lesson you will sort five changes into three piles, stir flour into cold and hot water to see if it comes back, and climb a toast ladder.
 
-**Intro.** *A lump of ghee melts in a hot pan. Take the pan off the stove, and the ghee sets again. Pour dosa batter on the same hot pan, and no amount of cooling brings the batter back. Why does one change go back and the other does not?* Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this unit you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.
+**Intro.** *A lump of ghee melts in a hot pan. Take the pan off the stove, and the ghee sets again. Pour dosa batter on the same hot pan, and no amount of cooling brings the batter back. Why does one change go back and the other does not?* Both changes used the same pan and the same heat. The ghee only changed from a solid to a liquid. It was ghee before, and it was ghee after. The batter became something new, with a new colour, a new smell and a new feel. In this lesson you sort changes into three piles: back easily, back with work, and no way back. You test flour in cold water against flour in hot water. You toast a ladder of bread squares, and you try to bring them back.
 
 ## Learning outcomes
 0. I can sort changes into three groups: back easily, back with work, and no way back. I can name the way back.
@@ -36,7 +36,7 @@
 ### Three piles: back easily, back with work, and no way back · *defined*
 **Definition:** A reversible change can be undone, so that you have the starting substance again. An irreversible change cannot be undone.
 
-Many reversible changes go back with almost no effort. Cool the melted ghee, and it sets. Unfold the paper boat, and it is a sheet again. Other reversible changes go back only with work, time or energy. Salt stirred into water is still salt, but to get it back you must evaporate all the water. Rice mixed with dal is still rice, but someone must pick the grains apart. So this unit uses three piles. The first is 'back easily'. The second is 'back with work'. The third is 'no way back', which holds the irreversible changes. For every change, ask two questions. Is it still the same substance? What exactly would I do to get back to the start? If you can name a way back and it works, the change is reversible.
+Many reversible changes go back with almost no effort. Cool the melted ghee, and it sets. Unfold the paper boat, and it is a sheet again. Other reversible changes go back only with work, time or energy. Salt stirred into water is still salt, but to get it back you must evaporate all the water. Rice mixed with dal is still rice, but someone must pick the grains apart. So this lesson uses three piles. The first is 'back easily'. The second is 'back with work'. The third is 'no way back', which holds the irreversible changes. For every change, ask two questions. Is it still the same substance? What exactly would I do to get back to the start? If you can name a way back and it works, the change is reversible.
 - e.g. Back easily: ice melts, and the water freezes again in the freezer.
 - e.g. Back with work: salt dissolves in water, and comes back when the water evaporates.
 - e.g. No way back: batter cooks into a dosa.
@@ -147,7 +147,7 @@ In the kitchen, 'no way back' is a safe rule. In laboratories the line is less s
   Against: The oldest widely accepted traces of fire used by our ancestors are about 1 million years old. They come from Wonderwerk Cave in South Africa. Many scientists think cooking began too late to explain the first of those changes.
 
 ## Roots
-In this unit you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.
+In this lesson you stirred flour into cold and hot water, and you toasted a ladder of bread squares. Here we ask what it means that some changes go back and some do not.
 
 **Deep truth.** In The Toast Ladder, every square of bread could still be toasted darker. No square could be made paler again. So with a change that goes only one way, too little can be fixed and too much cannot. That is why a careful cook heats in small steps and checks each time.  
 *Habit it breaks:* We treat 'a bit too much' and 'a bit too little' as mistakes of the same size. With a change that has no way back, they are different kinds of mistake. After too little, the right amount can still be reached. After too much, it cannot.  
@@ -157,10 +157,10 @@ In this unit you stirred flour into cold and hot water, and you toasted a ladder
 - *what is life:* A living being uses both kinds of change. A dry seed can soak, dry and wait again. Once they grow a root, they have chosen a change with no way back.
 - *what is this world:* The world uses the same water again and again through changes that go back. But the world also has a past and a future, because some changes never go back.
 
-Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this unit adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.
+Changes that go back let the world use one substance many times. The water in your glass has been cloud, rain and river before. Changes with no way back are how new things come to exist: toast, a pot, a grown tree, a star's helium. Everything is conscious, down to the particles. So each of these changes is something that happens to someone, and not only to a thing. Many sages taught that all things come from one source, which keeps making new things. The science of this lesson adds one plain point. New things keep coming into being, and the change can be slowed down or steered, but it cannot be taken back.
 
 - **Tirukkural 481:** “பகல்வெல்லும் கூகையைக் காக்கை இகல்வெல்லும் / வேந்தர்க்கு வேண்டும் பொழுது.” Tiruvalluvar wrote that a crow can defeat an owl by day. In the same way, he said, a ruler who wants to win must choose the right time. (The Kural is about a ruler and an enemy, and it is not about toast. But the lesson fits in the same way. The same act can succeed at one time and fail at another. In The Toast Ladder, taking the bread off the tawa worked only before it turned too dark.)
-- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering. (The verse says that nothing made stays as it is. This unit agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.)
+- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā, / yadā paññāya passati; / Atha nibbindati dukkhe, / esa maggo visuddhiyā.” The Buddha taught that all things that are put together are impermanent. A person who sees this clearly, he said, turns away from suffering. (The verse says that nothing made stays as it is. This lesson agrees and adds a detail. Some things change and come back, as water does. Others change once, as toast does.)
 - **Heraclitus, as quoted by Plato in the Cratylus, 402a:** “δὶς ἐς τὸν αὐτὸν ποταμὸν οὐκ ἂν ἐμβαίης.” The Greek thinker Heraclitus said that you cannot step twice into the same river. New water is always flowing in. (A river looks the same from day to day, yet its water is always new. Even changes that 'go back' do not return the world to exactly what it was. The ghee that sets again has lost a little heat to the room.)
 - Science (settled): A protein that has lost its shape still has a whole chain. Some proteins fold back by themselves when the cause is taken away. Christian Anfinsen showed this around 1960.
 - Science (open): Nobody knows why the universe began in a state so orderly that changes have run one way ever since.
@@ -473,7 +473,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 - **creative:** Draw a pattern of fine pencil lines across the flap. After opening, the lines will not meet exactly.; Seal the flap with a strip of the thinnest paper you have, such as tissue. Thin paper tears before the glue lets go.; Lay a thread under the flap in a secret shape, and draw that shape in your notebook. Anyone who opens the letter will move the thread.
 - **s1 (4 min)**  
   *Parent does:* Read the problem together. Look at a real seal at home, such as the ring on a water bottle cap. Ask how it shows that the bottle was opened.  
-  *Parent says:* Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this unit have no way back? Which could a seal use?  
+  *Parent says:* Look at this cap. Once the ring snaps, can anyone join it again? Which changes from this lesson have no way back? Which could a seal use?  
   *Child mode:* Look closely at a bottle cap ring.
   - Ask: Which changes with no way back could a paper seal use? (good: Tearing.; Glue or paste setting.; A pattern that cannot be lined up again.)
 - **s2 (8 min)**  
@@ -707,13 +707,16 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 - [Denaturation (Wikipedia)](https://en.wikipedia.org/wiki/Denaturation_(biochemistry)) · interactive: For the parent: how heat and acid unfold proteins, with a picture of egg white cooking.
 - [Maillard reaction (Wikipedia)](https://en.wikipedia.org/wiki/Maillard_reaction) · interactive: For the parent: the browning reaction of toast, dosas and roasted coffee.
 - [Christian B. Anfinsen (Wikipedia)](https://en.wikipedia.org/wiki/Christian_B._Anfinsen) · interactive: For the parent: the scientist who showed that an unfolded protein can fold back by itself.
-- [Batik (Wikipedia)](https://en.wikipedia.org/wiki/Batik) · interactive: For the parent: how wax and dye are used on cloth, as in the unit's story, The Blue Drop on the White Sari.
+- [Batik (Wikipedia)](https://en.wikipedia.org/wiki/Batik) · interactive: For the parent: how wax and dye are used on cloth, as in the lesson's story, The Blue Drop on the White Sari.
 - [Visvesvaraya Industrial and Technological Museum](https://en.wikipedia.org/wiki/Visvesvaraya_Industrial_and_Technological_Museum) · place · Bengaluru, Karnataka: A science museum with hands-on halls where children can see materials being changed.
 - [Science City](https://en.wikipedia.org/wiki/Science_City,_Kolkata) · place · Kolkata, West Bengal: A large science centre with live science shows and hands-on exhibits.
 
 ## Things to buy
 - [A small packet of cornflour, about 100 grams](https://www.amazon.in/s?k=cornflour) (material): For Cold Stir, Hot Stir. Cornflour settles fastest and gives the clearest paste. Any grocery shop sells it. Rice flour or maida from the kitchen also works, so buy it only if you want to. Used in e1. 
 - [On Food and Cooking: The Science and Lore of the Kitchen, a book by Harold McGee (revised edition, 2004)](https://www.amazon.in/s?k=On+Food+and+Cooking+Harold+McGee) (book): For the parent or an older child: what heat does to eggs, milk, grains and bread, explained by a writer who tests things in his own kitchen. Used in e2. After The Toast Ladder, a parent can read aloud a page from the part on bread and browning.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Cold Stir, Hot Stir: can the flour come back?, Soak, Dry, Sprout: which change can a chana seed undo?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, p1. Get it before Cold Stir, Hot Stir: can the flour come back?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Soak, Dry, Sprout: which change can a chana seed undo?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in p1. Get it before Soak, Dry, Sprout: which change can a chana seed undo?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a reversible change? → A change that can be undone, so that you have the same substance again.
@@ -732,8 +735,8 @@ Same Atoms, New Partners (sci.changes.L4): Topic-level song
 
 ## Sources
 - Founder's notebook, Changing materials: the concept sheet 'Materials Under Heat' (substances change when heated; bake bread and note the dough; melt chocolate and observe the change; the idea that heat transforms and reveals hidden properties) and the concept sheet 'Fire' (toast bread and observe browning). The Toast Ladder grows from the toast idea.
-- The curriculum entry for this unit: 'Reversible and irreversible changes; cooking changes food for ever.' Burning, rusting and cooking as new materials forming are left for sci.changes.reversible-and-irreversible.L5.
-- The Class 2 unit sci.changes.reversible-and-irreversible.L2 was read so that nothing repeats. It has the Dough Test, the Bend Test, crumpled paper, the clay pot story and Lavoisier's water test. This unit goes on to three piles, the way back, starch, protein, browning and mixing, and its experiments, games and story are new.
+- The curriculum entry for this lesson: 'Reversible and irreversible changes; cooking changes food for ever.' Burning, rusting and cooking as new materials forming are left for sci.changes.reversible-and-irreversible.L5.
+- The Class 2 unit sci.changes.reversible-and-irreversible.L2 was read so that nothing repeats. It has the Dough Test, the Bend Test, crumpled paper, the clay pot story and Lavoisier's water test. This lesson goes on to three piles, the way back, starch, protein, browning and mixing, and its experiments, games and story are new.
 - Other units were checked for overlap. Baking soda and vinegar, rust and the five signs of a reaction are in sci.changes.chemical-reactions.L4. Apple browning is in sci.chemistry.reaction-speed.L4 and the how-we-know units. Rice in boiling water, butter into ghee and curd are in sci.changes.kitchen-science.L2. Splitting hot milk is in sci.food.nutrients.L3. None of these is used as an experiment here.
 - Wu H. (1931). Studies on denaturation of proteins. XIII. A theory of denaturation. Chinese Journal of Physiology 5: 321-344.
 - Mirsky A.E., Pauling L. (1936). On the structure of native, denatured, and coagulated proteins. Proceedings of the National Academy of Sciences 22: 439-447.

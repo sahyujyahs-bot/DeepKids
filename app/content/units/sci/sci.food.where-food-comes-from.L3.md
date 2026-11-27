@@ -1,9 +1,9 @@
 # Where food comes from: tracing a meal back to plants and the Sun
 `sci.food.where-food-comes-from.L3`
 
-**Summary.** Curd comes from milk, milk comes from a cow, and a cow eats grass. So where does your dinner really start? In this unit you will sort foods by where they come from, turn milk into curd, sprout moong, and trace a meal back to the Sun.
+**Summary.** Curd comes from milk, milk comes from a cow, and a cow eats grass. So where does your dinner really start? In this lesson you will sort foods by where they come from, turn milk into curd, sprout moong, and trace a meal back to the Sun.
 
-**Intro.** *Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?* Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This unit follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You find out what turns milk into curd overnight. And you meet deep-sea animals whose food chain does not start with sunlight.
+**Intro.** *Look at your plate at your next meal. Pick one thing on it. Now ask: where was this a year ago? Was it alive? Was it in the air, in the soil, or in the sea?* Most children say food comes from the shop. That is true, but it is only the last step. Before the shop there was a farm, a dairy, a tree or a fishing boat. Before the farm there was a seed. This lesson follows food back, step by step, to where it begins. On the way, you split open a seed and find a tiny plant inside. You find out what turns milk into curd overnight. And you meet deep-sea animals whose food chain does not start with sunlight.
 
 ## Learning outcomes
 0. I can trace a food back to where it came from: a plant, an animal, a fungus or tiny living thing, or the non-living Earth.
@@ -199,7 +199,7 @@ We have been following food back to where it comes from: plants, animals, tiny l
 
 Most food starts as sunlight caught by a leaf. A wheat plant uses that energy to build their grain. A cow uses grass to build milk, and curd bacteria use milk to build more bacteria. Your body uses all of these to build you. Each living thing takes what another made and builds their own body from it, so every meal links many lives into one chain.
 
-- **Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli):** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति / अहमन्नमहमन्नमहमन्नम्” The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.' (In this unit, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.)
+- **Taittiriya Upanishad 3.2.1 and 3.10.6 (the Bhrigu Valli):** “अन्नं ब्रह्मेति व्यजानात् / अन्नाद्ध्येव खल्विमानि भूतानि जायन्ते / अन्नेन जातानि जीवन्ति / अन्नं प्रयन्त्यभिसंविशन्तीति / अहमन्नमहमन्नमहमन्नम्” The young Bhrigu asks his father what is truly real. His father tells him to find out for himself, by looking deeply. The first thing Bhrigu understands is that food is the great reality. From food all beings are born. By food they live. Into food they return. At the end of the teaching, the one who understands sings: 'I am food, I am food, I am food. I am the eater of food.' (In this lesson, curd came from milk, milk from grass, and grass from sunlight, air and water. Bhrigu's teaching says the same: every eater is made of food, and in the end becomes food for others.)
 - **Thich Nhat Hanh, The Heart of Understanding (1988), the sheet of paper:** Look deeply at a sheet of paper and you can see a cloud in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this 'interbeing': nothing exists by itself alone. (Look deeply at a chapati and you see the Sun, the rain, the wheat field, the farmer and the miller. The chapati is made of things that are not chapati.)
 - **Robin Wall Kimmerer, Braiding Sweetgrass (2013), the chapter 'The Honorable Harvest':** Robin Wall Kimmerer, a Potawatomi botanist, shares the Indigenous teaching she calls the Honourable Harvest. Take only what you need. Never take the first one you find, and never take more than half. Share what you take, and give thanks for it. (In the story, the seed keepers did not eat the seeds, so the crops could be grown again. Farmers everywhere save part of each harvest as seed for the next sowing.)
 - Science (settled): Almost every food chain begins with sunlight caught by plants or algae. The atoms in your body came from your food, water and air, and they are always being replaced.
@@ -825,8 +825,8 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - The masala box: seeds (jeera, mustard), bark (cinnamon), a flower bud (clove), an underground stem (haldi) and a fruit (black pepper), all in one round tin.
 - A spoon of old curd stirred into warm milk at night, so a new bowl of curd is ready by morning.
 - Rice fields in the monsoon, green and flooded, from a train window.
-- Bee boxes beside yellow mustard fields in winter in Rajasthan, or beside sunflower fields in Karnataka.
-- White heaps of salt in the salt pans of the Rann of Kutch, or near Thoothukudi.
+- Bee boxes beside yellow mustard fields in winter, or beside sunflower fields.
+- White heaps of salt at salt pans by the sea.
 - The seasonal fruit cart changing through the year: mangoes, then jamun, then oranges and guavas.
 - A grain store with neem leaves or dried red chillies tucked inside, to keep insects away.
 - Idli batter rising overnight in a warm kitchen corner.
@@ -884,7 +884,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [M. S. Swaminathan Research Foundation](https://www.mssrf.org) · place · Chennai: The research centre M. S. Swaminathan founded, which works with small farmers and keeps old local crops alive.
 - [Amul dairy, Anand](https://amul.com) · place · Anand, Gujarat: One of the world's biggest milk co-operatives, owned by farmers. It has offered visits to see how milk becomes butter, ghee and paneer. Check before you go.
 - [Spices Board India](https://www.indianspices.com) · interactive: The website of India's Spices Board, with information about India's spices and the places where they grow.
-- [A spice garden in Thekkady or Munnar]() · place · Idukki district, Kerala: Walk past black pepper vines, cardamom bushes, cinnamon trees and clove trees, and see which part of each one goes in the masala box.
+- A spice garden in Thekkady or Munnar · place · Idukki district, Kerala: Walk past black pepper vines, cardamom bushes, cinnamon trees and clove trees, and see which part of each one goes in the masala box.
 
 ## Things to buy
 - [Digital kitchen scale (up to 5 kg, shows single grams)](https://www.amazon.in/s?k=digital+kitchen+weighing+scale) (tool): Weighs the moong before and after soaking in the sprouting test. It is useful in cooking too. Used in e2. 
@@ -893,6 +893,11 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Hand magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the baby plant inside a split seed, and the salt crystals and seeds in the masala box. Used in e2, a2. 
 - [Tops and Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear by knowing which part of each plant we eat. Read it just before the Plant-Part Thali, then hunt for the 'tops', 'bottoms' and 'middles' in your own vegetable basket. Used in a2. 
 - [The Murder of Nikolai Vavilov, by Peter Pringle](https://www.amazon.in/s?k=The+Murder+of+Nikolai+Vavilov+Peter+Pringle) (book): For the parent: the true history behind the story, about Vavilov, his seed collection and the siege of Leningrad. Read the siege chapter before telling the story, to answer your child's questions about what really happened. Used in c1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Sprouting Moong: do seeds need water to grow?, The Windowsill Farm: greens grown in light and in the dark. About ₹10 to ₹30. Any school ruler is fine. Used in e2, p1. Get it before Sprouting Moong: do seeds need water to grow?.
+- [A dropper](https://www.amazon.in/s?k=plastic+dropper) (tool): Used in The Iodine Test: which foods have starch?. About ₹10 to ₹40. A clean pen refill or straw with a finger on top can drop water. Used in e3. Get it before The Iodine Test: which foods have starch?.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape) (material): Used in Milk to Curd: what do curd bacteria need?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor. Used in e1. Get it before Milk to Curd: what do curd bacteria need?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Sprouting Moong: do seeds need water to grow?, The Plant-Part Thali: root, stem, leaf, flower, fruit, seed, The Six-Taste Plate. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2, a2, a4, p1, c1. Get it before Sprouting Moong: do seeds need water to grow?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name one food from a plant and one from an animal. → For example, rice from a plant and milk from a cow.

@@ -1727,7 +1727,66 @@
    "why": "A zoo inside a forest, with animals from Northeast India."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-a-magnifying-glass",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "Used in The Banana Jar: watch fruit fly babies grow. About ₹30 to ₹120. A water drop on clear plastic magnifies a little.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before The Banana Jar: watch fruit fly babies grow."
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in As Long as a Newborn: a string baby. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before As Long as a Newborn: a string baby."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in As Long as a Newborn: a string baby. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Get it before As Long as a Newborn: a string baby."
+  },
+  {
+   "id": "b-paper-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Used in Heads Tall: is a baby shaped like a small grown-up?. About ₹30 to ₹60 a roll. Chalk or a line of chappals marks a floor.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get it before Heads Tall: is a baby shaped like a small grown-up?."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
+  }
+ ],
  "warmup": [
   {
    "q": "What is the young of a cat called?",
@@ -1840,14 +1899,20 @@
     "source": "Tao Te Ching 51",
     "teaching": "The Tao gives birth to all things and raises them, but does not hold on to them as its own.",
     "link": "The Tao is the name ancient Chinese thinkers gave to the way nature works. In the same way, pigeon parents feed their chicks for about four weeks. Then the young pigeons fly off and live their own lives.",
-    "verse": ["道生之，德畜之。長之育之，亭之毒之，蓋之覆之。", "生而不有，為而不恃，長而不宰。是謂玄德。"],
+    "verse": [
+     "道生之，德畜之。長之育之，亭之毒之，蓋之覆之。",
+     "生而不有，為而不恃，長而不宰。是謂玄德。"
+    ],
     "verse_lang": "zh"
    },
    {
     "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
     "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
     "link": "In the same way, a mother cat who has four kittens is still a whole cat. Each kitten is a whole new cat of their own.",
-    "verse": ["ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते", "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"],
+    "verse": [
+     "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते",
+     "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते"
+    ],
     "verse_lang": "sa"
    }
   ],
@@ -1887,5 +1952,117 @@
   "art": "A glass tank of sea water with several flat, see-through, leaf-shaped baby eels and one small round see-through eel, and a notebook beside the tank."
  },
  "playtest": "Walked through every game, experiment, activity, project and worksheet as a parent and a six-year-old in a flat. The sorting game now says how the gap between the mats is used and how 2 or 4 players share the 16 cards; the Heads Tall test, string baby, Busy Beaks and banana jar add up in minutes and days, and the head-strip steps are fair (own head strip for each person, same standing). I fixed the claim that the head hardly grows (it grows, but less than the legs), the fruit fly timing note for cool weather, ages of the two Class 1 girls, a repeated Redi fact and a repeated head-strip question, and swapped five weak jokes for real ones. The three video entries still have no checked link (the validator needs exactly 3), so they stay marked to find.",
- "warm": {"words": ["HATCH", "YOUNG", "CHICK", "GROWS", "PUPPY"], "quiz": [["A newly hatched pigeon chick looks very different from the grown-up pigeons.", true, "Some young look nothing like their parents at first, and change as they grow."], ["A human baby has the same shape as a grown-up, only smaller.", false, "A baby is about 4 heads long, and a grown-up is about 7 or 8 heads tall."], ["Maggots grow out of rotting food by themselves.", false, "Flies lay eggs on the food, and the maggots hatch from those eggs."], ["A human baby's head is big for the body.", true, "After birth the legs grow much more than the head does."], ["A tadpole has the same body shape as a grown frog.", false, "A tadpole has a tail and no legs, and her body changes a lot as she grows."], ["Young animals come only from parents of their own kind.", true, "Pigeons have pigeon chicks, and cows have calves."], ["Young animals are born as big as their parents.", false, "Young are small and grow bigger until they become grown-ups."], ["Pigeon fathers feed their chicks too.", true, "Both pigeon parents make a milk in the throat to feed the chicks."], ["A young animal grows up and can later have young of her own.", true, "Every kind of animal has young, and the young grow into grown-ups."], ["A pigeon chick is fed only grain by her parents.", false, "Pigeon parents feed their chicks with a milk they make in their throat."]], "odd": [[["Pigeon chick", "Caterpillar", "Tadpole", "Puppy"], "Puppy", "The first three look very different from their parents at first; a puppy looks like a small dog."], [["Pigeon father feeding", "Seahorse father carrying eggs", "Jacana father sitting on eggs", "Fly leaving her eggs"], "Fly leaving her eggs", "The first three are fathers who look after the young; a fly lays her eggs and leaves."], [["Pigeon chick", "Baby spider", "Baby crocodile", "Calf"], "Calf", "The first three hatch from eggs; a calf is born from her mother."], [["Big head for the body", "Short legs", "About 4 heads long", "About 8 heads tall"], "About 8 heads tall", "The first three describe a newborn baby; about 8 heads tall is a grown-up."], [["Fly's egg", "Hen's egg", "Frog's egg", "Rotting food"], "Rotting food", "The first three are eggs that young hatch from; rotting food does not make young."]]}
+ "warm": {
+  "words": [
+   "HATCH",
+   "YOUNG",
+   "CHICK",
+   "GROWS",
+   "PUPPY"
+  ],
+  "quiz": [
+   [
+    "A newly hatched pigeon chick looks very different from the grown-up pigeons.",
+    true,
+    "Some young look nothing like their parents at first, and change as they grow."
+   ],
+   [
+    "A human baby has the same shape as a grown-up, only smaller.",
+    false,
+    "A baby is about 4 heads long, and a grown-up is about 7 or 8 heads tall."
+   ],
+   [
+    "Maggots grow out of rotting food by themselves.",
+    false,
+    "Flies lay eggs on the food, and the maggots hatch from those eggs."
+   ],
+   [
+    "A human baby's head is big for the body.",
+    true,
+    "After birth the legs grow much more than the head does."
+   ],
+   [
+    "A tadpole has the same body shape as a grown frog.",
+    false,
+    "A tadpole has a tail and no legs, and her body changes a lot as she grows."
+   ],
+   [
+    "Young animals come only from parents of their own kind.",
+    true,
+    "Pigeons have pigeon chicks, and cows have calves."
+   ],
+   [
+    "Young animals are born as big as their parents.",
+    false,
+    "Young are small and grow bigger until they become grown-ups."
+   ],
+   [
+    "Pigeon fathers feed their chicks too.",
+    true,
+    "Both pigeon parents make a milk in the throat to feed the chicks."
+   ],
+   [
+    "A young animal grows up and can later have young of her own.",
+    true,
+    "Every kind of animal has young, and the young grow into grown-ups."
+   ],
+   [
+    "A pigeon chick is fed only grain by her parents.",
+    false,
+    "Pigeon parents feed their chicks with a milk they make in their throat."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Pigeon chick",
+     "Caterpillar",
+     "Tadpole",
+     "Puppy"
+    ],
+    "Puppy",
+    "The first three look very different from their parents at first; a puppy looks like a small dog."
+   ],
+   [
+    [
+     "Pigeon father feeding",
+     "Seahorse father carrying eggs",
+     "Jacana father sitting on eggs",
+     "Fly leaving her eggs"
+    ],
+    "Fly leaving her eggs",
+    "The first three are fathers who look after the young; a fly lays her eggs and leaves."
+   ],
+   [
+    [
+     "Pigeon chick",
+     "Baby spider",
+     "Baby crocodile",
+     "Calf"
+    ],
+    "Calf",
+    "The first three hatch from eggs; a calf is born from her mother."
+   ],
+   [
+    [
+     "Big head for the body",
+     "Short legs",
+     "About 4 heads long",
+     "About 8 heads tall"
+    ],
+    "About 8 heads tall",
+    "The first three describe a newborn baby; about 8 heads tall is a grown-up."
+   ],
+   [
+    [
+     "Fly's egg",
+     "Hen's egg",
+     "Frog's egg",
+     "Rotting food"
+    ],
+    "Rotting food",
+    "The first three are eggs that young hatch from; rotting food does not make young."
+   ]
+  ]
+ }
 }

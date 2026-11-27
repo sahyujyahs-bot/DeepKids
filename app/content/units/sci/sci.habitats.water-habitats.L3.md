@@ -1,9 +1,9 @@
 # Life in water: ponds, rivers and seas, and the air dissolved in them
 `sci.habitats.water-habitats.L3`
 
-**Summary.** A cold glass of water left in a warm room grows tiny bubbles on its sides. Where did they come from? In this unit you will test for air hidden in water, put a cucumber slice in salty water, and play a game of day and night in a pond.
+**Summary.** A cold glass of water left in a warm room grows tiny bubbles on its sides. Where did they come from? In this lesson you will test for air hidden in water, put a cucumber slice in salty water, and play a game of day and night in a pond.
 
-**Intro.** *Fill a clear glass with cold water from the fridge. Leave it on the table for an hour. Then look closely at its sides. Tiny bubbles have appeared. Nobody blew into the water. So where did those bubbles come from?* Those bubbles are air. It was dissolved in the water, mixed in so finely that you could not see it. As the water warmed up, some of that air came out. Fish live on this hidden air. They cannot breathe the air above the water, and they do not breathe the water. They breathe the oxygen dissolved in the water. In this unit you test how much air water holds, and what changes it. Then you meet the living things of ponds, rivers and seas: fish, frogs, lotus and algae. Each of them has their own problem to solve to live in water.
+**Intro.** *Fill a clear glass with cold water from the fridge. Leave it on the table for an hour. Then look closely at its sides. Tiny bubbles have appeared. Nobody blew into the water. So where did those bubbles come from?* Those bubbles are air. It was dissolved in the water, mixed in so finely that you could not see it. As the water warmed up, some of that air came out. Fish live on this hidden air. They cannot breathe the air above the water, and they do not breathe the water. They breathe the oxygen dissolved in the water. In this lesson you test how much air water holds, and what changes it. Then you meet the living things of ponds, rivers and seas: fish, frogs, lotus and algae. Each of them has their own problem to solve to live in water.
 
 ## Learning outcomes
 0. I can name ponds, rivers and seas as habitats, and say how they differ: still or flowing, fresh or salty.
@@ -783,6 +783,9 @@ Everybody Lives Somewhere (sci.habitats.L3): Topic-level song for Habitats L3
 ## Things to buy
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Makes the tiny bubbles in the Cold Glass Test, the holes in a lotus stem and the algae in the green jar easy to see. Used in e1, a1, a5, p1. 
 - [A small bunch of hydrilla or another oxygen-making aquarium plant](https://www.amazon.in/s?k=hydrilla+aquarium+plant) (material): Shows a water plant making bubbles of oxygen in sunlight. Any aquarium shop sells it for a few rupees. Used in a5. 
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Flat or Tall: which shape stays put in a fast stream?. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in e3. Get it before Flat or Tall: which shape stays put in a fast stream?.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Tadpole to Frog: how the breathing changes. About ₹100 to ₹200. A marble or a round torch cell works. Used in a2. Get it before Tadpole to Frog: how the breathing changes.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What does a fish breathe? → The oxygen dissolved in water.

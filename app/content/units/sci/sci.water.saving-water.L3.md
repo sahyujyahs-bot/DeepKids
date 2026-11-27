@@ -1,9 +1,9 @@
 # Cleaning and saving water: why mud sinks, and how to waste less
 `sci.water.saving-water.L3`
 
-**Summary.** Muddy water can turn clear if you drop in a crystal of phitkari. How? In this unit you will shake mud in water to see which bits sink first, test phitkari on muddy water, and measure how much water different ways of washing a plate use.
+**Summary.** Muddy water can turn clear if you drop in a crystal of phitkari. How? In this lesson you will shake mud in water to see which bits sink first, test phitkari on muddy water, and measure how much water different ways of washing a plate use.
 
-**Intro.** *Stir a spoon of soil into a glass of water and leave it on the table. The sand sinks in seconds. But the water above it can stay cloudy all day. Clay is heavier than water, so why doesn't it sink?* Barbers and grandmothers across India keep a white crystal called phitkari, or padikaram in Tamil. In this unit you rub a little of it in muddy water and watch what happens to the cloudiness. You find out why the tiniest bits of dirt stay up, and how cities clean river water for millions of homes. Then you look at your own home and find where clean water is lost, and how to use it twice.
+**Intro.** *Stir a spoon of soil into a glass of water and leave it on the table. The sand sinks in seconds. But the water above it can stay cloudy all day. Clay is heavier than water, so why doesn't it sink?* Barbers and grandmothers across India keep a white crystal called phitkari, or padikaram in Tamil. In this lesson you rub a little of it in muddy water and watch what happens to the cloudiness. You find out why the tiniest bits of dirt stay up, and how cities clean river water for millions of homes. Then you look at your own home and find where clean water is lost, and how to use it twice.
 
 ## Learning outcomes
 0. I can explain why big bits of dirt sink fast and the tiniest clay bits stay floating for a long time.
@@ -67,7 +67,7 @@ Each step catches what the step before missed. Clumping and settling take out mo
 ### Clear is not the same as safe · *defined*
 **Definition:** Clumping, settling and filtering make water clear. But germs are far too small to see, and many can pass through cloth or a home sand filter. To make water safe to drink, it must also be purified.
 
-Water that looks clear can still hold germs, and things dissolved in it, like salt. After using phitkari or a filter, families boil drinking water for at least one minute, or use a purifier that kills germs. Clearing first still helps, because boiling and purifiers work better on clear water. In this unit, never drink the water from any test.
+Water that looks clear can still hold germs, and things dissolved in it, like salt. After using phitkari or a filter, families boil drinking water for at least one minute, or use a purifier that kills germs. Clearing first still helps, because boiling and purifiers work better on clear water. In this lesson, never drink the water from any test.
 - e.g. A glass of clear well water can carry germs that cause diarrhoea.
 - e.g. Boiling water for one minute kills the germs that cause cholera and typhoid.
 ### Old ways of clearing water in India · *defined*
@@ -783,13 +783,18 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [CAWST: Alum for water treatment (fact sheet)](https://washresources.cawst.org/en/resources/9ba8aaec/alum) · interactive: For the parent: a plain fact sheet from a water-safety charity on how families use alum to clear water, and why the water must still be disinfected.
 - [Science Buddies: Drinking Water Cleanup](https://www.sciencebuddies.org/stem-activities/drinking-water-cleanup) · interactive: A family activity that compares stirring alone with alum, much like the Phitkari Test, with photos of the results.
 - [US EPA: water filtration activity](https://www3.epa.gov/safewater/kids/grades_4-8_water_filtration.html) · interactive: A simple page on how treatment plants clump, settle and filter water.
-- [A city water treatment plant]() · place · Many Indian cities, including Chennai, Bengaluru, Hyderabad and Kochi: Some city water boards allow school and family visits on request. Seeing the settling tanks and sand beds makes the steps real.
-- [A sewage treatment plant]() · place · Most large Indian cities: Some plants welcome school groups. You can see the tanks where microbes clean used water.
-- [A temple tank or old stepwell near you]() · place · Madurai, Kanchipuram, Hampi and many other towns: Old tanks were built to catch and store rain. Ask how the water was kept clean.
+- A city water treatment plant · place · Many Indian cities, including Chennai, Bengaluru, Hyderabad and Kochi: Some city water boards allow school and family visits on request. Seeing the settling tanks and sand beds makes the steps real.
+- A sewage treatment plant · place · Most large Indian cities: Some plants welcome school groups. You can see the tanks where microbes clean used water.
+- A temple tank or old stepwell near you · place · Madurai, Kanchipuram, Hampi and many other towns: Old tanks were built to catch and store rain. Ask how the water was kept clean.
 
 ## Things to buy
 - [Phitkari (potash alum), a small lump or a packet of powder](https://www.amazon.in/s?k=phitkari+alum) (material): Needed for the Phitkari Test and the Two-Step Water Cleaner. Sold cheaply at grocery shops, medical shops and barbers' supply shops. Used in e1, c1. 
 - [Kataka seeds (thetran kottai, nirmali), or dried moringa seeds](https://www.amazon.in/s?k=nirmali+seeds) (material): Only for the optional seed activity. Sold at Ayurvedic and naatu marundhu shops, or online. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Phitkari Test: can a crystal clear muddy water?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Phitkari Test: can a crystal clear muddy water?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Our Family's Water-Saving Week. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1. Get it before Our Family's Water-Saving Week.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in The Two-Step Water Cleaner. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before The Two-Step Water Cleaner.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Shake the Mud: which bits sink first?, The Two-Step Water Cleaner. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in a1, c1. Get it before Shake the Mud: which bits sink first?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Which sinks faster in water, sand or clay? → Sand. Clay bits are so tiny that they sink very slowly.
@@ -807,7 +812,7 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - Core: a1, e1, e2, g1, ws-core, a2
 
 ## Sources
-- ideas/by_topic/water.md: the topic is 'Water: sources, water cycle and saving it'. Its rows are about clouds, the monsoon, underwater sound and light, so none were directly about saving or cleaning water. Its playful spirit is kept in the games and the building walk.
+- ideas/by_topic/water.md: the idea is 'Water: sources, water cycle and saving it'. Its rows are about clouds, the monsoon, underwater sound and light, so none were directly about saving or cleaning water. Its playful spirit is kept in the games and the building walk.
 - NCERT Class 3 Chapter 7 'Water: A Precious Gift' pack (home water audit, reusing vegetable water for plants, why clear water may not be safe), built on and not repeated here.
 - NIOS Level A Lesson 5 'Conservation of Environment' pack (ways to save water at home).
 - Sibling units checked so nothing repeats: sci.water.water-sources-and-uses.L3 (Invisible Ring, Family Water Count, Drip Detective, John Snow story, arsenic), sci.states.dissolving.L3 (Clean the Muddy Water challenge), sci.water.water-cycle.L3, sci.health.hygiene.L3 (tippy-tap).

@@ -466,7 +466,12 @@
     "source": "Anguttara Nikaya 6.55, the Sona Sutta (the Buddha's talk with the monk Sona)",
     "teaching": "Sona had been a veena player. The Buddha asked him about his strings. When they were too tight, the veena could not be played well. When they were too loose, it could not be played well either. It played well when the strings were tuned to the right pitch between the two. The Buddha told Sona to tune his own effort in the same way.",
     "link": "The talk rests on the science of this lesson: the tension of a string sets its pitch. The Buddha used a fact that every player knew to say something about effort. The fact about strings can be tested. The advice about effort is a teaching.",
-    "verse": ["Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?", "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."],
+    "verse": [
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Taṁ kiṁ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṁ samaye saravatī vā hoti kammaññā vā?",
+     "Evamevaṁ kho, soṇa, accāraddhavīriyaṁ uddhaccāya saṁvattati, atisithilavīriyaṁ kosajjāya saṁvattati."
+    ],
     "verse_lang": "pi"
    },
    {
@@ -478,7 +483,10 @@
     "source": "Aristotle, Metaphysics, Book 1, chapter 5, on the followers of Pythagoras (Greece, about 2,350 years ago)",
     "teaching": "Aristotle reports that the followers of Pythagoras found the notes of a scale could be written as numbers. From this they came to think that numbers were the makings of all things. They thought the whole sky was a scale.",
     "link": "Pitch really can be written as a number, the frequency, and you measured it in hertz. The step from 'notes are numbers' to 'everything is number' was a bold guess, and Aristotle himself doubted it. Physics still writes the world in numbers, and nobody is sure why that works so well.",
-    "verse": ["ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους", "τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν"],
+    "verse": [
+     "ἔτι δὲ τῶν ἁρμονιῶν ἐν ἀριθμοῖς ὁρῶντες τὰ πάθη καὶ τοὺς λόγους",
+     "τὰ τῶν ἀριθμῶν στοιχεῖα τῶν ὄντων στοιχεῖα πάντων ὑπέλαβον εἶναι, καὶ τὸν ὅλον οὐρανὸν ἁρμονίαν εἶναι καὶ ἀριθμόν"
+    ],
     "verse_lang": "grc"
    }
   ],
@@ -3376,6 +3384,74 @@
     "p1",
     "c1"
    ]
+  },
+  {
+   "id": "b-a-measuring-tape-of-3-metres",
+   "item": "A measuring tape of 3 metres",
+   "kind": "tool",
+   "why": "Used in The Water-Bottle String: does twice the pull give twice the frequency?, The Muffle Test: what makes a ringing phone quietest?, The Sound Grid: eight home sounds, two numbers. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works.",
+   "url": "https://www.amazon.in/s?k=measuring+tape+3+metre",
+   "used_in": [
+    "e1",
+    "e3",
+    "a2"
+   ],
+   "plan": "Get it before The Water-Bottle String: does twice the pull give twice the frequency?."
+  },
+  {
+   "id": "b-a-digital-stopwatch--optiona",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "Used in Gentle Pluck, Hard Pluck: does a bigger vibration change the note?. About ₹150 to ₹400. A phone stopwatch works well.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Get it before Gentle Pluck, Hard Pluck: does a bigger vibration change the note?."
+  },
+  {
+   "id": "b-a-30-centimetre-ruler-with-m",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Used in The Water-Bottle String: does twice the pull give twice the frequency?, Gentle Pluck, Hard Pluck: does a bigger vibration change the note?, The Muffle Test: what makes a ringing phone quietest?. About ₹10 to ₹30. Any school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1",
+    "e2",
+    "e3",
+    "a2",
+    "a3",
+    "a4",
+    "p1",
+    "c1"
+   ],
+   "plan": "Get it before The Water-Bottle String: does twice the pull give twice the frequency?."
+  },
+  {
+   "id": "b-graph-paper",
+   "item": "Graph paper",
+   "kind": "material",
+   "why": "Used in The Sound Grid: eight home sounds, two numbers. About ₹10 to ₹30. Draw squares on plain paper.",
+   "url": "https://www.amazon.in/s?k=graph+paper+notebook",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Get it before The Sound Grid: eight home sounds, two numbers."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game cards and the worksheets",
+   "kind": "material",
+   "why": "The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session."
   }
  ],
  "warmup": [

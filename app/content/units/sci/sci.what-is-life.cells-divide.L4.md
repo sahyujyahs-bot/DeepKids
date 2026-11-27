@@ -1,9 +1,9 @@
 # One cell, then two: how you grew and how your body stays new
 `sci.what-is-life.cells-divide.L4`
 
-**Summary.** You started as one cell smaller than a pencil dot, and now you have about 30 to 40 trillion. Where did they all come from? In this unit you will cut the tip off a young root, fold paper to see how fast doubling grows, and catch some of your own skin cells.
+**Summary.** You started as one cell smaller than a pencil dot, and now you have about 30 to 40 trillion. Where did they all come from? In this lesson you will cut the tip off a young root, fold paper to see how fast doubling grows, and catch some of your own skin cells.
 
-**Intro.** *Look at a young root of a moong sprout, about one finger-joint long. Tomorrow it will be much longer. Where does the new length come from? Does the whole root stretch like a rubber band, or does the root grow in one small place?* Think about your own skin as well. Every day, some of it rubs off on your clothes and in the bath. Yet your skin never wears thin. Something is making new skin as fast as the old skin leaves. In this unit you find out where new cells come from, how one cell becomes two, and how that made you.
+**Intro.** *Look at a young root of a moong sprout, about one finger-joint long. Tomorrow it will be much longer. Where does the new length come from? Does the whole root stretch like a rubber band, or does the root grow in one small place?* Think about your own skin as well. Every day, some of it rubs off on your clothes and in the bath. Yet your skin never wears thin. Something is making new skin as fast as the old skin leaves. In this lesson you find out where new cells come from, how one cell becomes two, and how that made you.
 
 ## Learning outcomes
 0. I can say that a cell makes a new cell by copying her instructions and splitting into two, and that this is how living things grow and mend.
@@ -714,15 +714,21 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - [Mitosis (Wikipedia)](https://en.wikipedia.org/wiki/Mitosis) · interactive: For the parent: a clear article on the stages of mitosis, with microscope photographs.
 - [Learn.Genetics, University of Utah](https://learn.genetics.utah.edu/) · interactive: Interactive pages on cells, DNA and chromosomes, with clear pictures that older children can click through.
 - [Foldscope](https://foldscope.com/) · interactive: A paper microscope made at Stanford by Manu Prakash and Jim Cybulski. Its site has guides and a gallery of what people have seen, such as root tips.
-- [Visvesvaraya Industrial and Technological Museum]() · place · Bengaluru: A science museum with galleries on the human body and on life, where older children can look at models of cells and growing bodies.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with galleries on life science, where children can see models of the human body and of cells.
-- [The living root bridges near Cherrapunji]() · place · Meghalaya, near Cherrapunji (Sohra): Bridges made by guiding the roots of rubber fig trees across streams, which grow at their tips for many years. Visit with a local guide and take care on the steps.
+- Visvesvaraya Industrial and Technological Museum · place · Bengaluru: A science museum with galleries on the human body and on life, where older children can look at models of cells and growing bodies.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with galleries on life science, where children can see models of the human body and of cells.
+- The living root bridges near Cherrapunji · place · Meghalaya, near Cherrapunji (Sohra): Bridges made by guiding the roots of rubber fig trees across streams, which grow at their tips for many years. Visit with a local guide and take care on the steps.
 
 ## Things to buy
 - [A small pair of sharp scissors](https://www.amazon.in/s?k=small+scissors+craft) (tool): For the Cut the Tip test, so that a grown-up can snip the root tips cleanly. Any small craft scissors will do. Used in e1. 
 - [A magnifying glass, about 5 times](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): For looking at root tips, skin flakes and tulsi buds closely. It is also useful for many other units. Used in e1, e2, a3. 
 - [A fine-tip waterproof marker](https://www.amazon.in/s?k=fine+tip+permanent+marker) (tool): For the Dots on a Root test. A fine tip makes small dots that stay on a damp root for a day. Used in e2. 
 - [A tulsi plant in a pot, from a nursery](https://www.amazon.in/s?k=tulsi+plant+pot) (material): For Pinch the Tulsi. Many homes already have a tulsi plant. If not, a small plant from a nursery costs very little. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Cut the Tip: where does a root grow?, Dots on a Root: how far does the growing zone reach?, Pinch the Tulsi: what happens when you pinch a growing tip?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, p1, c1. Get it before Cut the Tip: where does a root grow?.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Skin Flakes: catch some of your own cells. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in a3. Get it before Skin Flakes: catch some of your own cells.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Longest Root: design the best home for a growing root. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before The Longest Root: design the best home for a growing root.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Cut the Tip: where does a root grow?, Dots on a Root: how far does the growing zone reach?, The Longest Root: design the best home for a growing root. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, c1. Get it before Cut the Tip: where does a root grow?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in Cut the Tip: where does a root grow?, Dots on a Root: how far does the growing zone reach?, The Longest Root: design the best home for a growing root. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1, e2, c1. Get it before Cut the Tip: where does a root grow?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are the two cells called that are made when one cell divides? → Daughter cells.
@@ -744,7 +750,7 @@ What Makes a Thing Alive? (sci.what-is-life.L4): Topic-level song
 - Founder's notes in ideas/by_topic/genes-and-inheriting-features.md (the story of the first cells and of single-celled life that divides, and the SCI Cards of Marthe Gautier on the extra chromosome 21 and of Henrietta Lacks), used in the explanations, the big questions and the challenging views
 - Founder's SCI Cards for Lynn Margulis and Venki Ramakrishnan in ideas/by_topic/living-and-non-living-signs-of-life.md, used as background for the roots card
 - DeepKids notebook items bio:80 and bio:81 (cells copy themselves)
-- Level 3 unit sci.what-is-life.cells.L3 and Level 4 unit sci.what-is-life.cells.L4, which this unit builds on and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied
+- Level 3 unit sci.what-is-life.cells.L3 and Level 4 unit sci.what-is-life.cells.L4, which this lesson builds on and does not repeat. NCERT and Cambridge primary science chapters for coverage only. Their text is not copied
 - Flemming, W., Zellsubstanz, Kern und Zelltheilung, 1882 (naming mitosis)
 - Tjio, J. H. and Levan, A., The chromosome number of man, Hereditas 42, 1956
 - Painter, T. S., Studies in mammalian spermatogenesis II, Journal of Experimental Zoology, 1923 (the count of 48)

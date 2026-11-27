@@ -1,9 +1,9 @@
 # From flower to fruit: the parts of a flower, pollination, and how each seed begins with one pollen grain
 `sci.seeds-and-life-cycles.pollination.L5`
 
-**Summary.** Pollen lands at the top of a hibiscus flower, but the future seeds are sealed deep inside it. How does pollen on the outside start a seed on the inside? In this unit you will take a flower apart, draw the pollen's journey, and count seeds and empty places in 20 pods.
+**Summary.** Pollen lands at the top of a hibiscus flower, but the future seeds are sealed deep inside it. How does pollen on the outside start a seed on the inside? In this lesson you will take a flower apart, draw the pollen's journey, and count seeds and empty places in 20 pods.
 
-**Intro.** *Open a pea pod and count. You may find five fat peas, and two tiny pale specks that never grew. All seven sat in the same pod, on the same plant, with the same water and light. Why did five become seeds and two did not?* The answer starts in the flower, weeks before the pod was picked. In this unit you first take a hibiscus flower apart, ring by ring. You find the parts that make pollen and the part that holds the ovules. You learn how pollen travels from flower to flower, and what happens after the pollen lands. Then you open 20 pods and count the seeds and the empty places. You also drop a rain of moong seeds to see how much pollen the wind wastes. By the end you can say what has to happen before one seed can form.
+**Intro.** *Open a pea pod and count. You may find five fat peas, and two tiny pale specks that never grew. All seven sat in the same pod, on the same plant, with the same water and light. Why did five become seeds and two did not?* The answer starts in the flower, weeks before the pod was picked. In this lesson you first take a hibiscus flower apart, ring by ring. You find the parts that make pollen and the part that holds the ovules. You learn how pollen travels from flower to flower, and what happens after the pollen lands. Then you open 20 pods and count the seeds and the empty places. You also drop a rain of moong seeds to see how much pollen the wind wastes. By the end you can say what has to happen before one seed can form.
 
 ## Learning outcomes
 0. I can find the four rings of a real flower, and name the parts of a stamen and a carpel.
@@ -169,7 +169,7 @@ Pine trees and their relatives have no carpels. Their ovules lie open on the sca
   Against: The same results could come from some pollen grains simply growing faster tubes. Tests that separate the two are hard to do, and the results differ from plant to plant.
 
 ## Roots
-In this unit you took a flower apart, and you counted the seeds and the empty places in 20 pods. Here we ask what those counts show about how a new life begins, and about ourselves.
+In this lesson you took a flower apart, and you counted the seeds and the empty places in 20 pods. Here we ask what those counts show about how a new life begins, and about ourselves.
 
 **Deep truth.** In the Empty Places Test, one pod held full seeds and also tiny ovules that never grew. All of them sat in the same ovary, on the same mother plant. Each seed began only when a pollen tube reached that one ovule. So a fruit holds many young, and each of them was begun separately.  
 *Habit it breaks:* We count a fruit as one thing, and we say that the plant made a fruit. Inside, the seeds were started one at a time, each by a different pollen grain. Some places in the same fruit were never started at all.  
@@ -836,11 +836,14 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L5): Topic-level song
 - [India Biodiversity Portal](https://indiabiodiversity.org) · interactive: For the parent and an older child: records and photographs of Indian plants and the animals that visit them.
 - [Royal Botanic Gardens, Kew](https://www.kew.org) · interactive: Search the site for 'pollination' to read about unusual flowers and their pollinators.
 - [Jawaharlal Nehru Tropical Botanic Garden and Research Institute](https://www.jntbgri.res.in) · place · Palode, near Thiruvananthapuram: A large garden of tropical plants, where many kinds of flowers can be seen and compared in one visit.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: An old public garden with flowering trees from many countries. Take a hand lens and look for stamens and stigmas.
+- Lalbagh Botanical Garden · place · Bengaluru: An old public garden with flowering trees from many countries. Take a hand lens and look for stamens and stigmas.
 
 ## Things to buy
 - [A hand lens (magnifying glass), about 5 times or 10 times](https://www.amazon.in/s?k=magnifying+glass+10x) (tool): For seeing ovules, pollen and the small flowers of a marigold. A phone camera on zoom does the same job, so the lens is helpful but not needed. Used in a1, e1, a6. 
 - [Small net pouches (organza gift bags), about 10 centimetres square, pack of 10](https://www.amazon.in/s?k=organza+pouch+small) (material): For the Bag Test. Pieces of old net curtain or mosquito net tied with thread work just as well. Used in p1. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Hidden Journey: draw how a pollen grain reaches an ovule, The Pollen Catcher: build a stigma that catches more of the pollen rain. About ₹10 to ₹30. Any school ruler is fine. Used in e2, a3, c1. Get it before The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Empty Places Test: does every ovule in a pod become a seed?, The Pollen Rain Test: how much wind-blown pollen lands on a small stigma and on a big one?, The Bag Test: does this plant need a visitor to make fruit? (if you have a plant in flower). Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, e2, p1, c1. Get it before The Empty Places Test: does every ovule in a pod become a seed?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name the four rings of a flower, from the outside in. → Sepals, petals, stamens and carpels.

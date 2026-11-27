@@ -1755,7 +1755,32 @@
    "why": "If your city has one, a short visit with a grown-up shows where the blue bin goes and who sorts it."
   }
  ],
- "buy": [],
+ "buy": [
+  {
+   "id": "b-chart-waste",
+   "item": "Chart paper, two sheets",
+   "kind": "material",
+   "why": "The bin labels are drawn on it so that everyone at home can read them. About ₹10 to ₹25 a sheet at a stationery shop. Thick card from an old cardboard box is the household alternative.",
+   "url": "https://www.amazon.in/s?k=chart+paper",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Buy it before the bin label challenge."
+  },
+  {
+   "id": "b-print-waste",
+   "item": "Printed pages for the game board, waste cards and worksheets, about 12 pages",
+   "kind": "material",
+   "why": "The board game needs a printed board of 12 squares and 20 waste cards, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹12 to ₹25.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch"
+   ],
+   "plan": "Print these before the board game."
+  }
+ ],
  "warmup": [
   {
    "q": "What is wet waste?",

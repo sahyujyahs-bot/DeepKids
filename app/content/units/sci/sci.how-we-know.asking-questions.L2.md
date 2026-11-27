@@ -1,9 +1,9 @@
 # Questions we can test: guess first, then try it
 `sci.how-we-know.asking-questions.L2`
 
-**Summary.** Can a pencil lift a bottle of rice? Thinking will not tell you, but a test will. In this unit you will sort questions into ones you can test and ones you cannot, guess first and give a reason, then try the pencil and rice bottle and see if you were right.
+**Summary.** Can a pencil lift a bottle of rice? Thinking will not tell you, but a test will. In this lesson you will sort questions into ones you can test and ones you cannot, guess first and give a reason, then try the pencil and rice bottle and see if you were right.
 
-**Intro.** *Here is a bottle full of rice and one pencil. Push the pencil into the rice. Can you lift the whole bottle by the pencil? What do you think, and why?* You just made a prediction. A prediction is what you think will happen, and why, said before you try. Some questions can be answered by trying, like this one. Others cannot, like 'Is rice nicer than roti?' In this unit you learn to tell the two kinds apart. You make predictions, test them, and count what happens. A wrong prediction is useful too: it shows you which idea to change.
+**Intro.** *Here is a bottle full of rice and one pencil. Push the pencil into the rice. Can you lift the whole bottle by the pencil? What do you think, and why?* You just made a prediction. A prediction is what you think will happen, and why, said before you try. Some questions can be answered by trying, like this one. Others cannot, like 'Is rice nicer than roti?' In this lesson you learn to tell the two kinds apart. You make predictions, test them, and count what happens. A wrong prediction is useful too: it shows you which idea to change.
 
 ## Learning outcomes
 0. By the end I can tell which questions we can test by trying and which we cannot, and say why.
@@ -521,12 +521,12 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 - Cooks predict how long rice will take, then check by pressing a grain.
 
 ## Spotted around us
-- A weather report on the radio in Kochi saying the monsoon is expected to reach Kerala in the coming days.
-- A panchangam on a wall in Madurai listing the dates of eclipses for the year.
-- A woman selling vegetables in Kolkata guessing the weight of tomatoes before she puts them on the scale.
-- A cricket commentator in Ahmedabad predicting how many runs a team will score.
-- A fisher in Puri looking at the sky and the waves before taking the boat out.
-- A railway display in Mumbai showing when the next local train is expected.
+- A weather report on the radio saying the monsoon is expected in the coming days.
+- A panchangam on a wall listing the dates of eclipses for the year.
+- A woman selling vegetables guessing the weight of tomatoes before she puts them on the scale.
+- A cricket commentator predicting how many runs a team will score.
+- A fisher looking at the sky and the waves before taking the boat out.
+- A railway display showing when the next train is expected.
 
 ## Open questions
 - **Will we ever be able to predict earthquakes?** Scientists can say which places are more likely to have earthquakes. Nobody can yet predict the day or hour of one.
@@ -564,10 +564,14 @@ Guess, Then Try (sci.how-we-know.L2): Topic-level song for How we know L2
 ## Links
 - [India Meteorological Department](https://mausam.imd.gov.in/) · interactive: For the parent: India's official weather forecasts. Look at tomorrow's forecast for your city with your child, then check it the next day.
 - [PhET Interactive Simulations](https://phet.colorado.edu/) · simulation: Free science and maths simulations from the University of Colorado. Search for 'Plinko Probability' to drop many balls and see chance make a pattern.
-- [Periyar Science and Technology Centre and B. M. Birla Planetarium]() · place · Chennai: Hands-on science galleries and a planetarium show, a good day out to make predictions and test them.
-- [Nehru Science Centre]() · place · Mumbai: A large hands-on science centre where children can try experiments and ask why.
+- Periyar Science and Technology Centre and B. M. Birla Planetarium · place · Chennai: Hands-on science galleries and a planetarium show, a good day out to make predictions and test them.
+- Nehru Science Centre · place · Mumbai: A large hands-on science centre where children can try experiments and ask why.
 
 ## Things to buy
+- [A small funnel](https://www.amazon.in/s?k=small+plastic+funnel) (tool): Used in The Rice Bottle Lift: can a pencil lift a bottle of rice?. About ₹20 to ₹50. The top of a cut plastic bottle works. Used in e1. Get it before The Rice Bottle Lift: can a pencil lift a bottle of rice?.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in The Rice Bottle Lift: can a pencil lift a bottle of rice?. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in e1. Get it before The Rice Bottle Lift: can a pencil lift a bottle of rice?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Guess the Grains: predict, count, predict again. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a3. Get it before Guess the Grains: predict, count, predict again.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What do we call a guess with a reason, said before a test? → A prediction.
@@ -586,7 +590,7 @@ Guess, Then Try (sci.how-we-know.L2): Topic-level song for How we know L2
 - ideas/by_topic/how-we-know.md: the Grade 1 and 2 grid ('New ideas must be tested, not just imagined'; 'Progress = openness + skepticism'), used in the Lucky Blow test and the challenging views.
 - The founder's sheets: the Prediction Game (coin toss and dice roll, predict, note down, count the right ones), used in Sure or Not Sure and the Lucky Blow test.
 - combined/sci-C1-how-we-know.json: the 'lucky blow' on a die and the Wonder Wall sorting into 'I can test it', 'I need to ask or read' and 'Nobody knows yet', adapted for the test-it card game and the matching question.
-- This unit avoids what the other levels use: Level 1 uses mystery dabbas, an elaichi pod, question games and Inge Lehmann; Level 3 uses the brown apple watch, window watches and Tycho Brahe; the fair-tests unit uses apple slices, brinjal, throws and James Lind. So this unit uses the Rice Bottle Lift, coin and die predictions, quick test cards, batter tumblers in the story, and Halley's comet with Nicole-Reine Lepaute.
+- This lesson avoids what the other levels use: Level 1 uses mystery dabbas, an elaichi pod, question games and Inge Lehmann; Level 3 uses the brown apple watch, window watches and Tycho Brahe; the fair-tests unit uses apple slices, brinjal, throws and James Lind. So this lesson uses the Rice Bottle Lift, coin and die predictions, quick test cards, batter tumblers in the story, and Halley's comet with Nicole-Reine Lepaute.
 - Edmond Halley, A Synopsis of the Astronomy of Comets (1705): the comets of 1531, 1607 and 1682 were one comet, expected back around 1758.
 - Alexis Clairaut, with Jérôme Lalande and Nicole-Reine Lepaute, calculated the delay caused by Jupiter and Saturn (1757 to 1758) and predicted perihelion in mid-April 1759. Johann Georg Palitzsch saw the comet on 25 December 1758, and it passed closest to the Sun on 13 March 1759. Lalande credited Lepaute's part; Clairaut's published account did not name her.
 - Auguste Comte, Cours de philosophie positive (1835), on the chemical make-up of stars being unknowable; Gustav Kirchhoff and Robert Bunsen, spectral analysis (1859 to 1860); Cecilia Payne, Stellar Atmospheres (1925).

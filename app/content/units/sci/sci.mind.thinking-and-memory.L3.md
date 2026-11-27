@@ -772,6 +772,10 @@ Practise, Practise, Make the Path (sci.mind.L3): A song about how practice makes
 ## Things to buy
 - [Your Fantastic Elastic Brain, by JoAnn Deak, a picture book](https://www.amazon.in/s?k=your+fantastic+elastic+brain) (book): A clear picture book for children aged about 5 to 10 on how the brain changes as we practise and make mistakes. Optional: everything in this lesson works without it. Used in p1. 
 - [Wilfrid Gordon McDonald Partridge by Mem Fox](https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge) (book): A small boy helps an old friend find her lost memories through objects. It shows how things we touch can bring memories back. Used in a1. Read it together after the memory game.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Story Trick: does a story help you remember a list?, The Other Hand: does practice make it easier?, My 7-Day Practice Diary. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, p1. Get it before The Story Trick: does a story help you remember a list?.
+- [Modelling clay or plasticine](https://www.amazon.in/s?k=modelling+clay+plasticine) (material): Used in Make a Neuron from Dough. About ₹40 to ₹120. Atta dough mixed with a little salt works. Used in a3. Get it before Make a Neuron from Dough.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Help Thatha Remember. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Help Thatha Remember.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What are nerve cells called? → Neurons.

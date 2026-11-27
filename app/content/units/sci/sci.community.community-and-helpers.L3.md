@@ -1,9 +1,9 @@
 # Community helpers and shared things: how a neighbourhood keeps going
 `sci.community.community-and-helpers.L3`
 
-**Summary.** Who keeps your building going when you do not see them? And what happens to a pond everyone shares? In this unit you will list the helpers you hardly see, interview a worker near home, and test whether agreeing a rule stops a shared pond running out.
+**Summary.** Who keeps your building going when you do not see them? And what happens to a pond everyone shares? In this lesson you will list the helpers you hardly see, interview a worker near home, and test whether agreeing a rule stops a shared pond running out.
 
-**Intro.** *Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the water lorry came?* A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this unit you test what keeps a shared thing going, with a bowl of chana and your own family.
+**Intro.** *Twelve families share one water tank. Nobody owns it alone. Why does it sometimes run dry by afternoon, even on a day the water lorry came?* A community is a group of people who live near each other and depend on each other. Some of them do work for everyone: they bring milk, sweep the road, teach, nurse and deliver letters. Some things belong to everyone together, like a tank, a lift or a park. A shared thing can be used up when each person takes what they want. In this lesson you test what keeps a shared thing going, with a bowl of chana and your own family.
 
 ## Learning outcomes
 0. I can name helpers in my neighbourhood, say what each one does, and explain how my family depends on them.
@@ -553,7 +553,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    **Answer:** A drawing of the building with its shared things, the people who use them and one rule for each.. *Why:* A strong drawing shows at least three shared things, with a rule that says who may use each and how much.
 9. (write) Many people think a job is 'small' if it is done with the hands. Use what you learned in Meet a Helper to argue against this.  
    **Answer:** For example: the presswala told me he learned for years, and his iron is heavy and hot. If he did not come, our clothes would not be ready for school.. *Why:* A strong answer uses something the helper really said, names the skill the job needs, and says who depends on it.
-10. (odd) Three of these helped a shared thing last in the stories and tests of this unit. Which one is the odd one out?  
+10. (odd) Three of these helped a shared thing last in the stories and tests of this lesson. Which one is the odd one out?  
    Options: Agreeing a rule together / The neerkatti opening the sluice in turn / Each player choosing in silence / Selvi akka's notebook of the tank level  
    **Answer:** 2. *Why:* Agreeing a rule, a water keeper and a caretaker's notebook all helped. Choosing in silence is what made the pond run out.
 11. (label) Here is a picture of an old village tank in Tamil Nadu. Label the parts: the tank, the bank, the sluice, the fields.  
@@ -617,7 +617,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - Scientists use pond games like the Shared Pond Test to study how people share, in villages and in laboratories.
 
 ## Spotted around us
-- A blue water lorry at an apartment gate in Chennai in summer, filling the building's sump.
+- A blue water lorry at an apartment gate in summer, filling the building's sump.
 - A presswala's cart under a tree, with a heavy iron heated by glowing coals.
 - A red post box at a street corner, with the collection times written on it.
 - A notice board in a building lobby with rules about water, garbage and parking.
@@ -665,6 +665,9 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 - [Chennai General Post Office](https://www.indiapost.gov.in/) · place · Chennai (Rajaji Salai, George Town): A large old post office building in George Town. Visit on a working day to see how the counters work.
 
 ## Things to buy
+- [Postcard or stamped envelope]() (material): The child posts a letter to a relative in another town and counts the days and the people who carry it. About ₹5 to ₹15 for a postcard at a post office, plus the postage. A plain envelope with a stamp from the post office does the same job. Used in e2. Buy it on the day you post the card.
+- [Chart paper, one large sheet](https://www.amazon.in/s?k=chart+paper) (material): The public services map is drawn on it so the whole neighbourhood fits on one page. About ₹10 to ₹25 a sheet at a stationery shop. Two sheets of old newspaper taped together work too. Used in a6. Buy it before you draw the Public Services Map.
+- [Printed pages for the problem cards, score sheet and worksheets, about 10 pages]() (material): The card game uses 16 printed problem cards with the helper on the back, and the worksheets are printed too. A copy shop charges about ₹1 to ₹2 a page, so the set costs about ₹10 to ₹20. Used in g1, ws-core, ws-stretch, ws-challenge. Print these before the card game.
 
 ## Warm-up
 - What number do you call in India for police, fire or an ambulance? → 112.
@@ -682,7 +685,7 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 
 ## Sources
 - ideas/by_topic/society-community-culture-and-festivals.md: SCI Card for Gagandeep Kang (the Rotavac vaccine for Indian children, now in India's national vaccination programme), used in the agreed card on free vaccines at public health centres
-- NIOS Open Basic Education, Environmental Studies Level A, Lesson 2, Our Social Environment: the board chapter for professions, public services and Sonia's village, used for the topics of Meet a Helper, the emergency card, the services map and the Postcard Test
+- NIOS Open Basic Education, Environmental Studies Level A, Lesson 2, Our Social Environment: the board chapter for professions, public services and Sonia's village, used for the ideas of Meet a Helper, the emergency card, the services map and the Postcard Test
 - Hardin, The Tragedy of the Commons, Science 162, 1968
 - Hardin, Extensions of 'The Tragedy of the Commons', Science 280, 1998
 - Ostrom, Governing the Commons: The Evolution of Institutions for Collective Action, 1990 (Törbel meadows and the 1517 rule, the huertas of Spain, design principles)

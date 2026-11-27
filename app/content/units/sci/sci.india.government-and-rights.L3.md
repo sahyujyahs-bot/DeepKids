@@ -1,9 +1,9 @@
 # Rights and tax money: what India's laws promise every family
 `sci.india.government-and-rights.L3`
 
-**Summary.** Almost every shop bill has a line called GST. What is it, and who gets that money? In this unit you will hunt for tax on your family's bills, check a pretend work register for cheating, and work out which law helps in different situations.
+**Summary.** Almost every shop bill has a line called GST. What is it, and who gets that money? In this lesson you will hunt for tax on your family's bills, check a pretend work register for cheating, and work out which law helps in different situations.
 
-**Intro.** *Pick up a school textbook or a printed shop bill. Government schools give their textbooks free. A shop bill has a small line called GST. Is a free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this unit you find out how much tax your family pays when it shops. Then you learn about three rights that India's laws give. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every village family has a right to ask for paid work.
+**Intro.** *Pick up a school textbook or a printed shop bill. Government schools give their textbooks free. A shop bill has a small line called GST. Is a free book really free? Who paid for it?* The book was paid for with public money. Public money is the money the government collects from people, mostly as tax. Some of it came from the GST on bills like yours. In this lesson you find out how much tax your family pays when it shops. Then you learn about three rights that India's laws give. Every child has a right to go to school. Every citizen has a right to know how public money is spent. Every village family has a right to ask for paid work.
 
 ## Learning outcomes
 0. I can find the tax on a bill, and explain that almost everyone pays tax when they buy things.
@@ -661,7 +661,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - Children eating a hot lunch at a government school, served on steel plates.
 - A 'Made in' or 'Country of origin' label on a phone box, a shirt or a toy.
 - A shop that sells khadi or handloom cloth, such as a Khadi Gramodyog Bhavan.
-- Container ships and lorries at the ports of Chennai, Kochi, Kolkata or Mumbai.
+- Container ships and lorries at a port.
 - A board outside a government office naming its Public Information Officer.
 - Women and men digging a pond or a canal on a village work site, with a shade shelter nearby.
 
@@ -715,6 +715,8 @@ One Flag, Many Voices (sci.india.L3): Topic-level song for India: our country L3
 
 ## Things to buy
 - [A printed world map](https://www.amazon.in/s?k=world+map+chart+for+kids) (material): Useful for marking where the things in your home were made. A free map on a phone also works. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Notice Board Everyone Can Read, The Register That Is Hard to Fake. About ₹10 to ₹30. Any school ruler is fine. Used in c1, c2. Get it before A Notice Board Everyone Can Read.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in A Notice Board Everyone Can Read. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before A Notice Board Everyone Can Read.
 
 ## Warm-up
 - What does GST stand for? → Goods and Services Tax.

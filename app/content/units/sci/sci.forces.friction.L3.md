@@ -1,9 +1,9 @@
 # Friction: the grip that works against sliding
 `sci.forces.friction.L3`
 
-**Summary.** Why does your chappal not slip on the road, and why does a rolling ball stop? In this unit you will test which shoe sole grips best on a slope, pull stacked books apart, find what makes a surface slippery, and hunt for friction at home.
+**Summary.** Why does your chappal not slip on the road, and why does a rolling ball stop? In this lesson you will test which shoe sole grips best on a slope, pull stacked books apart, find what makes a surface slippery, and hunt for friction at home.
 
-**Intro.** *Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?* Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was about as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this unit, you will know. It has to do with friction, the grip between things that touch.
+**Intro.** *Try this. Hold a pencil between two fingers, as lightly as you can. Now imagine your fingers and the pencil were perfectly slippery, like wet soap. Could you still write your name?* Nearly four thousand years ago, workers in Egypt moved a huge stone statue across the desert. It was about as heavy as ten elephants. They dragged it on a wooden sledge, a big flat sled with no wheels. An old wall painting shows the scene. At the front, one man is doing something strange. He is pouring water onto the sand. Why would he do that? By the end of this lesson, you will know. It has to do with friction, the grip between things that touch.
 
 ## Learning outcomes
 0. I can say what friction is: a force where two things touch, which works against sliding.
@@ -184,7 +184,7 @@ Friction does not destroy movement. When a sliding box stops, its movement is sh
 - *big:* Would a world without friction be better or worse? What would you miss first? (hint: Think about breakfast, the walk to the park, writing your name, and giving someone a hug.)
 - *big:* Friction slows things down. But it also pushes us forward when we walk. Can one thing both help us and get in our way? (hint: Can you think of other things in life that both help us and get in our way?)
 - *deep:* A chappal grips a dry floor but slips on a wet one. So is the grip in the chappal, in the floor, or in between? (hint: Try the same chappal on two different floors. Then try two different chappals on the same floor.)
-- *big:* In this unit's story, workers in ancient Egypt drag a giant statue across the sand. The pullers laugh at the man who pours water on the sand. Yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten? (hint: Think of your family or school today. Whose small job made everything easier?)
+- *big:* In this lesson's story, workers in ancient Egypt drag a giant statue across the sand. The pullers laugh at the man who pours water on the sand. Yet his small job is what lets the statue move. Who gets remembered for big achievements, and who gets forgotten? (hint: Think of your family or school today. Whose small job made everything easier?)
 - *big:* Friction turns a sliding box's movement into jiggling atoms. The jiggling never turns back into the box moving. Could that be why we remember yesterday, but not tomorrow? (hint: Watch a video of a ball rolling to a stop, played backwards. Why does it look wrong?)
 - *deep:* Your knees rub every time you move, for eighty years or more. How might a body make something more slippery than ice? (hint: Think about the smooth, soft layer on the ends of the bones, and the slippery fluid between them.)
 - *big:* Scientists think even 'empty' space might cause a tiny friction. So is anything truly empty? (hint: Hold your hands close together without touching. What do you think is in the gap?)
@@ -829,13 +829,19 @@ Push, Pull, Hold On (sci.forces.L3):
 - [The Physics Aviary](https://www.thephysicsaviary.com/) · simulation: Free physics games and simulations, including things sliding down ramps.
 - [myPhysicsLab](https://www.myphysicslab.com/) · simulation: Free online simulations of blocks, springs and crashes. You can switch friction on and off.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including friction projects, for older children.
-- [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Shows about the Moon, the Earth and the sky. Good for the part of this unit about tides and the slowing Earth.
+- [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Shows about the Moon, the Earth and the sky. Good for the part of this lesson about tides and the slowing Earth.
 
 ## Things to buy
 - [Spring balance, also called a forcemeter (0 to 10 newtons, or 0 to 1 kg)](https://www.amazon.in/s?k=spring+balance+newton+meter+school) (tool): A forcemeter measures pulls in newtons. Use it in the wet sand experiment and the Move the Mountain challenge. A rubber band and a ruler also work. Used in e3, c1. 
 - [Fabric puff paint](https://www.amazon.in/s?k=fabric+puff+paint) (material): Makes raised grip dots on the bottom of socks, in the grip socks project. Without it, sew on strips cut from an old balloon or rubber glove. Used in p1. 
 - [Thin, bendy fridge magnet sheets](https://www.amazon.in/s?k=flexible+magnetic+sheet) (material): Two of these, slid face to face, make a hand-sized model of atoms gripping and letting go. Many homes already have thin advert magnets on the fridge. Buy a sheet only if you have none. Used in a5. 
 - [Fine dry sand, about 2 kilos (play sand, aquarium sand or building sand)](https://www.amazon.in/s?k=play+sand+aquarium+sand) (material): The wet sand experiment needs a tray of sand. Pet shops and hardware shops sell small bags. Used in e3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Slope Test: which sole grips best?, Pour the Water on the Sand, Grip Socks Workshop. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e3, p1, c1. Get it before The Slope Test: which sole grips best?.
+- [Balloons (a packet)](https://www.amazon.in/s?k=balloons+packet) (material): Used in Grip Socks Workshop. About ₹20 to ₹60. Used in p1. Get it before Grip Socks Workshop.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Pour the Water on the Sand, Grip Socks Workshop, Move the Mountain. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in e3, p1, c1. Get it before Pour the Water on the Sand.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): Used in Move the Mountain. About ₹100 to ₹200. A marble or a round torch cell works. Used in c1. Get it before Move the Mountain.
+- [Marbles (a few)](https://www.amazon.in/s?k=glass+marbles+pack) (material): Used in Move the Mountain. About ₹10 to ₹40. Small round stones or dried chana. Used in c1. Get it before Move the Mountain.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Friction happens where two ____ touch. → surfaces

@@ -1,9 +1,9 @@
 # How plants are grouped: by the way they make new plants
 `sci.plants.plant-variety.L5`
 
-**Summary.** Ferns and mosses never make a flower or a seed, yet new ones keep appearing on wet walls. How? In this unit you will fan spores and seeds to see which travel farther, split a dhania seed, and build a key and a family tree for the main plant groups.
+**Summary.** Ferns and mosses never make a flower or a seed, yet new ones keep appearing on wet walls. How? In this lesson you will fan spores and seeds to see which travel farther, split a dhania seed, and build a key and a family tree for the main plant groups.
 
-**Intro.** *Look under the leaf of a fern, if you can find one in a pot or on an old wall. You may see rows of brown dots. A fern never makes a flower, a fruit or a seed. So how does a new fern grow?* The brown dots are packets of spores. A spore is a single cell, much smaller than a grain of sugar. When the packets dry, they burst and throw the spores into the air. If one lands somewhere damp, a new fern can grow. Mosses do the same. Pine trees and deodars make seeds, but on cones, not in fruits. Most plants you know, from rice to the neem tree, make seeds inside fruits. In this unit you find out why these differences matter so much that scientists use them to group all plants.
+**Intro.** *Look under the leaf of a fern, if you can find one in a pot or on an old wall. You may see rows of brown dots. A fern never makes a flower, a fruit or a seed. So how does a new fern grow?* The brown dots are packets of spores. A spore is a single cell, much smaller than a grain of sugar. When the packets dry, they burst and throw the spores into the air. If one lands somewhere damp, a new fern can grow. Mosses do the same. Pine trees and deodars make seeds, but on cones, not in fruits. Most plants you know, from rice to the neem tree, make seeds inside fruits. In this lesson you find out why these differences matter so much that scientists use them to group all plants.
 
 ## Learning outcomes
 0. By the end I can say how flowering plants, conifers, ferns and mosses make new plants, and give an Indian example of each.
@@ -643,13 +643,13 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 - Seed banks store dry seeds for many years, which works because a seed can wait alive until water comes. Spores of many ferns can be stored too.
 
 ## Spotted around us
-- Green velvet moss on walls, compound walls and steps in the Mumbai, Goa and Kerala monsoon.
+- Green velvet moss on walls, compound walls and steps in the monsoon.
 - The ladder fern growing out of cracks in old buildings, bridges and around drains in many Indian cities.
 - A tall Araucaria 'Christmas tree' with flat layers of branches in a housing society garden.
 - Cycas plants that look like short palms in hotel gardens and traffic islands.
 - A red-green carpet of Azolla floating on a village pond or a rice field.
-- Chilgoza pine nuts in a dry fruit shop, and pine cones sold in Ooty, Kodaikanal and Shimla.
-- Bunches of curled dhekia fern tops sold as a vegetable in markets in Assam.
+- Pine nuts in a dry fruit shop, and pine cones sold in hill towns.
+- Bunches of curled fern tops sold as a vegetable in a market.
 - Flat, shiny green Marchantia on the soil of pots in plant nurseries.
 
 ## Open questions
@@ -695,13 +695,19 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 - [OneZoom tree of life explorer](https://www.onezoom.org/) · interactive: Zoom in on the tree of life to find mosses, ferns, conifers and flowering plants on their branches.
 - [Plants of the World Online (Royal Botanic Gardens, Kew)](https://powo.science.kew.org/) · interactive: For the parent: look up any plant and see which family and group they belong to.
 - [Botanical Survey of India](https://bsi.gov.in/) · interactive: For the parent: the government body that studies India's plants, including ferns and mosses.
-- [Birbal Sahni Institute of Palaeosciences]() · place · Lucknow: A research institute with a museum of plant fossils, including fossils of seed plants without flowers.
-- [Government Botanical Garden, Ooty]() · place · Udhagamandalam (Ooty), Tamil Nadu: A botanical garden in the Nilgiri hills, where many plants grow in the open.
+- Birbal Sahni Institute of Palaeosciences · place · Lucknow: A research institute with a museum of plant fossils, including fossils of seed plants without flowers.
+- Government Botanical Garden, Ooty · place · Udhagamandalam (Ooty), Tamil Nadu: A botanical garden in the Nilgiri hills, where many plants grow in the open.
 
 ## Things to buy
 - [A hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking at fern spore dots and moss capsules. A phone camera zoomed in also works. Used in e3, a4. 
 - [Dry pine cones](https://www.amazon.in/s?k=natural+pine+cones) (material): For the Pine Cone Weather Test, if you can't collect them in a hill station. Craft shops sell them. Used in e2. 
 - [Dry sphagnum moss](https://www.amazon.in/s?k=sphagnum+moss) (material): For the Moss Sponge, if there is no moss near you. Nurseries sell it for orchids. Used in a5. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Fan Test: do spores or seeds travel farther?. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e1. Get it before The Fan Test: do spores or seeds travel farther?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Fan Test: do spores or seeds travel farther?, The Pine Cone Weather Test (if you have a pine cone). About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2. Get it before The Fan Test: do spores or seeds travel farther?.
+- [Cotton wool](https://www.amazon.in/s?k=cotton+wool+roll) (material): Used in A Seed That Flies and Still Carries Food. About ₹20 to ₹50. Torn clean cloth works. Used in c1. Get it before A Seed That Flies and Still Carries Food.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Fan Test: do spores or seeds travel farther?, Split a Dhania Seed: seed or fruit?, A Seed That Flies and Still Carries Food. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e1, a1, c1. Get it before The Fan Test: do spores or seeds travel farther?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in The Moss Sponge. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in a5. Get it before The Moss Sponge.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name a plant that makes spores. → A fern or a moss.
@@ -719,7 +725,7 @@ Spore, Cone and Flower (sci.plants.L5): Topic-level song for Plants L5
 ## Sources
 - ideas/by_topic/plants.md: the evolution timeline notes (fungi first on land, plants colonise land, plants take root, flowering plants), used for the timeline maths, the family tree activity and the open question on fungi
 - Cambridge Primary Science Learner's Book 5, Unit 1.1 'Flowering and non-flowering plants', for coverage only
-- Level 3 unit of this subtopic (tree, shrub, herb, climber, creeper; Theophrastus to de Jussieu), so this unit leads on from it without repeating
+- Level 3 unit of this subtopic (tree, shrub, herb, climber, creeper; Theophrastus to de Jussieu), so this lesson leads on from it without repeating
 - Christenhusz and Byng, Phytotaxa 2016, on the number of known plant species in the world
 - Noblin and others, Science 2012, 'The fern sporangium: a unique catapult'
 - Dawson, Vincent and Rocca, Nature 1997, 'How pine cones open'

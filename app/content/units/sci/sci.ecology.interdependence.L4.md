@@ -686,6 +686,11 @@ Everybody Eats (sci.ecology.L4): Topic-level song
 ## Things to buy
 - [A hand lens (magnifying glass) for looking closely at leaves and signs](https://www.amazon.in/s?k=hand+magnifying+glass+kids) (tool): To look closely at a mud tube, a gall, a leaf mine or a line of ants on a trail. Any small plastic or glass lens will do. Used in a1, a2, g1. 
 - [A pack of wooden ice-cream sticks or bamboo skewers](https://www.amazon.in/s?k=wooden+ice+cream+sticks) (material): To test how damp the soil is in the Blanket Test. Use a new stick for each reading, or wipe the stick dry. Used in e2. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Blanket Test: do dead leaves keep soil damp?. About ₹10 to ₹30. Any school ruler is fine. Used in e2. Get it before Blanket Test: do dead leaves keep soil damp?.
+- [Clean sand (a small bag)](https://www.amazon.in/s?k=play+sand+small+bag) (material): Used in Forest Floor Test: which plate keeps the rain?. About ₹20 to ₹60. Fine soil sieved from a pot works. Used in e1. Get it before Forest Floor Test: which plate keeps the rain?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Shared Pond: how much can we take?, Grow a Root Mat: do living roots hold soil?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a4, p1. Get it before The Shared Pond: how much can we take?.
+- [A measuring jug or syringe (marked in millilitres)](https://www.amazon.in/s?k=measuring+jug+500+ml) (tool): Used in Forest Floor Test: which plate keeps the rain?, Grow a Root Mat: do living roots hold soil?, Slow the Rain: stop a slope from washing away. About ₹30 to ₹100. A clean medicine cup or marked bottle works. Used in e1, p1, c1. Get it before Forest Floor Test: which plate keeps the rain?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is the layer of fallen leaves on the ground called? → Leaf litter.

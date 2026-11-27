@@ -1,9 +1,9 @@
 # Sun, Moon and stars: why the Sun is a star and the Moon is not
 `sci.sky.sun-moon-stars.L3`
 
-**Summary.** The Sun is a star, so why does it look huge while other stars look like tiny dots? In this unit you will test a near lamp and a far lamp, find out whether a Moon in your room makes its own light, and keep a five-night sky diary.
+**Summary.** The Sun is a star, so why does it look huge while other stars look like tiny dots? In this lesson you will test a near lamp and a far lamp, find out whether a Moon in your room makes its own light, and keep a five-night sky diary.
 
-**Intro.** *Hold up one finger at arm's length. You can hide the whole Moon behind it. But the Moon is about 3,500 kilometres wide, wider than India. How can a finger hide something so big?* Tonight, look up from a window, a balcony or the terrace. From a city you may see only a few dozen stars, because street lights brighten the sky. Some of them twinkle. One or two bright dots may shine steadily. In the daytime the Sun is the brightest light, so bright that you must never look at it. Here is the question for this unit. Is the Sun a different kind of thing from the stars? Or is it the same kind of thing, just much closer?
+**Intro.** *Hold up one finger at arm's length. You can hide the whole Moon behind it. But the Moon is about 3,500 kilometres wide, wider than India. How can a finger hide something so big?* Tonight, look up from a window, a balcony or the terrace. From a city you may see only a few dozen stars, because street lights brighten the sky. Some of them twinkle. One or two bright dots may shine steadily. In the daytime the Sun is the brightest light, so bright that you must never look at it. Here is the question for this lesson. Is the Sun a different kind of thing from the stars? Or is it the same kind of thing, just much closer?
 
 ## Learning outcomes
 0. I can say what a star, a planet and a moon are, and which of them make their own light.
@@ -427,7 +427,7 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
   - Ask: Is a cloud in our air or out in space? What about the Moon? (good: Clouds are in our air.; The Moon is out in space.)
 - **s3 (5 min)**  
   *Parent does:* Take the 'out in space' pile and sort it again into three piles. The piles are 'makes its own light', 'does not make its own light' and 'not sure'.  
-  *Parent says:* Now look at the space pile. Which of these make their own light? Which do not? Put the ones you're unsure about in a separate pile. We'll find out in this unit.  
+  *Parent says:* Now look at the space pile. Which of these make their own light? Which do not? Put the ones you're unsure about in a separate pile. We'll find out in this lesson.  
   *Child mode:* Look at the space pile. Which make their own light? Which do not? Not sure? Put it in a 'not sure' pile.
   - Ask: Before we test anything: do you think the Moon makes its own light? (good: Any honest answer is good: yes, no or not sure. You will test it in the Own Light or Reflected Light experiment.)
   - Think: The Sun shines in the day and the stars at night. Are they the same kind of thing, or different?
@@ -852,12 +852,18 @@ Star, Planet, Moon (sci.sky.L3): Topic-level song
 - [Nehru Planetarium, Nehru Centre](https://www.nehru-centre.org) · place · Mumbai: A planetarium in Worli with sky shows about the stars and planets.
 - [Jawaharlal Nehru Planetarium](https://www.taralaya.org) · place · Bengaluru: Sky shows, and on some evenings telescopes for looking at the Moon and the planets.
 - [Jantar Mantar](https://whc.unesco.org/en/list/1338) · place · Jaipur: Giant stone instruments built about 300 years ago by Maharaja Sawai Jai Singh II, to track the Sun, the Moon, the planets and the stars by eye. The huge sundial still tells the time.
-- [Hanle Dark Sky Reserve]() · place · Hanle, Ladakh: India's first dark-sky reserve, declared in 2022, near a big telescope. The villages keep their lights low, and on clear nights the Milky Way stretches across the whole sky.
-- [A terrace or a darker place near you]() · place · anywhere: From a city terrace, with no lamps shining in your eyes, you can see the Moon, the planets and the brightest stars. An hour's drive away from a city shows many more stars.
+- Hanle Dark Sky Reserve · place · Hanle, Ladakh: India's first dark-sky reserve, declared in 2022, near a big telescope. The villages keep their lights low, and on clear nights the Milky Way stretches across the whole sky.
+- A terrace or a darker place near you · place · anywhere: From a city terrace, with no lamps shining in your eyes, you can see the Moon, the planets and the brightest stars. An hour's drive away from a city shows many more stars.
 
 ## Things to buy
 - [Binoculars, 7x50 or 10x50 (optional)](https://www.amazon.in/s?k=10x50+binoculars) (tool): Optional. Shows craters on the Moon and the four big moons of Jupiter, even from a city. Never point them at the Sun. Used in a4. 
 - [Planisphere, a turning star wheel, for India's latitude](https://www.amazon.in/s?k=planisphere+star+wheel) (tool): Turn the wheel to the date and time, and it shows which star patterns are up tonight. Used in p1. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in The Pinhole Sun: see the Sun without looking at it, The Kitchen-Table Sun, Earth and Moon. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in e3, a2. Get it before The Pinhole Sun: see the Sun without looking at it.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Pinhole Sun: see the Sun without looking at it, The Kitchen-Table Sun, Earth and Moon, Build a Safe Sun Viewer. About ₹10 to ₹30. Any school ruler is fine. Used in e3, a2, c1. Get it before The Pinhole Sun: see the Sun without looking at it.
+- [A small hand mirror](https://www.amazon.in/s?k=small+hand+mirror) (material): Used in Own Light or Reflected Light? A Moon in your room. About ₹20 to ₹80. A shiny steel plate shows reflections too. Used in e2. Get it before Own Light or Reflected Light? A Moon in your room.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in The Shoebox Night Sky, Build a Safe Sun Viewer. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in p1, c1. Get it before The Shoebox Night Sky.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in The Kitchen-Table Sun, Earth and Moon. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in a2. Get it before The Kitchen-Table Sun, Earth and Moon.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Is the Sun a star or a planet? → A star, the nearest one to us.

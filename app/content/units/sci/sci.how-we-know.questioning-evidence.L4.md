@@ -1,7 +1,7 @@
 # Luck or cause: when two things happen together, what does it show?
 `sci.how-we-know.questioning-evidence.L4`
 
-**Summary.** Longer okra pods have more seeds, but does one cause the other? In this unit you will look for a hidden third thing in a table, toss a coin to see how often chance alone looks special, and play a card game that sorts cause from chance.
+**Summary.** Longer okra pods have more seeds, but does one cause the other? In this lesson you will look for a hidden third thing in a table, toss a coin to see how often chance alone looks special, and play a card game that sorts cause from chance.
 
 **Intro.** *On a Kerala beach, a doctor counted the people who came to her tent with sunburn each day. A gola seller counted the golas he sold. On the days he sold more golas, she saw more sunburn. A man in the crowd said, "Ban the golas!" Was he right?* The two counts really did rise and fall together. That was true. But the idea that golas burn skin may still be wrong. You may already know three questions to ask about any claim. Who says so? How do they know? Who is missing? This time you ask a harder question. When two things go together, what is really going on? You will use a coin, okra pods and some cups of squash to find out.
 
@@ -732,6 +732,9 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 - [A pack of small paper cups](https://www.amazon.in/s?k=small+paper+cups) (material): For the Fancy Label Cups taste test. A pack from any shop is enough. Used in a2. 
 - [A roll of kitchen aluminium foil](https://www.amazon.in/s?k=aluminium+foil+roll+kitchen) (material): To wrap the banana stalk ends in the Banana Test. Most kitchens already have one. Used in p1. 
 - [A graph paper notebook](https://www.amazon.in/s?k=graph+paper+notebook) (material): For the bar charts in the coin test and the Same Numbers, Two Charts activity. Used in e1, a3. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Lucky Coin: how often does chance alone look special?, Okra Pods: longer pods have more seeds. Which causes which?, Same Numbers, Two Charts: does the starting line fool us?. About ₹10 to ₹30. Any school ruler is fine. Used in e1, e2, a3, c1. Get it before The Lucky Coin: how often does chance alone look special?.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Okra Pods: longer pods have more seeds. Which causes which?. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Okra Pods: longer pods have more seeds. Which causes which?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is a correlation? → Two things that rise and fall together.
@@ -752,7 +755,7 @@ Who Else Is Standing There (sci.how-we-know.L4): Topic-level song
 ## Sources
 - The founder's Fringe Science concept grid for Grades 3 and 4 (belief should track evidence, not desire; blinding, replication and the limits of peer review), used for the blind test, placebo and sneaky-trick cards.
 - The founder's True and False card game, used for the idea that a claim can sound true and still need checking. Its set of claims was not reused.
-- The Class 3 unit on questioning the evidence, which this unit builds on: says who, how do they know, who is missing. This unit adds patterns, chance and fair comparisons.
+- The Class 3 unit on questioning the evidence, which this lesson builds on: says who, how do they know, who is missing. This lesson adds patterns, chance and fair comparisons.
 - John Snow, On the Mode of Communication of Cholera, second edition, 1855
 - Peverill Squire, 'Why the 1936 Literary Digest poll failed', Public Opinion Quarterly, 1988
 - A. Hrobjartsson and P. C. Gotzsche, 'Placebo interventions for all clinical conditions', Cochrane Database of Systematic Reviews, 2010

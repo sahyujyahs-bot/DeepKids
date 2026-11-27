@@ -1,9 +1,9 @@
 # Festivals and the mela: how India celebrates, and why turmeric turns red
 `sci.community.festivals.L3`
 
-**Summary.** Yellow turmeric turns red in some kitchen liquids. Why does aarathi water turn red? In this unit you will test kitchen liquids with turmeric, hunt through a calendar to see which festivals move date each year, and play a festival memory game.
+**Summary.** Yellow turmeric turns red in some kitchen liquids. Why does aarathi water turn red? In this lesson you will test kitchen liquids with turmeric, hunt through a calendar to see which festivals move date each year, and play a festival memory game.
 
-**Intro.** *Stir a pinch of turmeric into a little water. It is yellow. Now add a spoon of soapy water, and it turns red. Why does yellow turmeric turn red?* Turmeric is yellow in sambar and red in aarathi water, yet it is the same turmeric. In this unit you find out why, with a test of your own. You also picture a mela, meet the people who make it work, and see what it is built from. You learn the foods, clothes and customs of festivals from Kerala to Assam. You find out why Pongal comes on almost the same date every year, while Diwali and Eid move. And you learn what India's three national festivals remember.
+**Intro.** *Stir a pinch of turmeric into a little water. It is yellow. Now add a spoon of soapy water, and it turns red. Why does yellow turmeric turn red?* Turmeric is yellow in sambar and red in aarathi water, yet it is the same turmeric. In this lesson you find out why, with a test of your own. You also picture a mela, meet the people who make it work, and see what it is built from. You learn the foods, clothes and customs of festivals from Kerala to Assam. You find out why Pongal comes on almost the same date every year, while Diwali and Eid move. And you learn what India's three national festivals remember.
 
 ## Learning outcomes
 0. I can describe a mela: what the stalls and toys are made of, who works there, and what people do there.
@@ -637,7 +637,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - A yellow turmeric stain on a shirt turning red when it is scrubbed with soap.
 - Red aarathi water in a plate, held up to welcome someone home.
 - Rice-flour kolams at doorsteps in the morning, and ants at their edges by afternoon.
-- Kites over rooftops in Ahmedabad and Hyderabad at Sankranti.
+- Kites over rooftops at Sankranti.
 - A printed calendar on the kitchen wall with festival days marked in red.
 - Bamboo stalls and a giant wheel going up on an empty ground before a festival.
 - The flag hoisted on a housing society terrace on Independence Day.
@@ -692,6 +692,9 @@ Our Street, Our Mela (sci.community.L3): Topic-level song for Community and neig
 ## Things to buy
 - [A small packet of baking soda (cooking soda)](https://www.amazon.in/s?k=baking+soda) (material): Many kitchens have it. If yours does not, any grocery shop sells it cheaply. It is the base that turns turmeric red in the tests and the secret greeting. Soapy water works in its place for most steps. Used in e1, e2, c2. 
 - [A small tube or packet of lime paste (chuna or sunnambu)](https://www.amazon.in/s?k=chuna+lime+paste) (material): Only for making aarathi water with a grown-up. Paan shops sell it in small amounts. Baking soda can be used instead, for a lighter red. Used in a4. 
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in A Timeline of Our National Festivals. About ₹10 to ₹30. Any school ruler is fine. Used in a5. Get it before A Timeline of Our National Festivals.
+- [Wooden ice-cream sticks (a pack)](https://www.amazon.in/s?k=ice+cream+sticks+wooden+pack) (material): Used in Build a Mela Stall That Stands Up. About ₹20 to ₹50 for about 50. Pencils or small twigs can stand in. Used in c1. Get it before Build a Mela Stall That Stands Up.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What colour does turmeric turn in soapy water? → Red-brown.

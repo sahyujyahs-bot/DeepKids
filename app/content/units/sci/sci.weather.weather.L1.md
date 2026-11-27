@@ -1,9 +1,9 @@
 # Weather: sun, rain, wind and clouds, and what to wear
 `sci.weather.weather.L1`
 
-**Summary.** A thick sweater keeps you warm, but does it stop the wind? In this unit you will look for weather clues indoors, test sweaters and other clothes against a fan, play a game choosing what to wear, and use a torch to see why shadows are soft under a cloud.
+**Summary.** A thick sweater keeps you warm, but does it stop the wind? In this lesson you will look for weather clues indoors, test sweaters and other clothes against a fan, play a game choosing what to wear, and use a torch to see why shadows are soft under a cloud.
 
-**Intro.** *Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?* Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this unit we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.
+**Intro.** *Switch on the fan and hold your bare arm in front of it. It feels cold. Now touch a steel tumbler that has stood in front of the fan for five minutes. Is the tumbler cold too?* Guess first whether the steel tumbler in front of the fan is cold, and say why. Then touch it and find out. If the tumbler is not cold, why did your arm feel cold? In this lesson we find out what wind does to a warm body. We test which clothes keep the wind out. And we look at sunny, rainy, windy and cloudy days, and how people all over India dress for each one.
 
 ## Learning outcomes
 0. By the end I can name four kinds of weather: sunny, rainy, windy and cloudy.
@@ -402,7 +402,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 ## Spotted around us
 - Clothes flapping on a balcony line on a windy afternoon.
 - Shopkeepers hanging plastic sheets over their stalls when the monsoon comes.
-- Tea-pickers on the hills of Munnar or Darjeeling with plastic sheets over their heads and backs in the rain.
+- Tea-pickers on a hillside with plastic sheets over their heads and backs in the rain.
 - Grandparents wearing a monkey cap and a shawl on a cold winter morning walk.
 - A soft, pale shadow under a tree on a cloudy day.
 
@@ -440,9 +440,12 @@ Sun, Rain, Wind and Cloud (sci.weather.L1): Topic-level song for Weather and cli
 ## Links
 - [India Meteorological Department](https://mausam.imd.gov.in/) · interactive: For the parent: today's weather and warnings for your city, from India's own weather service.
 - [Windy.com wind map](https://www.windy.com/) · simulation: For the parent and child together: a moving map of the wind over India right now.
-- [Doddabetta Peak]() · place · Near Ooty, Tamil Nadu: The highest hilltop in the Nilgiris, often cool and windy. A good place to feel wind through a sweater.
+- Doddabetta Peak · place · Near Ooty, Tamil Nadu: The highest hilltop in the Nilgiris, often cool and windy. A good place to feel wind through a sweater.
 
 ## Things to buy
+- [Butter paper or tracing paper](https://www.amazon.in/s?k=butter+paper+roll) (material): Used in A Cloud for the Torch: why are shadows soft on a cloudy day?. About ₹30 to ₹80 for a roll. Thin clean plastic bag or a sheet of waxed paper. Used in a2. Get it before A Cloud for the Torch: why are shadows soft on a cloudy day?.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): Used in The Fan and the Sweater: which clothes stop the wind?. About ₹30 to ₹60. Newspaper cut into strips also works. Used in e1. Get it before The Fan and the Sweater: which clothes stop the wind?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - Name four kinds of weather. → Sunny, rainy, windy and cloudy.
@@ -460,7 +463,7 @@ Sun, Rain, Wind and Cloud (sci.weather.L1): Topic-level song for Weather and cli
 ## Sources
 - No by_topic file exists for weather. Used ideas/by_topic/caring-for-the-environment.md ('Keep a notebook of daily weather'), turned into the window doll project for Class 1.
 - ideas/by_topic/body-parts-and-skeleton.md art idea 'Draw you in three weathers', used as worksheet drawing items.
-- Ladder: Level 3 (sci.weather.weather.L3) measures weather with a thermometer, rain gauge and wind vane, with a sun-or-shade thermometer test. This unit does no measuring and repeats none of its experiments. It leads on to it by noticing the four weathers and what wind does.
+- Ladder: Level 3 (sci.weather.weather.L3) measures weather with a thermometer, rain gauge and wind vane, with a sun-or-shade thermometer test. This lesson does no measuring and repeats none of its experiments. It leads on to it by noticing the four weathers and what wind does.
 - Wind chill: moving air increases heat loss from a body warmer than the air (forced convection). It does not lower the air temperature, and a dry object at room temperature is not cooled below it. A fan adds a little heat to a room.
 - Paul Siple and Charles Passel, 'Measurements of dry atmospheric cooling in subfreezing temperatures', Proceedings of the American Philosophical Society 89 (1945). Water (about 250 g) in a plastic cylinder, timed to freeze in about 100 combinations of wind and temperature, at Little America III during the US Antarctic Service Expedition (1939 to 1941).
 - The 2001 Wind Chill Temperature index (Canada and the United States) was based on tests with volunteers' faces in a cold wind tunnel.

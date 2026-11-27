@@ -1,9 +1,9 @@
 # Balance as a team: how eyes, ears and feet keep you upright, and the senses other animals have
 `sci.senses.more-senses.L4`
 
-**Summary.** Stand on one foot with your eyes shut and you wobble much more, though your ears are the same. Why? In this unit you will take away one balance sense at a time, steady yourself with a fingertip lighter than a tomato, and find which sense was fooled.
+**Summary.** Stand on one foot with your eyes shut and you wobble much more, though your ears are the same. Why? In this lesson you will take away one balance sense at a time, steady yourself with a fingertip lighter than a tomato, and find which sense was fooled.
 
-**Intro.** *You sit in a train at the station. The train on the next track starts to move slowly. For a moment you feel your own train sliding backwards, though nothing under you has moved. Who fooled you: your eyes or your body?* Your eyes said you were moving. Your inner ears and the seat said you were still. For a second your brain believed your eyes, and then it checked the other signals and put things right. This shows that balance is a team of senses that can disagree. In this unit you take one member of the team away and see what happens. You test how your eyes stay steady when your head shakes. You find out how a fingertip can steady you, how the skin senses warmth and cold, why pain changes with attention, and how a fly keeps steady with two tiny clubs.
+**Intro.** *You sit in a train at the station. The train on the next track starts to move slowly. For a moment you feel your own train sliding backwards, though nothing under you has moved. Who fooled you: your eyes or your body?* Your eyes said you were moving. Your inner ears and the seat said you were still. For a second your brain believed your eyes, and then it checked the other signals and put things right. This shows that balance is a team of senses that can disagree. In this lesson you take one member of the team away and see what happens. You test how your eyes stay steady when your head shakes. You find out how a fingertip can steady you, how the skin senses warmth and cold, why pain changes with attention, and how a fly keeps steady with two tiny clubs.
 
 ## Learning outcomes
 0. I can name the three sources of information my brain uses for balance, and say what each one tells me.
@@ -870,6 +870,11 @@ The World Comes In (sci.senses.L4): Topic-level song
 ## Things to buy
 - [A digital kitchen scale that reads in grams](https://www.amazon.in/s?k=digital+kitchen+scale+1+gram) (tool): For A Fingertip Lighter than a Tomato. It shows how light a helpful touch can be. A small kitchen scale from a home store is enough. It costs about Rs 300 to 500, and the activity also gives a way to do it without one. Used in a2. 
 - [A kitchen thermometer that reads between 0 and 100 degrees](https://www.amazon.in/s?k=digital+kitchen+thermometer+probe) (tool): To check that the warm water in Warm Hand, Whole Hand, Matka Magic and Be a Pit Viper is never too hot. Most homes can also use the inside of the wrist. A digital fever thermometer from a medical shop (about Rs 100 to 200) also works, since it reads 32 to 42 degrees. Used in a3, a5, a6. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in The Balance Team: what happens when a helper is taken away?, Shake the Head or Shake the Page?, Ice in the Palm: does thinking about something else change the ache?. About ₹150 to ₹400. A phone stopwatch works well. Used in e1, e2, e3, a2, a3, a4, p1. Get it before The Balance Team: what happens when a helper is taken away?.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in Family Balance Lab: three days, eight people. About ₹10 to ₹30. Any school ruler is fine. Used in p1. Get it before Family Balance Lab: three days, eight people.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in Shake the Head or Shake the Page?. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in e2. Get it before Shake the Head or Shake the Page?.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Night Path for Paati: help a grandparent walk safely in the dark. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in c1. Get it before Night Path for Paati: help a grandparent walk safely in the dark.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What three sources of information does your brain mix for balance? → Your eyes, your inner ears, and the sensors in your feet and muscles.
@@ -890,7 +895,7 @@ The World Comes In (sci.senses.L4): Topic-level song
 
 ## Sources
 - Founder's notes in ideas/by_topic/senses.md: the Reality grade grid (perception builds experience; what we do not see can still exist) and the SCI Card for Obaid Siddiqi (fruit flies and the genetics of sensing). Used for the big question on what a fly can teach us about a child, and for the deep truth.
-- Combined lessons sci-C3-senses and sci-C1-senses: the subconcepts on balance, body position, inner senses and the senses of other animals, checked so that this unit covers them and goes deeper.
+- Combined lessons sci-C3-senses and sci-C1-senses: the subconcepts on balance, body position, inner senses and the senses of other animals, checked so that this lesson covers them and goes deeper.
 - Neighbouring units read so nothing repeats: sci.senses.more-senses.L3 (Ice Race, Find the Dot, Dizzy Timer, Spin and Stop, Floating Arm, Cool Breath, Cold Spot Map, the prawn story, the Vellore story), and sci.senses.five-senses.L3 and L4 (signal speed, thresholds, tired receptors, the body map, prediction, the rubber hand, magnetic and electric senses).
 - Pierre Flourens, Recherches experimentales sur les proprietes et les fonctions du systeme nerveux, 1824 (cutting the canals of pigeons)
 - Robert Barany, work on the caloric test and nystagmus, about 1906, and the 1914 Nobel Prize in Physiology or Medicine for work on the vestibular apparatus

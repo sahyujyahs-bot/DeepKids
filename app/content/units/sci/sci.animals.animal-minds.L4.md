@@ -1,9 +1,9 @@
 # Can animals count, wait and plan?
 `sci.animals.animal-minds.L4`
 
-**Summary.** Can a chick, a bee or a crow tell which pile is bigger, or wait for a better reward? In this unit you will flash dots to find where your own quick counting stops, compare piles of different sizes, and play a game about waiting for more seeds.
+**Summary.** Can a chick, a bee or a crow tell which pile is bigger, or wait for a better reward? In this lesson you will flash dots to find where your own quick counting stops, compare piles of different sizes, and play a game about waiting for more seeds.
 
-**Intro.** *I will show a card for one second. It has three dots. How many did you see? Now a card with nine dots. How many now? Which answer came without counting?* Most people know three at once, and do not need to count. With nine dots, you start to guess. Bees, chicks, fish and crows seem to have the same sort of quick feeling for 'how many'. They have no number words at all. In this unit you will find out how far your own quick feeling goes. Then you will see how scientists test the same thing in animals who cannot answer us.
+**Intro.** *I will show a card for one second. It has three dots. How many did you see? Now a card with nine dots. How many now? Which answer came without counting?* Most people know three at once, and do not need to count. With nine dots, you start to guess. Bees, chicks, fish and crows seem to have the same sort of quick feeling for 'how many'. They have no number words at all. In this lesson you will find out how far your own quick feeling goes. Then you will see how scientists test the same thing in animals who cannot answer us.
 
 ## Learning outcomes
 0. I can explain what number sense is, and give true examples from chicks, fish, bees and a parrot.
@@ -102,7 +102,7 @@ People in some communities, such as the Pirahã in Brazil, use very few number w
 ### Too much or too little: reading animal minds fairly · *defined*
 **Definition:** Reading an animal's mind fairly means asking two questions: have I given the animal thoughts the evidence does not show, and have I denied thoughts the evidence does show?
 
-In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. It guards against the mistake of seeing a mind that the evidence does not show. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence does show. Both mistakes are easy to make. The fair way is to run controls, repeat the test, use a helper who does not know the answer (a blind helper), and then follow the evidence. In this unit, each result is labelled by what the test really showed.
+In 1894, C. Lloyd Morgan wrote that we should not explain an animal's act as a high mental skill if a simpler skill explains it. That rule is called Morgan's canon. It guards against the mistake of seeing a mind that the evidence does not show. In 1999, the primatologist Frans de Waal added a warning. He named the opposite mistake anthropodenial, which means refusing to see a mind that the evidence does show. Both mistakes are easy to make. The fair way is to run controls, repeat the test, use a helper who does not know the answer (a blind helper), and then follow the evidence. In this lesson, each result is labelled by what the test really showed.
 - e.g. A dog may be following her owner's eyes and not her words, so the test hides the owner's eyes.
 - e.g. A scientist asks a helper who does not know the answer to run the trial.
 - e.g. A crow seems to use a trick to find food, so scientists test her again with the food hidden from sight.
@@ -687,7 +687,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [Cataglyphis, the desert ants (Wikipedia)](https://en.wikipedia.org/wiki/Cataglyphis) · interactive: For the parent: how desert ants find their way home across hot sand.
 - [Stanford marshmallow experiment (Wikipedia)](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) · interactive: For the parent: the original waiting tests, and the later studies that questioned them.
 - [Bombay Natural History Society](https://www.bnhs.org/) · place · Mumbai: India's oldest nature society. It runs nature walks and talks on animal behaviour.
-- [Science City]() · place · Kolkata: A large science centre with galleries on life and the mind. Check what is on before you go.
+- Science City · place · Kolkata: A large science centre with galleries on life and the mind. Check what is on before you go.
 
 ## Things to buy
 - [Thick white paper or plain index cards](https://www.amazon.in/s?k=plain+white+index+cards) (material): For the dot cards in Dot Flash. Thick paper cut from a chart sheet, an old notebook cover or a cereal box (white side) works too. Used in e1. 
@@ -696,6 +696,9 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - [Raisins or another small treat](https://www.amazon.in/s?k=raisins) (material): For the Waiting Test. Use a treat your child loves. Used in e3. 
 - [Colourful ribbon or string](https://www.amazon.in/s?k=colourful+ribbon+string) (material): For the String Puzzle. Any two strings in different colours work. Used in a1. 
 - [Masking tape](https://www.amazon.in/s?k=masking+tape) (tool): For the start and far lines in Stilt Steps. Chalk also works on a terrace. Used in a2. 
+- [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): Used in Stilt Steps: be a desert ant. About ₹30 to ₹100. A string marked every 10 centimetres against a ruler works. Used in a2. Get it before Stilt Steps: be a desert ant.
+- [Whole seeds for sprouting (moong, chana or beans)](https://www.amazon.in/s?k=whole+moong+dal) (material): Used in Which Pile Is Bigger? The ratio test. Less than ₹20. Use whole seeds from the grocery shop, never split dal. Used in e2. Get it before Which Pile Is Bigger? The ratio test.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - What is number sense? → A quick feeling for how many, without counting or number words.
@@ -713,7 +716,7 @@ Fast Lives, Slow Lives (sci.animals.L4): Topic-level song
 - Core: e1, e2, g1, a2, ws-core
 
 ## Sources
-- ideas/by_topic/thinking-and-memory.md: the grade concept grid (the debated question 'do animals think like us?', the mirror test animals, octopuses solving puzzles, collective intelligence in flocks and hives), and the note that thought is older than neurons, used to frame this unit
+- ideas/by_topic/thinking-and-memory.md: the grade concept grid (the debated question 'do animals think like us?', the mirror test animals, octopuses solving puzzles, collective intelligence in flocks and hives), and the note that thought is older than neurons, used to frame this lesson
 - ideas/by_topic/the-world-of-birds.md and the notebook items on animal memory and problem solving (bio:103, bio:104), for the crows and other clever birds
 - ideas/scientists.json: the SCI Card approach to deep truths, used for the roots card
 - combined/sci-C3-thinking-and-memory.json and combined/sci-C5-thinking-and-memory.json: the clever animals material, reworked here into a Class 4 unit about number, waiting and planning, with none of the Level 3 experiments repeated

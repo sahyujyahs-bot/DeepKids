@@ -1,9 +1,9 @@
 # Day and night: why the Sun reaches Guwahati before Mumbai
 `sci.day-night-seasons.day-and-night.L4`
 
-**Summary.** The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this unit you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.
+**Summary.** The Sun reaches Guwahati long before Mumbai, yet both clocks say the same time. How? In this lesson you will compare noon in five cities, spin an orange Earth to see how fast places move, and work out how long a day lasts on other planets.
 
-**Intro.** *Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?* The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this unit you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.
+**Intro.** *Open a weather app and look at today's sunrise in Guwahati and in Mumbai. Both times are on the same clock, the clock of one country. Yet they are about an hour apart. Did the Sun visit Guwahati first?* The Sun did not visit anyone. The Earth is turning, and the Sun's light reaches each place in its turn. In this lesson you collect real sunrise and sunset times from five cities and find the pattern in them. You measure how fast the spin carries different places, using an orange. You make a model of why a day is a little longer than one spin. You also find out how the length of a day changes on other planets and over millions of years, and who is awake while we sleep.
 
 ## Learning outcomes
 0. I can explain why the Sun is highest about 4 minutes later for every degree of longitude we go west, and use this to compare two places.
@@ -789,7 +789,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 - Look at the bar chart of the circle lengths measured on an orange. How many times longer is the equator circle than the 60 degree circle? **2 times longer.**. The equator bar is 26 and the 60 degree bar is 13. 26 divided by 13 is 2. So the equator circle is twice as long. (queues `math.data.bar-charts.L4`)
 
 ## Song
-Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, night and seasons L4. The Day and night unit shares it with the other units of the topic.
+Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, night and seasons L4. The Day and night unit shares it with the other units of the idea.
 
 ## Links
 - [Sunrise and sunset times for any city, timeanddate.com](https://www.timeanddate.com/sun/) · interactive: Look up sunrise and sunset for any city in the world, for the Five Noons test.
@@ -798,12 +798,17 @@ Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, nig
 - [Indian Standard Time (Wikipedia)](https://en.wikipedia.org/wiki/Indian_Standard_Time) · interactive: For the parent: how Indian Standard Time was set, and the debate about more than one time zone.
 - [DarkSky International](https://darksky.org/) · interactive: For the parent: how light pollution harms wildlife and the night sky, and how to choose better lights.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in/) · place · Mumbai: A science centre with hands-on exhibits about the Earth and space. Check the opening times before you go.
-- [B. M. Birla Planetarium]() · place · Chennai: A planetarium dome where you can watch the sky turn above you in a few minutes. Check the show times before you go.
+- B. M. Birla Planetarium · place · Chennai: A planetarium dome where you can watch the sky turn above you in a few minutes. Check the show times before you go.
 
 ## Things to buy
 - [A small globe](https://www.amazon.in/s?k=world+globe+for+kids) (tool): Optional. A globe shows the longitudes and latitudes of real places. An orange works for the experiments, but a globe is good for the card game. Used in g1, e2. 
 - [Red cellophane or a red gel sheet](https://www.amazon.in/s?k=red+cellophane+sheet) (material): For the red torch in the Night Watch and the lamp challenge. Red cellophane from a stationery or gift-wrap shop costs a few rupees. A red sweet wrapper, red polythene or a thick red cloth over a torch also works, but use two layers if the light still looks white. Used in a2, c2. 
 - [A small pair of binoculars](https://www.amazon.in/s?k=binoculars+for+kids) (tool): Optional. For the Star Gate project and the star count. Stars are easy to see without them, but binoculars show many more. Used in p1, a3. 
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch) (tool): Used in A Day on Each Planet: one second for every hour. About ₹150 to ₹400. A phone stopwatch works well. Used in a4. Get it before A Day on Each Planet: one second for every hour.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+ruler) (tool): Used in The Orange Earth: does every place on Earth move at the same speed?. About ₹10 to ₹30. Any school ruler is fine. Used in e1. Get it before The Orange Earth: does every place on Earth move at the same speed?.
+- [Sticky notes](https://www.amazon.in/s?k=sticky+notes+pack) (material): Used in The Extra Turn: why a day is a little longer than one spin. About ₹20 to ₹60. Small torn paper and tape do the same job. Used in a1. Get it before The Extra Turn: why a day is a little longer than one spin.
+- [Chart paper or card (a few sheets)](https://www.amazon.in/s?k=chart+paper+sheets) (material): Used in Count the Stars: how much of the sky does a city hide?. About ₹10 to ₹25 a sheet. Cut open an old cardboard box. Used in a3. Get it before Count the Stars: how much of the sky does a city hide?.
+- [Printed pages for the game cards and the worksheets]() (material): The game pieces and the worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session.
 
 ## Warm-up
 - How many minutes does the Earth take to turn 1 degree? → 4 minutes.
@@ -823,7 +828,7 @@ Turning Into the Light (sci.day-night-seasons.L4): Topic-level song for Day, nig
 ## Sources
 - Founder's notes in ideas/by_topic/day-night-seasons-and-rhythms-of-nature.md: the ideas of keeping a record over time, photographing the same view, tracking the Sun and stars, and the science journal pages 'Time Tracker - India, Countries' (journal pages 119 and 120), used in the Five Noons test and the Star Gate project
 - The Combined Class 4 lesson sci-C4-day-night-seasons-and-rhythms-of-nature, reworked here: the speed of the spin, days on other planets, the lengthening day and fossil corals, the night watch and light pollution
-- The Class 3 unit on Day and night, which this unit builds on: the idea that night is the half of the Earth turned away from the Sun, now extended to numbers, longitude and the clock
+- The Class 3 unit on Day and night, which this lesson builds on: the idea that night is the half of the Earth turned away from the Sun, now extended to numbers, longitude and the clock
 - Cambridge Stage 4 section 5.5 'Day and night', for coverage only. Its text is not copied
 - Newton, I., Philosophiae Naturalis Principia Mathematica, 1687 (a spinning Earth bulges at the equator)
 - Richer, J., Observations astronomiques et physiques faites en l'isle de Caienne, 1679 (the pendulum clock that ran slow near the equator)
