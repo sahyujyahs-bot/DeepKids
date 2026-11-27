@@ -64,7 +64,7 @@ dry=dr*.9+pad+me+ch
 ir_n=int(2.6*sr);ir=rng.standard_normal(ir_n)*np.exp(-np.arange(ir_n)/sr/.7);ir[:int(.012*sr)]=0
 wet=fftconvolve(dry,ir/np.sqrt((ir**2).sum()),mode='full')[:N]
 mix=dry*.7+wet*.55
-fade=np.minimum(1,np.minimum(t/2.0,(T-t)/3.0))
+fade=np.minimum(1,np.minimum(np.maximum(t-1.5,0)/6.0,(T-t)/3.0))
 mix*=fade
 mix=mix/np.max(np.abs(mix))*.7
 wavfile.write('music.wav',sr,(mix*32767).astype(np.int16))
